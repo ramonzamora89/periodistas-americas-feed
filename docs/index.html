@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ataques a Periodistas en las Américas</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Ataques a Periodistas en las Américas<br><span class="subtitle">Attacks on Journalists in the Americas</span></h1>
+  <p class="updated" id="last-updated">Cargando...</p>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="search" id="search" placeholder="Buscar / Search…" aria-label="Buscar">
+    <div class="lang-filter" role="radiogroup" aria-label="Idioma">
+      <button type="button" class="lang-btn active" data-lang="all">Todos</button>
+      <button type="button" class="lang-btn" data-lang="es">ES</button>
+      <button type="button" class="lang-btn" data-lang="en">EN</button>
+    </div>
+  </div>
+
+  <p id="result-count" class="result-count"></p>
+  <div id="feed-list"></div>
+  <p id="empty-state" class="empty-state" hidden>Sin resultados.</p>
+</main>
+
+<footer>
+  <p>
+    Fuentes: CPJ, RSF, Artículo 19, Red Centroamericana de Periodistas, Red Rompe el Miedo Guatemala, C-Libre Honduras, y Google Alerts.
+  </p>
+  <p>
+    <strong>NoNosCallarán</strong> no publica RSS — revisar manualmente en
+    <a href="https://x.com/NoNosCallaranGT" target="_blank" rel="noopener">@NoNosCallaranGT</a>.
+  </p>
+  <p><a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Código fuente en GitHub</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

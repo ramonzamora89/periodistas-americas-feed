@@ -1,0 +1,117 @@
+{
+ "last_run": "2026-07-18T21:25:16.097645+00:00",
+ "sources": [
+  {
+   "id": "cpj_americas_en",
+   "name": "CPJ – Americas",
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
+  },
+  {
+   "id": "cpj_americas_es",
+   "name": "CPJ – Américas",
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
+  },
+  {
+   "id": "rsf_mexico",
+   "name": "RSF – México",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_colombia",
+   "name": "RSF – Colombia",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_brazil",
+   "name": "RSF – Brasil",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_venezuela",
+   "name": "RSF – Venezuela",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_cuba",
+   "name": "RSF – Cuba",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_honduras",
+   "name": "RSF – Honduras",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_guatemala",
+   "name": "RSF – Guatemala",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_nicaragua",
+   "name": "RSF – Nicaragua",
+   "ok": true,
+   "items_fetched": 38,
+   "error": null
+  },
+  {
+   "id": "rsf_ecuador",
+   "name": "RSF – Ecuador",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "rsf_haiti",
+   "name": "RSF – Haití",
+   "ok": true,
+   "items_fetched": 50,
+   "error": null
+  },
+  {
+   "id": "articulo19",
+   "name": "Artículo 19 (México y Centroamérica)",
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
+  },
+  {
+   "id": "red_centroamericana",
+   "name": "Red Centroamericana de Periodistas",
+   "ok": true,
+   "items_fetched": 6,
+   "error": null
+  },
+  {
+   "id": "rompe_el_miedo_gt",
+   "name": "Red Rompe el Miedo Guatemala",
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
+  },
+  {
+   "id": "clibre_honduras",
+   "name": "C-Libre Honduras",
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+# Fuentes RSS/Atom para el feed de ataques a periodistas en las Américas.
+#
+# priority: usado para desempatar duplicados detectados entre fuentes distintas
+#   que cubren el mismo caso. Gana (queda como registro principal) la fuente
+#   con el número más bajo. 1 = CPJ, 2 = RSF, 3 = orgs regionales, 4 = Google Alerts.
+#
+# active: false deja la fuente definida pero fuera del fetch. Útil para expandir
+#   cobertura sin borrar/reescribir entradas.
+
+sources:
+  # --- CPJ (priority 1) ---
+  - id: cpj_americas_en
+    name: "CPJ – Americas"
+    url: "https://cpj.org/americas/feed/atom/"
+    language: en
+    country: null
+    priority: 1
+    active: true
+
+  - id: cpj_americas_es
+    name: "CPJ – Américas"
+    url: "https://cpj.org/es/americas-es/feed/atom/"
+    language: es
+    country: null
+    priority: 1
+    active: true
+
+  - id: cpj_global_en
+    name: "CPJ – Global (todas las regiones)"
+    url: "https://cpj.org/feed/atom/"
+    language: en
+    country: null
+    priority: 1
+    active: false
+
+  - id: cpj_global_es
+    name: "CPJ – Global (todas las regiones)"
+    url: "https://cpj.org/es/feed/atom/"
+    language: es
+    country: null
+    priority: 1
+    active: false
+
+  # --- RSF, por país (priority 2) ---
+  - id: rsf_mexico
+    name: "RSF – México"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/mexico/feed.xml"
+    language: en
+    country: "Mexico"
+    priority: 2
+    active: true
+  - id: rsf_colombia
+    name: "RSF – Colombia"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/colombia/feed.xml"
+    language: en
+    country: "Colombia"
+    priority: 2
+    active: true
+  - id: rsf_brazil
+    name: "RSF – Brasil"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/brazil/feed.xml"
+    language: en
+    country: "Brazil"
+    priority: 2
+    active: true
+  - id: rsf_venezuela
+    name: "RSF – Venezuela"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/venezuela/feed.xml"
+    language: en
+    country: "Venezuela"
+    priority: 2
+    active: true
+  - id: rsf_cuba
+    name: "RSF – Cuba"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/cuba/feed.xml"
+    language: en
+    country: "Cuba"
+    priority: 2
+    active: true
+  - id: rsf_honduras
+    name: "RSF – Honduras"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/honduras/feed.xml"
+    language: en
+    country: "Honduras"
+    priority: 2
+    active: true
+  - id: rsf_guatemala
+    name: "RSF – Guatemala"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/guatemala/feed.xml"
+    language: en
+    country: "Guatemala"
+    priority: 2
+    active: true
+  - id: rsf_nicaragua
+    name: "RSF – Nicaragua"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/nicaragua/feed.xml"
+    language: en
+    country: "Nicaragua"
+    priority: 2
+    active: true
+  - id: rsf_ecuador
+    name: "RSF – Ecuador"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/ecuador/feed.xml"
+    language: en
+    country: "Ecuador"
+    priority: 2
+    active: true
+  - id: rsf_haiti
+    name: "RSF – Haití"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/haiti/feed.xml"
+    language: en
+    country: "Haiti"
+    priority: 2
+    active: true
+
+  # --- RSF, países adicionales (inactivos por defecto, expansión futura) ---
+  - id: rsf_argentina
+    name: "RSF – Argentina"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/argentina/feed.xml"
+    language: en
+    country: "Argentina"
+    priority: 2
+    active: false
+  - id: rsf_chile
+    name: "RSF – Chile"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/chile/feed.xml"
+    language: en
+    country: "Chile"
+    priority: 2
+    active: false
+  - id: rsf_peru
+    name: "RSF – Perú"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/peru/feed.xml"
+    language: en
+    country: "Peru"
+    priority: 2
+    active: false
+  - id: rsf_bolivia
+    name: "RSF – Bolivia"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/bolivia/feed.xml"
+    language: en
+    country: "Bolivia"
+    priority: 2
+    active: false
+  - id: rsf_paraguay
+    name: "RSF – Paraguay"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/paraguay/feed.xml"
+    language: en
+    country: "Paraguay"
+    priority: 2
+    active: false
+  - id: rsf_uruguay
+    name: "RSF – Uruguay"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/uruguay/feed.xml"
+    language: en
+    country: "Uruguay"
+    priority: 2
+    active: false
+  - id: rsf_el_salvador
+    name: "RSF – El Salvador"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/el-salvador/feed.xml"
+    language: en
+    country: "El Salvador"
+    priority: 2
+    active: false
+  - id: rsf_panama
+    name: "RSF – Panamá"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/panama/feed.xml"
+    language: en
+    country: "Panama"
+    priority: 2
+    active: false
+  - id: rsf_costa_rica
+    name: "RSF – Costa Rica"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/costa-rica/feed.xml"
+    language: en
+    country: "Costa Rica"
+    priority: 2
+    active: false
+  - id: rsf_dominican_republic
+    name: "RSF – República Dominicana"
+    url: "https://rsf.org/en/rss/am%C3%A9riques/dominican-republic/feed.xml"
+    language: en
+    country: "Dominican Republic"
+    priority: 2
+    active: false
+
+  # --- Organizaciones regionales / locales (priority 3) ---
+  - id: articulo19
+    name: "Artículo 19 (México y Centroamérica)"
+    url: "https://articulo19.org/feed/"
+    language: es
+    country: null
+    priority: 3
+    active: true
+  - id: red_centroamericana
+    name: "Red Centroamericana de Periodistas"
+    url: "https://periodistascentroamericanos.org/feed/"
+    language: es
+    country: null
+    priority: 3
+    active: true
+  - id: rompe_el_miedo_gt
+    name: "Red Rompe el Miedo Guatemala"
+    url: "https://redrompeelmiedoguatemala.org/feed/"
+    language: es
+    country: "Guatemala"
+    priority: 3
+    active: true
+  - id: clibre_honduras
+    name: "C-Libre Honduras"
+    url: "https://clibrehonduras.com/feed/"
+    language: es
+    country: "Honduras"
+    priority: 3
+    active: true
+
+  # --- Google Alerts (priority 4) ---
+  # RSS URLs pendientes: crear las alertas en google.com/alerts (ver README para
+  # la lista de queries recomendadas), abrir "My alerts", copiar la URL del ícono
+  # RSS de cada una, pegarla abajo y poner active: true.
+  #
+  # - id: alert_en_killed
+  #   name: "Google Alert: journalist killed/murdered (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_attacked
+  #   name: "Google Alert: journalist attacked/assaulted (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_threatened
+  #   name: "Google Alert: journalist threatened/harassed (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_detained
+  #   name: "Google Alert: journalist detained/arrested (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_kidnapped
+  #   name: "Google Alert: journalist kidnapped (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_press_freedom
+  #   name: "Google Alert: press freedom attack (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_censorship
+  #   name: "Google Alert: journalist censored / media censorship (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_legal
+  #   name: "Google Alert: journalist legal harassment / SLAPP (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_exile
+  #   name: "Google Alert: journalist exiled (EN)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_en_murdered
+  #   name: "Google Alert: journalist/reporter killed (EN, variante)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: en
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_asesinado
+  #   name: "Google Alert: periodista asesinado/a (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_amenazado
+  #   name: "Google Alert: periodista amenazado/a (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_agredido
+  #   name: "Google Alert: periodista agredido/atacado (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_detenido
+  #   name: "Google Alert: periodista detenido/a (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_secuestrado
+  #   name: "Google Alert: periodista secuestrado/a (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_desaparecido
+  #   name: "Google Alert: periodista desaparecido (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_censura
+  #   name: "Google Alert: censura a periodistas (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_demanda
+  #   name: "Google Alert: demanda/persecución legal contra periodista (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_exilio
+  #   name: "Google Alert: periodista exiliado (ES)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false
+  # - id: alert_es_reportero
+  #   name: "Google Alert: reportero/a agredido/a (ES, variante)"
+  #   url: "PASTE_RSS_URL_HERE"
+  #   language: es
+  #   country: null
+  #   priority: 4
+  #   active: false

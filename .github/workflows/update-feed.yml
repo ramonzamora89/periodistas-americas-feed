@@ -1,0 +1,43 @@
+name: Update feed
+
+on:
+  schedule:
+    # 09:17 y 21:17 UTC — evita el minuto 0 (hotspot de encolamiento de GitHub).
+    # GitHub pausa los workflows programados tras 60 días sin commits en el repo;
+    # si el feed se ve desactualizado tras una pausa larga, disparar manualmente
+    # con `gh workflow run update-feed.yml` reactiva el schedule.
+    - cron: "17 9,21 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - ".github/workflows/update-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r scripts/requirements.txt
+
+      - run: python scripts/fetch_feeds.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update feed data"
+          file_pattern: docs/data/*.json
