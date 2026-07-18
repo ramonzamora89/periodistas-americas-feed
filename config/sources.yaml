@@ -216,147 +216,143 @@ sources:
     active: true
 
   # --- Google Alerts (priority 4) ---
-  # RSS URLs pendientes: crear las alertas en google.com/alerts (ver README para
-  # la lista de queries recomendadas), abrir "My alerts", copiar la URL del ícono
-  # RSS de cada una, pegarla abajo y poner active: true.
-  #
-  # - id: alert_en_killed
-  #   name: "Google Alert: journalist killed/murdered (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_attacked
-  #   name: "Google Alert: journalist attacked/assaulted (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_threatened
-  #   name: "Google Alert: journalist threatened/harassed (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_detained
-  #   name: "Google Alert: journalist detained/arrested (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_kidnapped
-  #   name: "Google Alert: journalist kidnapped (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_press_freedom
-  #   name: "Google Alert: press freedom attack (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_censorship
-  #   name: "Google Alert: journalist censored / media censorship (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_legal
-  #   name: "Google Alert: journalist legal harassment / SLAPP (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_exile
-  #   name: "Google Alert: journalist exiled (EN)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_en_murdered
-  #   name: "Google Alert: journalist/reporter killed (EN, variante)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: en
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_asesinado
-  #   name: "Google Alert: periodista asesinado/a (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_amenazado
-  #   name: "Google Alert: periodista amenazado/a (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_agredido
-  #   name: "Google Alert: periodista agredido/atacado (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_detenido
-  #   name: "Google Alert: periodista detenido/a (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_secuestrado
-  #   name: "Google Alert: periodista secuestrado/a (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_desaparecido
-  #   name: "Google Alert: periodista desaparecido (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_censura
-  #   name: "Google Alert: censura a periodistas (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_demanda
-  #   name: "Google Alert: demanda/persecución legal contra periodista (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_exilio
-  #   name: "Google Alert: periodista exiliado (ES)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
-  # - id: alert_es_reportero
-  #   name: "Google Alert: reportero/a agredido/a (ES, variante)"
-  #   url: "PASTE_RSS_URL_HERE"
-  #   language: es
-  #   country: null
-  #   priority: 4
-  #   active: false
+  - id: alert_en_killed
+    name: "Google Alert: journalist killed (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/9315693928590582173"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_murdered
+    name: "Google Alert: journalist murdered / reporter killed (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/15203133281863904398"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_attacked
+    name: "Google Alert: journalist attacked/assaulted (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/4686138160057836454"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_threatened
+    name: "Google Alert: journalist threatened/harassed (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/2867420969757146077"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_detained
+    name: "Google Alert: journalist detained/arrested (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/870189085581366080"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_kidnapped
+    name: "Google Alert: journalist kidnapped (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/2290331160524041914"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_press_freedom
+    name: "Google Alert: press freedom attack (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/14424356148818303841"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_censorship
+    name: "Google Alert: journalist censored / media censorship (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/1765238766770510466"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_legal
+    name: "Google Alert: journalist legal harassment / SLAPP (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/13774766703231449239"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_en_exile
+    name: "Google Alert: journalist exiled (EN)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/15970657666836431294"
+    language: en
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_asesinado
+    name: "Google Alert: periodista asesinado/a (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/12632703663025456270"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_amenazado
+    name: "Google Alert: periodista amenazado/a (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/12021997866808574593"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_agredido
+    name: "Google Alert: periodista agredido/atacado (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/12021997866808574629"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_detenido
+    name: "Google Alert: periodista detenido/a (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/12021997866808576244"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_secuestrado
+    name: "Google Alert: periodista secuestrado/a (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/13616095971140370020"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_desaparecido
+    name: "Google Alert: periodista desaparecido (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/5776821547983989997"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_censura
+    name: "Google Alert: censura a periodistas (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/1488486543951900787"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_demanda
+    name: "Google Alert: demanda/persecución legal contra periodista (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/1488486543951902922"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_exilio
+    name: "Google Alert: periodista exiliado (ES)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/10304302552799625278"
+    language: es
+    country: null
+    priority: 4
+    active: true
+  - id: alert_es_reportero
+    name: "Google Alert: reportero/a agredido/a (ES, variante)"
+    url: "https://www.google.com/alerts/feeds/02052304573630216229/10304302552799625369"
+    language: es
+    country: null
+    priority: 4
+    active: true

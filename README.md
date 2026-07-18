@@ -1,6 +1,6 @@
 # Ataques a Periodistas en las Américas
 
-Feed agregado, en español e inglés, de ataques contra periodistas en toda la región de las Américas. Combina fuentes RSS de organizaciones de libertad de prensa y (opcionalmente) Google Alerts, y publica una sola página estática vía GitHub Pages que se actualiza sola con GitHub Actions.
+Feed agregado, en español e inglés, de ataques contra periodistas en toda la región de las Américas. Combina fuentes RSS de organizaciones de libertad de prensa y 20 Google Alerts, y publica una sola página estática vía GitHub Pages que se actualiza sola con GitHub Actions.
 
 Sitio: `https://<usuario>.github.io/<repo>/` (se llena tras el primer deploy).
 
@@ -15,9 +15,9 @@ Sitio: `https://<usuario>.github.io/<repo>/` (se llena tras el primer deploy).
 
 Agregar una entrada en `config/sources.yaml` con `active: true`. Campos: `id`, `name`, `url` (RSS/Atom), `language` (`en`/`es`), `country` (o `null` si es regional), `priority` (1=más autorizada, para desempatar duplicados — 1=CPJ, 2=RSF, 3=orgs regionales, 4=Google Alerts).
 
-## Pendiente: crear las Google Alerts
+## Google Alerts
 
-Las siguientes ~20 búsquedas están pensadas para crearse en [google.com/alerts](https://www.google.com/alerts), cada una configurada con **Sources: Automatic**, **How many: All results**, **Frequency: At most once a day**, **Deliver to: RSS feed**.
+Las 20 alertas (10 en inglés, 10 en español) ya están creadas en la cuenta de Google del usuario y activas en `config/sources.yaml` (prioridad 4, `alert_en_*` / `alert_es_*`), configuradas con **Sources: Automatic**, **How many: All results**, **Deliver to: RSS feed**:
 
 **Inglés:**
 1. `"journalist killed" Latin America`
@@ -43,7 +43,7 @@ Las siguientes ~20 búsquedas están pensadas para crearse en [google.com/alerts
 9. `"periodista exiliado" OR periodista exilio`
 10. `"reportero agredido" OR "reportera agredida"`
 
-Después de crear cada alerta, la URL del feed RSS **no aparece en la pantalla de creación** — hay que ir a "My alerts", y hacer clic en el ícono RSS junto a cada alerta para copiar su URL. Pegar esa URL en el bloque correspondiente (ya comentado, con `id`/`name` pre-llenados) en `config/sources.yaml` y cambiar `active: false` a `active: true`.
+Para agregar/editar alertas: ir a [google.com/alerts](https://www.google.com/alerts) → "My alerts". La URL del feed RSS no aparece en la pantalla de creación — hay que hacer clic en el ícono RSS junto a la alerta para copiarla, y pegarla en `config/sources.yaml`.
 
 ## Fuentes sin RSS (revisión manual)
 
