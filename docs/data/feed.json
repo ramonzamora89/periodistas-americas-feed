@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-18T21:54:36.635416+00:00",
- "count": 118,
+ "generated_at": "2026-07-19T09:55:16.664963+00:00",
+ "count": 120,
  "items": [
   {
    "id": "b0ac79bef6a949e8",
@@ -221,6 +221,10 @@
     {
      "source": "Google Alert: periodista exiliado (ES)",
      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Da8s784irov/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw2bScyTZqaqeV8dUxdtHNv5"
+    },
+    {
+     "source": "Google Alert: periodista exiliado (ES)",
+     "link": "https://www.google.com/url?rct=j&sa=t&url=https://gerente.com/ve/new-rss/el-periodista-luis-gonzalo-perez-regreso-a-venezuela-tras-dos-anos-de-exilio-forzado/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw0V0CcgFFzlOxYXNz1TiSVf"
     }
    ]
   },
@@ -245,6 +249,19 @@
    "summary": "... periodista nicaragüense en el exilio. “A los empleados públicos se les ha orientado presentarse obligatoriamente con su cédula de identidad ...",
    "source": "Google Alert: periodista exiliado (ES)",
    "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7537f35cbe46f51c",
+   "title": "La FAPE lamenta el ataque contra el periodista Fonsi Loaiza - NoticiasDe.es",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.noticiasde.es/espana/la-fape-lamenta-el-ataque-contra-el-periodista-fonsi-loaiza/&ct=ga&cd=CAIyGjE4MDRmZGQ2ZGUzYzY5MTE6Y29tOmVzOlVT&usg=AOvVaw3i49JuxzzkFNhRNkX8A7kb",
+   "published": "2026-07-18T18:11:16+00:00",
+   "summary": "La organización le deseó una pronta recuperación al periodista agredido y confió en que la investigación policial permita esclarecer los hechos e ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
    "language": "es",
    "country": null,
    "tags": [],
@@ -590,19 +607,6 @@
    "also_reported_by": []
   },
   {
-   "id": "8592a9976b2e24cf",
-   "title": "Luis Manuel Otero Alcántara viajaría a EE.UU. el sábado tras aprobarse el parole",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cibercuba.com/noticias/2026-07-17-u1-e209395-s27061-nid335415-luis-manuel-otero-alcantara-viajaria-eeuu-sabado&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw2UOsNl-h9tFE2MV-5KS4Ck",
-   "published": "2026-07-18T09:50:38+00:00",
-   "summary": "... exilio forzado sigue el patrón que el régimen ha aplicado con otros ... » confirmó al periodista Patrick Oppmann, de CNN. La noticia llega ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "69fa4f2bb5bdaf45",
    "title": "Tema: censura a periodistas - e-consulta.com",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-consulta.com/tags/censura%2520a%2520periodistas/2&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2AeIpZk3Ej2A7KX541DkUw",
@@ -629,6 +633,19 @@
    "also_reported_by": []
   },
   {
+   "id": "3a449295abc75ce6",
+   "title": "Periodista atacado a balazos está fuera de peligro - Contacto",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://periodicocontacto.com/periodista-atacado-a-balazos-esta-fuera-de-peligro/&ct=ga&cd=CAIyGjE4MDRmZGQ2ZGUzYzY5MTE6Y29tOmVzOlVT&usg=AOvVaw1cceyamkZUTxZ2kvKNhwJJ",
+   "published": "2026-07-18T00:34:18+00:00",
+   "summary": "Periodista atacado a balazos está fuera de peligro ... TUXTLA GUTIÉRREZ, Chis. (EL UNIVERSAL).- El comunicador Marcos Ramos, director y editor del ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "8c625545e6059a12",
    "title": "Gobernador de Monagas «intentó» restringir cobertura de afectados por terremotos, denunció SNTP",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://albertonews.com/nacionales/gobernador-de-monagas-intento-restringir-cobertura-de-afectados-por-terremotos-denuncio-sntp/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0GbzRijSqI40s7CzcSIYm8",
@@ -649,6 +666,19 @@
    "summary": "El Sindicato Nacional de Trabajadores de la Prensa (SNTP) denunció restricciones ilegítimas al libre ejercicio periodístico por parte de la ...",
    "source": "Google Alert: censura a periodistas (ES)",
    "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "e58df3923b38769e",
+   "title": "@FonsiLoaiza Quiero expresarte el mismo apoyo que enviaste tú al periodista agredido por ...",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/LuisMiguel9978/status/2078147659999683056&ct=ga&cd=CAIyGjE4MDRmZGQ2ZGUzYzY5MTE6Y29tOmVzOlVT&usg=AOvVaw2e5RCBDN_WWXqG498x9LuX",
+   "published": "2026-07-17T22:14:35+00:00",
+   "summary": "Spanishreveller (@LuisMiguel9978). 19 replies. @FonsiLoaiza Quiero expresarte el mismo apoyo que enviaste tú al periodista agredido por los tuyos.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
    "language": "es",
    "country": null,
    "tags": [],
