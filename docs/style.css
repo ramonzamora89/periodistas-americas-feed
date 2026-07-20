@@ -7,6 +7,7 @@
   --accent: #7a1f2b;
   --badge-es: #2f5d50;
   --badge-en: #1f4e79;
+  --badge-migracion: #8a5a1f;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,6 +19,7 @@
     --accent: #d98b93;
     --badge-es: #4f9c86;
     --badge-en: #5a9bd8;
+    --badge-migracion: #d9a15b;
   }
 }
 
@@ -41,12 +43,20 @@ header {
 h1 {
   margin: 0 0 0.5rem;
   font-size: 1.3rem;
+  line-height: 0;
+}
+
+.banner {
+  max-width: 100%;
+  height: auto;
+  width: 420px;
 }
 
 .subtitle {
+  margin: 0 0 0.5rem;
   font-weight: 400;
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .updated {
@@ -59,6 +69,29 @@ main {
   max-width: 720px;
   margin: 0 auto;
   padding: 1rem;
+}
+
+.topic-filter {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.topic-btn {
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--fg);
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.topic-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
 }
 
 .controls {
@@ -144,6 +177,10 @@ main {
 
 .badge-en {
   background: var(--badge-en);
+}
+
+.badge-migracion {
+  background: var(--badge-migracion);
 }
 
 .card-summary {

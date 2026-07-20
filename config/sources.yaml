@@ -4,6 +4,13 @@
 #   que cubren el mismo caso. Gana (queda como registro principal) la fuente
 #   con el número más bajo. 1 = CPJ, 2 = RSF, 3 = orgs regionales, 4 = Google Alerts.
 #
+# category: pestaña primaria del sitio. "libertad_prensa" = ataques, censura,
+#   detenciones, informes de organismos de libertad de prensa. "periodismo" =
+#   industria/oficio periodístico (tendencias, investigación académica, gremios).
+#   La pestaña "migración" no depende de category: se arma por palabras clave
+#   sobre el texto de cada item (ver MIGRATION_KEYWORDS en fetch_feeds.py),
+#   así que un item de cualquier fuente puede aparecer ahí también.
+#
 # active: false deja la fuente definida pero fuera del fetch. Útil para expandir
 #   cobertura sin borrar/reescribir entradas.
 
@@ -15,6 +22,7 @@ sources:
     language: en
     country: null
     priority: 1
+    category: libertad_prensa
     active: true
 
   - id: cpj_americas_es
@@ -23,6 +31,7 @@ sources:
     language: es
     country: null
     priority: 1
+    category: libertad_prensa
     active: true
 
   - id: cpj_global_en
@@ -31,6 +40,7 @@ sources:
     language: en
     country: null
     priority: 1
+    category: libertad_prensa
     active: false
 
   - id: cpj_global_es
@@ -39,6 +49,7 @@ sources:
     language: es
     country: null
     priority: 1
+    category: libertad_prensa
     active: false
 
   # --- RSF, por país (priority 2) ---
@@ -48,6 +59,7 @@ sources:
     language: en
     country: "Mexico"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_colombia
     name: "RSF – Colombia"
@@ -55,6 +67,7 @@ sources:
     language: en
     country: "Colombia"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_brazil
     name: "RSF – Brasil"
@@ -62,6 +75,7 @@ sources:
     language: en
     country: "Brazil"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_venezuela
     name: "RSF – Venezuela"
@@ -69,6 +83,7 @@ sources:
     language: en
     country: "Venezuela"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_cuba
     name: "RSF – Cuba"
@@ -76,6 +91,7 @@ sources:
     language: en
     country: "Cuba"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_honduras
     name: "RSF – Honduras"
@@ -83,6 +99,7 @@ sources:
     language: en
     country: "Honduras"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_guatemala
     name: "RSF – Guatemala"
@@ -90,6 +107,7 @@ sources:
     language: en
     country: "Guatemala"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_nicaragua
     name: "RSF – Nicaragua"
@@ -97,6 +115,7 @@ sources:
     language: en
     country: "Nicaragua"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_ecuador
     name: "RSF – Ecuador"
@@ -104,6 +123,7 @@ sources:
     language: en
     country: "Ecuador"
     priority: 2
+    category: libertad_prensa
     active: true
   - id: rsf_haiti
     name: "RSF – Haití"
@@ -111,6 +131,7 @@ sources:
     language: en
     country: "Haiti"
     priority: 2
+    category: libertad_prensa
     active: true
 
   # --- RSF, países adicionales (inactivos por defecto, expansión futura) ---
@@ -120,6 +141,7 @@ sources:
     language: en
     country: "Argentina"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_chile
     name: "RSF – Chile"
@@ -127,6 +149,7 @@ sources:
     language: en
     country: "Chile"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_peru
     name: "RSF – Perú"
@@ -134,6 +157,7 @@ sources:
     language: en
     country: "Peru"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_bolivia
     name: "RSF – Bolivia"
@@ -141,6 +165,7 @@ sources:
     language: en
     country: "Bolivia"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_paraguay
     name: "RSF – Paraguay"
@@ -148,6 +173,7 @@ sources:
     language: en
     country: "Paraguay"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_uruguay
     name: "RSF – Uruguay"
@@ -155,6 +181,7 @@ sources:
     language: en
     country: "Uruguay"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_el_salvador
     name: "RSF – El Salvador"
@@ -162,6 +189,7 @@ sources:
     language: en
     country: "El Salvador"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_panama
     name: "RSF – Panamá"
@@ -169,6 +197,7 @@ sources:
     language: en
     country: "Panama"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_costa_rica
     name: "RSF – Costa Rica"
@@ -176,6 +205,7 @@ sources:
     language: en
     country: "Costa Rica"
     priority: 2
+    category: libertad_prensa
     active: false
   - id: rsf_dominican_republic
     name: "RSF – República Dominicana"
@@ -183,6 +213,7 @@ sources:
     language: en
     country: "Dominican Republic"
     priority: 2
+    category: libertad_prensa
     active: false
 
   # --- Organizaciones regionales / locales (priority 3) ---
@@ -192,6 +223,7 @@ sources:
     language: es
     country: null
     priority: 3
+    category: libertad_prensa
     active: true
   - id: red_centroamericana
     name: "Red Centroamericana de Periodistas"
@@ -199,6 +231,7 @@ sources:
     language: es
     country: null
     priority: 3
+    category: libertad_prensa
     active: true
   - id: rompe_el_miedo_gt
     name: "Red Rompe el Miedo Guatemala"
@@ -206,6 +239,7 @@ sources:
     language: es
     country: "Guatemala"
     priority: 3
+    category: libertad_prensa
     active: true
   - id: clibre_honduras
     name: "C-Libre Honduras"
@@ -213,6 +247,7 @@ sources:
     language: es
     country: "Honduras"
     priority: 3
+    category: libertad_prensa
     active: true
 
   # --- Google Alerts (priority 4) ---
@@ -222,6 +257,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_murdered
     name: "Google Alert: journalist murdered / reporter killed (EN)"
@@ -229,6 +265,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_attacked
     name: "Google Alert: journalist attacked/assaulted (EN)"
@@ -236,6 +273,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_threatened
     name: "Google Alert: journalist threatened/harassed (EN)"
@@ -243,6 +281,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_detained
     name: "Google Alert: journalist detained/arrested (EN)"
@@ -250,6 +289,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_kidnapped
     name: "Google Alert: journalist kidnapped (EN)"
@@ -257,6 +297,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_press_freedom
     name: "Google Alert: press freedom attack (EN)"
@@ -264,6 +305,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_censorship
     name: "Google Alert: journalist censored / media censorship (EN)"
@@ -271,6 +313,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_legal
     name: "Google Alert: journalist legal harassment / SLAPP (EN)"
@@ -278,6 +321,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_en_exile
     name: "Google Alert: journalist exiled (EN)"
@@ -285,6 +329,7 @@ sources:
     language: en
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_asesinado
     name: "Google Alert: periodista asesinado/a (ES)"
@@ -292,6 +337,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_amenazado
     name: "Google Alert: periodista amenazado/a (ES)"
@@ -299,6 +345,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_agredido
     name: "Google Alert: periodista agredido/atacado (ES)"
@@ -306,6 +353,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_detenido
     name: "Google Alert: periodista detenido/a (ES)"
@@ -313,6 +361,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_secuestrado
     name: "Google Alert: periodista secuestrado/a (ES)"
@@ -320,6 +369,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_desaparecido
     name: "Google Alert: periodista desaparecido (ES)"
@@ -327,6 +377,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_censura
     name: "Google Alert: censura a periodistas (ES)"
@@ -334,6 +385,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_demanda
     name: "Google Alert: demanda/persecución legal contra periodista (ES)"
@@ -341,6 +393,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_exilio
     name: "Google Alert: periodista exiliado (ES)"
@@ -348,6 +401,7 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
     active: true
   - id: alert_es_reportero
     name: "Google Alert: reportero/a agredido/a (ES, variante)"
@@ -355,4 +409,68 @@ sources:
     language: es
     country: null
     priority: 4
+    category: libertad_prensa
+    active: true
+
+  # --- Organizaciones adicionales de libertad de prensa / periodismo (priority 3) ---
+  # Verificadas manualmente el 2026-07-20: cada url abajo es un feed RSS/Atom
+  # real que responde 200 con contenido reciente. Los sitios pedidos que NO
+  # exponen RSS (en.sipiapa.org, ipi.media, nppa.org, oas.org/cidh) quedaron
+  # fuera del pipeline y se listan para revisión manual en el footer del sitio,
+  # igual que NoNosCallarán.
+  - id: pressfreedomtracker_us
+    name: "U.S. Press Freedom Tracker"
+    url: "https://pressfreedomtracker.us/all-incidents/feed/"
+    language: en
+    country: "United States"
+    priority: 3
+    category: libertad_prensa
+    active: true
+  - id: freedom_of_the_press_foundation
+    name: "Freedom of the Press Foundation"
+    url: "https://freedom.press/issues/feed/"
+    language: en
+    country: null
+    priority: 3
+    category: libertad_prensa
+    active: true
+  - id: free_press_action
+    name: "Free Press Action"
+    url: "https://www.freepressaction.org/feed"
+    language: en
+    country: "United States"
+    priority: 3
+    category: libertad_prensa
+    active: true
+  - id: ipys
+    name: "IPYS – Instituto Prensa y Sociedad"
+    url: "https://ipys.org/rss.xml"
+    language: es
+    country: null
+    priority: 3
+    category: libertad_prensa
+    active: true
+  - id: sntp_venezuela
+    name: "SNTP – Sindicato Nacional de Trabajadores de la Prensa (Venezuela)"
+    url: "https://sntpvenezuela.org/feed/"
+    language: es
+    country: "Venezuela"
+    priority: 3
+    category: libertad_prensa
+    active: true
+  - id: latam_journalism_review
+    name: "LatAm Journalism Review"
+    url: "https://latamjournalismreview.org/feed/"
+    language: en
+    country: null
+    priority: 3
+    category: periodismo
+    active: true
+  - id: reuters_institute
+    name: "Reuters Institute for the Study of Journalism (Oxford)"
+    url: "https://reutersinstitute.politics.ox.ac.uk/rss.xml"
+    language: en
+    country: null
+    priority: 3
+    category: periodismo
     active: true

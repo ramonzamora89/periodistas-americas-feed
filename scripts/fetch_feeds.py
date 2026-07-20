@@ -53,6 +53,21 @@ STOPWORDS = {
     "con", "with", "que", "es", "un", "una", "to", "of", "su", "sus",
 }
 
+# Un item entra a la pestaña "migración" si su título/resumen matchea alguna
+# de estas palabras clave, sin importar la category de su fuente — así un
+# caso de censura a un periodista que cubre migración (category
+# libertad_prensa) también aparece ahí.
+MIGRATION_KEYWORDS = re.compile(
+    r"\b("
+    r"migrant[s]?|migration|immigra(nt|tion)[s]?|asylum|refugee[s]?|"
+    r"deport(ed|ation|ing)?|border crossing|migrant caravan|"
+    r"migrante[s]?|migraci[oó]n|inmigra(nte|ci[oó]n)[s]?|asilo|"
+    r"refugiado[s]?|deportaci[oó]n|deportad[oa][s]?|frontera|"
+    r"caravana migrante"
+    r")\b",
+    re.IGNORECASE,
+)
+
 
 @dataclass
 class Source:
@@ -62,6 +77,7 @@ class Source:
     language: str
     country: str | None
     priority: int
+    category: str
     active: bool
 
 
@@ -78,6 +94,8 @@ class Item:
     language: str
     country: str | None
     priority: int
+    category: str
+    topics: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
     also_reported_by: list[dict] = field(default_factory=list)
 
@@ -97,6 +115,7 @@ def load_sources() -> list[Source]:
                 language=entry["language"],
                 country=entry.get("country"),
                 priority=int(entry["priority"]),
+                category=entry["category"],
                 active=True,
             )
         )
@@ -145,11 +164,16 @@ def normalize_entries(source: Source, feed) -> list[Item]:
         if len(summary) > 300:
             summary = summary[:297].rstrip() + "..."
         tags = [t.get("term") for t in entry.get("tags", []) if t.get("term")]
+        title = strip_html(entry.get("title", ""))
+
+        topics = [source.category]
+        if MIGRATION_KEYWORDS.search(f"{title} {summary}"):
+            topics.append("migracion")
 
         items.append(
             Item(
                 id=item_id,
-                title=strip_html(entry.get("title", "")),
+                title=title,
                 link=link,
                 published=published,
                 published_ts=published_ts,
@@ -159,6 +183,8 @@ def normalize_entries(source: Source, feed) -> list[Item]:
                 language=source.language,
                 country=source.country,
                 priority=source.priority,
+                category=source.category,
+                topics=topics,
                 tags=tags,
             )
         )
@@ -271,6 +297,8 @@ def item_to_dict(item: Item) -> dict:
         "source_id": item.source_id,
         "language": item.language,
         "country": item.country,
+        "category": item.category,
+        "topics": item.topics,
         "tags": item.tags,
         "also_reported_by": item.also_reported_by,
     }

@@ -1,7 +1,14 @@
 const state = {
   allItems: [],
   language: "all",
+  topic: "all",
   query: "",
+};
+
+const TOPIC_LABELS = {
+  libertad_prensa: "Libertad de Prensa",
+  periodismo: "Periodismo",
+  migracion: "Migración",
 };
 
 const feedList = document.getElementById("feed-list");
@@ -10,6 +17,7 @@ const resultCount = document.getElementById("result-count");
 const lastUpdated = document.getElementById("last-updated");
 const searchInput = document.getElementById("search");
 const langButtons = document.querySelectorAll(".lang-btn");
+const topicButtons = document.querySelectorAll(".topic-btn");
 
 function stripDiacritics(text) {
   return text.normalize("NFKD").replace(/[̀-ͯ]/g, "");
@@ -32,6 +40,9 @@ function formatDate(iso) {
 
 function matchesFilters(item) {
   if (state.language !== "all" && item.language !== state.language) {
+    return false;
+  }
+  if (state.topic !== "all" && !(item.topics || []).includes(state.topic)) {
     return false;
   }
   if (!state.query) {
@@ -59,6 +70,14 @@ function renderItem(item) {
   badge.className = `badge badge-${item.language}`;
   badge.textContent = item.language.toUpperCase();
   meta.appendChild(badge);
+
+  if (item.topics && item.topics.includes("migracion")) {
+    const topicBadge = document.createElement("span");
+    topicBadge.className = "badge badge-migracion";
+    topicBadge.textContent = TOPIC_LABELS.migracion;
+    meta.appendChild(topicBadge);
+  }
+
   meta.appendChild(document.createTextNode(` ${item.source} · ${formatDate(item.published)}`));
   card.appendChild(meta);
 
@@ -101,6 +120,19 @@ langButtons.forEach((btn) => {
     langButtons.forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
     state.language = btn.dataset.lang;
+    render();
+  });
+});
+
+topicButtons.forEach((btn) => {
+  btn.addEventListener("click", () => {
+    topicButtons.forEach((b) => {
+      b.classList.remove("active");
+      b.setAttribute("aria-selected", "false");
+    });
+    btn.classList.add("active");
+    btn.setAttribute("aria-selected", "true");
+    state.topic = btn.dataset.topic;
     render();
   });
 });

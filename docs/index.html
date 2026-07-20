@@ -3,16 +3,25 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ataques a Periodistas en las Américas</title>
+<title>El Feed: Libertad de Prensa en las Américas</title>
+<link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-  <h1>Ataques a Periodistas en las Américas<br><span class="subtitle">Attacks on Journalists in the Americas</span></h1>
+  <h1><img src="assets/banner.png" alt="El Feed: libertad de prensa en las Américas" class="banner"></h1>
+  <p class="subtitle">Ataques a periodistas, migración y periodismo en las Américas · Attacks on journalists, migration and journalism in the Americas</p>
   <p class="updated" id="last-updated">Cargando...</p>
 </header>
 
 <main>
+  <div class="topic-filter" role="tablist" aria-label="Tema">
+    <button type="button" class="topic-btn active" data-topic="all" role="tab" aria-selected="true">Todos</button>
+    <button type="button" class="topic-btn" data-topic="libertad_prensa" role="tab" aria-selected="false">Libertad de Prensa</button>
+    <button type="button" class="topic-btn" data-topic="periodismo" role="tab" aria-selected="false">Periodismo</button>
+    <button type="button" class="topic-btn" data-topic="migracion" role="tab" aria-selected="false">Migración</button>
+  </div>
+
   <div class="controls">
     <input type="search" id="search" placeholder="Buscar / Search…" aria-label="Buscar">
     <div class="lang-filter" role="radiogroup" aria-label="Idioma">
@@ -29,11 +38,18 @@
 
 <footer>
   <p>
-    Fuentes: CPJ, RSF, Artículo 19, Red Centroamericana de Periodistas, Red Rompe el Miedo Guatemala, C-Libre Honduras, y Google Alerts.
+    Fuentes: CPJ, RSF, Artículo 19, Red Centroamericana de Periodistas, Red Rompe el Miedo Guatemala, C-Libre Honduras,
+    U.S. Press Freedom Tracker, Freedom of the Press Foundation, Free Press Action, IPYS, SNTP Venezuela,
+    LatAm Journalism Review, Reuters Institute, y Google Alerts.
   </p>
   <p>
-    <strong>NoNosCallarán</strong> no publica RSS — revisar manualmente en
-    <a href="https://x.com/NoNosCallaranGT" target="_blank" rel="noopener">@NoNosCallaranGT</a>.
+    Fuentes sin RSS — revisar manualmente:
+    <strong>NoNosCallarán</strong> (<a href="https://x.com/NoNosCallaranGT" target="_blank" rel="noopener">@NoNosCallaranGT</a>),
+    <strong>SIP/IAPA</strong> (<a href="https://en.sipiapa.org" target="_blank" rel="noopener">en.sipiapa.org</a>),
+    <strong>IPI</strong> (<a href="https://ipi.media" target="_blank" rel="noopener">ipi.media</a>),
+    <strong>NPPA</strong> (<a href="https://nppa.org" target="_blank" rel="noopener">nppa.org</a>),
+    <strong>CIDH – Relatoría Especial para la Libertad de Expresión</strong>
+    (<a href="https://www.oas.org/es/cidh/expresion/index.asp" target="_blank" rel="noopener">oas.org/es/cidh/expresion</a>).
   </p>
   <p><a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Código fuente en GitHub</a></p>
 </footer>

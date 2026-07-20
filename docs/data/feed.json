@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-20T10:20:19.943511+00:00",
- "count": 105,
+ "generated_at": "2026-07-20T13:34:15.603175+00:00",
+ "count": 190,
  "items": [
   {
    "id": "cde4a7b0e29f8ce1",
@@ -12,6 +12,27 @@
    "source_id": "alert_en_killed",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "6923d25916c6c692",
+   "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US - NPR",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us&ct=ga&cd=CAIyGjZkMmM4OGE1MDU1NWQyZjI6Y29tOmVuOlVT&usg=AOvVaw3vybsh9BVFRU8NPA6PKNxI",
+   "published": "2026-07-20T08:11:53+00:00",
+   "summary": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year ...",
+   "source": "Google Alert: journalist exiled (EN)",
+   "source_id": "alert_en_exile",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -25,6 +46,27 @@
    "source_id": "alert_es_amenazado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "353548876b8f1830",
+   "title": "Flavours of Iraq review – vivid childhood memories of 80s Baghdad from writer in Paris exile",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.co.uk/articles/flavours-iraq-review-vivid-childhood-060048000.html&ct=ga&cd=CAIyGjZkMmM4OGE1MDU1NWQyZjI6Y29tOmVuOlVT&usg=AOvVaw3rjLqLaQp-Nbf72HbkgJak",
+   "published": "2026-07-20T06:21:29+00:00",
+   "summary": "... US-occupied Iraq as a French journalist, he is an exiled westerner in the Middle East, deeply alienated by Islamist extremism and angry at the US ...",
+   "source": "Google Alert: journalist exiled (EN)",
+   "source_id": "alert_en_exile",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -38,6 +80,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -51,6 +97,10 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -64,6 +114,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": [
     {
@@ -82,6 +136,10 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -95,6 +153,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -108,6 +170,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -121,6 +187,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -134,6 +204,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -147,6 +221,10 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -160,6 +238,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -173,6 +255,10 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -186,6 +272,10 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -199,6 +289,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -212,6 +306,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": [
     {
@@ -230,6 +328,10 @@
    "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -243,6 +345,10 @@
    "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -256,6 +362,10 @@
    "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -269,6 +379,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -282,6 +396,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -295,6 +413,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -308,6 +430,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -321,6 +447,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -334,6 +464,10 @@
    "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -347,6 +481,10 @@
    "source_id": "alert_en_killed",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -360,6 +498,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -373,6 +515,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -386,6 +532,10 @@
    "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -399,6 +549,10 @@
    "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": [
     {
@@ -417,6 +571,10 @@
    "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": [
     {
@@ -424,6 +582,23 @@
      "link": "https://www.google.com/url?rct=j&sa=t&url=https://laverdad.com/periodista-luis-gonzalo-perez-regresa-a-venezuela-tras-casi-dos-anos-en-el-exilio/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw0H0XeYFd9NBCoJgFHHfYFI"
     }
    ]
+  },
+  {
+   "id": "d8cf5fc2b238de99",
+   "title": "Abogada de las estrellas desiste de demanda contra periodista por retuitear video - MSN",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/es-mx/entretenimiento/general/abogada-de-las-estrellas-desiste-de-demanda-contra-periodista-por-retuitear-video-cancelan-medidas-de-protecci%25C3%25B3n/ar-AA248Nff&ct=ga&cd=CAIyGjc3M2FmMTA3YTQ4NTc1ZGE6Y29tOmVzOlVT&usg=AOvVaw2hQEiAVr_cMNiTbwbVKCvi",
+   "published": "2026-07-19T11:45:39+00:00",
+   "summary": "Abogada de las estrellas desiste de demanda contra periodista por retuitear video; cancelan medidas de protección. Historia de Alejandra Ortiz.",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
   },
   {
    "id": "adbced0f31673bbc",
@@ -435,6 +610,10 @@
    "source_id": "alert_en_press_freedom",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -448,6 +627,10 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -461,6 +644,10 @@
    "source_id": "alert_en_press_freedom",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -474,6 +661,10 @@
    "source_id": "alert_es_secuestrado",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": [
     {
@@ -492,6 +683,27 @@
    "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c4b386a2ae48af5d",
+   "title": "Fiscal cambia de criterio e imputa soborno a periodista Gustavo Gorriti por relaciones con sus fuentes.",
+   "link": "https://ipys.org/alertas/fiscal-cambia-de-criterio-e-imputa-soborno-periodista-gustavo-gorriti-por-relaciones-con-sus",
+   "published": "2026-07-17T22:34:14+00:00",
+   "summary": "El fiscal adjunto supremo Edward Casaverde elevó un informe al fiscal de la Nación Tomás Gálvez, en el que concluye que existen indicios reveladores que acreditan la comisión del delito de cohecho act",
+   "source": "IPYS – Instituto Prensa y Sociedad",
+   "source_id": "ipys",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -505,6 +717,10 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Josué Martínez Contreras",
     "Killed",
@@ -522,6 +738,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "1. Violencia",
     "1.13 Hostigamiento",
@@ -549,6 +769,10 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -564,9 +788,35 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "Protección y defensa"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "115c995ca00eb236",
+   "title": "Lawsuit fights Ellison-Trump corruption’s harm to news outlets",
+   "link": "http://freedom.press/issues/lawsuit-fights-ellison-trump-corruptions-harm-to-news-outlets/",
+   "published": "2026-07-17T13:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:Paramount’s merger with Warner Bros. Discovery would shortchange shareholders to reward company insiders willing to trade editorial independence for favoritism from the Trump administration. A new lawsuit backed by Freedom of the Press Foundation (FPF) is fighting to...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Stop the Paramount-Warner merger",
+    "Don’t Let Trump Destroy Press Freedom",
+    "Protect Source Leaks, Limit Leak Investigations",
+    "Strengthen the Reporter-Source Privilege"
    ],
    "also_reported_by": []
   },
@@ -580,6 +830,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "1.4 Intimidación",
     "3. Censura",
@@ -603,6 +857,10 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Department of Homeland Security",
     "Donald Trump",
@@ -614,6 +872,30 @@
    "also_reported_by": []
   },
   {
+   "id": "004fad7c081b5a3a",
+   "title": "Photographer struck by Proud Boy at LA rally",
+   "link": "https://pressfreedomtracker.us/all-incidents/photographer-struck-by-proud-boy-at-la-rally/",
+   "published": "2026-07-16T14:36:15+00:00",
+   "summary": "Independent photographer Jonny Morales was punched in the face by a right-wing extremist while documenting a political protest in downtown Los Angeles, California, on July 10, 2026.Morales went to City Hall to photograph a news conference organized by far-right political activists, two of whom we...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Assault"
+   ],
+   "also_reported_by": [
+    {
+     "source": "U.S. Press Freedom Tracker",
+     "link": "https://pressfreedomtracker.us/all-incidents/photographer-hit-with-pepper-spray-by-proud-boy-at-la-rally/"
+    }
+   ]
+  },
+  {
    "id": "4bbbedc829c2f8d7",
    "title": "Intentan ingresar por la fuerza al domicilio del periodista Ángel Maldonado",
    "link": "https://articulo19.org/intentan-ingresar-por-la-fuerza-al-domicilio-del-periodista-angel-maldonado/",
@@ -623,6 +905,10 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "Protección y defensa"
@@ -639,6 +925,10 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -652,7 +942,53 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a9876a470c99be7a",
+   "title": "Shareholder lawsuit seeks to halt Paramount merger, fight corruption",
+   "link": "http://freedom.press/issues/shareholder-lawsuit-seeks-to-halt-paramount-merger-fight-corruption/",
+   "published": "2026-07-15T20:00:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, July 15, 2026 — Yesterday, Freedom of the Press Foundation (FPF) and the Public Integrity Project filed a shareholder’s derivative lawsuit against officers and directors of Paramount Skydance Corp. seeking to halt its acquisition of Warner Bros. Discovery.Mary S. T...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Stop the Paramount-Warner merger",
+    "Don’t Let Trump Destroy Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "4eb6e51bfa9fd293",
+   "title": "A decade after a reign of terror, Veracruz remains the deadliest place for journalists in Mexico",
+   "link": "https://latamjournalismreview.org/articles/a-decade-after-a-reign-of-terror-veracruz-remains-the-deadliest-place-for-journalists-in-mexico/",
+   "published": "2026-07-15T18:55:50+00:00",
+   "summary": "Former Gov. Javier Duarte is in jail, but the threats remain: corruption, organized crime and a justice system marred by impunity. The post A decade after a reign of terror, Veracruz remains the deadliest place for journalists in Mexico appeared first on LatAm Journalism Review by the Knight Center.",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Violence against journalists",
+    "Impunity",
+    "Journalist killed",
+    "Mexico"
+   ],
    "also_reported_by": []
   },
   {
@@ -665,6 +1001,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Noticias"
    ],
@@ -680,10 +1020,31 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "Protección y defensa"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "1a07e1bbf1de629d",
+   "title": "Trump Nominee Jay Clayton's Refusal to Respond Honestly to Senators Is Disqualifying",
+   "link": "https://www.freepressaction.org/news/trump-nominee-jay-claytons-refusal-respond-honestly-senators-disqualifying",
+   "published": "2026-07-15T08:21:46+00:00",
+   "summary": "Making a Trump loyalist the director of national intelligence would undermine national security and devastate the civil liberties of everyone in the United States.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -696,9 +1057,32 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Comunicados",
     "Informes y publicaciones especiales"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "893cabd81d4006c6",
+   "title": "Reporter shoved while covering Maine demonstration",
+   "link": "https://pressfreedomtracker.us/all-incidents/reporter-shoved-while-covering-maine-demonstration/",
+   "published": "2026-07-14T21:21:36+00:00",
+   "summary": "Journalist Joe Sokol was pushed multiple times by an individual at a demonstration against the Trump administration’s policies in Bangor, Maine, on July 7, 2026.Sokol, an investigative reporter for the Maine Wire — a digital media outlet and project of the nonprofit think tank Maine Policy Instit...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Assault"
    ],
    "also_reported_by": []
   },
@@ -712,6 +1096,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "3.1 Censura directa",
     "5. Restricción en el acceso a la información pública",
@@ -725,6 +1113,46 @@
    "also_reported_by": []
   },
   {
+   "id": "774ec773d53f9dc9",
+   "title": "Can AI replace expert sources? A Brazilian media scandal pushes journalism into new ethical territory",
+   "link": "https://latamjournalismreview.org/articles/can-ai-replace-expert-sources-a-brazilian-media-scandal-pushes-journalism-into-new-ethical-territory/",
+   "published": "2026-07-14T21:01:13+00:00",
+   "summary": "A story labeled as AI-assisted but filled with AI-Generated experts sparked backlash in Brazil, raising questions about the role of human expertise in journalism and the ethical limits of the technology. The post Can AI replace expert sources? A Brazilian media scandal pushes journalism into new...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Media analysis"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "d9218133c1ece591",
+   "title": "Older adults in Colombia return to the classroom to learn how to challenge misinformation",
+   "link": "https://latamjournalismreview.org/articles/older-adults-in-colombia-return-to-the-classroom-to-learn-how-to-challenge-misinformation/",
+   "published": "2026-07-14T15:57:22+00:00",
+   "summary": "In Manizales, one of the country’s cities with the highest proportion of residents over 60, a media literacy course teaches older adults how to verify information. The post Older adults in Colombia return to the classroom to learn how to challenge misinformation appeared first on LatAm Journalism...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "False news and disinformation",
+    "Colombia",
+    "Media literacy"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "55436d43b7bfcfcc",
    "title": "La censura digital sistemática a diario digital aumenta los riesgos contra el periodismo independiente en Honduras",
    "link": "https://clibrehonduras.com/2026/07/13/la-censura-digital-sistematica-a-diario-digital-aumenta-los-riesgos-contra-el-periodismo-independiente-en-honduras/",
@@ -734,6 +1162,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "1.13 Hostigamiento",
     "1.4 Intimidación",
@@ -751,6 +1183,25 @@
    "also_reported_by": []
   },
   {
+   "id": "f46beac8fabdb7aa",
+   "title": "Censorship of medical journals infects journalism too",
+   "link": "http://freedom.press/issues/censorship-of-medical-journals-infects-journalism-too/",
+   "published": "2026-07-14T00:55:00+00:00",
+   "summary": "Secretary of Health and Human Services Robert F. Kennedy Jr. seems better suited as the subject of medical research than its arbiter. He’s not an editor or peer reviewer, and he’s definitely (and thankfully) not a judge. So why is he issuing veiled threats to scientific publications — in the proc...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Don’t Let Trump Destroy Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "465d2a601e0506c4",
    "title": "Negar información a periodista advierte represalias por cobertura de asuntos de interés público en Choluteca",
    "link": "https://clibrehonduras.com/2026/07/13/negar-informacion-a-periodista-advierte-represalias-por-cobertura-de-asuntos-de-interes-publico-en-choluteca/",
@@ -760,6 +1211,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "3. Censura",
     "3.1 Censura directa",
@@ -776,6 +1231,34 @@
    "also_reported_by": []
   },
   {
+   "id": "ff127daaff9bf38b",
+   "title": "NY Times intelligence reporter subpoenaed by DOJ for grand jury testimony",
+   "link": "https://pressfreedomtracker.us/all-incidents/ny-times-intelligence-reporter-subpoenaed-by-doj-for-grand-jury-testimony/",
+   "published": "2026-07-13T18:08:34+00:00",
+   "summary": "Julian E. Barnes, an intelligence and security reporter for The New York Times, was subpoenaed by the U.S. Department of Justice on July 10, 2026, ordering him to appear in a New York City courtroom five days later.The Times reported that Barnes was one of several of its reporters subpoenaed that...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Subpoena/Legal Order"
+   ],
+   "also_reported_by": [
+    {
+     "source": "U.S. Press Freedom Tracker",
+     "link": "https://pressfreedomtracker.us/all-incidents/ny-times-national-security-reporter-subpoenaed-by-doj/"
+    },
+    {
+     "source": "U.S. Press Freedom Tracker",
+     "link": "https://pressfreedomtracker.us/all-incidents/ny-times-investigative-reporter-subpoenaed-by-doj-for-testimony/"
+    }
+   ]
+  },
+  {
    "id": "59bd0d7839dc96e5",
    "title": "CPJ calls for accountability from Attorney General nominee Todd Blanche over DOJ press freedom violations",
    "link": "https://cpj.org/2026/07/cpj-calls-for-accountability-from-attorney-general-nominee-todd-blanche-over-doj-press-freedom-violations/",
@@ -785,6 +1268,10 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Attorney General",
     "Department of Justice",
@@ -806,6 +1293,10 @@
    "source_id": "rsf_guatemala",
    "language": "en",
    "country": "Guatemala",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Investigation"
    ],
@@ -821,6 +1312,27 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9e9c6e3ea9e0cfb5",
+   "title": "IPYS lanza convocatoria de financiamiento de investigaciones trasnacionales sobre crimen organizado y corrupción en América Latina",
+   "link": "https://ipys.org/periodismo-de-investigaci%C3%B3n/ipys-lanza-convocatoria-de-financiamiento-de-investigaciones",
+   "published": "2026-07-13T03:56:02+00:00",
+   "summary": "El Instituto Prensa y Sociedad (IPYS), con el apoyo de la National Endowment for Democracy (NED), abre la convocatoria para financiamiento de investigaciones periodísticas trasnacionales, dirigida a reporteros de América Latina. Esta iniciativa busca financiar proyectos originales trasnacionales...",
+   "source": "IPYS – Instituto Prensa y Sociedad",
+   "source_id": "ipys",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -834,6 +1346,10 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "Protección y defensa"
@@ -850,6 +1366,10 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Air Force One",
     "Department of Justice",
@@ -858,6 +1378,45 @@
     "New York Times",
     "Subpoena",
     "Trump"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8d54eb1ef7bb361d",
+   "title": "Subpoenas to NYT have nothing to do with national security",
+   "link": "http://freedom.press/issues/subpoenas-to-nyt-have-nothing-to-do-with-national-security/",
+   "published": "2026-07-11T05:39:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, July 11, 2026 — The New York Times revealed early this morning that the Trump administration subpoenaed its journalists over reporting that the new Air Force One, which was gifted to the president by Qatar and retrofit at a cost of hundreds of millions of taxpayer...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Don’t Let Trump Destroy Press Freedom",
+    "Protect Source Leaks, Limit Leak Investigations"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "5e4dda64fbbd3fdd",
+   "title": "NJ court doubles down on one of the worst censorship orders we’ve seen",
+   "link": "http://freedom.press/issues/nj-court-doubles-down-on-one-of-the-worst-censorship-orders-weve-seen/",
+   "published": "2026-07-10T22:37:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, July 10, 2026 — A New Jersey court partially upheld a prior restraint against a community newspaper and vastly extended it to apply to all members of the “press,” in a troubling new order issued on July 9.Judge Thomas McCloskey had previously granted an emergency o...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Prior Restraint"
    ],
    "also_reported_by": []
   },
@@ -871,11 +1430,55 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Guerrero State Human Rights Commission",
     "Manuel Alejandro Mora Serna",
     "Murdered",
     "Zihuatanejo"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "e6a8a0354bc9fe9e",
+   "title": "Producer detained after judge closes courtroom for grand jury indictment",
+   "link": "https://pressfreedomtracker.us/all-incidents/producer-detained-after-judge-closes-courtroom-for-grand-jury-indictment/",
+   "published": "2026-07-10T18:13:43+00:00",
+   "summary": "WWL-TV investigative producer Danny Monteverde was handcuffed and detained by deputies after questioning a judge’s decision to close a court proceeding announcing the indictment of the Louisiana attorney general on July 2, 2026, in New Orleans.Judge Leon Roche ordered the courtroom sealed before...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Arrest/Criminal Charge"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "d143dcb441665526",
+   "title": "ICE wants to scare you out of sharing the news",
+   "link": "http://freedom.press/issues/ice-wants-to-scare-you-out-of-sharing-the-news/",
+   "published": "2026-07-10T17:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:When federal agents show up over a social media post about the news, press freedom is everyone’s problem. Plus, a New Jersey judge just doubled down on a stunningly unconstitutional gag order. Read on for these stories and more. ICE wants to scare you out of sharing t...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Hold ICE Accountable",
+    "Prior Restraint",
+    "Stop Searches & Seizures of Journalists’ Work"
    ],
    "also_reported_by": []
   },
@@ -889,9 +1492,33 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "Protección y defensa"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "35414ede4035ad88",
+   "title": "Disciplinary office ignores complaints over journalist raid",
+   "link": "http://freedom.press/issues/disciplinary-office-ignores-complaints-over-journalist-raid/",
+   "published": "2026-07-10T00:32:00+00:00",
+   "summary": "Back in February, we filed a disciplinary complaint against Gordon Kromberg, the assistant U.S. attorney who signed the warrant application authorizing the FBI’s raid on the home of Washington Post reporter Hannah Natanson.Our complaint was straightforward: Kromberg’s application never mentioned...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Stop Searches & Seizures of Journalists’ Work",
+    "Don’t Let Trump Destroy Press Freedom"
    ],
    "also_reported_by": []
   },
@@ -905,9 +1532,77 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "Protección y defensa"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "34d58d09944beebf",
+   "title": "Reporters removed from U.S. event in Belgium after questioning official",
+   "link": "https://pressfreedomtracker.us/all-incidents/reporters-removed-from-us-event-in-belgium-after-questioning-official/",
+   "published": "2026-07-09T13:46:24+00:00",
+   "summary": "European Correspondent reporter Samuel Dempsey and editor-in-chief Julius Fintelmann were removed from a U.S. government-organized event celebrating America’s 250th birthday in Brussels after questioning the U.S. ambassador to Belgium on June 28, 2026.The State Department invited the journalists...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Denial of Access"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "993acf94bde0ccbf",
+   "title": "Editor detained at U.S. event in Belgium after filming official",
+   "link": "https://pressfreedomtracker.us/all-incidents/editor-detained-at-us-event-in-belgium-after-filming-official/",
+   "published": "2026-07-09T13:42:09+00:00",
+   "summary": "European Correspondent editor-in-chief Julius Fintelmann and the outlet’s reporter were detained at a U.S. government-organized event celebrating America’s 250th birthday in Brussels after questioning the U.S. ambassador to Belgium on June 28, 2026.The State Department invited the journalists to...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Arrest/Criminal Charge"
+   ],
+   "also_reported_by": [
+    {
+     "source": "U.S. Press Freedom Tracker",
+     "link": "https://pressfreedomtracker.us/all-incidents/reporter-detained-at-us-event-in-belgium-after-questioning-official/"
+    }
+   ]
+  },
+  {
+   "id": "d475b21c228f1404",
+   "title": "The government wants to scare Americans out of sharing the news",
+   "link": "http://freedom.press/issues/the-government-wants-to-scare-americans-out-of-sharing-the-news/",
+   "published": "2026-07-09T00:19:00+00:00",
+   "summary": "Federal officials have repeatedly claimed that criticizing immigration officials or identifying officers is unlawful and dangerous, despite clear First Amendment protections for both. Now, the government appears to be taking a disturbing new step: investigating Americans for posting information o...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [
+    "Hold ICE Accountable",
+    "Protect Journalism Online"
    ],
    "also_reported_by": []
   },
@@ -921,6 +1616,10 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Comunicados",
     "Protección y defensa"
@@ -937,6 +1636,10 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Catherine Herridge",
     "FBI",
@@ -958,6 +1661,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "1. Violencia",
     "1.1 Agresión física selectiva",
@@ -983,8 +1690,55 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "f18406746857a954",
+   "title": "Meta's AI support leaves deplatformed journalists talking to a machine — and no one else",
+   "link": "https://latamjournalismreview.org/articles/metas-ai-support-leaves-deplatformed-journalists-talking-to-a-machine-and-no-one-else/",
+   "published": "2026-07-07T20:11:18+00:00",
+   "summary": "Brazilian reporters and local news outlets say suspended accounts leave them trapped in endless chatbot loops, with no way to reach a person who can help. The post Meta's AI support leaves deplatformed journalists talking to a machine — and no one else appeared first on LatAm Journalism Review by...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Access to Information",
+    "Online journalism"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "48a77e3c3768dbca",
+   "title": "How legacy news organizations in Latin America are building AI policies for their newsrooms",
+   "link": "https://latamjournalismreview.org/articles/how-legacy-news-organizations-in-latin-america-are-building-ai-policies-for-their-newsrooms/",
+   "published": "2026-07-07T19:40:57+00:00",
+   "summary": "Three newspapers told LJR how they are developing policies, training programs and oversight mechanisms to integrate AI strategically into their workflows. The post How legacy news organizations in Latin America are building AI policies for their newsrooms appeared first on LatAm Journalism Review...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Technology and AI",
+    "Argentina",
+    "Dominican Republic",
+    "Journalism ethics",
+    "Peru"
    ],
    "also_reported_by": []
   },
@@ -998,6 +1752,10 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Vacantes"
    ],
@@ -1013,6 +1771,10 @@
    "source_id": "red_centroamericana",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Sin categoría"
    ],
@@ -1028,6 +1790,10 @@
    "source_id": "articulo19",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Comunicados",
     "Protección y defensa"
@@ -1044,6 +1810,10 @@
    "source_id": "red_centroamericana",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Comunicados",
     "Acoso digital",
@@ -1066,6 +1836,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Boletines"
    ],
@@ -1081,6 +1855,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Boletines"
    ],
@@ -1096,6 +1874,10 @@
    "source_id": "red_centroamericana",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Comunicados",
     "Angélica Cárcamo",
@@ -1112,6 +1894,43 @@
    "also_reported_by": []
   },
   {
+   "id": "f18078f747896444",
+   "title": "Advocacy for Local News Heats up Across Pennsylvania",
+   "link": "https://www.freepressaction.org/blog/advocacy-local-news-heats-across-pennsylvania",
+   "published": "2026-07-06T16:59:15+00:00",
+   "summary": "Across Pennsylvania, people struggle to get basic information about issues ranging from data centers to local ICE activity. That’s why the Local News Package is so exciting.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d15b9a8948b8d909",
+   "title": "ISOJ’s 2026 program spotlights audience trust, AI and the future of news",
+   "link": "https://latamjournalismreview.org/articles/isojs-2026-program-spotlights-audience-trust-ai-and-the-future-of-news/",
+   "published": "2026-07-06T14:00:00+00:00",
+   "summary": "This year’s International Symposium on Journalism (ISOJ) will revolve around two of the industry's most pressing issues: strengthening audience trust at a critical moment for democracies around the world and the future of news in the age of artificial intelligence. The post ISOJ’s 2026 program sp...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "ISOJ",
+    "Knight Center"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "82967efc30fde6e8",
    "title": "RSF and partners launch online platform in memory of environmental journalist Dom Phillips and indigenous expert Bruno Pereira",
    "link": "https://rsf.org/en/rsf-and-partners-launch-online-platform-memory-environmental-journalist-dom-phillips-and-indigenous",
@@ -1121,6 +1940,10 @@
    "source_id": "rsf_brazil",
    "language": "en",
    "country": "Brazil",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1136,11 +1959,39 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Killed",
     "Pulso Informativo del Sureste",
     "Roxana Berenice Guzmán Rodríguez",
     "Veracruz"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "04bead97ef66a2e7",
+   "title": "Diario La Voz cumple 60 años mientras permanece cerrado por medida de clausura dictada por el Gobierno",
+   "link": "https://sntpvenezuela.org/diario-la-voz-cumple-60-anos-mientras-permanece-cerrado-por-medida-de-clausura-dictada-por-el-gobierno/",
+   "published": "2026-07-04T15:11:48+00:00",
+   "summary": "SNTP exige la reapertura del diario y reitera que ninguna controversia administrativa o tributaria debe ser utilizada para silenciar medios de comunicación La entrada Diario La Voz cumple 60 años mientras permanece cerrado por medida de clausura dictada por el Gobierno se publicó primero en Sindi...",
+   "source": "SNTP – Sindicato Nacional de Trabajadores de la Prensa (Venezuela)",
+   "source_id": "sntp_venezuela",
+   "language": "es",
+   "country": "Venezuela",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Novedades",
+    "Censura",
+    "La voz",
+    "Medios de comunicación",
+    "miranda",
+    "seniat"
    ],
    "also_reported_by": []
   },
@@ -1154,6 +2005,10 @@
    "source_id": "clibre_honduras",
    "language": "es",
    "country": "Honduras",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "1. Violencia",
     "1.2 Criminalización",
@@ -1180,6 +2035,10 @@
    "source_id": "rsf_venezuela",
    "language": "en",
    "country": "Venezuela",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1195,8 +2054,114 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "5be4bd69f3de31d0",
+   "title": "A journalist’s fight for Epstein transparency",
+   "link": "http://freedom.press/issues/a-journalists-fight-for-epstein-transparency/",
+   "published": "2026-07-03T13:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:Journalist Katie Phang recently won a major victory in her lawsuit seeking to force the government to follow the Epstein Files Transparency Act. Her message to other independent journalists who want to fight government secrecy? “Our case is proof that you can do this....",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Journalism Online",
+    "Op-eds from FPF",
+    "Don’t Let Trump Destroy Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "3f6e7b2a17fb9685",
+   "title": "Brazil’s comics journalism is growing into a bigger speech bubble",
+   "link": "https://latamjournalismreview.org/articles/brazils-comics-journalism-is-growing-into-a-bigger-speech-bubble/",
+   "published": "2026-07-02T22:24:46+00:00",
+   "summary": "New publishers and loyal readers are helping comics journalism catch on in Brazil. As trust in traditional media wanes, reporters say the format can create emotional connections that straight news often can't. The post Brazil’s comics journalism is growing into a bigger speech bubble appeared fir...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Business Model"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "3f70693416c7c1ac",
+   "title": "TV station vehicle windshield smashed while crew reported in Illinois",
+   "link": "https://pressfreedomtracker.us/all-incidents/tv-station-vehicle-windshield-smashed-while-crew-reported-in-illinois/",
+   "published": "2026-07-02T17:41:16+00:00",
+   "summary": "A WBBM-TV reporter was preparing for a live broadcast with a photographer in Chicago, Illinois, on June 29, 2026, when the journalists were targeted by a group of men who shouted racial slurs and damaged the station’s news vehicle.The reporter and photographer were near a local planetarium when s...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Assault",
+    "Equipment Damage"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "fe266324335591be",
+   "title": "TV photographer’s camera damaged by group while reporting in Illinois",
+   "link": "https://pressfreedomtracker.us/all-incidents/tv-photographers-camera-damaged-by-group-while-reporting-in-illinois/",
+   "published": "2026-07-02T17:39:33+00:00",
+   "summary": "A WBBM-TV photographer was targeted by a group of men who shouted racial slurs at him and damaged his camera while he was reporting in Chicago, Illinois, on June 29, 2026.The photographer was preparing for a live shot with a reporter near a local planetarium when several men in a white tow truck...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Assault",
+    "Equipment Damage"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8b81aaa8e1a54452",
+   "title": "After earthquakes, Venezuelan press reports through restrictions and scarce resources",
+   "link": "https://latamjournalismreview.org/articles/after-earthquakes-venezuelan-press-reports-through-restrictions-and-scarce-resources/",
+   "published": "2026-07-01T22:05:36+00:00",
+   "summary": "Coverage of Venezuela's earthquakes has become the first major test for the country's press since Nicolás Maduro's removal, revealing greater freedom to report but also persistent censorship and restrictions on information access. The post After earthquakes, Venezuelan press reports through restr...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Collaboration",
+    "Access to information",
+    "Digital blockades",
+    "Venezuela"
    ],
    "also_reported_by": []
   },
@@ -1210,10 +2175,114 @@
    "source_id": "cpj_americas_en",
    "language": "en",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "CPJ Board",
     "Jacob Weisberg",
     "journalist definition"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "5918071e5c9fb09c",
+   "title": "The World Cup's betting boom gets plenty of coverage. Its costs don't.",
+   "link": "https://latamjournalismreview.org/articles/the-world-cups-betting-boom-gets-plenty-of-coverage-its-costs-dont/",
+   "published": "2026-07-01T21:49:19+00:00",
+   "summary": "Latin American news organizations have enthusiastically covered the industry's rapid growth. Much less attention has gone to its potential consequences for mental and public health. The post The World Cup's betting boom gets plenty of coverage. Its costs don't. appeared first on LatAm Journalism...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Media analysis",
+    "Social issues",
+    "Sports journalism"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "3b1b1b928d34211e",
+   "title": "New Jersey Lawmakers Restore Funding for the Civic Information Consortium",
+   "link": "https://www.freepressaction.org/news/new-jersey-lawmakers-restore-funding-civic-information-consortium",
+   "published": "2026-07-01T16:35:35+00:00",
+   "summary": "“While this restoration of funding is critical, the crisis facing news and information in New Jersey remains a significant and serious challenge for residents across the state,” says Free Press Action’s Mike Rispoli.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a147e8357183b731",
+   "title": "Photojournalist pepper-sprayed by federal officer at New Jersey protest",
+   "link": "https://pressfreedomtracker.us/all-incidents/photojournalist-pepper-sprayed-by-federal-officer-at-new-jersey-protest/",
+   "published": "2026-06-30T18:38:28+00:00",
+   "summary": "Photojournalist Stephanie Keith was targeted with pepper spray by a federal officer while documenting a protest outside a detention center in Newark, New Jersey, on June 27, 2026.Protests outside the Delaney Hall immigration detention facility began May 22, when many detainees went on a hunger st...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [
+    "Assault"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8c08ee490594faae",
+   "title": "Videojournalist grabbed, shoved by police at New Jersey immigration protest",
+   "link": "https://pressfreedomtracker.us/all-incidents/videojournalist-grabbed-shoved-by-police-at-new-jersey-immigration-protest/",
+   "published": "2026-06-30T14:01:58+00:00",
+   "summary": "Status Coup videojournalist Jon Farina was grabbed and shoved by a law enforcement officer while covering protests outside a federal detention center in Newark, New Jersey, on June 7, 2026.Protests outside the Delaney Hall immigration detention facility began May 22, when many detainees went on a...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [
+    "Assault"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "5d8900156c0ca2b0",
+   "title": "SNTP: Estas son las 10 medidas urgentes para que el periodismo vuelva a tener garantías",
+   "link": "https://sntpvenezuela.org/sntp-estas-son-las-10-medidas-urgentes-para-que-el-periodismo-vuelva-a-tener-garantias/",
+   "published": "2026-06-27T12:40:48+00:00",
+   "summary": "Durante 2026 hemos registrado 37 incidentes que han afectado el ejercicio del periodismo. Estos hechos confirman que existen presiones concretas. La entrada SNTP: Estas son las 10 medidas urgentes para que el periodismo vuelva a tener garantías se publicó primero en Sindicato Nacional de Trabajad...",
+   "source": "SNTP – Sindicato Nacional de Trabajadores de la Prensa (Venezuela)",
+   "source_id": "sntp_venezuela",
+   "language": "es",
+   "country": "Venezuela",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Novedades",
+    "Censura",
+    "Día del Periodista",
+    "Venezuela"
    ],
    "also_reported_by": []
   },
@@ -1227,8 +2296,73 @@
    "source_id": "rsf_colombia",
    "language": "en",
    "country": "Colombia",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "988b5bbee866971b",
+   "title": "Journalist pepper-sprayed by federal officers at Father’s Day protest",
+   "link": "https://pressfreedomtracker.us/all-incidents/journalist-pepper-sprayed-by-federal-officers-at-fathers-day-protest/",
+   "published": "2026-06-26T18:26:32+00:00",
+   "summary": "Independent reporter and photojournalist Wali Khan was targeted with pepper spray by federal officers while documenting protests outside a detention center in Newark, New Jersey, on June 21, 2026.Protests outside the Delaney Hall immigration detention facility began May 22, when many detainees we...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [
+    "Assault"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8ee88446b50e394b",
+   "title": "Can’t punish reporting it? Punish transporting it",
+   "link": "http://freedom.press/issues/cant-punish-reporting-it-punish-transporting-it/",
+   "published": "2026-06-26T17:09:00+00:00",
+   "summary": "Dear Friend of Press Freedom:A Texas man was sentenced to decades in prison for transporting political publications. We break down what his case means for press freedom. Plus, more on Brendan Carr’s latest attack on the media and journalist Catherine Herridge’s fight to protect her confidential s...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Journalists Covering Protests",
+    "Op-eds from FPF",
+    "Stop Arresting Journalists"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "85c1e0742db508d1",
+   "title": "Recent U.S. court cases breathe new life into Mexico narcopolitics reporting",
+   "link": "https://latamjournalismreview.org/articles/recent-u-s-court-cases-breathe-new-life-into-mexico-narcopolitics-reporting/",
+   "published": "2026-06-25T23:02:36+00:00",
+   "summary": "Mexican journalists who investigate alleged ties between politicians and drug cartels explain how they verify leaked information, avoid being manipulated and safely cover organized crime networks. The post Recent U.S. court cases breathe new life into Mexico narcopolitics reporting appeared first...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Investigative journalism",
+    "Mexico"
    ],
    "also_reported_by": []
   },
@@ -1242,8 +2376,220 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "IPFA"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "51bd1ce4ce016f33",
+   "title": "IPYS anuncia los proyectos ganadores de las becas de financiamiento para periodismo de investigación en América Latina",
+   "link": "https://ipys.org/periodismo-de-investigaci%C3%B3n/ipys-anuncia-los-proyectos-ganadores-de-las-becas-de-financiamiento-para",
+   "published": "2026-06-24T20:32:39+00:00",
+   "summary": "Con una destacada participación de 127 propuestas recibidas, el IPYS se complace en anunciar a los diez ganadores de las becas que financiarán el desarrollo de investigaciones periodísticas originales. Estos proyectos abordarán problemáticas de interés público en América Latina, con el objetivo d...",
+   "source": "IPYS – Instituto Prensa y Sociedad",
+   "source_id": "ipys",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a857c92066cdcb07",
+   "title": "A local newsroom traces the wounds Argentina’s dictatorship left on its community",
+   "link": "https://latamjournalismreview.org/articles/a-local-newsroom-traces-the-wounds-argentinas-dictatorship-left-on-its-community/",
+   "published": "2026-06-24T18:02:41+00:00",
+   "summary": "Qué digital, a hyper-local outlet from Mar del Plata, used archival footage, interviews and AI tools to produce a documentary that confronts a rising wave of denialism. The post A local newsroom traces the wounds Argentina’s dictatorship left on its community appeared first on LatAm Journalism Re...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Special reports",
+    "Argentina",
+    "Artificial intelligence",
+    "Innovation"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "fb9dae0ab733a536",
+   "title": "Court forces reporter to pay $800 a day for refusing to identify source",
+   "link": "http://freedom.press/issues/court-forces-reporter-to-pay-800-a-day-for-refusing-to-identify-source/",
+   "published": "2026-06-24T17:40:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, June 24, 2026 — A D.C. appeals court declined yesterday to pause an $800-per-day fine against investigative reporter Catherine Herridge for refusing to identify her confidential sources in response to a civil subpoena.Herridge was held in contempt of court in 2024...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Strengthen the Reporter-Source Privilege"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "14f625cfcfd085d4",
+   "title": "World Cup coverage, brought to you by one of Brazil’s biggest influencers",
+   "link": "https://latamjournalismreview.org/articles/world-cup-coverage-brought-to-you-by-one-of-brazils-biggest-influencers/",
+   "published": "2026-06-24T13:15:35+00:00",
+   "summary": "Virginia Fonseca’s debut on TV Globo is the latest sign of a media shift that critics say is blurring the line between journalism and entertainment. The post World Cup coverage, brought to you by one of Brazil’s biggest influencers appeared first on LatAm Journalism Review by the Knight Center.",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Media analysis"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8fe37f09288cc4e0",
+   "title": "Podcast and launch videos",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/podcast-and-launch-videos",
+   "published": "2026-06-24T10:54:55+00:00",
+   "summary": "Podcast and launch videos Matthew Leake Wed, 06/24/2026 - 11:54 Podcast and launch events",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "e1a35204a1758e7d",
+   "title": "Texas man sentenced to 30 years for transporting pamphlets",
+   "link": "http://freedom.press/issues/texas-man-sentenced-to-30-years-for-transporting-pamphlets/",
+   "published": "2026-06-23T20:47:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, June 23, 2026 — Texas artist Daniel “Des” Sanchez Estrada was sentenced to 30 years in federal prison today for transporting a box of zines, or political pamphlets. The prosecution claimed Sanchez moved the zines so they wouldn’t incriminate his wife, who attended...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Stop Arresting Journalists"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "494a24ca0f11a11f",
+   "title": "CONGRESO PERUANO IMPUTA SIN FUNDAMENTO A PERIODISTA DE INVESTIGACIÓN",
+   "link": "https://ipys.org/alertas/congreso-peruano-imputa-sin-fundamento-periodista-de-investigaci%C3%B3n",
+   "published": "2026-06-21T19:42:03+00:00",
+   "summary": "El 12 de junio del 2026, el Congreso aprobó el informe de una comisión investigadora del acuerdo de colaboración eficaz suscrito en 2019 entre el Estado peruano y la empresa brasileña Odebrecht, que confesó sobornos para obtener obras públicas. El informe recomienda al Ministerio Público iniciar...",
+   "source": "IPYS – Instituto Prensa y Sociedad",
+   "source_id": "ipys",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "47511ad1f0ce371c",
+   "title": "At Paramount, criticism is a conflict of interest. Corruption isn’t",
+   "link": "http://freedom.press/issues/at-paramount-criticism-is-a-conflict-of-interest-corruption-isnt/",
+   "published": "2026-06-19T13:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:This week, Paramount suddenly discovers a “conflict of interest,” New Jersey courts drag their feet on an unconstitutional prior restraint against a local newspaper, and Indiana dresses up execution secrecy as dignity. Plus, a birthday wish for the Espionage Act’s 109...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect the Press from Oligarchs",
+    "Op-eds from FPF",
+    "Safeguard Incarcerated Journalists"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "9f32c955874e73d3",
+   "title": "California's Civic Media Program Marks Significant Progress Over Past Efforts to Fund Local News",
+   "link": "https://www.freepressaction.org/news/californias-civic-media-program-marks-significant-progress-over-past-efforts-fund-local-news",
+   "published": "2026-06-16T16:31:40+00:00",
+   "summary": "This announcement marks a meaningful step forward for public investment in local news — and is also a clear signal of how much work remains to serve California communities.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "67e96452f7fb8da9",
+   "title": "Paramount+ blocks FPF ad about Trump-Ellison censorship threat",
+   "link": "http://freedom.press/issues/paramount-blocks-fpf-ad-about-trump-ellison-censorship-threat/",
+   "published": "2026-06-16T15:00:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, June 16, 2026 — Freedom of the Press Foundation (FPF) revealed today that Paramount+ rejected an ad calling attention to President Donald Trump’s crooked meddling in media transactions to extract favorable coverage. The ad would have run on the platform during the...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Stop the Paramount-Warner merger"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "a12f71dac5555c1c",
+   "title": "Photojournalist pushed over barrier, breaks flash, at New Jersey protest",
+   "link": "https://pressfreedomtracker.us/all-incidents/photojournalist-pushed-over-barrier-breaks-flash-at-new-jersey-protest/",
+   "published": "2026-06-15T19:15:58+00:00",
+   "summary": "Freelance photojournalist Pierre Lavie was shoved by police over a concrete barrier, falling and breaking his camera flash, while covering a protest against Immigration and Customs Enforcement and its treatment of detainees in Newark, New Jersey, on June 6, 2026.Protests outside the Delaney Hall...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [
+    "Assault",
+    "Equipment Damage"
    ],
    "also_reported_by": []
   },
@@ -1257,6 +2603,10 @@
    "source_id": "rompe_el_miedo_gt",
    "language": "es",
    "country": "Guatemala",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Alertas",
     "agresiones contra periodistas",
@@ -1265,6 +2615,23 @@
     "Violencia contra periodistas",
     "vox populi"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "f6638d7849e7b997",
+   "title": "Explore more than a decade of survey data across markets",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/interactive",
+   "published": "2026-06-15T12:51:40+00:00",
+   "summary": "Explore more than a decade of survey data across markets eduardo.suarez… Mon, 06/15/2026 - 13:51 16 June 2026",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -1277,6 +2644,10 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Killed"
    ],
@@ -1292,8 +2663,33 @@
    "source_id": "rsf_brazil",
    "language": "en",
    "country": "Brazil",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "68191905b6fab8f0",
+   "title": "PPE protects your right to know",
+   "link": "http://freedom.press/issues/ppe-protects-your-right-to-know/",
+   "published": "2026-06-12T17:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:“If I hadn’t had it, I’d be dead right now.” That’s how one journalist described the protective gear that kept her alive while covering a protest. So why are authorities trying to take it away? Plus: Our latest fights against the government secrecy and media mergers t...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Journalists Covering Protests",
+    "Stop the Paramount-Warner merger",
+    "Stop Searches & Seizures of Journalists’ Work"
    ],
    "also_reported_by": []
   },
@@ -1307,8 +2703,104 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "9459bc15fe9326d3",
+   "title": "NYC journalist shoved, pepper-sprayed while covering NBA watch party",
+   "link": "https://pressfreedomtracker.us/all-incidents/nyc-journalist-shoved-pepper-sprayed-while-covering-nba-watch-party/",
+   "published": "2026-06-11T19:24:45+00:00",
+   "summary": "Dean Moses, amNewYork’s police bureau chief and resident photographer, was pushed by a police officer and doused with pepper spray while covering clashes between police and fans at a basketball watch party in New York, New York, on June 8, 2026.Fans gathered in and around Bryant Park in Manhattan...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Assault"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8b6e2cf2fd7fcec9",
+   "title": "House Blocks Extension of Section 702 Spying Powers at a Time of Widespread Concern Over Trump Administration's Crackdown on Privacy and Dissent",
+   "link": "https://www.freepressaction.org/news/house-blocks-extension-section-702-spying-powers-time-widespread-concern-over-trump",
+   "published": "2026-06-11T08:47:50+00:00",
+   "summary": "There is still time for Congress to debate the impact of Section 702 on our civil rights and liberties and consider reforms.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c0978e7ead63bee4",
+   "title": "Videographer pushed down by officer at New Jersey immigration protest",
+   "link": "https://pressfreedomtracker.us/all-incidents/videographer-pushed-down-by-officer-at-new-jersey-immigration-protest/",
+   "published": "2026-06-10T18:55:53+00:00",
+   "summary": "Independent videographer David Snow was shoved to the ground by a police officer while documenting a protest against Immigration and Customs Enforcement and its treatment of detainees in Newark, New Jersey, on June 7, 2026.Protests outside the Delaney Hall immigration detention facility began May...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [
+    "Assault"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "fbe22c014b3b330b",
+   "title": "95 Local Organizations and Leaders Call on New Jersey Lawmakers to Restore $2.5 Million to Fund the State's Civic Information Consortium",
+   "link": "https://www.freepressaction.org/news/95-local-organizations-and-leaders-call-new-jersey-lawmakers-restore-25-million-fund-states",
+   "published": "2026-06-10T08:49:08+00:00",
+   "summary": "Restoring funding should be a must for any lawmaker wanting to better serve their constituents.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "fe7cab4c053303c2",
+   "title": "PPE bans not only risk reporters. They risk the public’s right to know",
+   "link": "http://freedom.press/issues/ppe-bans-not-only-risk-reporters-they-risk-the-publics-right-to-know/",
+   "published": "2026-06-10T01:55:00+00:00",
+   "summary": "Reporters covering protests in the United States have been shot with crowd-control munitions, sprayed with tear gas, hit with cars, and physically attacked by both law enforcement and demonstrators.So it makes sense that many journalists wear personal protective equipment like helmets, goggles, a...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Journalists Covering Protests"
    ],
    "also_reported_by": []
   },
@@ -1322,6 +2814,10 @@
    "source_id": "rompe_el_miedo_gt",
    "language": "es",
    "country": "Guatemala",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Boletines y comunicados",
     "criminalización",
@@ -1342,8 +2838,31 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Killed"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "9b7a91486a0a6e01",
+   "title": "Is DOJ hiding press protections to raid reporters? We sue to find out",
+   "link": "http://freedom.press/issues/is-doj-hiding-press-protections-to-raid-reporters-we-sue-to-find-out/",
+   "published": "2026-06-08T20:29:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:Washington, D.C., June 8, 2026 — Freedom of the Press Foundation (FPF) filed a federal Freedom of Information Act lawsuit today against the U.S. Department of Justice to uncover whether the agency is systematically misrepresenting the law and hiding statutory press protectio...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Strengthen the Freedom of Information Act"
    ],
    "also_reported_by": []
   },
@@ -1357,6 +2876,10 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -1370,9 +2893,52 @@
    "source_id": "rsf_colombia",
    "language": "en",
    "country": "Colombia",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "b833da7cc4bfc14f",
+   "title": "NJ police to journalists: Papers please",
+   "link": "http://freedom.press/issues/nj-police-to-journalists-papers-please/",
+   "published": "2026-06-05T13:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:Who gets to decide who’s a journalist? Police in New Jersey say it’s up to them. We disagree. Read on for more on that, plus the need for surveillance reform in light of President Donald Trump’s pick for intelligence chief, and what the murder of “60 Minutes” says abo...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Journalists Covering Protests",
+    "End Government Surveillance",
+    "Op-eds from FPF",
+    "Stop the Paramount-Warner merger"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "ddfbe18a60214636",
+   "title": "Senate Blocks Plan to Extend Spying Powers to an Administration Determined to Weaponize Them Against Americans",
+   "link": "https://www.freepressaction.org/news/senate-blocks-plan-extend-spying-powers-administration-determined-weaponize-them-against",
+   "published": "2026-06-05T08:17:59+00:00",
+   "summary": "Lawmakers must protect their constituents from a Trump administration determined to spy on all of us to quash political dissent.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -1385,6 +2951,10 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -1398,6 +2968,10 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1413,6 +2987,10 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "América Armenta"
    ],
@@ -1428,9 +3006,37 @@
    "source_id": "red_centroamericana",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Apoyo Psicoemocional",
     "Autocuido"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8ecd4a91d5af33d2",
+   "title": "Journalists stand up for their independence",
+   "link": "http://freedom.press/issues/journalists-stand-up-for-their-independence/",
+   "published": "2026-05-29T17:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:The fight for the free press is being waged on multiple fronts. This week: media mergers meant to please Trump, search warrants targeting journalists, government gag orders, and Catherine Herridge’s battle to protect confidential sources. Read on for more. Journalists...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Don’t Let Trump Destroy Press Freedom",
+    "Stop Searches & Seizures of Journalists’ Work",
+    "Strengthen the Reporter-Source Privilege",
+    "Op-eds from FPF",
+    "Tracker Data",
+    "Stop the Paramount-Warner merger"
    ],
    "also_reported_by": []
   },
@@ -1444,6 +3050,10 @@
    "source_id": "rsf_brazil",
    "language": "en",
    "country": "Brazil",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1459,6 +3069,10 @@
    "source_id": "rompe_el_miedo_gt",
    "language": "es",
    "country": "Guatemala",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Boletines y comunicados",
     "Ataques contra la libertad de expresión",
@@ -1482,8 +3096,73 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Communication campaign"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "9713e54c8e95c8c5",
+   "title": "Journalists slam proposed Paramount merger as threat to press freedom",
+   "link": "http://freedom.press/issues/journalists-slam-proposed-paramount-merger-as-threat-to-press-freedom/",
+   "published": "2026-05-27T23:38:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:A group of award-winning journalists and documentarians expressed strong opposition to the proposed merger between Paramount and Warner Bros. Discovery during a press conference today, citing the threat the deal poses to journalism and American democracy.Journalists Kara Swi...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Fund Journalism",
+    "Don’t Let Trump Destroy Press Freedom",
+    "Protect the Press from Oligarchs",
+    "Stop the Paramount-Warner merger"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "b640834b4a1bc179",
+   "title": "Unsealing of failed Don Lemon and Georgia Fort warrants exposes attack on press",
+   "link": "http://freedom.press/issues/unsealing-of-failed-don-lemon-and-georgia-fort-warrants-exposes-attack-on-press/",
+   "published": "2026-05-27T19:56:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, May 27, 2026 — A federal judge twice rejected search warrant applications for the YouTube accounts of journalists Don Lemon and Georgia Fort, according to court records unsealed yesterday. Federal prosecutors sought the search warrants in connection with the spurio...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Stop Searches & Seizures of Journalists’ Work"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "b5ad0a5f37ac4c27",
+   "title": "Latest ruling in Herridge case highlights need for federal shield law",
+   "link": "http://freedom.press/issues/latest-ruling-in-herridge-case-highlights-need-for-federal-shield-law/",
+   "published": "2026-05-27T00:29:00+00:00",
+   "summary": "The latest decision in journalist Catherine Herridge’s legal fight over confidential sources highlights how fragile the reporter-source privilege remains in the absence of a federal shield law. Not only did the court refuse to reconsider the order forcing Herridge to identify her confidential sou...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Pass the PRESS Act",
+    "Strengthen the Reporter-Source Privilege"
    ],
    "also_reported_by": []
   },
@@ -1497,7 +3176,49 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d4fa612094ab6233",
+   "title": "How journalists rely on VPNs to protect press freedom",
+   "link": "http://freedom.press/issues/how-journalists-rely-on-vpns-to-protect-press-freedom/",
+   "published": "2026-05-26T17:53:00+00:00",
+   "summary": "As online age verification laws become more common in the United States, Americans are increasingly turning to virtual private networks to avoid being forced to show their papers just to go online.For journalists, however, a VPN is more than just a way to access Instagram without having to show t...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Journalism Online"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "f0f37aa99a9886d4",
+   "title": "Trump’s government-wide NDA seeks to silence whistleblowers",
+   "link": "http://freedom.press/issues/trumps-government-wide-nda-seeks-to-silence-whistleblowers/",
+   "published": "2026-05-26T17:44:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:Washington, D.C., May 26, 2026 — The Washington Post reported today that the Trump administration is planning a broad, government-wide nondisclosure agreement to combat leaks to the press.The following can be attributed to Freedom of the Press Foundation (FPF) Daniel Ellsber...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Reform Government Secrecy"
+   ],
    "also_reported_by": []
   },
   {
@@ -1510,6 +3231,10 @@
    "source_id": "rsf_haiti",
    "language": "en",
    "country": "Haiti",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1525,6 +3250,10 @@
    "source_id": "rsf_mexico",
    "language": "en",
    "country": "Mexico",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1540,8 +3269,69 @@
    "source_id": "rsf_colombia",
    "language": "en",
    "country": "Colombia",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "c737b9ec1cf8137a",
+   "title": "Datos por país",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/datos-por-pais",
+   "published": "2026-05-22T14:04:41+00:00",
+   "summary": "Datos por país eduardo.suarez… Fri, 05/22/2026 - 15:04 Nota metodológica En esta sección publicamos una visión de mercado de los hallazgos, que incluye una descripción general de los puntos de datos más importantes en términos de noticias.Estos incluyen un resumen del consumo en cada mercado, inc...",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "f677c66e7d55c73a",
+   "title": "Judge angled for federal gig while hearing Trump’s Pulitzer suit",
+   "link": "http://freedom.press/issues/judge-angled-for-federal-gig-while-hearing-trumps-pulitzer-suit/",
+   "published": "2026-05-22T13:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:ABC seems to have found its spine, but whether attorney and judicial watchdogs will follow suit when lawless lawyers harm the free press remains an open question. Meanwhile, a major government transparency win temporarily ensures that presidential records can’t be des...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Don’t Let Trump Destroy Press Freedom",
+    "Defend Press Freedom",
+    "Stop the Paramount-Warner merger"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "683139c488d3dbfd",
+   "title": "How Paramount and DC Bar enabled Trump’s ‘weaponization’ slush fund",
+   "link": "http://freedom.press/issues/how-paramount-and-dc-bar-enabled-trumps-weaponization-slush-fund/",
+   "published": "2026-05-21T22:22:00+00:00",
+   "summary": "This week, President Donald Trump once again hijacked the court system to launder corruption. He purportedly “settled” litigation with his own Department of Justice in exchange for a $1.8 billion slush fund to compensate political allies who claim to be victims of weaponization, as well as a deal...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Don’t Let Trump Destroy Press Freedom"
    ],
    "also_reported_by": []
   },
@@ -1555,6 +3345,150 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "8fce7f2f356e0c6a",
+   "title": "Metodología",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/metodologia",
+   "published": "2026-05-21T15:53:20+00:00",
+   "summary": "Metodología eduardo.suarez… Thu, 05/21/2026 - 16:53 Metodología Publication date 16th June 2026",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "e733493442327ed9",
+   "title": "Complaint: Judge ruled for Trump in Pulitzer case while seeking nomination",
+   "link": "http://freedom.press/issues/complaint-judge-ruled-for-trump-in-pulitzer-case-while-seeking-nomination/",
+   "published": "2026-05-19T21:00:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, May 19, 2026 — Freedom of the Press Foundation (FPF) filed a complaint today with the Florida Judicial Qualifications Commission against Jeffrey Kuntz, chief judge of the Florida Fourth District Court of Appeal.Last February, Kuntz ruled in President Donald Trump’s...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Don’t Let Trump Destroy Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "ac0f67ae6041e7d9",
+   "title": "Press groups back ABC in fight with FCC over ‘The View,’ Kimmel",
+   "link": "http://freedom.press/issues/press-groups-back-abc-in-fight-with-fcc-over-the-view-kimmel/",
+   "published": "2026-05-19T20:55:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, May 19, 2026 — A coalition of 15 press freedom groups joined an open letter in solidarity with ABC, which recently took a stand against Federal Communications Commission efforts to chill protected free speech.The following quote can be attributed to Adam Rose, depu...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Defend Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "b88ee6de2f6fdba5",
+   "title": "Kompas May 2026",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/kompas-may-2026",
+   "published": "2026-05-19T13:40:15+00:00",
+   "summary": "In the news Kompas May 2026 https://www.kompas.id/artikel/en-mengapa-anak-muda-lebih-percaya-kreator-konten",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a30b9ec6439ff0b3",
+   "title": "Guardian May 2026",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/guardian-may-2026-0",
+   "published": "2026-05-19T13:34:31+00:00",
+   "summary": "In the news Guardian May 2026 https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumpti…",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "247a60c4d5755c25",
+   "title": "Guardian May 2026",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/guardian-may-2026",
+   "published": "2026-05-19T13:33:42+00:00",
+   "summary": "In the news Guardian May 2026 https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumpti…",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "075c9e61b8d793b0",
+   "title": "LatAm Journalism Review March 2026",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/latam-journalism-review-march-2026",
+   "published": "2026-05-19T13:31:09+00:00",
+   "summary": "In the news LatAm Journalism Review March 2026 https://latamjournalismreview.org/articles/in-brazilian-newsrooms-its-not-a-mat…",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "b2fdbc38fb735a7d",
+   "title": "Washington Post March 2026",
+   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/washington-post-march-2026",
+   "published": "2026-05-19T13:29:39+00:00",
+   "summary": "In the news Washington Post March 2026",
+   "source": "Reuters Institute for the Study of Journalism (Oxford)",
+   "source_id": "reuters_institute",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
    "tags": [],
    "also_reported_by": []
   },
@@ -1568,6 +3502,10 @@
    "source_id": "cpj_americas_es",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "IPFA"
    ],
@@ -1583,9 +3521,108 @@
    "source_id": "rsf_nicaragua",
    "language": "en",
    "country": "Nicaragua",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "a3b7b4938c10d4e1",
+   "title": "Todd Blanche targets press, leakers as acting attorney general",
+   "link": "https://pressfreedomtracker.us/all-incidents/todd-blanche-targets-press-leakers-as-acting-attorney-general/",
+   "published": "2026-05-15T17:53:11+00:00",
+   "summary": "As President Donald Trump’s second term continued in 2026, he removed Pam Bondi as attorney general. Her deputy, now acting Attorney General Todd Blanche, joined Trump in efforts to punish and intimidate news outlets that have covered Trump and his administration critically. We’re documenting Bla...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Chilling Statement"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "81669761497ea594",
+   "title": "When ‘national security’ is code for ‘bury the truth’",
+   "link": "http://freedom.press/issues/when-national-security-is-code-for-bury-the-truth/",
+   "published": "2026-05-15T17:00:00+00:00",
+   "summary": "Dear Friend of Press Freedom:Without whistleblowers, the reality of the war in Iran would stay hidden. The Trump administration is trying to silence those voices — and they want to force the press to help. Read on for how to stop them, and more of this week’s most important press freedom news. ‘N...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Source Leaks, Limit Leak Investigations",
+    "Protect Journalists Reporting on Gaza",
+    "Prior Restraint",
+    "Op-eds from FPF"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8b1f82952d12f41a",
+   "title": "IPYS y AECID convocan becas de investigación para América Latina",
+   "link": "https://ipys.org/noticias/ipys-y-aecid-convocan-becas-de-investigaci%C3%B3n-para-am%C3%A9rica-latina",
+   "published": "2026-05-13T19:54:34+00:00",
+   "summary": "El Instituto Prensa y Sociedad (IPYS), con el apoyo de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID), abre la presente convocatoria de becas de investigación periodística dirigida a periodistas de América Latina. Las propuestas seleccionadas recibirán financiamiento...",
+   "source": "IPYS – Instituto Prensa y Sociedad",
+   "source_id": "ipys",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d5fedc98794a55f8",
+   "title": "‘National security’ lies fuel Wall Street Journal probe",
+   "link": "http://freedom.press/issues/national-security-lies-fuel-wall-street-journal-probe/",
+   "published": "2026-05-12T22:51:00+00:00",
+   "summary": "FOR IMMEDIATE RELEASE:New York, May 12, 2026 — The Wall Street Journal revealed yesterday that the Department of Justice sent grand jury subpoenas to the paper, demanding records of its journalists related to reporting about the lead-up to the Iran war. In recent months, prosecutors have also sen...",
+   "source": "Freedom of the Press Foundation",
+   "source_id": "freedom_of_the_press_foundation",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Protect Source Leaks, Limit Leak Investigations",
+    "Don’t Let Trump Destroy Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "7b350bfd46795dd2",
+   "title": "Red Voces del Sur lanza el \"Informe Sombra 2025\": La libertad de prensa en América Latina retrocede ante la violencia estatal y el crimen organizado",
+   "link": "https://ipys.org/voces-del-sur/red-voces-del-sur-lanza-el-informe-sombra-2025-la-libertad-de-prensa-en-am%C3%A9rica-latina",
+   "published": "2026-05-12T21:03:33+00:00",
+   "summary": "La Red Voces del Sur (Red VDS) presentó hoy su octava edición del Informe Sombra: Cartografía del silencio.",
+   "source": "IPYS – Instituto Prensa y Sociedad",
+   "source_id": "ipys",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -1598,6 +3635,10 @@
    "source_id": "rsf_colombia",
    "language": "en",
    "country": "Colombia",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1613,6 +3654,10 @@
    "source_id": "rsf_guatemala",
    "language": "en",
    "country": "Guatemala",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1628,6 +3673,10 @@
    "source_id": "rsf_brazil",
    "language": "en",
    "country": "Brazil",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "News"
    ],
@@ -1643,10 +3692,31 @@
    "source_id": "red_centroamericana",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Apoyo Psicoemocional",
     "Red Centroamericana de Periodistas"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "09225ba519f4968d",
+   "title": "Senate Must Reject House's Blank Check on Spying Authority",
+   "link": "https://www.freepressaction.org/news/senate-must-reject-houses-blank-check-spying-authority",
+   "published": "2026-04-29T08:09:20+00:00",
+   "summary": "“Today, 42 Democrats joined 192 Republicans to co-sign Donald Trump and Stephen Miller’s domestic surveillance agenda, jeopardizing the civil rights and liberties of every person in the United States,” says Jenna Ruddock.",
+   "source": "Free Press Action",
+   "source_id": "free_press_action",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -1659,6 +3729,10 @@
    "source_id": "red_centroamericana",
    "language": "es",
    "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
    "tags": [
     "Oportunidades",
     "becas periodísticas",
