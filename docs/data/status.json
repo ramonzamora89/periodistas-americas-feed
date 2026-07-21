@@ -1,5 +1,5 @@
 {
- "last_run": "2026-07-20T21:41:39.385843+00:00",
+ "last_run": "2026-07-21T10:07:06.566363+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -117,7 +117,7 @@
    "id": "alert_en_killed",
    "name": "Google Alert: journalist killed (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -131,7 +131,7 @@
    "id": "alert_en_attacked",
    "name": "Google Alert: journalist attacked/assaulted (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
@@ -166,7 +166,7 @@
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
@@ -194,7 +194,7 @@
    "id": "alert_es_amenazado",
    "name": "Google Alert: periodista amenazado/a (ES)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -208,14 +208,14 @@
    "id": "alert_es_detenido",
    "name": "Google Alert: periodista detenido/a (ES)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
    "id": "alert_es_secuestrado",
    "name": "Google Alert: periodista secuestrado/a (ES)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -229,7 +229,7 @@
    "id": "alert_es_censura",
    "name": "Google Alert: censura a periodistas (ES)",
    "ok": true,
-   "items_fetched": 7,
+   "items_fetched": 1,
    "error": null
   },
   {
@@ -243,7 +243,7 @@
    "id": "alert_es_exilio",
    "name": "Google Alert: periodista exiliado (ES)",
    "ok": true,
-   "items_fetched": 7,
+   "items_fetched": 6,
    "error": null
   },
   {
