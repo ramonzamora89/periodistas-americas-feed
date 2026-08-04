@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-08-04T10:10:59.034999+00:00",
- "count": 191,
+ "generated_at": "2026-08-04T21:43:59.463324+00:00",
+ "count": 175,
  "items": [
+  {
+   "id": "845c6bfbf412f769",
+   "title": "How subpoenas against journalists threaten press freedom",
+   "link": "https://cpj.org/2026/08/how-subpoenas-against-journalists-threaten-press-freedom/",
+   "published": "2026-08-04T21:31:07+00:00",
+   "summary": "Journalists rely on confidential sources to uncover information that governments, corporations, and powerful individuals often want to keep hidden. When authorities subpoena journalists in attempts to compel them to reveal their reporting sources, they undermine one of the core functions of a fre...",
+   "source": "CPJ – Americas",
+   "source_id": "cpj_americas_en",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "First Amendment",
+    "Legal Action",
+    "New York Times",
+    "President Donald Trump",
+    "Subpoena",
+    "The Wall Street Journal",
+    "The Washington Post",
+    "Trump administration"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "2daaea3ebf48e422",
+   "title": "Ospital advierte riesgo de censura en ley de derechos de audiencias - Rotativo de Querétaro",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://rotativo.com.mx/ospital-ley-derechos-audiencias-censura-queretaro-2026&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2Ga74CpAZk0Yv6AyuSCPYm",
+   "published": "2026-08-04T20:51:34+00:00",
+   "summary": "Periodista. Periodista mexicano, director y editor de Rotativo de Querétaro, medio de comunicación que fundó en 1990 y que se ha consolidado como ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "fff652fe37b1b034",
+   "title": "Brazilian news outlets say they’re rejecting sports betting ads to preserve independence",
+   "link": "https://latamjournalismreview.org/articles/brazilian-news-outlets-say-theyre-rejecting-sports-betting-ads-to-preserve-independence/",
+   "published": "2026-08-04T20:34:21+00:00",
+   "summary": "More than 60 organizations say they won't accept advertising from an industry they argue is fueling a national epidemic and demand independent scrutiny. The post Brazilian news outlets say they’re rejecting sports betting ads to preserve independence appeared first on LatAm Journalism Review by t...",
+   "source": "LatAm Journalism Review",
+   "source_id": "latam_journalism_review",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Collaboration",
+    "Media sustainability"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "44df35967b366ff2",
+   "title": "Pide PRI a ciudadanía estar alerta ante posibles actos de censura - El Comentario",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://elcomentario.ucol.mx/%3Fp%3D337436&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3fQbSznAVwFMfjaah4FlLo",
+   "published": "2026-08-04T20:02:21+00:00",
+   "summary": "También mencionó el caso del periodista veracruzano Rafael León Segovia, quien fue acusado de terrorismo después de cubrir hechos violentos de interés ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1584ed3759d3a318",
+   "title": "Gobernador de Oaxaca acude a FGR y pide se investigue a fondo asesinato de periodista",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://amexi.com.mx/estados/gobernador-de-oaxaca-acude-a-fgr-y-pide-se-investigue-a-fondo-asesinato-de-periodista/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw0i0CPY9hyKv9xDSgNQd4jV",
+   "published": "2026-08-04T19:35:47+00:00",
+   "summary": "Lee: Rechaza FGJO omisiones en el caso del periodista asesinado. Destaca gobernador liderazgo social. En conferencia de prensa, el mandatario de ...",
+   "source": "Google Alert: periodista asesinado/a (ES)",
+   "source_id": "alert_es_asesinado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "6c6d56b50d4e2ba6",
+   "title": "¿Y quién cuestiona a periodistas? - Impulso Informativo |",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://impulsoinformativo.net/y-quien-cuestiona-a-periodistas/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2cor40JjV2522OM37UUTdT",
+   "published": "2026-08-04T19:04:33+00:00",
+   "summary": "Ser reportero o periodista no significa cargar bajo ... Los cuestionamientos, la crítica, el derecho de réplica, no tienen que ver con la censura ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4c94c2a597f26133",
+   "title": "Lineamientos como están, pero con árbitro autónomo; ¿juega? - El Financiero",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/08/04/lineamientos-como-estan-pero-con-arbitro-autonomo-juega/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0mJuB_2C5PwdqjxtSxBRx1",
+   "published": "2026-08-04T18:34:36+00:00",
+   "summary": "En cambio, no pocos detractores de esas reglas ven un andamiaje que alentará y justificará la censura. ... periodista… de parte de morenistas o ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "682b59a2a8a3063e",
+   "title": "Múltiples corporaciones de seguridad vulneran ejercicio periodístico de a Rosy Linares, en Morelos",
+   "link": "https://articulo19.org/multiples-corporaciones-de-seguridad-vulneran-ejercicio-periodistico-de-a-rosy-linares-en-morelos/",
+   "published": "2026-08-04T18:05:51+00:00",
+   "summary": "Foto: Cortesía de Rosy Linares Ciudad de México, 4 de agosto de 2026. ARTICLE 19 expresa preocupación ante las retención indebida e intimidaciones sufridas en la madrugada del 23 de […]",
+   "source": "Artículo 19 (México y Centroamérica)",
+   "source_id": "articulo19",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Alertas",
+    "Protección y defensa"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "766dddecae9d2ffc",
+   "title": "La inesperada confesión de Josefina Pouso sobre Jorge Rial tras una fuerte acusación",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pronto.com.ar/espectaculos/2026/8/4/la-inesperada-confesion-de-josefina-pouso-sobre-jorge-rial-tras-una-fuerte-acusacion-261752.html&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw16MtTGfXW0ZZlO4Fi15Ntx",
+   "published": "2026-08-04T17:56:37+00:00",
+   "summary": "La periodista respondió luego de que un usuario la descalificara ... De princesa al exilio: detalles desconocidos de la relación entre Jorge Rial y Loly ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5a31ba96b5cfd152",
+   "title": "Sheinbaum exhibe hipocresía de la oposición por críticas a derechos de las audiencias",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://zonafranca.mx/politica-sociedad/sheinbaum-exhibe-hipocresia-de-la-oposicion-por-criticas-a-derechos-de-las-audiencias/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1JoLyVyT93uTYrugz0F0xy",
+   "published": "2026-08-04T17:52:14+00:00",
+   "summary": "censura derivada de los nuevos lineamientos sobre derechos de las ... periodista Sergio Sarmiento, y el exdiputado Gabriel Quadri. “Hay mucha ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: censura a periodistas (ES)",
+     "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinembargo.mx/4849054/sheinbaum-exhibe-hipocresia-de-la-oposicion-por-criticas-a-derechos-de-las-audiencias/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1t0axfoLoaL1ALZ12mjDWR"
+    }
+   ]
+  },
+  {
+   "id": "eea9a0377af96d90",
+   "title": "Sheinbaum critica “hipocresía” de Alito Moreno por reclamo de censura del INE",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eluniversal.com.mx/nacion/sheinbaum-critica-hipocresia-de-alito-morena-por-reclamo-de-censura-del-ine-priista-dice-mentiras-asegura/%3FoutputType%3Damp&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0iWz_fxsnGAQ1i2dXNF_CP",
+   "published": "2026-08-04T17:37:44+00:00",
+   "summary": "Periodista webVer perfil. Ad. Luego de que el INE resolvió prohibir que se llame “narcopartido” a Morena, la presidenta Claudia Sheinbaum Pardo ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d140e3f77c794b89",
+   "title": "Fallece Alfonso \"Alfy\" Fanjul, empresario cubanoamericano que reconstruyó uno de los ...",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cibercuba.com/noticias/2026-08-04-u1-e207888-s27061-nid337005-fallece-alfonso-alfy-fanjul-empresario&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1utceOX9sNXPD5pOjwUIjd",
+   "published": "2026-08-04T17:18:53+00:00",
+   "summary": "... exilio cubano, falleció a los 89 años en Palm Beach, según informó en primicia el periodista Wilfredo Cancio Isla.",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4455eb5dc22de480",
+   "title": "En México, un periodista asesinado por mes en 2026: RSF - Tribuna Económica",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://tribunaeconomica.com.mx/publicaciones/seccion/nacional/en-mexico-un-periodista-asesinado-por-mes-en-2026-rsf/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw2fc1hpEhG3eKg3hmAI84PK",
+   "published": "2026-08-04T17:13:13+00:00",
+   "summary": "En un comunicado la organización detalló lo siguiente: Se trata del séptimo periodista asesinado en México desde el inicio de 2026 y del segundo en ...",
+   "source": "Google Alert: periodista asesinado/a (ES)",
+   "source_id": "alert_es_asesinado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista amenazado/a (ES)",
+     "link": "https://www.google.com/url?rct=j&sa=t&url=https://tribunaeconomica.com.mx/publicaciones/seccion/nacional/en-mexico-un-periodista-asesinado-cada-mes-en-2026-rsf/&ct=ga&cd=CAIyGjY1Y2U1ZDk5ZmRiODFlYTM6Y29tOmVzOlVT&usg=AOvVaw2DwA7JSoNMzX0G8xkD0IKi"
+    }
+   ]
+  },
+  {
+   "id": "de0d0df165da051a",
+   "title": "Ciro responde a Sheinbaum tras video de Canal 40 | Animal Político",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.animalpolitico.com/politica/ciro-responde-sheinbaum-derechos-de-audiencia-canal-40&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3LNAgHui-F-7s2tpv6fqaH",
+   "published": "2026-08-04T17:06:40+00:00",
+   "summary": "El periodista precisó que se trata de un programa realizado en mayo del 2000, en el contexto de las elecciones presidenciales de ese año, en las que ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: censura a periodistas (ES)",
+     "link": "https://www.google.com/url?rct=j&sa=t&url=https://grupoanimal.mx/politica/ciro-responde-sheinbaum-derechos-de-audiencia-canal-40&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2JGrEr5-Xq2PQG-tr5l24G"
+    }
+   ]
+  },
+  {
+   "id": "4c40eca6209e2ae3",
+   "title": "Directivo de la RCP expone ante la CIDH el deterioro de la libertad de prensa en Centroamérica",
+   "link": "https://periodistascentroamericanos.org/comunicados/directivo-de-la-rcp-expone-ante-la-cidh-el-deterioro-de-la-libertad-de-prensa-en-centroamerica/",
+   "published": "2026-08-04T16:51:43+00:00",
+   "summary": "Pedro Vaca, Relator de Libertad de Expresión de la CIDH (izquierda); y Carlos Herrera, directivo de la RCP (derecha). Fotografía: cortesía. El integrante de la Junta Directiva de la Red Centroamericana de Periodistas (RCP), Carlos Herrera, sostuvo este lunes una reunión de trabajo con el Relator...",
+   "source": "Red Centroamericana de Periodistas",
+   "source_id": "red_centroamericana",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Comunicados"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "9387b9d53a4319cf",
+   "title": "Pide Nahle a CEAPP elaborar censo que permita identificar a quienes ... - Gobernantes.com",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gobernantes.com/vernota.php%3Fid%3D523838&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw30G2tG1iBBb01drZgJiVW8",
+   "published": "2026-08-04T16:35:43+00:00",
+   "summary": "... censura. No, eso no es cierto”, sostuvo. Nahle García refirió que la ... Yo no estoy diciendo: '¿Eres periodista o no eres periodista?'. Yo ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "18e1f5c1181c100b",
+   "title": "American Faces Trial Over Comments About South Korean President - WMAL",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wmal.com/2026/08/04/american-faces-trial-over-comments-about-south-korean-president/&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw2BNSvqPH4vsbU1CFcXlU34",
+   "published": "2026-08-04T16:33:52+00:00",
+   "summary": "He said South Korea is under attack by “a full-blown hybrid war by ... press freedom advocates. Pending legislation, dubbed colloquially the ...",
+   "source": "Google Alert: press freedom attack (EN)",
+   "source_id": "alert_en_press_freedom",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "101820d3d17b7415",
+   "title": "Gobierno niega censura e intervención en lineamientos de audiencias - El Sol de México",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://oem.com.mx/elsoldemexico/mexico/gobierno-niega-censura-e-intervencion-en-lineamientos-de-audiencias-no-se-sancionaran-contenidos-dice-alcalde-31428117&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1IZQIHWKggVc-47y1DbBcQ",
+   "published": "2026-08-04T16:27:10+00:00",
+   "summary": "Periodista con más de 20 años de experiencia en la cobertura de política y gobierno. Cubro las fuentes de Presidencia de la República, donde se ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "072ce144dfb11a52",
+   "title": "Directiva de la RCP participa en el ContraCorriente Fest 2026",
+   "link": "https://periodistascentroamericanos.org/sin-categoria/directiva-de-la-rcp-participa-en-el-contracorriente-fest-2026/",
+   "published": "2026-08-04T16:24:19+00:00",
+   "summary": "De izquierda a derecha: Thelma Mejía, directiva de la RCP; José Carlos Zamora, de CPJ; Amada Ponce de C-Libre; Julia Corado, Guatemala; y Fernando Silva, Contracorriente. Fotografia: tomada de la cuenta X de Contracorriente. La entrada Directiva de la RCP participa en el ContraCorriente Fest 2026...",
+   "source": "Red Centroamericana de Periodistas",
+   "source_id": "red_centroamericana",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Comunicados",
+    "Sin categoría"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "3798a676731b9f01",
+   "title": "Estos son los tres motivos por los que un medio sería sancionado por los lineamientos ... - Infobae",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/mexico/2026/08/04/estos-son-los-tres-motivos-por-los-que-un-medio-seria-sancionado-por-los-lineamientos-sobre-derechos-de-las-audiencias/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0TZlyn3pCV8dxcBv76dZSx",
+   "published": "2026-08-04T16:22:50+00:00",
+   "summary": "Asimismo, recordó que esta normativa no busca censurar a ningún contenido o periodista ... “Es mejor la regulación que la censura”: Sheinbaum ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "b37f321147647f81",
+   "title": "Censura y estupidez como parte del proyecto | Opinión - BioBioChile",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/08/04/censura-y-estupidez-como-parte-del-proyecto.shtml&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw29ZlGnkyQJ0yEjzF5d9dpm",
+   "published": "2026-08-04T16:20:05+00:00",
+   "summary": "En el Museo O'Higginiano de Talca se presentaría el libro del escritor y periodista Gabriel Rodríguez, destacado intelectual de la zona ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7da7fcdaba1ce33f",
+   "title": "Sheinbaum rechaza censura en lineamientos de audiencias; niega intervención del gobierno",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.elsoldemexico.com.mx/elsoldemexico/mexico/sheinbaum-rechaza-censura-en-lineamientos-de-audiencias-niega-intervencion-del-gobierno-31428117&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw01b4YNBrb_fgd5Pe0TKRqS",
+   "published": "2026-08-04T16:19:27+00:00",
+   "summary": "Nada de esto está establecido en los lineamientos”, expuso. Laura Arana. Periodista con más de 20 años de experiencia en la cobertura de política y ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "f0bf186a544ef334",
+   "title": "Luisa María Alcalde aclara qué contemplan los lineamientos para audiencias y niega ...",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eleconomista.com.mx/politica/luisa-maria-alcalde-aclara-contemplan-lineamientos-audiencias-niega-censura-medios-20260804-826554.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2EpePa1PxK789c2kMMW-kL",
+   "published": "2026-08-04T16:13:19+00:00",
+   "summary": "... censura para los medios de comunicación ni facultan al Estado para ... Periodista egresada de la Facultad de Ciencias Políticas y Sociales ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1be8ac301059524c",
+   "title": "La presidenta Sheinbaum exhibe un video de Sergio Sarmiento y rechaza acusaciones de censura",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/video/politica-mexicana/la-presidenta-sheinbaum-exhibe-un-video-de-sergio-sarmiento-y-rechaza-acusaciones-de-censura/4OdFrf8I/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2g_MWHC00RaMNBmEJmp_iB",
+   "published": "2026-08-04T15:58:46+00:00",
+   "summary": "En la mañanera, la mandataria retoma un debate del extinto CNI para sostener que el esquema de protección a las audiencias fue planteado por ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "aab6d49654ecd82f",
+   "title": "Sheinbaum replica ante las críticas de censura a su iniciativa de poner reglas al derecho ... - EL PAÍS",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://elpais.com/mexico/2026-08-04/sheinbaum-replica-ante-las-criticas-de-censura-a-su-iniciativa-de-poner-reglas-al-derecho-de-las-audiencias.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0l3keIEc8IkkFdTF-mH6tr",
+   "published": "2026-08-04T15:56:27+00:00",
+   "summary": "Es periodista mexicana, está especializada en temas de política: Congreso de la Unión, partidos y elecciones. Ha trabajado en distintos medios ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "fd19711df904395c",
+   "title": "“Es mejor la regulación que la censura”: Sheinbaum justifica lineamientos sobre ... - Infobae",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/mexico/2026/08/04/es-mejor-la-regulacion-que-la-censura-sheinbaum-justifica-lineamientos-sobre-derechos-de-las-audiencias/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0EN9RH-Uffeh9g6QPI1FQI",
+   "published": "2026-08-04T15:47:37+00:00",
+   "summary": "La presidenta defendió las medidas que su gobierno implementará a medios de comunicación para diferenciar cuándo un contenido es publicidad.",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9e986a7bd7b21e2a",
+   "title": "Sheinbaum recuerda declaración de Sergio Sarmiento contra los medios tras acusar al ... - Infobae",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/mexico/2026/08/04/sheinbaum-recuerda-declaracion-de-sergio-sarmiento-contra-los-medios-tras-acusar-al-gobierno-de-censura-hay-mucha-hipocresia/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1Si1Y-bCRBn7013PPL-vKs",
+   "published": "2026-08-04T15:37:50+00:00",
+   "summary": "La presidenta revive video de Sarmiento sobre medios que “mienten deliberadamente” y lo acusa de hipocresía tras críticas por censura.",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c1e3ac1d7560ffa9",
+   "title": "El muro contra la censura no es la ley: Jesús Silva Herzog #Colaboración - José Cárdenas",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://josecardenas.com/2026/08/el-muro-contra-la-censura-no-es-la-ley-jesus-silva-herzog-colaboracion/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3e2c_-sPRs8t-FZXlNkXiN",
+   "published": "2026-08-04T15:23:49+00:00",
+   "summary": "En el país más democrático del mundo, la estigmatización constante de periodistas críticos desde la tribuna presidencial, el asesinato de decenas de ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1131420935950858",
+   "title": "El laberinto de la dictadura: entre la OEA, la resistencia cívica, y los empleados públicos",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://confidencial.digital/entrevistas/el-laberinto-de-la-dictadura-entre-la-oea-la-resistencia-civica-y-los-empleados-publicos/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw0_Etqd8rBA8RzfxAe5e0YI",
+   "published": "2026-08-04T13:35:22+00:00",
+   "summary": "Chamorro. Periodista nicaragüense en el exilio. Fundador y director de CONFIDENCIAL y Esta Semana. Miembro del Consejo Rector de la Fundación Gabo. Ha ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
   {
    "id": "e5dd08ce7fa80f9e",
    "title": "#IFJBlog: Press Freedom: holding the line on the public's right to know - IFJ",
@@ -11,6 +539,58 @@
    "source": "Google Alert: press freedom attack (EN)",
    "source_id": "alert_en_press_freedom",
    "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "750ffe3c6f2a4d1a",
+   "title": "Ortega, dictador perpetuo | El Universo - PressReader",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/ecuador/el-universo/20260804/281663966815112&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw3vI3jZvXfnje45vX6uD0jH",
+   "published": "2026-08-04T08:50:01+00:00",
+   "summary": "... periodista asesinado durante la dictadura de Somoza. Ortega nuevamente intentó llegar a la presidencia en las elecciones de 1996 y en 2001, pero ...",
+   "source": "Google Alert: periodista asesinado/a (ES)",
+   "source_id": "alert_es_asesinado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "3fa65ffb0f5528e1",
+   "title": "Un libro rescata el exilio del músico Deseado Mercadal y lo conecta con los refugiados de hoy",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://actualidadvalencia.com/exilio-deseado-mercadal-libro-historia-actualidad/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1gi7h9BrbbNrdoB7fPtj35",
+   "published": "2026-08-04T08:45:05+00:00",
+   "summary": "El periodista y escritor alicantino Tomás Andújar ha reconstruido en la novela 'Donde acaba el agua' el exilio del músico socialista Deseado ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa",
+    "migracion"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5a6e3fa75453792d",
+   "title": "El periodista Tomás Andújar recupera en un libro el exilio del músico Deseado Mercadal",
+   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/espana/agencias/2026/08/04/el-periodista-tomas-andujar-recupera-en-un-libro-el-exilio-del-musico-deseado-mercadal/%3FoutputType%3Damp-type&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1a2a5sY9cRaNKXA7-_zxGV",
+   "published": "2026-08-04T06:53:03+00:00",
+   "summary": "Carla P. Gumbau. Madrid, 4 ago (EFE).- El periodista y escritor Tomás Andújar, delegado de la Agencia EFE en Baleares, se topó con Deseado ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -54,23 +634,6 @@
    "also_reported_by": []
   },
   {
-   "id": "89667c2c729fb2b0",
-   "title": "Gobernadora Nahle rechaza que nuevos lineamientos de audiencias representen censura",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://billieparkernoticias.com/gobernadora-nahle-rechaza-que-nuevos-lineamientos-de-audiencias-representen-censura/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2IUK1I-soIaMph_AZh8zwW",
-   "published": "2026-08-04T03:13:07+00:00",
-   "summary": "“Un periodista es igual que un médico o un ingeniero; debe tener ética en su profesión”, expresó. La mandataria también criticó a un grupo de ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "71a0a620808c031e",
    "title": "Consejos de periodistas exiliados para proteger fuentes y evitar diseminar propaganda",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://gijn.org/es/articulos/consejos-periodistas-exiliados-proteger-fuentes/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1F0ztZi3BhP4-gITNk74cV",
@@ -78,108 +641,6 @@
    "summary": "En IRE26, la ex periodista de Radio Free Asia Tenzin Pema afirmó que los medios en el exilio representan un “salvavidas” para los reporteros y los ...",
    "source": "Google Alert: periodista exiliado (ES)",
    "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7849a1fa1e20da0f",
-   "title": "Julia Jiménez: No permitiremos que el gobierno de Morena decida qué se dice y qué se calla",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://vadenuez.info/wp/julia-jimenez-no-permitiremos-que-el-gobierno-de-morena-decida-que-se-dice-y-que-se-calla/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1XcH53c2bCX7EFuAxfbNV7",
-   "published": "2026-08-04T02:49:21+00:00",
-   "summary": "... Censura” y exigió garantías para la libertad de expresión y la ... Durante la conferencia también condenó la agresión contra el periodista ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7274661212b797d6",
-   "title": "Rocío Nahle propone censo de periodistas en Veracruz y descarta censura en Ley de ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://diariodelistmo.com/estatal/rocio-nahle-propone-censo-de-periodistas-en-veracruz-y-descarta-censura-en-ley-de-telecomunicaciones-20260803-0086.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0kzy3DlGUpb2ggiZrCKii0",
-   "published": "2026-08-04T02:11:25+00:00",
-   "summary": "La mandataria estatal sugirió que la CEAPP elabore un registro oficial del gremio periodístico, al tiempo que defendió los nuevos lineamientos ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "3fefd872c307a9a0",
-   "title": "¡Revienta debate por la \"Ley Censura\"! Oposición acusa a Morena de controlar a los medios",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DE1AdZxRAcXs&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1z5HpQwS2D14rls-Ps-wwU",
-   "published": "2026-08-04T02:07:50+00:00",
-   "summary": "La discusión sobre los nuevos lineamientos en materia de derechos de las audiencias provocó un intenso enfrentamiento entre legisladores de ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ef61c84ce3809d93",
-   "title": "Ley de audiencias no busca censurar, afirma Miguel Ángel López Farías",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://heraldodemexico.com.mx/nacional/2026/8/3/ley-de-audiencias-no-busca-censurar-afirma-miguel-angel-lopez-farias-862173.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw35cCmmfxA9Q9W7foGL77I8",
-   "published": "2026-08-04T01:10:00+00:00",
-   "summary": "El periodista afirmó que existe una amplia discusión pública en torno a ... censura, sino una oportunidad para fortalecer la ética y la ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "1ed198be90a81bb8",
-   "title": "México... ¡No te engañes! Washington va a usar todas sus herramientas para evitar censura ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eleconomista.com.mx/opinion/mexico-te-enganes-washington-todas-herramientas-evitar-censura-abierta-prensa-mexicana-20260803-826439.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1yv61xhQWYLxyB9KZJICbA",
-   "published": "2026-08-04T00:12:38+00:00",
-   "summary": "Es el periodista que más sabe y entiende lo que ocurre en Estados Unidos, y conoce y entiende también lo que ocurre en México. Conoce a las ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "430107fa77510687",
-   "title": "Rocío Nahle se suma a los gobernadores 4T que quieren \"ordenar\" el periodismo | Eme equis",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://emeequis.com/al-dia/rocio-nahle-se-suma-a-los-gobernadores-4t-que-quieren-ordenar-el-periodismo/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1W1fZHstpMb8K_wO6n4Oe4",
-   "published": "2026-08-03T23:23:36+00:00",
-   "summary": "... periodista”, sostuvo la mandataria durante su conferencia de prensa de ... censura. No, eso no es cierto”. Opinó sobre lo que debería ser el ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -207,91 +668,6 @@
    "also_reported_by": []
   },
   {
-   "id": "9bc0e7e8672f8974",
-   "title": "La dura advertencia de la Superintendencia a Habitat tras sanción por actuar fuera de la norma",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.biobiochile.cl/noticias/economia/negocios-y-empresas/2026/08/03/la-dura-advertencia-de-la-superintendencia-a-habitat-tras-sancion-por-actuar-fuera-de-la-norma.shtml&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1ZrUm9aDG4f5HvN69LXglv",
-   "published": "2026-08-03T22:17:09+00:00",
-   "summary": "La Superintendencia de Pensiones (SP) decidió aplicar la sanción de censura a AFP Habitat S.A., tras constatar ... Periodista del área ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "d330d1fda0b67fd2",
-   "title": "Censura 2.0 | Radio Fórmula",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.radioformula.com.mx/opinion/censura-2.0-20260803-0060.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1F_oAKSHIg5Q1fFPnp6w7B",
-   "published": "2026-08-03T21:56:04+00:00",
-   "summary": "Censura 2.0. Jesús Silva Herzog Márquez captó el fondo del asunto ... José Cárdenas es periodista y conductor en RadioFórmula, con una amplia ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ae029a82b4b12a14",
-   "title": "Nueva ley de comunicación no es censura, asegura la gobernadora - VeracruzInforma",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://veracruzinforma.com.mx/nueva-ley-de-comunicacion-no-es-censura-asegura-la-gobernadora/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw38ypXe-Tv5YjxcMYwxVTjv",
-   "published": "2026-08-03T21:42:51+00:00",
-   "summary": "... periodista”. Finalmente, negó que esta ley de paso a la censura, toda vez que se construyó con la participación de distintos sectores, como la ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "68b6c19063a50c18",
-   "title": "Myrka Dellanos cuestiona el periodismo actual: \"Si no eres izquierdista, no te aceptan a trabajar\"",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://listindiario.com/entretenimiento/farandula/20260803/myrka-dellanos-cuestiona-ejercicio-periodismo-actual-izquierdista-te-aceptan-trabajar_916570/amp.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2Vf7uOfY2J_Mjz_pa5gve9",
-   "published": "2026-08-03T21:20:04+00:00",
-   "summary": "La periodista afirmó que la censura y las diferencias ideológicas han transformado el ambiente en algunas cadenas de televisión.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "74ea647df8740e18",
-   "title": "'Que se responda en tiempo real a la presidenta': PAN exigirá derecho de réplica en ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.elfinanciero.com.mx/nacional/2026/08/03/que-se-responda-en-tiempo-real-a-la-presidenta-pan-exigira-derecho-de-replica-en-mananeras-de-sheinbaum/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1KS2QkpvObwJfMN3WVJBlU",
-   "published": "2026-08-03T21:15:44+00:00",
-   "summary": "La visión del PAN sobre la propuesta de los derechos de las audiencias es que va en camino a ser un método de censura y control del gobierno de Morena ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "183895225d10417f",
    "title": "Exilio: la CIDH volverá a escuchar a los guatemaltecos criminalizados - Prensa Comunitaria",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://prensacomunitaria.org/2026/08/exilio-la-cidh-volvera-a-escuchar-a-los-guatemaltecos-criminalizados/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1RwN1yWUfq8RK8Bp7HrgXI",
@@ -299,74 +675,6 @@
    "summary": "Periodista con 10 años de experiencia, enfocado en cobertura de asuntos judiciales y casos de corrupción. Comprometido con un periodismo ...",
    "source": "Google Alert: periodista exiliado (ES)",
    "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ef00fd007f271a3c",
-   "title": "Advierten riesgo de censura por nuevos lineamientos de la CRT - El Mexicano",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://el-mexicano.com.mx/Noticia/Tijuana/97582/Advierten-riesgo-de-censura-por-nuevos-lineamientos-de-la-CRT&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw28t89q9_dKCYSaYs8aPkdB",
-   "published": "2026-08-03T20:36:50+00:00",
-   "summary": "Especialistas señalan que la propuesta de la Comisión Reguladora de Telecomunicaciones sobre contenidos \"falsos\" podría vulnerar las garantías ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "36b0a0269fa66862",
-   "title": "¿Y QUIÉN CUESTIONA A PERIODISTAS? - e-consulta.com",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-consulta.com/opinion/2026-08-03/y-quien-cuestiona-periodistas&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2qhEyYiyG9qMhnYxa4dnwe",
-   "published": "2026-08-03T20:32:29+00:00",
-   "summary": "Periodista con más de cincuenta años de trayectoria profesional, cuya vida ha estado dedicada a narrar la historia política, social y económica de ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "57d56192f78b28be",
-   "title": "Respalda Nahle crear censo de periodistas en Veracruz; CEAPP deberá encargarse, dice",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.alcalorpolitico.com/informacion/respalda-nahle-crear-censo-de-periodistas-en-veracruz-ceapp-debera-encargarse-dice-448031.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0YCHFcRoj5Or2FGoSyRJyj",
-   "published": "2026-08-03T20:31:58+00:00",
-   "summary": "... censura para los medios de comunicación y sostuvo que la . ... No estoy diciendo: eres periodista o no eres periodista. Yo tengo que ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "521844ee79662827",
-   "title": "Jorge Romero acusa a la 4T de buscar “censura” en redes y arremete contra la mañanera",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.proceso.com.mx/nacional/politica/2026/8/2/jorge-romero-acusa-a-la-4t-de-buscar-censura-en-redes-y-arremete-contra-la-mananera-377291.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3U770R5yMAdJaDMm9lqCmO",
-   "published": "2026-08-03T20:13:51+00:00",
-   "summary": "La censura es una pieza más del proyecto de Morena para completar una dictadura en la que el gobierno decida qué se puede decir”, ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -411,91 +719,6 @@
    "also_reported_by": []
   },
   {
-   "id": "ba5977873f35f8df",
-   "title": "Pide Rocío Nahle a la CEAPP censar a periodistas en Veracruz - Imagen del Golfo",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://imagendelgolfo.mx/estado/pide-nahle-censar-a-periodistas-rechaza-censura-en-ley-de-telecomunicaciones-20260803-0043.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1RzNNcozNHW4mURAQOFN-Q",
-   "published": "2026-08-03T19:52:23+00:00",
-   "summary": "La gobernadora respalda un censo estatal de periodistas y niega que la nueva legislación establezca mecanismos de censura.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6adf496acbf92e46",
-   "title": "Periodistas de Oaxaca acuerdan frente común en defensa de la libertad de expresión",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.educaoaxaca.org/periodistas-de-oaxaca-acuerdan-frente-comun-en-defensa-de-la-libertad-de-expresion/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw1Az9nZLzWYRCaAb0Lq7wNk",
-   "published": "2026-08-03T19:37:41+00:00",
-   "summary": "... periodista asesinado (Qué Pasa Pedro) | Antecedentes La Minuta Periodistas piden no dividir al gremio y exigen investigar a funcionarios por el ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "24d42a33abd849ed",
-   "title": "PAN reta a Sheinbaum: exige derecho de réplica en la Mañanera - Infobae",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/mexico/2026/08/03/pan-reta-a-sheinbaum-exige-derecho-de-replica-en-la-mananera/%3FoutputType%3Damp-type&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0TISSmcoxv895oqsk79jjM",
-   "published": "2026-08-03T19:33:12+00:00",
-   "summary": "... censura (que tipificaba el delito de ciberasedio y que fue declarada ... La periodista aseguró que la pareja continúa unida y explicó el ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "efe206d9b7404e53",
-   "title": "El narcopartido - El Diario de Juárez",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://diario.mx/opinion/2026/aug/02/el-narcopartido-1131190.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1JEJ8arJiuWl2kRwjRMHXJ",
-   "published": "2026-08-03T19:20:59+00:00",
-   "summary": "El narcopartido. \"La censura es publicidad pagada por el gobierno\": Federico Fellini. Sergio Sarmiento / Periodista.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ee02a1256f04ac36",
-   "title": "Morena rechaza que en México exista censura contra medios - xeu noticias veracruz",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://xeu.mx/nacional/1427965/morena-rechaza-que-en-mexico-exista-censura-contra-medios&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3bPqdLrM1otsZAq2tNv2Xa",
-   "published": "2026-08-03T19:19:59+00:00",
-   "summary": "En entrevista con la periodista Azucena Uresti, el dirigente sostuvo que actualmente los medios pueden expresar libremente sus opiniones, incluso ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "d5e55e8954a1cef5",
    "title": "URVEX plantea convertir a Venezuela en el estado 51 de Estados Unidos",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.periodistadigital.com/pd-america/la-otra-mirada/20260803/urvex-plantea-convertir-venezuela-51-estados-unidos-noticia-689405235478/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw32bjiLTlpYhygWTb2KCqOP",
@@ -504,57 +727,6 @@
    "source": "Google Alert: periodista exiliado (ES)",
    "source_id": "alert_es_exilio",
    "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6d8f802813796c00",
-   "title": "“No quisiera que mataran a nadie”: la dramática súplica de Daniel Mendoza a Iván Cepeda ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.colombia.com/actualidad/politica/daniel-mendoza-no-quiere-marchas-el-7-de-agosto-por-temor-a-una-jornada-de-violencia-594525&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw25qa7C27oYyZO_SdIq_jbB",
-   "published": "2026-08-03T17:56:44+00:00",
-   "summary": "El influenciador y periodista que vivió en el exilio durante varios años por amenazas contra su vida por la creación de Matarife, aseguró que el ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f78966cffd6ba90e",
-   "title": "Expoesía abre en Soria la memoria de las mujeres del 27 con Luisa Antolín",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tribunasoria.com/noticias/454405/expoesia-abre-en-soria-la-memoria-de-las-mujeres-del-27-con-luisa-antolin&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw3XgbbrA6FUwTWkqFF8gdj7",
-   "published": "2026-08-03T17:17:21+00:00",
-   "summary": "La feria se adelanta al centenario de esta generación con una semana dedicada también al exilio, el feminismo, la censura y la libertad.",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "a448536683be1457",
-   "title": "A Venezuelan Journalist Detained in Miami - Columbia Journalism Review",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cjr.org/the_media_today/a-venezuelan-journalist-detained-in-miami-wilmer-roberto-solano-davila-krome-detention-center-asylum-hugo-chavez-ice-cbp-dhs-immigration-journalism-retaliation.php&ct=ga&cd=CAIyGjkyM2Y1YjBlZjM0MTU5NGU6Y29tOmVuOlVT&usg=AOvVaw2iI-H_Z_bmlcryJXeYVAI6",
-   "published": "2026-08-03T16:33:51+00:00",
-   "summary": "... Latino journalist detained by federal officials. Last June, Mario Guevara, then forty-eight, was arrested while reporting on a “No Kings” rally in ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
-   "language": "en",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -604,57 +776,6 @@
    "also_reported_by": []
   },
   {
-   "id": "fa09c327b313d092",
-   "title": "Entrevista EXCLUSIVA a Chamorro | ¿Qué está pasando en Nicaragua? - YouTube",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DgOVW8D3O2JE&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw34tR7ZKJJtDm7-0unrM-KK",
-   "published": "2026-08-03T14:53:45+00:00",
-   "summary": "En esta entrevista exclusiva de \"La Voz en vivo\", el reconocido periodista nicaragüense Carlos Fernando Chamorro ... Exilio y desnacionalización: El ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "5867317b95dd0264",
-   "title": "Carlos Chamorro denunció que la reforma de Daniel Ortega busca \"legalizar la sucesión dinástica\"",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lavoz.com.ar/mundo/nicaragua-carlos-chamorro-denuncio-reforma-daniel-ortega-busca-legalizar-sucesion-dinastica_0_RIeLzGGdOX.html&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw0gdnMY0AYkrg1Z0NNCpuoD",
-   "published": "2026-08-03T14:52:17+00:00",
-   "summary": "El periodista Carlos Fernando Chamorro, referente del periodismo independiente en Nicaragua hoy en el exilio, advirtió sobre la gravedad de la ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e5aa18cec1971e6f",
-   "title": "Superintendente sugiere sancionar a Ecopetrol por restringir competencia en contrato de ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://caracol.com.co/2026/08/03/superintendente-indica-sancion-a-ecopetrol-por-restriccion-a-competencia-en-contrato-de-helicopteros/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw1Em9iJt9rQYDgy2NoriYR1",
-   "published": "2026-08-03T13:30:19+00:00",
-   "summary": "Investigación de Cristian Herrera, el periodista asesinado en Cúcuta, continúa después de su muerte. Daniel Coronell. 31/07/2026. Lo más leído.",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "81b2d44360bafb24",
    "title": "Periodista secuestrada desata críticas contra Morena por la seguridad en Veracruz",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://volumen.com.mx/periodista-secuestrada-desata-criticas-contra-morena-por-la-seguridad-en-veracruz/%3Famp%3D1&ct=ga&cd=CAIyGmZkNGNmM2UzODM3YzBmYTc6Y29tOmVzOlVT&usg=AOvVaw02GGXfw6N5nQNsp_UKgo8y",
@@ -672,40 +793,6 @@
    "also_reported_by": []
   },
   {
-   "id": "1501a75f7180a25a",
-   "title": "Truck explosion outside Colombia police base injures 11: 'Vile terrorist attack' - AOL.com",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.com/articles/truck-explosion-outside-colombia-police-195640000.html&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw33LXDFRqKbMolRCb_pl4LQ",
-   "published": "2026-08-03T10:53:18+00:00",
-   "summary": "Colombia's “Tiger” stalks press freedom. Latin America's ... If the example of his “friend” Trump serves as a guide, the press freedom organizations in ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "129513aca038411c",
-   "title": "Edmundo García vuelve a quedar bajo el foco en Miami tras ser grabado en la calle en ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://noticias.cubitanow.com/edmundo-garca-vuelve-a-quedar-bajo-el-foco-en-miami-tras-ser-grabado-en-la-calle-en-episodio-de-incontinencia&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1F9wr7dAmoOZNNC4g51ZhS",
-   "published": "2026-08-03T10:49:18+00:00",
-   "summary": "... exilio y su compleja relación con el régimen que durante años defendió. ... Periodista Hernández Luján advierte: «El deporte cubano cada cuatro ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "58a86b370694b073",
    "title": "EN PROCESO | Diario de Xalapa - PressReader",
    "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/mexico/diario-de-xalapa/20260803/281629607074753&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw14u-iCBlVxmFF83q469DHh",
@@ -713,23 +800,6 @@
    "summary": "Además, fue señalado por amenazar y atentar en contra de Jorge Celestino Ruiz Vázquez, periodista asesinado el pasado 2 de agosto de 2019. Por ...",
    "source": "Google Alert: periodista asesinado/a (ES)",
    "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "d943d1cc6accdb52",
-   "title": "Un exilio espiritual de 1853 articula hoy la identidad de la comunidad senegalesa que se ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apdnoticies.com/es/barcelona/terrassa/un-exilio-espiritual-de-1853-articula-hoy-la-identidad-de-la-comunidad-senegalesa-que-se-reune-en-terrassa_22013_102.html&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw2Ei_0w8OHWbwBsMvCLmO3c",
-   "published": "2026-08-03T10:37:32+00:00",
-   "summary": "El Gran Magal de Touba reunió en Terrassa a la comunidad senegalesa para conmemorar el exilio de su fundador sufí ... Periodista. Ver biografía.",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -774,23 +844,6 @@
    "also_reported_by": []
   },
   {
-   "id": "29d1320a4511bf16",
-   "title": "Disagreements should be answered with words, not knives or slippers: Congress leaders ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thehawk.in/news/india/disagreements-should-be-answered-with-words-not-knives-or-slippers-congress-leaders-condemn-attack-on-pappu-yadav&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw2Y38fOJzQIZqJXUrJigtUq",
-   "published": "2026-08-03T08:08:28+00:00",
-   "summary": "... press freedom · South Korea, US launch joint underwater survey for Korean War aircraft wreckage ... Disagreements should be answered with words, not ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "5d5ce4523d4f1dfc",
    "title": "CPJ insta al gobierno cubano a liberar los medios de comunicación del control estatal",
    "link": "https://cpj.org/es/2026/08/cpj-insta-al-gobierno-cubano-a-liberar-los-medios-de-comunicacion-del-control-estatal/",
@@ -798,23 +851,6 @@
    "summary": "Miami, 1 de agosto de 2026— El Comité para la Protección de Periodistas (CPJ, por sus siglas en inglés) lamenta que el gobierno cubano no haya incluido los medios de comunicación independientes entre las actividades profesionales liberadas del control estatal en el marco de sus nuevas reformas ec...",
    "source": "CPJ – Américas",
    "source_id": "cpj_americas_es",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "8a8a3d34c637d75b",
-   "title": "Crearon beca de periodismo en Antioquia en honor a Mateo Pérez, ¿cómo postularse?",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.elespectador.com/colombia/medellin/crearon-beca-de-periodismo-en-antioquia-en-honor-a-mateo-perez-como-postularse/%3FoutputType%3Damp&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw3-Ze5LanIJf1h3k6k7urdd",
-   "published": "2026-08-02T18:41:32+00:00",
-   "summary": "La beca se entrega en honor a Mateo Pérez Rueda, el periodista asesinado de Yarumal. Foto: Gobernación de Antioquia. PUBLICIDAD. Bajo el lema “ ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -956,44 +992,6 @@
    "tags": [
     "Comunicados",
     "Protección y defensa"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "1e646fc88e018906",
-   "title": "De la Presión Judicial a la Intimidación Personal",
-   "link": "https://clibrehonduras.com/2026/07/30/de-la-presion-judicial-a-la-intimidacion-personal/",
-   "published": "2026-07-30T16:34:57+00:00",
-   "summary": "Durante 2025, C-Libre documentó una sucesión de acciones relacionadas principalmente con la jerarquía, los medios institucionales y efectivos de las Fuerzas Armadas de Honduras que afectaron el ejercicio periodístico y el derecho ciudadano a recibir información. El corpus seleccionado para este a...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Boletines"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "daf43626c71b0c66",
-   "title": "Una agresión cada tres días: la libertad de expresión bajo presión constante en Honduras",
-   "link": "https://clibrehonduras.com/2026/07/29/una-agresion-cada-tres-dias-la-libertad-de-expresion-bajo-presion-constante-en-honduras/",
-   "published": "2026-07-29T23:02:36+00:00",
-   "summary": "Entre enero y junio de 2026 el Sistema de Alertas del Comité por la Libre Expresión documentó sesenta (60) agresiones documentadas contra el derecho a la libertad de expresión, libertad de prensa y el acceso a la información pública no corresponden a hechos aislados, sino que reflejan patrones pe...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Boletines"
    ],
    "also_reported_by": []
   },
@@ -1562,51 +1560,6 @@
    "also_reported_by": []
   },
   {
-   "id": "1d1d306c07797c24",
-   "title": "El uso excesivo de la fuerza policial y gas lacrimógeno para disolver protesta pone en peligro el espacio cívico en Honduras",
-   "link": "https://clibrehonduras.com/2026/07/21/el-uso-excesivo-de-la-fuerza-policial-y-gas-lacrimogeno-para-disolver-protesta-pone-en-peligro-el-espacio-civico-en-honduras/",
-   "published": "2026-07-21T21:06:23+00:00",
-   "summary": "ALERTA 68-2026 Macuelizo, Santa Bárbara, Honduras. Unos 50 agentes de policía antimotines, utilizaron gas lacrimógeno para dispersar la protesta ciudadana que se llevó a cabo en el municipio de Macuelizo, departamento de Santa Bárbara, afectando el derecho ciudadano a la protesta pacífica y al es...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "3. Censura",
-    "4. Coacción de la protesta social",
-    "4.3 Estigmatización de manifestantes",
-    "DISOLVER",
-    "FUERZA POLICIAL",
-    "PROTESTAS",
-    "RECLAMOS",
-    "SANTA BÁRBARA"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "18d9dbb49153c790",
-   "title": "Editor questioned by officials at Virginia airport; phone seized and searched",
-   "link": "https://pressfreedomtracker.us/all-incidents/editor-questioned-by-officials-at-virginia-airport-phone-seized-and-searched/",
-   "published": "2026-07-21T21:02:01+00:00",
-   "summary": "Journalist Max Blumenthal was stopped, questioned and had his cellphones seized and searched by U.S. Customs and Border Protection agents at Washington Dulles International Airport in Virginia after returning from a reporting trip to Iran on July 10, 2026.Blumenthal had traveled to Iran on a pres...",
-   "source": "U.S. Press Freedom Tracker",
-   "source_id": "pressfreedomtracker_us",
-   "language": "en",
-   "country": "United States",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Border Stop"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "21cfabc14db2ae40",
    "title": "Cuban journalist threatened, interrogated by state security over newsletter",
    "link": "https://cpj.org/2026/07/cuban-journalist-threatened-interrogated-by-state-security-over-newsletter/",
@@ -1754,37 +1707,6 @@
    "also_reported_by": []
   },
   {
-   "id": "ec3ca5cdeedf953d",
-   "title": "Escalada de intimidación y criminalización contra la libertad de expresión del pueblo garífuna",
-   "link": "https://clibrehonduras.com/2026/07/17/escalada-de-intimidacion-y-criminalizacion-contra-la-libertad-de-expresion-del-pueblo-garifuna/",
-   "published": "2026-07-17T20:09:32+00:00",
-   "summary": "ALERTA 67-2026 Atlántida, Honduras (C-Libre).- La Organización Fraternal Negra Hondureña (OFRANEH) denuncia un patrón de acciones que incluyen operativos de seguridad, detenciones de líderes comunitarios, presencia de civiles fuertemente armados y actos de intimidación contra la población que man...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "1. Violencia",
-    "1.13 Hostigamiento",
-    "1.2 Criminalización",
-    "1.4 Intimidación",
-    "2 Ataques legales",
-    "2.1 Uso del Derecho Penal",
-    "3. Censura",
-    "3.2 Censura sutil",
-    "Sin categoría",
-    "ANCESTRALES",
-    "CRIMINALIZACIÓN",
-    "GARÍFUNAS",
-    "MANIFESTACIONES"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "de4f2bebaec80354",
    "title": "Mexico: Sixth journalist killed in 2026, government must urgently address violence against the press",
    "link": "https://rsf.org/en/mexico-sixth-journalist-killed-2026-government-must-urgently-address-violence-against-press",
@@ -1842,33 +1764,6 @@
     "Don’t Let Trump Destroy Press Freedom",
     "Protect Source Leaks, Limit Leak Investigations",
     "Strengthen the Reporter-Source Privilege"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "58470d25399c1ad4",
-   "title": "Actuación policial durante huelga de hambre genera preocupación por posible perfilamiento de manifestantes",
-   "link": "https://clibrehonduras.com/2026/07/16/actuacion-policial-durante-huelga-de-hambre-genera-preocupacion-por-posible-perfilamiento-de-manifestantes/",
-   "published": "2026-07-16T21:23:24+00:00",
-   "summary": "ALERTA 66-2026 Tegucigalpa, Honduras (C-Libre).- Esta mañana agentes de la Policía Nacional (16 de julio 2026), realizaron registros fotográficos del campamento donde el abogado Tomás Emilio Andrade y otras personas mantienen una huelga de hambre como medida de protesta pacífica, sin que hasta el...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "1.4 Intimidación",
-    "3. Censura",
-    "3.2 Censura sutil",
-    "4. Coacción de la protesta social",
-    "4.2 Vigilancia en protestas",
-    "HUELGA",
-    "MANIFESTACIÓN CIUDADANA",
-    "POLICIA",
-    "VIGILANCIA"
    ],
    "also_reported_by": []
   },
@@ -1938,26 +1833,6 @@
      "link": "https://pressfreedomtracker.us/all-incidents/photographer-hit-with-pepper-spray-by-proud-boy-at-la-rally/"
     }
    ]
-  },
-  {
-   "id": "4bbbedc829c2f8d7",
-   "title": "Intentan ingresar por la fuerza al domicilio del periodista Ángel Maldonado",
-   "link": "https://articulo19.org/intentan-ingresar-por-la-fuerza-al-domicilio-del-periodista-angel-maldonado/",
-   "published": "2026-07-15T23:23:00+00:00",
-   "summary": "Foto: Cortesía Ciudad de México, a 15 de julio de 2026.- La noche del 13 de julio de 2026, aproximadamente a las 23:38 hrs, personas desconocidas intentaron ingresar por la […]",
-   "source": "Artículo 19 (México y Centroamérica)",
-   "source_id": "articulo19",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Alertas",
-    "Protección y defensa"
-   ],
-   "also_reported_by": []
   },
   {
    "id": "7b9115d1ee7abe7f",
@@ -2036,25 +1911,6 @@
    "also_reported_by": []
   },
   {
-   "id": "9436ed0a28906d54",
-   "title": "C-Libre y UNESCO lanzan proyecto para fortalecer la protección integral y la resiliencia de periodistas frente a la violencia en Honduras",
-   "link": "https://clibrehonduras.com/2026/07/15/c-libre-y-unesco-lanzan-proyecto-para-fortalecer-la-proteccion-integral-y-la-resiliencia-de-periodistas-frente-a-la-violencia-en-honduras/",
-   "published": "2026-07-15T18:47:06+00:00",
-   "summary": "La iniciativa “Construyendo resiliencia frente a la violencia contra periodistas en Honduras” generará evidencia sobre los patrones de violencia e impunidad, creará una red de apoyo con cobertura en cuatro departamentos y fortalecerá capacidades de protección física, digital, legal y psicosocial,...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Noticias"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "1a07e1bbf1de629d",
    "title": "Trump Nominee Jay Clayton's Refusal to Respond Honestly to Senators Is Disqualifying",
    "link": "https://www.freepressaction.org/news/trump-nominee-jay-claytons-refusal-respond-honestly-senators-disqualifying",
@@ -2069,32 +1925,6 @@
     "libertad_prensa"
    ],
    "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4895cccc11e9ebfe",
-   "title": "El despido de un funcionario tras divulgar asunto de interés público amenaza el derecho de acceso a la información en Honduras",
-   "link": "https://clibrehonduras.com/2026/07/14/el-despido-de-un-funcionario-tras-divulgar-asunto-de-interes-publico-amenaza-el-derecho-de-acceso-a-la-informacion-en-honduras/",
-   "published": "2026-07-14T21:07:01+00:00",
-   "summary": "ALERTA 65-2026 Atlántida, Honduras (C-Libre).- El ingeniero Edwin Vega, quien se desempeñaba como director local del Instituto de Conservación Forestal (ICF) en Tela, Atlántida, fue separado de su cargo luego de haber hecho público las pruebas gráficas de un presunto caso de contaminación ambient...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "3.1 Censura directa",
-    "5. Restricción en el acceso a la información pública",
-    "Sin categoría",
-    "CONTAMINACIÓN",
-    "ICF",
-    "INDUSTRIA",
-    "KAWAS",
-    "PARQUE NACIONAL"
-   ],
    "also_reported_by": []
   },
   {
@@ -2138,36 +1968,6 @@
    "also_reported_by": []
   },
   {
-   "id": "55436d43b7bfcfcc",
-   "title": "La censura digital sistemática a diario digital aumenta los riesgos contra el periodismo independiente en Honduras",
-   "link": "https://clibrehonduras.com/2026/07/13/la-censura-digital-sistematica-a-diario-digital-aumenta-los-riesgos-contra-el-periodismo-independiente-en-honduras/",
-   "published": "2026-07-14T02:21:35+00:00",
-   "summary": "ALERTA 64-2026 Tegucigalpa Honduras (C-Libre).- El equipo de prensa de Criterio.hn hizo público una nueva escalada de ataques digitales que son víctima. Denunciaron que algunos de sus perfiles en redes sociales han sido objeto de la eliminación sistemática de contenidos mediante reclamaciones por...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "1.13 Hostigamiento",
-    "1.4 Intimidación",
-    "3. Censura",
-    "3.1 Censura directa",
-    "7.11 Desprestigio",
-    "7.6 Ataques digitales",
-    "7.8 Acceso o controles no autorizados",
-    "CENSURA DIGITAL",
-    "CRITERIO",
-    "DERECHOS DE AUTOR",
-    "DIARIO DIGITAL",
-    "SISTEMÁTICA"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "f46beac8fabdb7aa",
    "title": "Censorship of medical journals infects journalism too",
    "link": "http://freedom.press/issues/censorship-of-medical-journals-infects-journalism-too/",
@@ -2183,35 +1983,6 @@
    ],
    "tags": [
     "Don’t Let Trump Destroy Press Freedom"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "465d2a601e0506c4",
-   "title": "Negar información a periodista advierte represalias por cobertura de asuntos de interés público en Choluteca",
-   "link": "https://clibrehonduras.com/2026/07/13/negar-informacion-a-periodista-advierte-represalias-por-cobertura-de-asuntos-de-interes-publico-en-choluteca/",
-   "published": "2026-07-13T21:37:26+00:00",
-   "summary": "ALERTA 63-2025 Choluteca, Honduras (C-Libre).- Trasciende redes sociales un video en el que Dooglas Misael Aguilar Cruz, director departamental de educación en la zona sur, desatiende la solicitud de entrevista por parte de la periodista Karen Sauceda, corresponsal de Metro TV en la ciudad de Cho...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "3. Censura",
-    "3.1 Censura directa",
-    "5. Restricción en el acceso a la información pública",
-    "5.1 Obstrucción de la labor informativa",
-    "5.2 Negación de la información",
-    "CHOLUTECA",
-    "CORRUPCIÓN",
-    "DIRECTOR DEPARTAMENTAL",
-    "EDUCACION",
-    "LICENCIAS",
-    "TRANSPARENCIA"
    ],
    "also_reported_by": []
   },
@@ -2242,31 +2013,6 @@
      "link": "https://pressfreedomtracker.us/all-incidents/ny-times-investigative-reporter-subpoenaed-by-doj-for-testimony/"
     }
    ]
-  },
-  {
-   "id": "59bd0d7839dc96e5",
-   "title": "CPJ calls for accountability from Attorney General nominee Todd Blanche over DOJ press freedom violations",
-   "link": "https://cpj.org/2026/07/cpj-calls-for-accountability-from-attorney-general-nominee-todd-blanche-over-doj-press-freedom-violations/",
-   "published": "2026-07-13T17:22:29+00:00",
-   "summary": "Washington, D.C., July 13, 2026—The Committee to Protect Journalists calls on Senate Judiciary Committee members to hold acting Attorney General Todd Blanche accountable by asking about anti-press actions at the Department of Justice during his confirmation hearings this week. On July 10, the Dep...",
-   "source": "CPJ – Americas",
-   "source_id": "cpj_americas_en",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Attorney General",
-    "Department of Justice",
-    "Legal Action",
-    "New York Times",
-    "President Donald Trump",
-    "Todd Blanche",
-    "Trump administration"
-   ],
-   "also_reported_by": []
   },
   {
    "id": "7d4911e97472ed56",
@@ -2423,35 +2169,6 @@
    "also_reported_by": []
   },
   {
-   "id": "c4980d791f03cbf0",
-   "title": "Desalojo de garífunas advierte riesgos para la defensa del territorio y los derechos colectivos en el país.",
-   "link": "https://clibrehonduras.com/2026/07/07/desalojo-de-garifunas-advierte-riesgos-para-la-defensa-del-territorio-y-los-derechos-colectivos-en-el-pais/",
-   "published": "2026-07-07T22:14:40+00:00",
-   "summary": "ALERTA 62-2026 Atlántida, Honduras (C-Libre).- De acuerdo con la información difundida por organizaciones nacionales e internacionales de derechos humanos, entre ellas la Organización Fraternal Negra Hondureña (OFRANEH) y la Iniciativa Mesoamericana de Mujeres Defensoras de Derechos Humanos (IM-D...",
-   "source": "C-Libre Honduras",
-   "source_id": "clibre_honduras",
-   "language": "es",
-   "country": "Honduras",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "1. Violencia",
-    "1.1 Agresión física selectiva",
-    "1.2 Criminalización",
-    "1.5 Estigmatización",
-    "3. Censura",
-    "3.2 Censura sutil",
-    "ANCESTRALES",
-    "DESALOJO",
-    "GARIFUNAS",
-    "POLICÍAS",
-    "TELA"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "e575108737389ebf",
    "title": "Environmental reporter Alex Serna fifth journalist killed in Mexico since January 2026",
    "link": "https://rsf.org/en/environmental-reporter-alex-serna-fifth-journalist-killed-mexico-january-2026",
@@ -2487,29 +2204,6 @@
    "tags": [
     "Access to Information",
     "Online journalism"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "48a77e3c3768dbca",
-   "title": "How legacy news organizations in Latin America are building AI policies for their newsrooms",
-   "link": "https://latamjournalismreview.org/articles/how-legacy-news-organizations-in-latin-america-are-building-ai-policies-for-their-newsrooms/",
-   "published": "2026-07-07T19:40:57+00:00",
-   "summary": "Three newspapers told LJR how they are developing policies, training programs and oversight mechanisms to integrate AI strategically into their workflows. The post How legacy news organizations in Latin America are building AI policies for their newsrooms appeared first on LatAm Journalism Review...",
-   "source": "LatAm Journalism Review",
-   "source_id": "latam_journalism_review",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "Technology and AI",
-    "Argentina",
-    "Dominican Republic",
-    "Journalism ethics",
-    "Peru"
    ],
    "also_reported_by": []
   },
@@ -2555,35 +2249,6 @@
     "Red Centroamericana de Periodistas",
     "Sol Lauría",
     "Violencia digital"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "e773118e1f8a0988",
-   "title": "Parlamento de Cataluña respalda a la prensa independiente y expresa preocupación por la persecución contra periodistas en El Salvador y Nicaragua",
-   "link": "https://periodistascentroamericanos.org/comunicados/parlamento-de-cataluna-respalda-a-la-prensa-independiente-y-expresa-preocupacion-por-la-persecucion-contra-periodistas-en-el-salvador-y-nicaragua/",
-   "published": "2026-07-06T19:02:13+00:00",
-   "summary": "Las resoluciones fueron aprobadas tras una sesión en la que la Red Centroamericana de Periodistas expuso el deterioro de la libertad de prensa y el aumento del exilio de periodistas en Centroamérica. San José, Costa Rica, 6 de julio de 2026. La Red Centroamericana de Periodistas (RCP) destacó la...",
-   "source": "Red Centroamericana de Periodistas",
-   "source_id": "red_centroamericana",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Comunicados",
-    "Angélica Cárcamo",
-    "Edipcia Dubón",
-    "El Salvador",
-    "Guatemala",
-    "Jordán Rodas",
-    "Juan Carlos Arce",
-    "Nicaragua Nunca Más",
-    "Parlamento Catalán",
-    "Red Centroamericana de Periodistas",
-    "Taula Centroamericana por los Derechos Humanos"
    ],
    "also_reported_by": []
   },
@@ -3311,26 +2976,6 @@
    ],
    "tags": [
     "América Armenta"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "5b725b764d591869",
-   "title": "El trauma: una guía rápida para comprender un fenómeno complejo",
-   "link": "https://periodistascentroamericanos.org/apoyo-psicoemocional/el-trauma/",
-   "published": "2026-05-29T22:50:24+00:00",
-   "summary": "En el ejercicio periodístico, el trauma aparece con frecuencia en las historias que se investigan, se cubren y se narran. Sin embargo, comprenderlo requiere ir más allá del hecho doloroso, disruptivo o aparentemente excepcional. También implica atender la forma en que cada persona vive esa experi...",
-   "source": "Red Centroamericana de Periodistas",
-   "source_id": "red_centroamericana",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [
-    "Apoyo Psicoemocional",
-    "Autocuido"
    ],
    "also_reported_by": []
   },
