@@ -1,5 +1,5 @@
 {
- "last_run": "2026-08-12T09:40:44.007136+00:00",
+ "last_run": "2026-08-12T21:30:32.717116+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -145,7 +145,7 @@
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 10,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -159,28 +159,28 @@
    "id": "alert_en_press_freedom",
    "name": "Google Alert: press freedom attack (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 4,
    "error": null
   },
   {
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
    "id": "alert_en_exile",
    "name": "Google Alert: journalist exiled (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -194,7 +194,7 @@
    "id": "alert_es_amenazado",
    "name": "Google Alert: periodista amenazado/a (ES)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
@@ -208,7 +208,7 @@
    "id": "alert_es_detenido",
    "name": "Google Alert: periodista detenido/a (ES)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 7,
    "error": null
   },
   {
