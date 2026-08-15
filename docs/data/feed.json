@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-15T17:20:48.846230+00:00",
- "count": 218,
+ "generated_at": "2026-08-15T17:26:02.083071+00:00",
+ "count": 197,
  "items": [
   {
    "id": "168446e6b13df71c",
@@ -45,6 +45,23 @@
    "source": "Google Alert: periodista amenazado/a (ES)",
    "source_id": "alert_es_amenazado",
    "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9804089c39c72a48",
+   "title": "North Korea hits out at the latest US war games | Morning Star",
+   "link": "https://morningstaronline.co.uk/article/north-korea-hits-out-latest-us-war-games",
+   "published": "2026-08-15T09:48:31+00:00",
+   "summary": "NORTH KOREA threatened unspecified stern steps against the United States and South Korea on Friday ahead of their forthcoming military drills.",
+   "source": "Google Alert: journalist threatened/harassed (EN)",
+   "source_id": "alert_en_threatened",
+   "language": "en",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -454,6 +471,23 @@
    "also_reported_by": []
   },
   {
+   "id": "4d60ed610c01a7e8",
+   "title": "How Facebook Tools and Organic Reach Power Independent British Journalism",
+   "link": "https://dazzlingdawn.com/public/2026/08/14/how-facebook-tools-and-organic-reach-power-independent-british-journalism",
+   "published": "2026-08-14T20:25:29+00:00",
+   "summary": "Latin America · UK · Oceania · Dazzle Drafts · UK · Hajj & Umrah · Politics · Visa ... Meath Doctor Iqbal Jailed for Sexually Assaulting... ✕. Full ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "fa5b7f19c76ac0d3",
    "title": "Tras el asesinato de Cristian Herrera, la UNP plantea retirar el esquema de seguridad de su familia",
    "link": "https://flip.org.co/pronunciamientos/tras-el-asesinato-de-cristian-herrera-la-unp-plantea-retirar-el-esquema-de-seguridad-de-su-familia",
@@ -819,28 +853,6 @@
    "also_reported_by": []
   },
   {
-   "id": "ebb3d02ab79d8c2c",
-   "title": "SPJ-led coalition urges Interior Department to reconsider national park communications policy",
-   "link": "https://www.spj.org/spj-led-coalition-urges-interior-department-to-reconsider-national-park-communications-policy/",
-   "published": "2026-08-12T22:38:53+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org A coalition of groups led by the Society of Professional Journalists is urging the U.S. Department of the Interior to reconsider an internal policy prohibiting employees from communicating about deaths or serious injuries in national parks....",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "National Parks Service",
-    "U.S. Department of the Interior"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "07da34431bda70da",
    "title": "Journalist’s killing rattles a divided, threatened press in Oaxaca",
    "link": "https://latamjournalismreview.org/articles/journalists-killing-rattles-a-divided-threatened-press-in-oaxaca/",
@@ -857,30 +869,6 @@
    "tags": [
     "Violence against journalists",
     "Mexico"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "ce4815eb7ef11a08",
-   "title": "SPJ honors 2026 Sunshine Award recipients for advancing open government",
-   "link": "https://www.spj.org/spj-honors-2026-sunshine-award-recipients-for-advancing-open-government/",
-   "published": "2026-08-12T18:59:08+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists has announced the recipients of its 2026 Sunshine Award, recognizing individuals and organizations for advancing the principles of open government. This year’s honorees are Thomas Susman, a nationally...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "freedom of information",
-    "Police Records Access Project",
-    "Sunshine Award",
-    "Thomas Susman"
    ],
    "also_reported_by": []
   },
@@ -1159,27 +1147,6 @@
    "tags": [
     "Protect Journalists Covering Protests",
     "Protect Journalists Reporting on Gaza"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "9e0d9fca22a7959a",
-   "title": "SPJ Ethics Committee proposes revisions to Code of Ethics",
-   "link": "https://www.spj.org/spj-ethics-committee-proposes-revisions-to-code-of-ethics/",
-   "published": "2026-08-10T14:52:33+00:00",
-   "summary": "Draft retains core principles while addressing emerging challenges in journalism Media Contact:SPJ Communications, communications@spj.org Dan Axelrod, SPJ Ethics Committee Chair, deaxelrod8@gmail.com The Society of Professional Journalists Ethics Committee on Monday proposed revisions to the SPJ...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "journalism ethics",
-    "spj code of ethics"
    ],
    "also_reported_by": []
   },
@@ -1664,27 +1631,6 @@
    "tags": [
     "Don’t Weaponize Anti-Terrorism Laws",
     "Stop Arresting Journalists"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "8f2252163f53ae87",
-   "title": "SPJ honors 2026 Kym Fox Distinguished Teaching in Journalism and Lewis First Amendment recipients",
-   "link": "https://www.spj.org/spj-honors-2026-distinguished-teaching-in-journalism-and-lewis-first-amendment-recipients/",
-   "published": "2026-08-05T17:42:01+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists has named Kim Komenich, associate professor at San Francisco State University, as the recipient of the 2026 Kym Fox Distinguished Teaching in Journalism Award and Julia Wildman, a senior at Colorado M...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Distinguished Teaching in Journalism Award",
-    "Robert D.G. Lewis First Amendment Award"
    ],
    "also_reported_by": []
   },
@@ -2285,26 +2231,6 @@
    "also_reported_by": []
   },
   {
-   "id": "5a440a79317fc04f",
-   "title": "SPJ hosts 17 emerging journalism leaders from across the country at relaunched Leadership Institute",
-   "link": "https://www.spj.org/spj-hosts-17-emerging-journalism-leaders-from-across-the-country-at-relaunched-leadership-institute/",
-   "published": "2026-07-27T21:56:22+00:00",
-   "summary": "Media Contact: Justin Paprocki, SPJ Professional Learning Manager, jpaprocki@spj.org SPJ Communications, communications@spj.org The Society of Professional Journalists hosted its relaunched Leadership Institute July 17-19, bringing together 17 professional SPJ members from across the country for...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "4495007d514dceba",
    "title": "Brazilian journalist is assaulted, threatened after alleged public funds embezzlement exposé",
    "link": "https://cpj.org/2026/07/brazilian-journalist-is-assaulted-threatened-after-alleged-public-funds-embezzlement-expose/",
@@ -2440,26 +2366,6 @@
    "tags": [
     "Defend Whistleblowers",
     "Defend Press Freedom"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "683d06cb94f67ed8",
-   "title": "SPJ commends DOJ decision to withdraw subpoenas targeting New York Times journalists, renews call for federal shield law",
-   "link": "https://www.spj.org/spj-commends-doj-decision-to-withdraw-subpoenas-targeting-new-york-times-journalists-renews-call-for-federal-shield-law/",
-   "published": "2026-07-23T22:00:20+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists commends the U.S. Department of Justice’s decision to withdraw subpoenas seeking phone records and grand jury testimony from New York Times journalists who reported on the security capabilities of Pre...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy"
    ],
    "also_reported_by": []
   },
@@ -2605,26 +2511,6 @@
    "also_reported_by": []
   },
   {
-   "id": "254c2ffdb4d62174",
-   "title": "SPJ renews coalition call for WHCA to defend press freedom at rescheduled dinner",
-   "link": "https://www.spj.org/spj-renews-coalition-call-for-whca-to-defend-press-freedom-at-rescheduled-dinner/",
-   "published": "2026-07-21T21:00:59+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of more than 500 journalists and eight press organizations urging the White House Correspondents’ Association to publicly condemn the Trump administration’s attacks on press freedom...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "b6d05598d81c61eb",
    "title": "NY Times reporters’ phone, text records sought by DOJ in secret subpoenas",
    "link": "https://pressfreedomtracker.us/all-incidents/ny-times-reporters-phone-text-records-sought-by-doj-in-secret-subpoenas/",
@@ -2703,26 +2589,6 @@
    "also_reported_by": []
   },
   {
-   "id": "7b6859ecb73b8ddf",
-   "title": "SPJ joins coalition urging Thailand to protect detained Chinese journalist Bai Zhaodong",
-   "link": "https://www.spj.org/spj-joins-coalition-urging-thailand-to-protect-detained-chinese-journalist-bai-zhaodong/",
-   "published": "2026-07-17T21:00:08+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of more than 50 press freedom and human rights organizations, led by Reporters Without Borders (RSF) and Safeguard Defenders (SD), in calling on Thai authorities to refrain from forc...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "ec3ca5cdeedf953d",
    "title": "Escalada de intimidación y criminalización contra la libertad de expresión del pueblo garífuna",
    "link": "https://clibrehonduras.com/2026/07/17/escalada-de-intimidacion-y-criminalizacion-contra-la-libertad-de-expresion-del-pueblo-garifuna/",
@@ -2750,26 +2616,6 @@
     "CRIMINALIZACIÓN",
     "GARÍFUNAS",
     "MANIFESTACIONES"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "87f52db5a33b01d6",
-   "title": "SPJ, SPJ International Community oppose new visa restrictions affecting international journalists",
-   "link": "https://www.spj.org/spj-spj-international-community-oppose-new-visa-restrictions-affecting-international-journalists/",
-   "published": "2026-07-17T18:30:09+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists and the SPJ International Community strongly oppose a new U.S. Department of Homeland Security regulation ending the “duration of status” policy for international journalists working in the United Sta...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy"
    ],
    "also_reported_by": []
   },
@@ -2936,27 +2782,6 @@
    "also_reported_by": []
   },
   {
-   "id": "a5d424dfc3f71399",
-   "title": "SPJ renews call for federal shield law following Supreme Court decision in Catherine Herridge case",
-   "link": "https://www.spj.org/spj-renews-call-for-federal-shield-law-following-supreme-court-decision-in-catherine-herridge-case/",
-   "published": "2026-07-15T17:37:54+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists renews its call for stronger legal protections for journalists after the U.S. Supreme Court declined to halt sanctions against investigative journalist Catherine Herridge for refusing to reveal a conf...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "Catherine Herridge"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "1a07e1bbf1de629d",
    "title": "Trump Nominee Jay Clayton's Refusal to Respond Honestly to Senators Is Disqualifying",
    "link": "https://www.freepressaction.org/news/trump-nominee-jay-claytons-refusal-respond-honestly-senators-disqualifying",
@@ -2989,26 +2814,6 @@
    ],
    "tags": [
     "Don’t Let Trump Destroy Press Freedom"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "79d393bedc4811e0",
-   "title": "SPJ demands congressional action following federal subpoenas seeking NYT journalists’ sources",
-   "link": "https://www.spj.org/spj-federal-demands-congressional-action-following-federal-subpoenas-seeking-nyt-journalists-sources-demands-congress-act/",
-   "published": "2026-07-13T22:57:58+00:00",
-   "summary": "Media Contact:SPJ Communication, communications@spj.org Following the U.S. Department of Justice’s ill-advised subpoena of four New York Times reporters, the Society of Professional Journalists demands that Congress strengthen protections for journalists against compelled disclosure of confidenti...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy"
    ],
    "also_reported_by": []
   },
@@ -3129,27 +2934,6 @@
    ],
    "tags": [
     "Prior Restraint"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "1e7a8cbb250896d6",
-   "title": "SPJ announces 2025 Sigma Delta Chi, Mark of Excellence top award winners",
-   "link": "https://www.spj.org/spj-announces-2025-sigma-delta-chi-mark-of-excellence-top-award-winners/",
-   "published": "2026-07-10T20:32:15+00:00",
-   "summary": "Contact:SPJ Communications, communications@spj.org Lou Harry, SPJ Manager of Publications and Awards, lharry@hq.spj.org The Society of Professional Journalists has announced the winners of the 2025 Sigma Delta Chi Awards, honoring outstanding professional journalism produced last year. Winners we...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "SDX Awards",
-    "Sigma Delta Chi Awards"
    ],
    "also_reported_by": []
   },
@@ -3677,29 +3461,6 @@
    "also_reported_by": []
   },
   {
-   "id": "417f39f9f238fb42",
-   "title": "SPJ, Maryland Pro, stand with Montgomery County student journalists",
-   "link": "https://www.spj.org/spj-maryland-pro-stand-with-montgomery-county-student-journalists/",
-   "published": "2026-06-17T20:57:07+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists and its Maryland Pro Chapter join a growing coalition of journalism organizations in supporting Montgomery County Public Schools student journalists who are calling for stronger protections for studen...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "gag rules",
-    "Maryland",
-    "Montgomery County Public Schools"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "9f32c955874e73d3",
    "title": "California's Civic Media Program Marks Significant Progress Over Past Efforts to Fund Local News",
    "link": "https://www.freepressaction.org/news/californias-civic-media-program-marks-significant-progress-over-past-efforts-fund-local-news",
@@ -3732,29 +3493,6 @@
    ],
    "tags": [
     "Stop the Paramount-Warner merger"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "ce706ee7368e974d",
-   "title": "SPJ honors Bloomberg News with New America Award for immigration reporting",
-   "link": "https://www.spj.org/spj-honors-bloomberg-news-with-new-america-award-for-immigration-reporting/",
-   "published": "2026-06-15T20:24:43+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists honors Bloomberg News staff with this year’s New America Award for “Immigration, Inc.,” its investigative series examining the economic and human consequences of expanded U.S. immigration enforcement....",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo",
-    "migracion"
-   ],
-   "tags": [
-    "SPJ News",
-    "Bloomberg",
-    "Bloomberg News",
-    "New America Award"
    ],
    "also_reported_by": []
   },
@@ -3936,48 +3674,6 @@
    "also_reported_by": []
   },
   {
-   "id": "a72310cb21eac103",
-   "title": "SPJ, coalition urge rejection of proposed federal nondisclosure rule",
-   "link": "https://www.spj.org/spj-coalition-urge-rejection-of-proposed-federal-nondisclosure-rule/",
-   "published": "2026-06-09T17:10:00+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists and 23 organizations condemn a proposed Trump administration rule that would allow federal agencies to require employees to sign a standardized nondisclosure agreement. If adopted, the rule would give...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "gag rules"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "fccc83e1c8c0f061",
-   "title": "SPJ-led coalition urges Florida school district to revise media policy that restricts press access",
-   "link": "https://www.spj.org/spj-led-coalition-urges-florida-school-district-to-revise-media-policy-that-restricts-press-access/",
-   "published": "2026-06-08T18:00:28+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists, joined by a coalition of news media organizations, has called on Orange County (Florida) Public Schools to revise a district media policy that threatens press freedom, limits transparency and chills...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "gag rules"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "daa7d6188649f5c5",
    "title": "Colombia: murder of state-protected journalist Cristian Hernando Herrera Nariño brings calls for stronger measures",
    "link": "https://rsf.org/en/colombia-murder-state-protected-journalist-cristian-hernando-herrera-nari%C3%B1o-brings-calls-stronger",
@@ -3993,28 +3689,6 @@
    ],
    "tags": [
     "News"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "99e40ab754951740",
-   "title": "Press freedom coalition urges IU to protect student media independence",
-   "link": "https://www.spj.org/press-freedom-coalition-urges-iu-to-protect-student-media-independence/",
-   "published": "2026-06-05T20:05:16+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of 14 national journalism and press freedom organizations led by the Student Press Law Center in urging Indiana University to protect student media independence and ensure long-term...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "Indiana Daily Student",
-    "Indiana University"
    ],
    "also_reported_by": []
   },
@@ -4051,99 +3725,6 @@
    ],
    "tags": [
     "News"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "ee541f7edd18a066",
-   "title": "SPJ honors Brown, Givhan, Robinson and Vitale as 2026 Fellows",
-   "link": "https://www.spj.org/spj-honors-brown-givhan-robinson-and-vitale-as-2026-fellows/",
-   "published": "2026-06-03T15:40:56+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists has named Julie K. Brown, Robin Givhan, Walter V. Robinson and Dick Vitale as 2026 Fellows of the Society, the highest professional honor awarded by the organization. “This year’s Fellows of the Socie...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Dick Vitale",
-    "Julie K. Brown",
-    "Robin Givhan",
-    "SPJ Fellows of the Society",
-    "Walter Robinson"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "73cc02d1d98bd881",
-   "title": "SPJ Foundation opens 2026 grant cycle to support press freedom",
-   "link": "https://www.spj.org/spj-foundation-opens-2026-grant-cycle-to-support-press-freedom/",
-   "published": "2026-06-01T15:15:41+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists Foundation today opened its 2026 grant cycle and invites applications from journalists, media professionals and organizations working to strengthen press freedom, support newsroom resilience and advan...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "grants",
-    "press freedom",
-    "SPJ Foundation"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "86544185300001f7",
-   "title": "SPJ/JEA announce winners of 2026 High School Essay Contest",
-   "link": "https://www.spj.org/spj-jea-announce-winners-of-2026-high-school-essay-contest/",
-   "published": "2026-05-29T21:34:27+00:00",
-   "summary": "Media ContactSPJ Communications, communcations@spj.org The Society of Professional Journalists Foundation and Journalism Education Association have selected three scholarship winners in the 2026 SPJ/JEA High School Essay Contest. Established in 1998, the contest encourages students to explore the...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "2026 SPJ/JEA High School Essay Contest",
-    "SPJ/JEA High School Essay Contest",
-    "Student awards",
-    "Student journalism",
-    "student media"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "8d7f1bb0eacf4a21",
-   "title": "SPJ leadership program returns with new name and renewed mission",
-   "link": "https://www.spj.org/spj-leadership-program-returns-with-new-name-and-renewed-mission/",
-   "published": "2026-05-29T16:54:37+00:00",
-   "summary": "Media Contact:Justin Paprocki, SPJ Professional Learning Manager, jpaprocki@spj.orgSPJ Communications, communications@spj.org The Society of Professional Journalists is relaunching its leadership development program under a new name and renewed mission. The SPJ Leadership Institute is a three-day...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Advocacy",
-    "journalism education",
-    "SPJ Leadership Institute"
    ],
    "also_reported_by": []
   },
@@ -4213,30 +3794,6 @@
    "also_reported_by": []
   },
   {
-   "id": "52f58da3150f94dd",
-   "title": "SPJ announces 2025 Mark of Excellence National winners",
-   "link": "https://www.spj.org/spj-announces-2025-mark-of-excellence-national-winners/",
-   "published": "2026-05-26T20:12:23+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.orgLou Harry, SPJ Manager of Publications and Awards, lharry@spj.org The Society of Professional Journalists is pleased to announce national winners of the 2025 Mark of Excellence Awards, recognizing collegiate work published or broadcast in 20...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "Mark of Excellence Awards",
-    "MOE National",
-    "Student awards",
-    "Student journalism",
-    "student media"
-   ],
-   "also_reported_by": []
-  },
-  {
    "id": "cbed4917cd49db3a",
    "title": "Haiti: Portraits of Junior Célestin and Osnel Espérance, journalists abducted in Port-au-Prince and presumed executed",
    "link": "https://rsf.org/en/haiti-portraits-junior-c%C3%A9lestin-and-osnel-esp%C3%A9rance-journalists-abducted-port-au-prince-and",
@@ -4290,30 +3847,6 @@
    ],
    "tags": [
     "News"
-   ],
-   "also_reported_by": []
-  },
-  {
-   "id": "b2128bac4e8c763f",
-   "title": "SPJ, press freedom groups commend ABC for defending ‘The View,’ Kimmel against free speech attacks",
-   "link": "https://www.spj.org/spj-press-freedom-groups-commend-abc-for-defending-the-view-kimmel-against-free-speech-attacks/",
-   "published": "2026-05-20T19:07:17+00:00",
-   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of 14 press freedom and free expression organizations in a letter to Disney Entertainment Television Chairman Debra OConnell commending ABC for defending “The View” and “Jimmy Kimmel...",
-   "source": "Society of Professional Journalists",
-   "source_id": "spj",
-   "language": "en",
-   "country": "United States",
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [
-    "SPJ News",
-    "ABC",
-    "Advocacy",
-    "Disney",
-    "FCC",
-    "Jimmy Kimmel"
    ],
    "also_reported_by": []
   }
