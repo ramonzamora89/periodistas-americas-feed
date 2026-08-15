@@ -1,11 +1,130 @@
 {
- "generated_at": "2026-08-15T09:25:51.594207+00:00",
- "count": 190,
+ "generated_at": "2026-08-15T17:20:48.846230+00:00",
+ "count": 218,
  "items": [
   {
-   "id": "dd515c1cc4c592a6",
+   "id": "168446e6b13df71c",
+   "title": "Expolición – Hace un año… – ES PRIMERA MX",
+   "link": "https://www.primeralinea.mx/2026/08/15/expolicion-hace-un-ano/",
+   "published": "2026-08-15T16:25:07+00:00",
+   "summary": "Esta entrevista con el gobernador renunciado pudo haber sido otro premio para el periodista desaparecido. ***. Ismael Sanmartín Hernández nunca ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "22fee909abd148a2",
+   "title": "“No pago para que me peguen”: la censura en medios de comunicación digital en Mazatlán",
+   "link": "https://www.elsoldemazatlan.com.mx/elsoldemazatlan/analisis/no-pago-para-que-me-peguen-la-censura-en-medios-de-comunicacion-digital-en-mazatlan-31572810",
+   "published": "2026-08-15T13:06:14+00:00",
+   "summary": "Actualmente Ernesto Zepeda, periodista independiente en medios digitales y director de la plataforma “Frente Noticias” y conductor del podcast “Échame ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "418b78913954bd01",
+   "title": "periodista amenazado - El Momento Quintana Roo |",
+   "link": "https://elmomentoqroo.mx/tag/periodista-amenazado/",
+   "published": "2026-08-15T13:01:06+00:00",
+   "summary": "Inicio/periodista amenazado. periodista amenazado. Cancún. video cubano amenaza a reportero durante cobertura de accidente en cancún. Perla ColliHace ...",
+   "source": "Google Alert: periodista amenazado/a (ES)",
+   "source_id": "alert_es_amenazado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0389af97516fdde9",
+   "title": "Son of Mexico's former president AMLO alleges US revoked his visa - Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa",
+   "published": "2026-08-15T08:19:57+00:00",
+   "summary": "Latin America · Europe · Asia Pacific · Middle East · Explained · Sport ... list 2 of 3Journalist killed in Mexico after years of exposing corruption ...",
+   "source": "Google Alert: journalist killed (EN)",
+   "source_id": "alert_en_killed",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7b69605d1c187c1a",
+   "title": "Oposición cretina, redes y la decadencia de Aristegui - Diario Red",
+   "link": "https://www.diario-red.com/opinion/juan-manuel-ramirez/oposicion-cretina-redes-decadencia-aristegui/20260815100000074518.amp.html",
+   "published": "2026-08-15T08:18:58+00:00",
+   "summary": "El problema no consiste en que una periodista investigue al poder: eso es indispensable en cualquier democracia. ... censura. El derecho a ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7c692fedb21913ff",
+   "title": "Obispo Abelardo Mata: exigen prueba de vida a la dictadura",
+   "link": "https://www.laprensani.com/2026/08/15/editorial/3763131-obispo-abelardo-mata-prueba-vida",
+   "published": "2026-08-15T08:06:34+00:00",
+   "summary": "... periodista socialcristiano y ahora propagandista y diputado sandino-orteguista, Adolfo Pastrán Arancibia. ... exilio, como una burda manipulación ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "eea6007c57c5776b",
+   "title": "Sheinbaum rechaza que haya listas para censurar; lo que se pide es el derecho ...",
+   "link": "https://www.gobernantes.com/vernota.php?id=524960",
+   "published": "2026-08-15T06:26:35+00:00",
+   "summary": "CDMX.- La presidenta Claudia Sheinbaum Pardo afirmó que en México no hay censura y se respeta la libertad de expresión, tras rechazar que en su ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a09c82d4862320fe",
    "title": "Censura y autoritarismo | Meridiano.mx",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://meridiano.mx/2026/08/14/censura-y-autoritarismo/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw33cx0hC8oSluIBNum-OmJz",
+   "link": "https://meridiano.mx/2026/08/14/censura-y-autoritarismo/",
    "published": "2026-08-15T05:18:14+00:00",
    "summary": "Periodista y articulista de gran trayectoria en Nayarit. Con gran experiencia en el análisis de la actualidad principalmente en temas políticos y ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -20,9 +139,26 @@
    "also_reported_by": []
   },
   {
-   "id": "544432e3c79c656e",
+   "id": "e9f4762e87b8c6a1",
+   "title": "Sheinbaum rechaza que su gobierno mantenga listas de periodistas y medios críticos",
+   "link": "https://elexpres.com/nota.php?story_id=368718",
+   "published": "2026-08-15T05:07:24+00:00",
+   "summary": "La presidenta también rechazó que exista una política de censura contra periodistas y aseguró que actualmente se vive, según su consideración, “la ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "10d4660d26b94497",
    "title": "¿Censura a periodistas? Luisa María Alcalde niega listas negras y granjas de bots de la 4T",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://wradio.com.mx/2026/08/14/censura-a-periodistas-luisa-maria-alcalde-niega-listas-negras-y-granjas-de-bots-de-la-4t/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0er1tyZ5oSMgjLNG5O3ppQ",
+   "link": "https://wradio.com.mx/2026/08/14/censura-a-periodistas-luisa-maria-alcalde-niega-listas-negras-y-granjas-de-bots-de-la-4t/",
    "published": "2026-08-15T04:55:07+00:00",
    "summary": "¿Censura a periodistas? Luisa María Alcalde niega listas negras y granjas de bots de la 4T. Luisa María Alcalde Luján rechazó que la exhibición de ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -37,9 +173,9 @@
    "also_reported_by": []
   },
   {
-   "id": "1febf1c08f57cb37",
+   "id": "0da1d2cc7c3c4478",
    "title": "Sheinbaum rechaza que exista la \"lista negra\" de Luisa Alcalde - El Universal",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eluniversal.com.mx/nacion/sheinbaum-rechaza-que-exista-la-lista-negra-de-luisa-alcalde-a-quien-se-le-censura-a-quien-arremete/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3mMmm6To_9_xCCU-9kQ_WV",
+   "link": "https://www.eluniversal.com.mx/nacion/sheinbaum-rechaza-que-exista-la-lista-negra-de-luisa-alcalde-a-quien-se-le-censura-a-quien-arremete/",
    "published": "2026-08-15T04:40:27+00:00",
    "summary": "Sheinbaum rechaza que exista la \"lista negra\" de Luisa Alcalde; \"¿a quién se le censura, a quién?\", arremete. La titular del Ejecutivo sostuvo que ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -54,11 +190,11 @@
    "also_reported_by": []
   },
   {
-   "id": "107311dee583b497",
-   "title": "Se desgarran las vestiduras, gritan “¡censura!” y se victimizan, pero la realidad es mucho más simple",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/EspacioLibreMex/posts/se-desgarran-las-vestiduras-gritan-censura-y-se-victimizan-pero-la-realidad-es-m/1583980090406297/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3UR1xLcK0oh0vhURHT-7DE",
-   "published": "2026-08-15T02:44:39+00:00",
-   "summary": "... PERIODISTA GUSTAVO LEMUS, ESTE PERIODISTA YA ESTUVO SECUESTRADO DURANTE EL PERIÓDICO DE FELIPE CALDERÓN TAMBIEN POR PUBLICAR CON LOS NEXOS CON LA ...",
+   "id": "bd4395cc39e9e39e",
+   "title": "Sheinbaum niega censura a periodistas y defiende la libertad de prensa - Vídeo Dailymotion",
+   "link": "https://www.dailymotion.com/video/xaxtrh2",
+   "published": "2026-08-15T02:54:21+00:00",
+   "summary": "Sheinbaum niega censura a periodistas y defiende la libertad de prensa ... 02:47Alguien dijo, oye, es que este periodista ha hecho esto, esto, esto, ...",
    "source": "Google Alert: censura a periodistas (ES)",
    "source_id": "alert_es_censura",
    "language": "es",
@@ -71,9 +207,9 @@
    "also_reported_by": []
   },
   {
-   "id": "aa12b159d10a1d3b",
+   "id": "0e2b2db420cfd317",
    "title": "CNDH rechaza que los lineamientos presidenciales sobre derecho a la audiencia sean ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://sociedad-noticias.com/2026/08/14/cndh-rechaza-que-los-lineamientos-presidenciales-sobre-derecho-a-la-audiencia-sean-actos-de-censura/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2KcqIm7DXd7f9mfP3Xf_GJ",
+   "link": "https://sociedad-noticias.com/2026/08/14/cndh-rechaza-que-los-lineamientos-presidenciales-sobre-derecho-a-la-audiencia-sean-actos-de-censura/",
    "published": "2026-08-15T02:34:18+00:00",
    "summary": "La CNDH respaldó los lineamientos para proteger los derechos de las audiencias y rechazó que constituyan censura. La propuesta busca garantizar ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -88,9 +224,9 @@
    "also_reported_by": []
   },
   {
-   "id": "aac52a9a7f29728b",
+   "id": "2fcdee762e0aa164",
    "title": "Darán a Carmelo Cortés y al reportero Nacho Hernández la Presea Popular post mortem",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://suracapulco.mx/daran-a-carmelo-cortes-y-al-reportero-nacho-hernandez-la-presea-popular-post-mortem/&ct=ga&cd=CAIyGjI3YjQ3ZmVmZGVkOWUzMTI6Y29tOmVzOlVT&usg=AOvVaw1Num4pc2-ejTeaK6pXSnrE",
+   "link": "https://suracapulco.mx/daran-a-carmelo-cortes-y-al-reportero-nacho-hernandez-la-presea-popular-post-mortem/",
    "published": "2026-08-15T02:31:38+00:00",
    "summary": "... periodista desaparecido Leodegario Aguilera Lucas, Ernestina Aguilera Lucas. Además, el comandante guerrillero Carmelo Cortés Castro y el ...",
    "source": "Google Alert: periodista desaparecido (ES)",
@@ -105,9 +241,9 @@
    "also_reported_by": []
   },
   {
-   "id": "a876a740021fa156",
+   "id": "ba332e416d315907",
    "title": "ICE libera bajo fianza al periodista venezolano Wilmer Solano - El Nuevo Herald",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://amp.elnuevoherald.com/noticias/florida/sur-de-la-florida/article316838511.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1qssJ6u__Pd4EtgM6UmGoW",
+   "link": "https://amp.elnuevoherald.com/noticias/florida/sur-de-la-florida/article316838511.html",
    "published": "2026-08-15T02:31:32+00:00",
    "summary": "El periodista venezolano Wilmer Roberto Solano Dávila fue liberado ... La intimidación y la censura concentraron más del 76% del total de las ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -122,14 +258,14 @@
    "also_reported_by": [
     {
      "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.google.com/url?rct=j&sa=t&url=https://albertonews.com/nacionales/ice-libera-bajo-fianza-al-periodista-venezolano-wilmer-solano/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2PFyq4yzXLNQeSf-I19ZKX"
+     "link": "https://albertonews.com/nacionales/ice-libera-bajo-fianza-al-periodista-venezolano-wilmer-solano/"
     }
    ]
   },
   {
-   "id": "84d41176bfe09970",
+   "id": "97de928d2ba3bca0",
    "title": "Tanto va Alcántara al agua - Diario Las Américas",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.diariolasamericas.com/tanto-va-alcantara-al-agua-n5400467&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw3mZC3K9Gdpug5RF9bPGNGB",
+   "link": "https://www.diariolasamericas.com/tanto-va-alcantara-al-agua-n5400467",
    "published": "2026-08-15T01:30:08+00:00",
    "summary": "A través de los años como periodista e hijo de cubanos que continúan su exilio en cementerios en Miami, he informado de la valentía de los ...",
    "source": "Google Alert: periodista exiliado (ES)",
@@ -144,9 +280,26 @@
    "also_reported_by": []
   },
   {
-   "id": "c3a4996b7e53805f",
+   "id": "fb52b5dc9c68ccba",
+   "title": "Detienen a dos presuntos integrantes de 'Los Ardillos' en Chilpancingo - Milenio",
+   "link": "https://amp.milenio.com/policia/detienen-a-dos-presuntos-integrantes-de-los-ardillos-en-chilpancingo",
+   "published": "2026-08-15T01:01:55+00:00",
+   "summary": "La periodista Marcela de Jesús Natalia lleva ante la ONU y la Corte Penal Internacional la Del atentado al exilio: Periodista guerrerense denuncia ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "cc813677ebb820c1",
    "title": "Encuentran sin vida a abuelos venezolanos y a su nieto José Juan Vivas entre los ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://albertonews.com/internacionales/encuentran-sin-vida-a-abuelos-venezolanos-y-a-su-nieto-jose-juan-vivas-entre-los-escombros-de-cali/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2Txc7_T4c38qJCYIpoVdvM",
+   "link": "https://albertonews.com/internacionales/encuentran-sin-vida-a-abuelos-venezolanos-y-a-su-nieto-jose-juan-vivas-entre-los-escombros-de-cali/",
    "published": "2026-08-15T01:00:56+00:00",
    "summary": "AlbertoNews - Periodismo sin censura ... Así lo confirmaron sus familiares a El Pitazo y el periodista Juan Mogollón, estratega político de Venezuela.",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -161,9 +314,9 @@
    "also_reported_by": []
   },
   {
-   "id": "8ddd1a99610e8feb",
+   "id": "d1e74ac0cb75f662",
    "title": "Sheinbaum niega que exista una lista contra comunicadores- Grupo Milenio",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.milenio.com/politica/sheinbaum-niega-que-exista-una-lista-contra-comunicadores&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3SvT9bY7zYvt9pDa6rNVYm",
+   "link": "https://www.milenio.com/politica/sheinbaum-niega-que-exista-una-lista-contra-comunicadores",
    "published": "2026-08-15T00:12:15+00:00",
    "summary": "Sheinbaum niega censura a periodistas y defiende la libertad de prensa ... “¿Alguien dijo 'este periodista ha hecho esto, esto, esto'? No. No hay ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -178,9 +331,9 @@
    "also_reported_by": []
   },
   {
-   "id": "7e02d2e261d357cf",
+   "id": "3d70aec74f47fb08",
    "title": "El duro encontronazo entre Luisa María Alcalde y López-Dóriga por polémica lista de periodistas",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/mexico/2026/08/14/el-duro-encontronazo-entre-luisa-maria-alcalde-y-lopez-doriga-por-polemica-lista-de-periodistas/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw234yNIhviYtwTXGfVpCXP-",
+   "link": "https://www.infobae.com/mexico/2026/08/14/el-duro-encontronazo-entre-luisa-maria-alcalde-y-lopez-doriga-por-polemica-lista-de-periodistas/",
    "published": "2026-08-15T00:02:49+00:00",
    "summary": "La consejera jurídica negó que el gobierno busque censurar o intimidar a comunicadores, mientras el periodista cuestionó los riesgos de señalar ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -195,9 +348,9 @@
    "also_reported_by": []
   },
   {
-   "id": "fabd34e3537befe7",
+   "id": "45e807100e6f306f",
    "title": "Maru Campos acusa a Morena de juzgar opositores injustamente- Grupo Milenio",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.milenio.com/videos/politica/pan-crea-comite-violaciones-derechos-humanos-exige-justicia-ernesto&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2EQ2uphTDx0CW3i5bdjUTN",
+   "link": "https://www.milenio.com/videos/politica/pan-crea-comite-violaciones-derechos-humanos-exige-justicia-ernesto",
    "published": "2026-08-14T23:31:50+00:00",
    "summary": "Sheinbaum niega censura a periodistas y defiende la libertad de prensa. Sheinbaum niega censura a periodistas y defiende la libertad de prensa ...",
    "source": "Google Alert: censura a periodistas (ES)",
@@ -212,9 +365,9 @@
    "also_reported_by": []
   },
   {
-   "id": "438c9e0238bca748",
+   "id": "f6b56d2efa3cdffd",
    "title": "REDACCIÓN RÉCORD",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.record.com.mx/autor/redaccion-record-2025101308413948281%3Fpage%3D16621&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw0XC_keF8dIA_F0GR6qPvnq",
+   "link": "https://www.record.com.mx/autor/redaccion-record-2025101308413948281?page=16621",
    "published": "2026-08-14T23:25:21+00:00",
    "summary": "Juárez propone que Tigres apoye a periodista asesinado. Futbol. 5/8/2015. Juárez propone que Tigres apoye a periodista asesinado. Juárez propone que ...",
    "source": "Google Alert: periodista asesinado/a (ES)",
@@ -229,9 +382,9 @@
    "also_reported_by": []
   },
   {
-   "id": "5a07a042862a27bb",
+   "id": "7708898edba8426a",
    "title": "Amenazas a periodistas - La Hora",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://lahora.gt/editorial/la-hora/2026/08/14/amenazas-a-periodistas/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw0prJ3AJXwUoV7lKCTMCOlK",
+   "link": "https://lahora.gt/editorial/la-hora/2026/08/14/amenazas-a-periodistas/",
    "published": "2026-08-14T23:15:48+00:00",
    "summary": "... periodista Diego España. Al conocerse el hecho, colegas de la Cámara ... exilio al presidente Bernardo... 14 agosto, 2026. El Tribunal Quinto ...",
    "source": "Google Alert: periodista exiliado (ES)",
@@ -246,9 +399,9 @@
    "also_reported_by": []
   },
   {
-   "id": "5a6e45212bef4265",
+   "id": "de4abdc40a363620",
    "title": "Marina Señuk pegó el portazo en TN y eltrece: los motivos de su polémica salida",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.paparazzi.com.ar/teve/salida-incomoda-y-polemica-la-famosa-periodista-que-se-fue-de-su-canal-a-la-competencia-y-exploto-todo-hay-mucha-bronca/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw36mUkTGp55YcYjDQzPgnOQ",
+   "link": "https://www.paparazzi.com.ar/teve/salida-incomoda-y-polemica-la-famosa-periodista-que-se-fue-de-su-canal-a-la-competencia-y-exploto-todo-hay-mucha-bronca/",
    "published": "2026-08-14T23:12:27+00:00",
    "summary": "La periodista encargada del clima cambiará de señal -se va a América ... Definitivamente, el exilio de los meteorólogos, en la crisis y ...",
    "source": "Google Alert: periodista exiliado (ES)",
@@ -263,180 +416,13 @@
    "also_reported_by": []
   },
   {
-   "id": "84104a9288274276",
-   "title": "Rechaza Sheinbaum censura tras exhibición de listas de medios - Quadratín Puebla",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://puebla.quadratin.com.mx/nacionales/rechaza-sheinbaum-censura-tras-exhibicion-de-listas-de-medios/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2tf-mRHj5z4myHeqMZKrQJ",
-   "published": "2026-08-14T22:55:59+00:00",
-   "summary": "Claudia Sheinbaum asegura que no hay censura tras la lista de medios y periodistas expuesta por la consejera Luisa María Alcalde.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "db9901dd8553656d",
-   "title": "Sheinbaum niega censura a periodistas y defiende la libertad de prensa - YouTube",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_yJeR7rGUwg&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw27_e9RSdW2DzOFd76vgRWE",
-   "published": "2026-08-14T22:40:28+00:00",
-   "summary": "Sheinbaum niega censura a periodistas y defiende la libertad de prensa.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.milenio.com/videos/politica/sheinbaum-niega-censura-periodistas-defiende-libertad-prensa&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3e7Ev6mDEzVcVB5oSoI7bj"
-    },
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dailymotion.com/video/xaxtrh2&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2VIbVEh69veSTVFumJMYgH"
-    }
-   ]
-  },
-  {
-   "id": "3d2455f0714025c9",
+   "id": "9578308b0404250b",
    "title": "Exiliados guatemaltecos entregan informe sobre criminalización y exilio al presidente ... - La Hora",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://lahora.gt/nacionales/kjordan/2026/08/14/exiliados-guatemaltecos-entregan-informe-sobre-criminalizacion-y-exilio-al-presidente-bernardo-arevalo/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw3I3Nc-oSxgLcsGoE3urUuG",
+   "link": "https://lahora.gt/nacionales/kjordan/2026/08/14/exiliados-guatemaltecos-entregan-informe-sobre-criminalizacion-y-exilio-al-presidente-bernardo-arevalo/",
    "published": "2026-08-14T22:26:55+00:00",
    "summary": "La comunidad guatemalteca en el exilio entregó al presidente Bernardo Arévalo el informe “La verdad del exilio ... Periodista y fotógrafo apasionado por ...",
    "source": "Google Alert: periodista exiliado (ES)",
    "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "974fc5b69cf207b1",
-   "title": "4 Durante años, ningun caso de periodista asesinado o desaparecido ha alcanzado #justicia plena",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/PropuestaCivica/status/2088357869687332877&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw2KjH-mimkIPKiXq7P4skCq",
-   "published": "2026-08-14T21:57:58+00:00",
-   "summary": "Propuesta Cívica AC (@PropuestaCivica). 59 views. 3/ 4 Durante años, ningun caso de periodista asesinado o desaparecido ha alcanzado #justicia ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "765d0b2548fba254",
-   "title": "Regreso al pasado: la lista negra de periodistas de Luisa María Alcalde - Los Ángeles Press",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://losangelespress.org/opinion/2026/aug/14/regreso-al-pasado-lista-negra-de-periodistas-de-luisa-maria-alcalde-15949.html&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3q7XzCbx4_26dXrkQeauEn",
-   "published": "2026-08-14T21:55:22+00:00",
-   "summary": "La elaboración de una lista de periodistas críticos de la 4T desata cuestionamientos por posibles prácticas de censura y concentración del poder.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "0b4cc872cf688569",
-   "title": "El último adiós que no termina: padres de Mateo Pérez, joven periodista asesinado en ... - Facebook",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/LosInformantesTV/posts/el-%25C3%25BAltimo-adi%25C3%25B3s-que-no-termina-padres-de-mateo-p%25C3%25A9rez-joven-periodista-asesinado-/1426034436308478/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw2ACa7Vk7FwrsV26K2xseLg",
-   "published": "2026-08-14T21:40:45+00:00",
-   "summary": "El último adiós que no termina: padres de Mateo Pérez, joven periodista asesinado en Briceño, Antioquia, hicieron en #LosInformantes un ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista asesinado/a (ES)",
-     "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcCR9OljLLA/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw00lZFqxy1uSdwWvXlR0OlB"
-    }
-   ]
-  },
-  {
-   "id": "0264c8cfdb20aa08",
-   "title": "Una investigación periodística normal terminó con el exilio de un reportero - TV Azteca",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tvazteca.com/aztecanoticias/una-investigacion-periodistica-termino-el-exilio-un-reportero-esa-es-la-realidad-en-turquia/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw1tStIJNU0DN5Ss-lUWCH7t",
-   "published": "2026-08-14T21:28:27+00:00",
-   "summary": "Recep Tayyip Erdoğan, el presidente de Turquía, amenazó en público al periodista cuyo crimen fue hacer su trabajo, mostrar la realidad de su país.",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "8eef897f665fb124",
-   "title": "Sheinbaum: ¿Quién censura a Aristegui? - YouTube",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DM1LKO8wz-dg&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw1tfdSe8gHRlg4rpXNmnS97",
-   "published": "2026-08-14T21:05:20+00:00",
-   "summary": "... periodista puede decir “lo que quiera” en su programa. Súmate a nuestra transmisión en vivo: https://youtube.com/live/GOkjf0Eb53Y?feature=share ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "225b9ede6729a827",
-   "title": "México no respondió a la CIDH por caso de censura: Karla Estrella revela qué sigue en su proceso",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://proyectopuente.com.mx/2026/08/14/mexico-no-respondio-a-la-cidh-por-caso-de-censura-karla-estrella-revela-que-sigue-en-su-proceso/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw2WZ-oBltexn0d3C8P5bL_E",
-   "published": "2026-08-14T20:59:54+00:00",
-   "summary": "... censura. La periodista explicó que en diciembre de 2025 presentó su denuncia ante la CIDH, después de cumplir con las sanciones que le fueron ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "1d6e453d6b0cefb0",
-   "title": "DERECHO DE LAS AUDIENCIAS ES UNA \"GRAN TRAMPA\" Y \"LEY CENSURA\" El supuesto ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/BINoticiasAgs/posts/-derecho-de-las-audiencias-es-una-gran-trampa-y-ley-censurael-supuesto-y-torcido/1555682189933062/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw0Naeys6tetQwFLnziPyOOC",
-   "published": "2026-08-14T20:48:40+00:00",
-   "summary": "Durante su conferencia matutina afirmó que “no hay censura ni va a haber censura ... Periodista: están mencionando que si estos lineamientos también se ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -468,26 +454,9 @@
    "also_reported_by": []
   },
   {
-   "id": "ff3fedf972307ee9",
-   "title": "Periodista denuncia censura de Edeeste en actividad institucional - Alcarrizos News",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.alcarrizos.news/periodista-denuncia-censura-de-edeeste-en-actividad-institucional/&ct=ga&cd=CAIyGmUyZTEzOTMzMmU1MmI4Nzk6Y29tOmVzOlVT&usg=AOvVaw3bHBoqFDPwjpoJNc2C7iqH",
-   "published": "2026-08-14T20:21:21+00:00",
-   "summary": "Periodista denuncia censura de Edeeste en actividad institucional. Elbania Flores y Danylsa Vargas señalan a la Dirección de Comunicaciones.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "3779b3f158a13f84",
+   "id": "fa5b7f19c76ac0d3",
    "title": "Tras el asesinato de Cristian Herrera, la UNP plantea retirar el esquema de seguridad de su familia",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://flip.org.co/pronunciamientos/tras-el-asesinato-de-cristian-herrera-la-unp-plantea-retirar-el-esquema-de-seguridad-de-su-familia&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw2mxGd02nxXbHQryV1SRoBd",
+   "link": "https://flip.org.co/pronunciamientos/tras-el-asesinato-de-cristian-herrera-la-unp-plantea-retirar-el-esquema-de-seguridad-de-su-familia",
    "published": "2026-08-14T20:00:39+00:00",
    "summary": "... periodista asesinado hace apenas dos meses, y que actualmente protege a su familia. Desmontar las medidas de protección que tiene la familia en ...",
    "source": "Google Alert: periodista asesinado/a (ES)",
@@ -502,9 +471,9 @@
    "also_reported_by": []
   },
   {
-   "id": "2283107a785224c4",
+   "id": "ee61d40d42b10408",
    "title": "periodista asesinado | Diario Expreso",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.expreso.ec/temas/periodista-asesinado/3/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw32C3dgSQ1cXw-1X-KV27UD",
+   "link": "https://www.expreso.ec/temas/periodista-asesinado/3/",
    "published": "2026-08-14T19:50:38+00:00",
    "summary": "periodista asesinado. Alessandra Sampaio (c-d), esposa del periodista británico Dom Phillips, recibe un abrazo ...",
    "source": "Google Alert: periodista asesinado/a (ES)",
@@ -519,9 +488,9 @@
    "also_reported_by": []
   },
   {
-   "id": "482ff3e2d254cb8f",
+   "id": "97ad832bed4420f8",
    "title": "Lenia Batres ve un ambiente de “animadversión insana” en la Suprema Corte durante la ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/video/politica-mexicana/lenia-batres-ve-un-ambiente-de-animadversion-insana-en-la-suprema-corte-durante-la-votacion-de-un-proyecto-suyo/yGVa1ufl/&ct=ga&cd=CAIyGjY1Y2U1ZDk5ZmRiODFlYTM6Y29tOmVzOlVT&usg=AOvVaw2iiiAcc_qK2H7z7GeaR8qp",
+   "link": "https://www.infobae.com/video/politica-mexicana/lenia-batres-ve-un-ambiente-de-animadversion-insana-en-la-suprema-corte-durante-la-votacion-de-un-proyecto-suyo/yGVa1ufl/",
    "published": "2026-08-14T18:57:43+00:00",
    "summary": "Seguir viendo · Claudia Sheinbaum respalda a Andrés Manuel López Beltrán 'Andy' tras la cancelación de su visa de EU · Periodista amenazado por alcalde ...",
    "source": "Google Alert: periodista amenazado/a (ES)",
@@ -536,9 +505,9 @@
    "also_reported_by": []
   },
   {
-   "id": "64d5d3bc37a97bf3",
+   "id": "542e3b231e375e5a",
    "title": "US Military Morale in Middle East in the Overflowing Toilet - Consortium News",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://consortiumnews.com/2026/08/14/us-military-morale-in-middle-east-in-the-overflowing-toilet/&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw2vl9qLWjUa5XToFWC53v2h",
+   "link": "https://consortiumnews.com/2026/08/14/us-military-morale-in-middle-east-in-the-overflowing-toilet/",
    "published": "2026-08-14T18:39:07+00:00",
    "summary": "Latin America (152); Lebanon (183); Liberia (3); Libya (96); Mali (33); Mexico ... Press Freedom (214); Prisons (60); Propaganda (575); Protest (155) ...",
    "source": "Google Alert: press freedom attack (EN)",
@@ -553,9 +522,9 @@
    "also_reported_by": []
   },
   {
-   "id": "76150b19d9492095",
+   "id": "d8b2b42cbc0bc2f7",
    "title": "Vidas de José Hernández. Un itinerario argentino - Biblioteca Nacional",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bn.gov.ar/agenda-cultural/vidas-de-jose-hernandez-un-itinerario-argentino-1&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw2UBBwz1-egojFa5Mg6KzPk",
+   "link": "https://www.bn.gov.ar/agenda-cultural/vidas-de-jose-hernandez-un-itinerario-argentino-1",
    "published": "2026-08-14T18:29:52+00:00",
    "summary": "Fue un prolífico periodista, fundó diarios y participó en diferentes ... Se exilió en Uruguay y Brasil, vivió en Paraná, Corrientes, Santa Fe ...",
    "source": "Google Alert: periodista exiliado (ES)",
@@ -570,9 +539,9 @@
    "also_reported_by": []
   },
   {
-   "id": "1fffc9bc05e0d06a",
+   "id": "bb566f0a093ca965",
    "title": "Alex Otaola convoca a manifestarse en Washington el 1 de octubre - Periódico Cubano",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.periodicocubano.com/alex-otaola-convoca-a-manifestarse-en-washington-el-1-de-octubre/%3Famp%3D1&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw37NI8YeZlC1f5McKPvQUUL",
+   "link": "https://www.periodicocubano.com/alex-otaola-convoca-a-manifestarse-en-washington-el-1-de-octubre/?amp=1",
    "published": "2026-08-14T18:18:04+00:00",
    "summary": "... exilio cubano. (Captura de pantalla © Cubanos por el mundo – YouTube) ... Periodista cubano denuncia nuevas amenazas de la Seguridad del Estado.",
    "source": "Google Alert: periodista exiliado (ES)",
@@ -587,9 +556,9 @@
    "also_reported_by": []
   },
   {
-   "id": "38958b5431f4a370",
+   "id": "71f5cb17cd3fbb49",
    "title": "Periodista uruguayo lanza su pronóstico sobre qué pasará entre Estados Unidos y Cuba",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cibercuba.com/noticias/2026-08-14-u1-e199370-s27061-nid337770-periodista-uruguayo-lanza-pronostico-pasara-estados&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw3w7fdkEDFFYYFNTcqoxecR",
+   "link": "https://www.cibercuba.com/noticias/2026-08-14-u1-e199370-s27061-nid337770-periodista-uruguayo-lanza-pronostico-pasara-estados",
    "published": "2026-08-14T16:40:23+00:00",
    "summary": "... exilio de sus padres. Pero señaló que esa misma exposición lo convierte en un blanco potencial. Además, consideró que «no sería descabellado ...",
    "source": "Google Alert: periodista exiliado (ES)",
@@ -604,9 +573,9 @@
    "also_reported_by": []
   },
   {
-   "id": "4485ad72041ed584",
+   "id": "2543b089d758b8e5",
    "title": "What Is the Common Ground Between Trump and Netanyahu in Their Confrontation with the World?",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.islamtimes.com/en/interview/1299058/what-is-the-common-ground-between-trump-and-netanyahu-in-their-confrontation-with-world&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw0jPttyLHhr_yITkKy3VCX9",
+   "link": "https://www.islamtimes.com/en/interview/1299058/what-is-the-common-ground-between-trump-and-netanyahu-in-their-confrontation-with-world",
    "published": "2026-08-14T16:36:42+00:00",
    "summary": "Latin America · Asia · Palestine · Quds Day · The Martyr of Quds · Syria ... press freedom and human rights. He viewed this issue within a broader ...",
    "source": "Google Alert: press freedom attack (EN)",
@@ -640,9 +609,9 @@
    "also_reported_by": []
   },
   {
-   "id": "b8deec79a3e0eb0a",
+   "id": "9869ec538fcdb1c4",
    "title": "Paper Tiger: The US Trillion-Dollar War Machine - Consortium News",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://consortiumnews.com/2026/08/14/paper-tiger-the-us-trillion-dollar-war-machine/&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw3_xpnfUIWapL5ClcWwbHYV",
+   "link": "https://consortiumnews.com/2026/08/14/paper-tiger-the-us-trillion-dollar-war-machine/",
    "published": "2026-08-14T14:52:45+00:00",
    "summary": "Press Freedom (214); Prisons (60); Propaganda (575); Protest (155); Protests (258); Public Health (13); Race Relations (56); Racism (163); Religion ( ...",
    "source": "Google Alert: press freedom attack (EN)",
@@ -657,9 +626,9 @@
    "also_reported_by": []
   },
   {
-   "id": "fcf9b97683beaf13",
+   "id": "103ea6a2d33d781b",
    "title": "Claudia Sheinbaum respalda a Andrés Manuel López Beltrán 'Andy' tras la cancelación ... - Infobae",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/video/politica-mexicana/claudia-sheinbaum-respalda-a-andres-manuel-lopez-beltran-andy-tras-la-cancelacion-de-su-visa-de-eu/nc6jGlEu/&ct=ga&cd=CAIyGjY1Y2U1ZDk5ZmRiODFlYTM6Y29tOmVzOlVT&usg=AOvVaw27MxjKc-V4NQdhLDEraJ1a",
+   "link": "https://www.infobae.com/video/politica-mexicana/claudia-sheinbaum-respalda-a-andres-manuel-lopez-beltran-andy-tras-la-cancelacion-de-su-visa-de-eu/nc6jGlEu/",
    "published": "2026-08-14T14:50:35+00:00",
    "summary": "Seguir viendo · Periodista amenazado por alcalde de Jalisco fue colocado en lista de Luisa Alcalde · La autoridad electoral notifica a Daniela Álvarez ...",
    "source": "Google Alert: periodista amenazado/a (ES)",
@@ -674,31 +643,14 @@
    "also_reported_by": [
     {
      "source": "Google Alert: periodista amenazado/a (ES)",
-     "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/video/politica-mexicana/claudia-sheinbaum-respalda-a-andres-manuel-lopez-beltran-andy-tras-la-cancelacion-de-su-visa-de-eu/ekAQPgA3/&ct=ga&cd=CAIyGjY1Y2U1ZDk5ZmRiODFlYTM6Y29tOmVzOlVT&usg=AOvVaw2CZvb3gGhVHzKSwtkZ-zTL"
+     "link": "https://www.infobae.com/video/politica-mexicana/claudia-sheinbaum-respalda-a-andres-manuel-lopez-beltran-andy-tras-la-cancelacion-de-su-visa-de-eu/ekAQPgA3/"
     }
    ]
   },
   {
-   "id": "c09022bc3afc6c7e",
-   "title": "Taliban releases journalist Hamid Farhadi after 2 years - Arab News",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.com/node/2654668/media&ct=ga&cd=CAIyGjZkMmM4OGE1MDU1NWQyZjI6Y29tOmVuOlVT&usg=AOvVaw1T6AvJYin7B8yfPcthe7hq",
-   "published": "2026-08-14T14:40:58+00:00",
-   "summary": "... exiled Etilaatroz newspaper. Farhadi's family confirmed his release on Thursday from Bagram prison. He was detained by Taliban Interior Ministry ...",
-   "source": "Google Alert: journalist exiled (EN)",
-   "source_id": "alert_en_exile",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "736da3103a0fbb14",
+   "id": "42eb042c24c79713",
    "title": "IFJ in the news - International Federation of Journalists - IFJ",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ifj.org/media-centre/news/detail/article/ifj-in-the-news-837cffd58e&ct=ga&cd=CAIyGmYzYmJhODIwOGQyNjVhNTk6Y29tOmVuOlVT&usg=AOvVaw2gINq0rrgtCqcljcepozii",
+   "link": "https://www.ifj.org/media-centre/news/detail/article/ifj-in-the-news-837cffd58e",
    "published": "2026-08-14T14:33:25+00:00",
    "summary": "Press Freedom · Ethics · Media Concentration · Human rights · Workers' rights · Rights at work · Freelancers' rights · Authors' rights · Public ...",
    "source": "Google Alert: press freedom attack (EN)",
@@ -713,9 +665,9 @@
    "also_reported_by": []
   },
   {
-   "id": "e1906751ec0807f1",
+   "id": "6e7e075b6f4e0317",
    "title": "CNTE tras finalizar reunión con Sheinbaum - Infobae",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/video/politica-mexicana/cnte-tras-finalizar-reunion-con-sheinbaum/Q5vO2VX4/&ct=ga&cd=CAIyGjY1Y2U1ZDk5ZmRiODFlYTM6Y29tOmVzOlVT&usg=AOvVaw3sW-uy5PzKGFlFkAqCc9H-",
+   "link": "https://www.infobae.com/video/politica-mexicana/cnte-tras-finalizar-reunion-con-sheinbaum/Q5vO2VX4/",
    "published": "2026-08-14T13:34:34+00:00",
    "summary": "Periodista amenazado por alcalde de Jalisco fue colocado en lista de Luisa Alcalde. 1:26 Min · Política Mexicana. La autoridad electoral notifica a ...",
    "source": "Google Alert: periodista amenazado/a (ES)",
@@ -750,99 +702,14 @@
    "also_reported_by": []
   },
   {
-   "id": "d4f16a70aa828cd6",
+   "id": "8af60ebc37dc441c",
    "title": "Husband of Jewish journalist killed in NYC crash raises concerns over suspect's alleged ...",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jns.org/news/u-s-news/husband-of-jewish-journalist-killed-in-nyc-crash-raises-concerns-over-suspects-alleged-antisemitic-vandalism&ct=ga&cd=CAIyGjBjMjNmZTk3NTIzN2FjMmU6Y29tOmVuOlVT&usg=AOvVaw01CIZzSYsb0fHjgH6Uswps",
+   "link": "https://www.jns.org/news/u-s-news/husband-of-jewish-journalist-killed-in-nyc-crash-raises-concerns-over-suspects-alleged-antisemitic-vandalism",
    "published": "2026-08-14T11:22:09+00:00",
    "summary": "Latin America · Canada · Australia ... Husband of Jewish journalist killed in NYC crash raises concerns over suspect's alleged antisemitic vandalism.",
    "source": "Google Alert: journalist killed (EN)",
    "source_id": "alert_en_killed",
    "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "bf6bfc89b305569f",
-   "title": "Magda Donato, la periodista que fue mendiga, loca y delincuente para escribir 'reportajes vividos'",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.elmundo.es/loc/que-fue-de/2026/08/14/6a663646fc6c8384298b456d.html&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw37Q_p3cQ3dbhbi2p98ihKV",
-   "published": "2026-08-14T10:57:17+00:00",
-   "summary": "Con 19 años, en 1917, comenzó a colaborar en El Imparcial y hasta su exilio en 1939 lo hizo en España, La Tribuna, El Liberal, El Heraldo de ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "21988586bb23abea",
-   "title": "Instan a la FGR a atraer asesinatos de periodistas - La Jornada",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jornada.com.mx/2026/08/14/politica/010n1pol&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw2Dez3JUanSXWnGLfJJYriW",
-   "published": "2026-08-14T09:13:44+00:00",
-   "summary": "El organismo remarcó que en lo que va del siglo, ni una sola investigación de periodista asesinado o desaparecido ha derivado en la detención y ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4ece971c78aa03e3",
-   "title": "Exilio y ética periodística - La Prensa",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.laprensani.com/2026/08/14/opinion/3761941-etica-periodistica-exilio-nicaragua&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw3FXIigrdt-yvqBYwd-YwaR",
-   "published": "2026-08-14T06:46:34+00:00",
-   "summary": "... periodista debe de asumir cómo elabora su noticia, bajo qué código, qué reglas y saber cómo se modifican estas en medio del exilio. Es triste ver ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "bdaaaa4bd94e61c1",
-   "title": "¿Quién es Leo Zuckermann Maus? Abuelo de Leo Zuckermann - sdpnoticias",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sdpnoticias.com/mexico/quien-es-leo-zuckermann-maus-abuelo-de-leo-zuckermann/&ct=ga&cd=CAIyGmM1YWQyMDUyMTJiMmI1OWY6Y29tOmVzOlVT&usg=AOvVaw3hJoZO85OTvxnuWp-5A1Oq",
-   "published": "2026-08-14T05:47:57+00:00",
-   "summary": "exilio político en México. Es conocido actualmente también por ser ... Periodista que celebra la gentrificación · Series y Televisión. ¿Quién es ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "df32517f5c9e0da2",
-   "title": "municipiosur.com¡¡Asesinos de Periodistas!!",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://municipiosur.com/2026/08/13/asesinos-de-periodistas/&ct=ga&cd=CAIyGmY4YTcxNmE0ZDZkMjFhOWE6Y29tOmVzOlVT&usg=AOvVaw2uP-7cvwL7q_QDfOas95UO",
-   "published": "2026-08-14T03:49:53+00:00",
-   "summary": "¡¡Periodista Asesinado!! 25 febrero, 2022 En «Destacado». Lo Asesinan 29 junio, 2023 En «Destacado». Condenan a 68 años de prisión al asesino de ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -935,6 +802,45 @@
    "also_reported_by": []
   },
   {
+   "id": "d1124b6006fe5e13",
+   "title": "🧭 What comes after the traditional article?",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-august-12-2026",
+   "published": "2026-08-13T00:00:00+00:00",
+   "summary": "96 🧭 What comes after the traditional article? <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "ebb3d02ab79d8c2c",
+   "title": "SPJ-led coalition urges Interior Department to reconsider national park communications policy",
+   "link": "https://www.spj.org/spj-led-coalition-urges-interior-department-to-reconsider-national-park-communications-policy/",
+   "published": "2026-08-12T22:38:53+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org A coalition of groups led by the Society of Professional Journalists is urging the U.S. Department of the Interior to reconsider an internal policy prohibiting employees from communicating about deaths or serious injuries in national parks....",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "National Parks Service",
+    "U.S. Department of the Interior"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "07da34431bda70da",
    "title": "Journalist’s killing rattles a divided, threatened press in Oaxaca",
    "link": "https://latamjournalismreview.org/articles/journalists-killing-rattles-a-divided-threatened-press-in-oaxaca/",
@@ -951,6 +857,30 @@
    "tags": [
     "Violence against journalists",
     "Mexico"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "ce4815eb7ef11a08",
+   "title": "SPJ honors 2026 Sunshine Award recipients for advancing open government",
+   "link": "https://www.spj.org/spj-honors-2026-sunshine-award-recipients-for-advancing-open-government/",
+   "published": "2026-08-12T18:59:08+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists has announced the recipients of its 2026 Sunshine Award, recognizing individuals and organizations for advancing the principles of open government. This year’s honorees are Thomas Susman, a nationally...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "freedom of information",
+    "Police Records Access Project",
+    "Sunshine Award",
+    "Thomas Susman"
    ],
    "also_reported_by": []
   },
@@ -1233,6 +1163,27 @@
    "also_reported_by": []
   },
   {
+   "id": "9e0d9fca22a7959a",
+   "title": "SPJ Ethics Committee proposes revisions to Code of Ethics",
+   "link": "https://www.spj.org/spj-ethics-committee-proposes-revisions-to-code-of-ethics/",
+   "published": "2026-08-10T14:52:33+00:00",
+   "summary": "Draft retains core principles while addressing emerging challenges in journalism Media Contact:SPJ Communications, communications@spj.org Dan Axelrod, SPJ Ethics Committee Chair, deaxelrod8@gmail.com The Society of Professional Journalists Ethics Committee on Monday proposed revisions to the SPJ...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "journalism ethics",
+    "spj code of ethics"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "e24a532acd3eeaa7",
    "title": "The best AI policy? Tell readers you're using it",
    "link": "https://latamjournalismreview.org/articles/the-best-ai-policy-tell-readers-youre-using-it/",
@@ -1296,6 +1247,179 @@
     "Sin categoría",
     "CAMPESINOS",
     "CHOLUTECA"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "b719eeca64ef5a59",
+   "title": "Grantee sues to obtain evidence in official’s fatal car crash in rural Oklahoma",
+   "link": "https://fij.org/grantee-sues-to-obtain-evidence-in-officials-fatal-car-crash-in-rural-oklahoma/",
+   "published": "2026-08-07T17:45:35+00:00",
+   "summary": "As part of ongoing reporting about the justice system in rural areas, and with support from the Fund, Oklahoma Watch spent a year investigating a car crash involving a drug task force officer and a family of Guatemalan immigrants. Oklahoma Watch sued to obtain evidence that the officer sped throu...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo",
+    "migracion"
+   ],
+   "tags": [
+    "Grantees' Stories"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "980bc275ceecb589",
+   "title": "93% of ICE arrests in New York area targeted Latinos; grantees build database after ICE blocks records",
+   "link": "https://fij.org/93-of-ice-arrests-in-new-york-area-targeted-latinos-grantees-build-database-after-ice-blocks-records/",
+   "published": "2026-08-07T17:37:57+00:00",
+   "summary": "The City Reporter, with support from the Fund, found that 93% of street arrests by Immigration and Customs Enforcement (ICE) in the New York area targeted Latino people. ICE has not released any data on who they have arrested since October 15, 2025, so the City Reporter compiled its own database,...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo",
+    "migracion"
+   ],
+   "tags": [
+    "Grantees' Stories"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8a843d1dfe659b6e",
+   "title": "Ohio legislators block corporate from development from public vote; grantee obtains evidence of interference",
+   "link": "https://fij.org/ohio-legislators-block-corporate-from-development-from-public-vote-grantee-obtains-evidence-of-interference/",
+   "published": "2026-08-07T17:36:32+00:00",
+   "summary": "When two farmers in a small town in Ohio were concerned about construction of a huge new corporate plant in their community, they gathered enough signatures to put the zoning changes up for a public vote. But, twice, state officials blocked the project from going on the ballot. Taylor Barnes for...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Grantees' Stories"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "1c5fc691df6dfa2b",
+   "title": "Frontline digs into predatory adoption practices, with grantee reporting on Marshall Islands children",
+   "link": "https://fij.org/frontline-digs-into-predatory-adoption-practices-with-grantee-reporting-on-marshall-islands-children/",
+   "published": "2026-08-07T17:34:23+00:00",
+   "summary": "PBS Frontline and Retro Report investigated how so-called baby brokers have targeted pregnant women and families looking to adopt. They found that in parts of the U.S., the adoption industry is loosely regulated, where middlemen operate in a practice that critics have described as “adoption touri...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Grantees' Stories"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "a65e448d16f4bdb4",
+   "title": "Jails are unprepared for dangerous new type of drug withdrawal, grantee finds",
+   "link": "https://fij.org/jails-are-unprepared-for-dangerous-new-type-of-drug-withdrawal-grantee-finds/",
+   "published": "2026-08-07T17:32:03+00:00",
+   "summary": "Medetomidine, a powerful tranquilizer that started to spread as an adulterant in the illicit opioid supply two years ago, causes excruciating, complicated withdrawal symptoms, often within hours of someone’s last dose. With support from the Fund, Hannah Harris Green reported for STAT that many in...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Grantees' Stories"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "7a2feab86fb756af",
+   "title": "Grantee investigates San Francisco case that illustrates larger pattern of people being held in jail for years awaiting trial",
+   "link": "https://fij.org/grantee-investigates-san-francisco-case-that-illustrates-larger-pattern-of-people-being-held-in-jail-for-years-awaiting-trial/",
+   "published": "2026-08-07T17:25:36+00:00",
+   "summary": "With support from the Fund, Amy Martyn dug into a murder case in San Francisco that’s part of a pattern of more than 100 cases in the city where people spend years in jail awaiting trial on serious charges. Brothers Kenyon and Kishawn Norbert spent more than seven years in jail awaiting trial. Ma...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Grantees' Stories"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "1d285b66eb357b50",
+   "title": "Federal government launches crackdown on schoolteacher sexual misconduct, citing grantee’s reporting",
+   "link": "https://fij.org/federal-government-launches-crackdown-on-schoolteacher-sexual-misconduct-citing-grantees-reporting/",
+   "published": "2026-08-07T17:24:52+00:00",
+   "summary": "The U.S. Department of Education issued a nationwide directive to states and school districts to scrutinize their laws and regulations to prevent teachers who have engaged in sexual misconduct with students from obtaining new positions elsewhere. The directive cited an investigation by ProPublica...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Impact"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "c02f4ed5d73501ef",
+   "title": "Hawaii grand jury indicts Lt. Governor for bribery and other charges, using information obtained by grantee",
+   "link": "https://fij.org/hawaii-grand-jury-indicts-lt-governor-for-bribery-and-other-charges-using-information-obtained-by-grantee/",
+   "published": "2026-08-07T17:21:29+00:00",
+   "summary": "A grand jury in Hawaii indicted the state’s Lieutenant Governor and four other key officials and power brokers for bribery, conspiracy and other charges last Friday, after Honolulu Civil Beat, with support from the Fund, uncovered evidence that the FBI recorded a lawmaker being given $35,000 seve...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Impact"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "f52c6120d403cb90",
+   "title": "City of San Francisco cuts funding to large nonprofit housing provider, citing grantee’s investigation",
+   "link": "https://fij.org/city-of-san-francisco-cuts-funding-to-large-nonprofit-housing-provider-citing-grantees-investigation/",
+   "published": "2026-08-07T17:21:11+00:00",
+   "summary": "San Francisco’s city government announced last week that it will not renew $39 million in contracts to HomeRise, one of the city’s biggest providers of housing to formerly homeless people. Earlier, the CEO of HomeRise resigned after reporting by the San Francisco Chronicle and the UC Berkeley Inv...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "Impact"
    ],
    "also_reported_by": []
   },
@@ -1461,6 +1585,23 @@
    "also_reported_by": []
   },
   {
+   "id": "f1fe884ceb483728",
+   "title": "🧭 What shifts when you change your metrics",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-august-5-2026",
+   "published": "2026-08-06T00:00:00+00:00",
+   "summary": "96 🧭 What shifts when you change your metrics <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "b7f7617601e2ca9d",
    "title": "Four years after his arrest, José Rubén Zamora remains trapped in unresolved legal proceedings",
    "link": "https://latamjournalismreview.org/articles/four-years-after-his-arrest-jose-ruben-zamora-remains-trapped-in-unresolved-legal-proceedings/",
@@ -1523,6 +1664,27 @@
    "tags": [
     "Don’t Weaponize Anti-Terrorism Laws",
     "Stop Arresting Journalists"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8f2252163f53ae87",
+   "title": "SPJ honors 2026 Kym Fox Distinguished Teaching in Journalism and Lewis First Amendment recipients",
+   "link": "https://www.spj.org/spj-honors-2026-distinguished-teaching-in-journalism-and-lewis-first-amendment-recipients/",
+   "published": "2026-08-05T17:42:01+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists has named Kim Komenich, associate professor at San Francisco State University, as the recipient of the 2026 Kym Fox Distinguished Teaching in Journalism Award and Julia Wildman, a senior at Colorado M...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Distinguished Teaching in Journalism Award",
+    "Robert D.G. Lewis First Amendment Award"
    ],
    "also_reported_by": []
   },
@@ -1870,6 +2032,23 @@
    "also_reported_by": []
   },
   {
+   "id": "9d54ff15dcf9a602",
+   "title": "🧭 How to make your audience care",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-july-29",
+   "published": "2026-07-30T00:00:00+00:00",
+   "summary": "96 🧭 How to make your audience care <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "daf43626c71b0c66",
    "title": "Una agresión cada tres días: la libertad de expresión bajo presión constante en Honduras",
    "link": "https://clibrehonduras.com/2026/07/29/una-agresion-cada-tres-dias-la-libertad-de-expresion-bajo-presion-constante-en-honduras/",
@@ -2086,6 +2265,46 @@
    "also_reported_by": []
   },
   {
+   "id": "06a0b26335e61b00",
+   "title": "$40k Fellowship Application Open; Webinar Aug. 12 on How to Apply",
+   "link": "https://fij.org/40k-fellowship-application-open-webinar-aug-12-on-how-to-apply/",
+   "published": "2026-07-28T11:00:18+00:00",
+   "summary": "The Fund for Investigative Journalism is now accepting applications for Alicia Patterson Fellowships, which pay $40,000 for 12 months of in-depth reporting or $20,000 for six months. Proposals are due by October 1 for fellowships to begin in January 2027. The Fund will host a webinar on Aug. 12 a...",
+   "source": "Fund for Investigative Journalism",
+   "source_id": "fij",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "FIJ News",
+    "hero"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "5a440a79317fc04f",
+   "title": "SPJ hosts 17 emerging journalism leaders from across the country at relaunched Leadership Institute",
+   "link": "https://www.spj.org/spj-hosts-17-emerging-journalism-leaders-from-across-the-country-at-relaunched-leadership-institute/",
+   "published": "2026-07-27T21:56:22+00:00",
+   "summary": "Media Contact: Justin Paprocki, SPJ Professional Learning Manager, jpaprocki@spj.org SPJ Communications, communications@spj.org The Society of Professional Journalists hosted its relaunched Leadership Institute July 17-19, bringing together 17 professional SPJ members from across the country for...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "4495007d514dceba",
    "title": "Brazilian journalist is assaulted, threatened after alleged public funds embezzlement exposé",
    "link": "https://cpj.org/2026/07/brazilian-journalist-is-assaulted-threatened-after-alleged-public-funds-embezzlement-expose/",
@@ -2225,6 +2444,26 @@
    "also_reported_by": []
   },
   {
+   "id": "683d06cb94f67ed8",
+   "title": "SPJ commends DOJ decision to withdraw subpoenas targeting New York Times journalists, renews call for federal shield law",
+   "link": "https://www.spj.org/spj-commends-doj-decision-to-withdraw-subpoenas-targeting-new-york-times-journalists-renews-call-for-federal-shield-law/",
+   "published": "2026-07-23T22:00:20+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists commends the U.S. Department of Justice’s decision to withdraw subpoenas seeking phone records and grand jury testimony from New York Times journalists who reported on the security capabilities of Pre...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "a117699b33a89b4b",
    "title": "House subpoena of BreakThrough News threatens press freedom",
    "link": "http://freedom.press/issues/house-subpoena-of-breakthrough-news-threatens-press-freedom/",
@@ -2241,6 +2480,23 @@
    "tags": [
     "Defend Press Freedom"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "355b062791f69950",
+   "title": "🧭 Winning the battle for audience attention",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-july-22",
+   "published": "2026-07-23T00:00:00+00:00",
+   "summary": "96 🧭 Winning the battle for audience attention <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -2349,6 +2605,26 @@
    "also_reported_by": []
   },
   {
+   "id": "254c2ffdb4d62174",
+   "title": "SPJ renews coalition call for WHCA to defend press freedom at rescheduled dinner",
+   "link": "https://www.spj.org/spj-renews-coalition-call-for-whca-to-defend-press-freedom-at-rescheduled-dinner/",
+   "published": "2026-07-21T21:00:59+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of more than 500 journalists and eight press organizations urging the White House Correspondents’ Association to publicly condemn the Trump administration’s attacks on press freedom...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "b6d05598d81c61eb",
    "title": "NY Times reporters’ phone, text records sought by DOJ in secret subpoenas",
    "link": "https://pressfreedomtracker.us/all-incidents/ny-times-reporters-phone-text-records-sought-by-doj-in-secret-subpoenas/",
@@ -2427,6 +2703,26 @@
    "also_reported_by": []
   },
   {
+   "id": "7b6859ecb73b8ddf",
+   "title": "SPJ joins coalition urging Thailand to protect detained Chinese journalist Bai Zhaodong",
+   "link": "https://www.spj.org/spj-joins-coalition-urging-thailand-to-protect-detained-chinese-journalist-bai-zhaodong/",
+   "published": "2026-07-17T21:00:08+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of more than 50 press freedom and human rights organizations, led by Reporters Without Borders (RSF) and Safeguard Defenders (SD), in calling on Thai authorities to refrain from forc...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "ec3ca5cdeedf953d",
    "title": "Escalada de intimidación y criminalización contra la libertad de expresión del pueblo garífuna",
    "link": "https://clibrehonduras.com/2026/07/17/escalada-de-intimidacion-y-criminalizacion-contra-la-libertad-de-expresion-del-pueblo-garifuna/",
@@ -2454,6 +2750,26 @@
     "CRIMINALIZACIÓN",
     "GARÍFUNAS",
     "MANIFESTACIONES"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "87f52db5a33b01d6",
+   "title": "SPJ, SPJ International Community oppose new visa restrictions affecting international journalists",
+   "link": "https://www.spj.org/spj-spj-international-community-oppose-new-visa-restrictions-affecting-international-journalists/",
+   "published": "2026-07-17T18:30:09+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists and the SPJ International Community strongly oppose a new U.S. Department of Homeland Security regulation ending the “duration of status” policy for international journalists working in the United Sta...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy"
    ],
    "also_reported_by": []
   },
@@ -2564,6 +2880,23 @@
    "also_reported_by": []
   },
   {
+   "id": "d3b5d1db8d391105",
+   "title": "🧭 Are you designing news for exclusivity or relationships?",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-july-15",
+   "published": "2026-07-16T00:00:00+00:00",
+   "summary": "96 🧭 Are you designing news for exclusivity or relationships? <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "a9876a470c99be7a",
    "title": "Shareholder lawsuit seeks to halt Paramount merger, fight corruption",
    "link": "http://freedom.press/issues/shareholder-lawsuit-seeks-to-halt-paramount-merger-fight-corruption/",
@@ -2603,6 +2936,27 @@
    "also_reported_by": []
   },
   {
+   "id": "a5d424dfc3f71399",
+   "title": "SPJ renews call for federal shield law following Supreme Court decision in Catherine Herridge case",
+   "link": "https://www.spj.org/spj-renews-call-for-federal-shield-law-following-supreme-court-decision-in-catherine-herridge-case/",
+   "published": "2026-07-15T17:37:54+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists renews its call for stronger legal protections for journalists after the U.S. Supreme Court declined to halt sanctions against investigative journalist Catherine Herridge for refusing to reveal a conf...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "Catherine Herridge"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "1a07e1bbf1de629d",
    "title": "Trump Nominee Jay Clayton's Refusal to Respond Honestly to Senators Is Disqualifying",
    "link": "https://www.freepressaction.org/news/trump-nominee-jay-claytons-refusal-respond-honestly-senators-disqualifying",
@@ -2635,6 +2989,26 @@
    ],
    "tags": [
     "Don’t Let Trump Destroy Press Freedom"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "79d393bedc4811e0",
+   "title": "SPJ demands congressional action following federal subpoenas seeking NYT journalists’ sources",
+   "link": "https://www.spj.org/spj-federal-demands-congressional-action-following-federal-subpoenas-seeking-nyt-journalists-sources-demands-congress-act/",
+   "published": "2026-07-13T22:57:58+00:00",
+   "summary": "Media Contact:SPJ Communication, communications@spj.org Following the U.S. Department of Justice’s ill-advised subpoena of four New York Times reporters, the Society of Professional Journalists demands that Congress strengthen protections for journalists against compelled disclosure of confidenti...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy"
    ],
    "also_reported_by": []
   },
@@ -2759,6 +3133,27 @@
    "also_reported_by": []
   },
   {
+   "id": "1e7a8cbb250896d6",
+   "title": "SPJ announces 2025 Sigma Delta Chi, Mark of Excellence top award winners",
+   "link": "https://www.spj.org/spj-announces-2025-sigma-delta-chi-mark-of-excellence-top-award-winners/",
+   "published": "2026-07-10T20:32:15+00:00",
+   "summary": "Contact:SPJ Communications, communications@spj.org Lou Harry, SPJ Manager of Publications and Awards, lharry@hq.spj.org The Society of Professional Journalists has announced the winners of the 2025 Sigma Delta Chi Awards, honoring outstanding professional journalism produced last year. Winners we...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "SDX Awards",
+    "Sigma Delta Chi Awards"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "d143dcb441665526",
    "title": "ICE wants to scare you out of sharing the news",
    "link": "http://freedom.press/issues/ice-wants-to-scare-you-out-of-sharing-the-news/",
@@ -2818,6 +3213,23 @@
     "Hold ICE Accountable",
     "Protect Journalism Online"
    ],
+   "also_reported_by": []
+  },
+  {
+   "id": "613c2dfcb67e4b2b",
+   "title": "🧭 How news is changing shape to serve utility",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-july-8-2026",
+   "published": "2026-07-09T00:00:00+00:00",
+   "summary": "96 🧭 How news is changing shape to serve utility <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -3004,6 +3416,23 @@
    "also_reported_by": []
   },
   {
+   "id": "9013b993b9615f01",
+   "title": "🧭 How users see the zero-click reality",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-july-1-2026",
+   "published": "2026-07-02T00:00:00+00:00",
+   "summary": "96 🧭 How users see the zero-click reality <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "3b1b1b928d34211e",
    "title": "New Jersey Lawmakers Restore Funding for the Civic Information Consortium",
    "link": "https://www.freepressaction.org/news/new-jersey-lawmakers-restore-funding-civic-information-consortium",
@@ -3083,6 +3512,23 @@
    "also_reported_by": []
   },
   {
+   "id": "0f28d981039c3402",
+   "title": "🧭 Young audiences don't want news \"to be cool\"",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-june-24-2026",
+   "published": "2026-06-25T00:00:00+00:00",
+   "summary": "96 🧭 Young audiences don't want news \"to be cool\" <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "b6f861a161ec51ec",
    "title": "CPJ, 230 aliados condenan informe que intenta criminalizar investigaciones del periodista peruano Gustavo Gorriti",
    "link": "https://cpj.org/es/2026/06/cpj-230-aliados-condenan-informe-que-intenta-criminalizar-investigaciones-del-periodista-peruano-gustavo-gorriti/",
@@ -3138,20 +3584,22 @@
    "also_reported_by": []
   },
   {
-   "id": "8fe37f09288cc4e0",
-   "title": "Podcast and launch videos",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/podcast-and-launch-videos",
-   "published": "2026-06-24T10:54:55+00:00",
-   "summary": "Podcast and launch videos Matthew Leake Wed, 06/24/2026 - 11:54 Podcast and launch events",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
+   "id": "6ba55605e04e9ac7",
+   "title": "Press Forward Invests $1.45 Million to Advance State Policies Supporting Local News",
+   "link": "https://www.pressforward.news/press-forward-invests-1-45-million-to-advance-state-policies-supporting-local-news/",
+   "published": "2026-06-24T10:00:55+00:00",
+   "summary": "Funding supports growing national and state-based effort to expand access to trusted local information (June 24, 2026) – Press Forward today announced a $1.45 million investment to help states expand access to trusted local news, ensuring more communities have the information they need to make de...",
+   "source": "Press Forward",
+   "source_id": "pressforward",
    "language": "en",
-   "country": null,
+   "country": "United States",
    "category": "periodismo",
    "topics": [
     "periodismo"
    ],
-   "tags": [],
+   "tags": [
+    "Press Release"
+   ],
    "also_reported_by": []
   },
   {
@@ -3212,6 +3660,46 @@
    "also_reported_by": []
   },
   {
+   "id": "e2440d5152f5df62",
+   "title": "🧭 Using foresight to navigate a post-search ecosystem",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-june-17",
+   "published": "2026-06-18T00:00:00+00:00",
+   "summary": "96 🧭 Using foresight to navigate a post-search ecosystem <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "417f39f9f238fb42",
+   "title": "SPJ, Maryland Pro, stand with Montgomery County student journalists",
+   "link": "https://www.spj.org/spj-maryland-pro-stand-with-montgomery-county-student-journalists/",
+   "published": "2026-06-17T20:57:07+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists and its Maryland Pro Chapter join a growing coalition of journalism organizations in supporting Montgomery County Public Schools student journalists who are calling for stronger protections for studen...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "gag rules",
+    "Maryland",
+    "Montgomery County Public Schools"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "9f32c955874e73d3",
    "title": "California's Civic Media Program Marks Significant Progress Over Past Efforts to Fund Local News",
    "link": "https://www.freepressaction.org/news/californias-civic-media-program-marks-significant-progress-over-past-efforts-fund-local-news",
@@ -3248,6 +3736,29 @@
    "also_reported_by": []
   },
   {
+   "id": "ce706ee7368e974d",
+   "title": "SPJ honors Bloomberg News with New America Award for immigration reporting",
+   "link": "https://www.spj.org/spj-honors-bloomberg-news-with-new-america-award-for-immigration-reporting/",
+   "published": "2026-06-15T20:24:43+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists honors Bloomberg News staff with this year’s New America Award for “Immigration, Inc.,” its investigative series examining the economic and human consequences of expanded U.S. immigration enforcement....",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo",
+    "migracion"
+   ],
+   "tags": [
+    "SPJ News",
+    "Bloomberg",
+    "Bloomberg News",
+    "New America Award"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "75419011028a713c",
    "title": "Alerta pública por intimidación a Marvin del Cid y Sony Figueroa el 3 de junio 2026",
    "link": "https://redrompeelmiedoguatemala.org/2026/06/alerta-p-blica-por-intimidaci-n-a-marvin-del-cid-y-sony-figueroa-el-3-de-junio-2026/",
@@ -3269,23 +3780,6 @@
     "Violencia contra periodistas",
     "vox populi"
    ],
-   "also_reported_by": []
-  },
-  {
-   "id": "f6638d7849e7b997",
-   "title": "Explore more than a decade of survey data across markets",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/interactive",
-   "published": "2026-06-15T12:51:40+00:00",
-   "summary": "Explore more than a decade of survey data across markets eduardo.suarez… Mon, 06/15/2026 - 13:51 16 June 2026",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [],
    "also_reported_by": []
   },
   {
@@ -3384,6 +3878,23 @@
    "also_reported_by": []
   },
   {
+   "id": "ff48390a8d52acb3",
+   "title": "🧭 Building a roadmap for newsrooms to thrive",
+   "link": "https://mailchi.mp/icfj/blueprints-newsletter-june-10-2026",
+   "published": "2026-06-11T00:00:00+00:00",
+   "summary": "96 🧭 Building a roadmap for newsrooms to thrive <!-- IJNet's newsletter on product and design intelligence to help connect and build trust with your community.<!-- ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏...",
+   "source": "Blueprints (newsletter)",
+   "source_id": "blueprints_newsletter",
+   "language": "en",
+   "country": null,
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "fbe22c014b3b330b",
    "title": "95 Local Organizations and Leaders Call on New Jersey Lawmakers to Restore $2.5 Million to Fund the State's Civic Information Consortium",
    "link": "https://www.freepressaction.org/news/95-local-organizations-and-leaders-call-new-jersey-lawmakers-restore-25-million-fund-states",
@@ -3425,6 +3936,48 @@
    "also_reported_by": []
   },
   {
+   "id": "a72310cb21eac103",
+   "title": "SPJ, coalition urge rejection of proposed federal nondisclosure rule",
+   "link": "https://www.spj.org/spj-coalition-urge-rejection-of-proposed-federal-nondisclosure-rule/",
+   "published": "2026-06-09T17:10:00+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists and 23 organizations condemn a proposed Trump administration rule that would allow federal agencies to require employees to sign a standardized nondisclosure agreement. If adopted, the rule would give...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "gag rules"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "fccc83e1c8c0f061",
+   "title": "SPJ-led coalition urges Florida school district to revise media policy that restricts press access",
+   "link": "https://www.spj.org/spj-led-coalition-urges-florida-school-district-to-revise-media-policy-that-restricts-press-access/",
+   "published": "2026-06-08T18:00:28+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists, joined by a coalition of news media organizations, has called on Orange County (Florida) Public Schools to revise a district media policy that threatens press freedom, limits transparency and chills...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "gag rules"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "daa7d6188649f5c5",
    "title": "Colombia: murder of state-protected journalist Cristian Hernando Herrera Nariño brings calls for stronger measures",
    "link": "https://rsf.org/en/colombia-murder-state-protected-journalist-cristian-hernando-herrera-nari%C3%B1o-brings-calls-stronger",
@@ -3440,6 +3993,28 @@
    ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "99e40ab754951740",
+   "title": "Press freedom coalition urges IU to protect student media independence",
+   "link": "https://www.spj.org/press-freedom-coalition-urges-iu-to-protect-student-media-independence/",
+   "published": "2026-06-05T20:05:16+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of 14 national journalism and press freedom organizations led by the Student Press Law Center in urging Indiana University to protect student media independence and ensure long-term...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "Indiana Daily Student",
+    "Indiana University"
    ],
    "also_reported_by": []
   },
@@ -3476,6 +4051,99 @@
    ],
    "tags": [
     "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "ee541f7edd18a066",
+   "title": "SPJ honors Brown, Givhan, Robinson and Vitale as 2026 Fellows",
+   "link": "https://www.spj.org/spj-honors-brown-givhan-robinson-and-vitale-as-2026-fellows/",
+   "published": "2026-06-03T15:40:56+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists has named Julie K. Brown, Robin Givhan, Walter V. Robinson and Dick Vitale as 2026 Fellows of the Society, the highest professional honor awarded by the organization. “This year’s Fellows of the Socie...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Dick Vitale",
+    "Julie K. Brown",
+    "Robin Givhan",
+    "SPJ Fellows of the Society",
+    "Walter Robinson"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "73cc02d1d98bd881",
+   "title": "SPJ Foundation opens 2026 grant cycle to support press freedom",
+   "link": "https://www.spj.org/spj-foundation-opens-2026-grant-cycle-to-support-press-freedom/",
+   "published": "2026-06-01T15:15:41+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists Foundation today opened its 2026 grant cycle and invites applications from journalists, media professionals and organizations working to strengthen press freedom, support newsroom resilience and advan...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "grants",
+    "press freedom",
+    "SPJ Foundation"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "86544185300001f7",
+   "title": "SPJ/JEA announce winners of 2026 High School Essay Contest",
+   "link": "https://www.spj.org/spj-jea-announce-winners-of-2026-high-school-essay-contest/",
+   "published": "2026-05-29T21:34:27+00:00",
+   "summary": "Media ContactSPJ Communications, communcations@spj.org The Society of Professional Journalists Foundation and Journalism Education Association have selected three scholarship winners in the 2026 SPJ/JEA High School Essay Contest. Established in 1998, the contest encourages students to explore the...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "2026 SPJ/JEA High School Essay Contest",
+    "SPJ/JEA High School Essay Contest",
+    "Student awards",
+    "Student journalism",
+    "student media"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "8d7f1bb0eacf4a21",
+   "title": "SPJ leadership program returns with new name and renewed mission",
+   "link": "https://www.spj.org/spj-leadership-program-returns-with-new-name-and-renewed-mission/",
+   "published": "2026-05-29T16:54:37+00:00",
+   "summary": "Media Contact:Justin Paprocki, SPJ Professional Learning Manager, jpaprocki@spj.orgSPJ Communications, communications@spj.org The Society of Professional Journalists is relaunching its leadership development program under a new name and renewed mission. The SPJ Leadership Institute is a three-day...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Advocacy",
+    "journalism education",
+    "SPJ Leadership Institute"
    ],
    "also_reported_by": []
   },
@@ -3545,6 +4213,30 @@
    "also_reported_by": []
   },
   {
+   "id": "52f58da3150f94dd",
+   "title": "SPJ announces 2025 Mark of Excellence National winners",
+   "link": "https://www.spj.org/spj-announces-2025-mark-of-excellence-national-winners/",
+   "published": "2026-05-26T20:12:23+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.orgLou Harry, SPJ Manager of Publications and Awards, lharry@spj.org The Society of Professional Journalists is pleased to announce national winners of the 2025 Mark of Excellence Awards, recognizing collegiate work published or broadcast in 20...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
+   "language": "en",
+   "country": "United States",
+   "category": "periodismo",
+   "topics": [
+    "periodismo"
+   ],
+   "tags": [
+    "SPJ News",
+    "Mark of Excellence Awards",
+    "MOE National",
+    "Student awards",
+    "Student journalism",
+    "student media"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "cbed4917cd49db3a",
    "title": "Haiti: Portraits of Junior Célestin and Osnel Espérance, journalists abducted in Port-au-Prince and presumed executed",
    "link": "https://rsf.org/en/haiti-portraits-junior-c%C3%A9lestin-and-osnel-esp%C3%A9rance-journalists-abducted-port-au-prince-and",
@@ -3602,122 +4294,27 @@
    "also_reported_by": []
   },
   {
-   "id": "c737b9ec1cf8137a",
-   "title": "Datos por país",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/datos-por-pais",
-   "published": "2026-05-22T14:04:41+00:00",
-   "summary": "Datos por país eduardo.suarez… Fri, 05/22/2026 - 15:04 Nota metodológica En esta sección publicamos una visión de mercado de los hallazgos, que incluye una descripción general de los puntos de datos más importantes en términos de noticias.Estos incluyen un resumen del consumo en cada mercado, inc...",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
+   "id": "b2128bac4e8c763f",
+   "title": "SPJ, press freedom groups commend ABC for defending ‘The View,’ Kimmel against free speech attacks",
+   "link": "https://www.spj.org/spj-press-freedom-groups-commend-abc-for-defending-the-view-kimmel-against-free-speech-attacks/",
+   "published": "2026-05-20T19:07:17+00:00",
+   "summary": "Media Contact:SPJ Communications, communications@spj.org The Society of Professional Journalists joins a coalition of 14 press freedom and free expression organizations in a letter to Disney Entertainment Television Chairman Debra OConnell commending ABC for defending “The View” and “Jimmy Kimmel...",
+   "source": "Society of Professional Journalists",
+   "source_id": "spj",
    "language": "en",
-   "country": null,
+   "country": "United States",
    "category": "periodismo",
    "topics": [
     "periodismo"
    ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "8fce7f2f356e0c6a",
-   "title": "Metodología",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/metodologia",
-   "published": "2026-05-21T15:53:20+00:00",
-   "summary": "Metodología eduardo.suarez… Thu, 05/21/2026 - 16:53 Metodología Publication date 16th June 2026",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
+   "tags": [
+    "SPJ News",
+    "ABC",
+    "Advocacy",
+    "Disney",
+    "FCC",
+    "Jimmy Kimmel"
    ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "b88ee6de2f6fdba5",
-   "title": "Kompas May 2026",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/kompas-may-2026",
-   "published": "2026-05-19T13:40:15+00:00",
-   "summary": "In the news Kompas May 2026 https://www.kompas.id/artikel/en-mengapa-anak-muda-lebih-percaya-kreator-konten",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "a30b9ec6439ff0b3",
-   "title": "Guardian May 2026",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/guardian-may-2026-0",
-   "published": "2026-05-19T13:34:31+00:00",
-   "summary": "In the news Guardian May 2026 https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumpti…",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "247a60c4d5755c25",
-   "title": "Guardian May 2026",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/guardian-may-2026",
-   "published": "2026-05-19T13:33:42+00:00",
-   "summary": "In the news Guardian May 2026 https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumpti…",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "075c9e61b8d793b0",
-   "title": "LatAm Journalism Review March 2026",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/latam-journalism-review-march-2026",
-   "published": "2026-05-19T13:31:09+00:00",
-   "summary": "In the news LatAm Journalism Review March 2026 https://latamjournalismreview.org/articles/in-brazilian-newsrooms-its-not-a-mat…",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "b2fdbc38fb735a7d",
-   "title": "Washington Post March 2026",
-   "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/washington-post-march-2026",
-   "published": "2026-05-19T13:29:39+00:00",
-   "summary": "In the news Washington Post March 2026",
-   "source": "Reuters Institute for the Study of Journalism (Oxford)",
-   "source_id": "reuters_institute",
-   "language": "en",
-   "country": null,
-   "category": "periodismo",
-   "topics": [
-    "periodismo"
-   ],
-   "tags": [],
    "also_reported_by": []
   }
  ]

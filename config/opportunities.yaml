@@ -1,0 +1,293 @@
+# Catálogo curado de oportunidades y recursos para periodistas.
+#
+# Por qué es un catálogo a mano y no fuentes RSS como config/sources.yaml:
+# de las 17 URLs revisadas el 2026-08-15, solo GFMD (gfmd.info/fundings/feed/)
+# publica un feed real de convocatorias. GIJN y Pulitzer Center bloquean todo
+# acceso automático con el challenge de Cloudflare (incluidos sus /feed/), e
+# IJNet tiene rss.xml pero devuelve un feed de "destacados" de Drupal que
+# mezcla notas de 2014-2018 sin orden cronológico. El resto no expone RSS.
+#
+# Además, una convocatoria no es una noticia: lo que importa es la fecha
+# límite y si sigue abierta, no cuándo se publicó. Por eso cada entrada lleva
+# deadline explícito y el sitio calcula su estado (abierta / cerrada /
+# permanente) en vez de ordenar por fecha de publicación.
+#
+# Campos:
+#   id          identificador estable (no reusar ni renombrar: es la clave)
+#   name        título que se muestra en la tarjeta
+#   org         organización que convoca u ofrece
+#   url         enlace principal
+#   url_es      versión en español del mismo recurso, si existe (opcional)
+#   kind        oportunidades: empleo | beca | fondo | directorio
+#               recursos:      guia | toolkit | centro
+#   language    idioma principal del recurso (es | en)
+#   region      alcance geográfico, texto libre en español
+#   deadline    fecha límite en formato YYYY-MM-DD, o null si no aplica
+#   deadline_note  aclaración cuando el deadline es recurrente, rolling o
+#               desconocido. Se muestra tal cual junto a la fecha.
+#   summary     descripción propia, en español
+#   verified    fecha en que se comprobó a mano la URL y los datos
+#
+# Mantenimiento: revisar los deadline al menos una vez por trimestre. Las
+# entradas con deadline vencido NO se borran — se muestran al final marcadas
+# como "cerrada", porque casi todas son convocatorias anuales que reabren.
+
+opportunities:
+  - id: gijn_jobs
+    name: "GIJN Job Board"
+    org: "Global Investigative Journalism Network"
+    url: "https://gijn.org/jobs"
+    kind: empleo
+    language: en
+    region: "Global"
+    deadline: null
+    deadline_note: "Actualización continua"
+    summary: >-
+      Bolsa de empleo de la red global de periodismo de investigación: puestos
+      en redacciones, organizaciones sin fines de lucro y proyectos de
+      investigación en todo el mundo. Cada anuncio lleva su propia fecha de
+      cierre. El sitio bloquea el acceso automático, así que hay que revisarlo
+      a mano.
+    verified: "2026-08-15"
+
+  - id: ijnet_opportunities
+    name: "IJNet – Oportunidades"
+    org: "International Journalists' Network (ICFJ)"
+    url: "https://ijnet.org/en/opportunities"
+    url_es: "https://ijnet.org/es/opportunities"
+    kind: directorio
+    language: en
+    region: "Global"
+    deadline: null
+    deadline_note: "Actualización continua"
+    summary: >-
+      Listado permanente de becas, fellowships, concursos, capacitaciones y
+      empleos que publica el ICFJ. Tiene versión en español. Es probablemente
+      el directorio más completo en volumen para periodistas de habla hispana.
+    verified: "2026-08-15"
+
+  - id: pulitzer_grants
+    name: "Grants & Fellowships"
+    org: "Pulitzer Center"
+    url: "https://pulitzercenter.org/opportunities/grants-fellowships"
+    kind: beca
+    language: en
+    region: "Global"
+    deadline: null
+    deadline_note: "Varias convocatorias abiertas en paralelo, cada una con su fecha"
+    summary: >-
+      Apoyo para reportajes de fondo sobre temas subcubiertos: crisis
+      climática, salud global, trabajo infantil, bosques tropicales, entre
+      otros. Incluye grants por reportaje y fellowships más largos, tanto para
+      periodistas independientes como para medios.
+    verified: "2026-08-15"
+
+  - id: fij_grants
+    name: "Apply for a Grant"
+    org: "Fund for Investigative Journalism"
+    url: "https://fij.org/apply-for-a-grant/"
+    kind: fondo
+    language: en
+    region: "Estados Unidos y global"
+    deadline: "2026-09-14"
+    deadline_note: "Ciclo de verano. Los otros cierres del año son el 30 de enero y el 27 de abril. Las seed grants (hasta US$2.500) son rolling."
+    summary: >-
+      Grants de hasta US$10.000 para reportajes de investigación, evaluadas
+      tres o cuatro veces al año. También otorga seed funding de hasta US$2.500
+      para investigación preliminar, en modalidad rolling, y administra las
+      Alicia Patterson Fellowships.
+    verified: "2026-08-15"
+
+  - id: nihcm_journalism
+    name: "Journalism Grants"
+    org: "NIHCM Foundation"
+    url: "https://nihcm.org/grants/journalism-grants"
+    kind: fondo
+    language: en
+    region: "Estados Unidos"
+    deadline: null
+    deadline_note: "Ciclo anual — confirmar la fecha vigente en el sitio"
+    summary: >-
+      Financia periodismo sobre sistema de salud en Estados Unidos: costos,
+      acceso, calidad, consolidación hospitalaria, medicamentos, salud rural y
+      materna. Abierto a medios, organizaciones sin fines de lucro,
+      universidades y periodistas independientes.
+    verified: "2026-08-15"
+
+  - id: spj_foundation_grants
+    name: "SPJ Foundation Grants"
+    org: "Society of Professional Journalists"
+    url: "https://www.spj.org/spj-foundation-grants/"
+    kind: fondo
+    language: en
+    region: "Estados Unidos"
+    deadline: "2026-08-13"
+    deadline_note: "Ciclo anual: las decisiones se comunican a fines de octubre y la próxima convocatoria suele abrir a mitad de año"
+    summary: >-
+      Fondos de la fundación de SPJ para organizaciones y proyectos que
+      impulsen su misión: formación periodística, ética, libertad de
+      información y acceso a fuentes públicas.
+    verified: "2026-08-15"
+
+  - id: idabwells_grants
+    name: "Grant Opportunities"
+    org: "Ida B. Wells Society for Investigative Reporting"
+    url: "https://idabwellssociety.org/grant-opportunities/"
+    kind: directorio
+    language: en
+    region: "Estados Unidos"
+    deadline: null
+    deadline_note: "Mayormente rolling"
+    summary: >-
+      Página que reúne convocatorias de terceros dirigidas a periodistas de
+      investigación, con énfasis en periodistas de color. Incluye, entre
+      otras, el Howard G. Buffett Fund for Women Journalists (IWMF) y Bringing
+      Stories Home, ambas con postulación rolling.
+    verified: "2026-08-15"
+
+  - id: macfound_journalism
+    name: "Journalism & Media – Grant Guidelines"
+    org: "MacArthur Foundation"
+    url: "https://www.macfound.org/programs/enduring-commitments/journalism-media/grant-guidelines"
+    kind: fondo
+    language: en
+    region: "Estados Unidos y global"
+    deadline: null
+    deadline_note: "No acepta propuestas no solicitadas — solo por invitación"
+    summary: >-
+      Lineamientos del programa de periodismo y medios de MacArthur. Importante
+      antes de invertir tiempo: la fundación declara explícitamente que no
+      recibe propuestas espontáneas; el financiamiento se otorga por
+      invitación. Sirve para entender sus prioridades y buscar contacto por
+      otras vías.
+    verified: "2026-08-15"
+
+  - id: instrumentl_journalism
+    name: "Grants for Journalism"
+    org: "Instrumentl"
+    url: "https://www.instrumentl.com/browse-grants/grants-for-journalism"
+    kind: directorio
+    language: en
+    region: "Estados Unidos"
+    deadline: null
+    deadline_note: "Base de datos con búsqueda; requiere cuenta para ver el detalle"
+    summary: >-
+      Base de datos comercial que al 2026-08-15 lista más de 150 grants
+      activos de periodismo en Estados Unidos, con seguimiento de fechas
+      límite. El acceso completo es de pago (tiene prueba gratuita), pero el
+      listado público ya sirve para detectar fondos.
+    verified: "2026-08-15"
+
+  - id: gfmd_fundings
+    name: "Funding Opportunities"
+    org: "Global Forum for Media Development"
+    url: "https://gfmd.info/fundings/"
+    kind: directorio
+    language: en
+    region: "Global"
+    deadline: null
+    deadline_note: "Actualización continua — sus convocatorias entran solas a esta sección"
+    summary: >-
+      Archivo de convocatorias de financiamiento para medios y periodistas de
+      todo el mundo, con filtro por fecha límite y por temática. Es la única
+      de estas fuentes con RSS real: sus convocatorias recientes aparecen
+      automáticamente en esta misma pestaña.
+    verified: "2026-08-15"
+
+  - id: pressforward_funding
+    name: "Funding Opportunities"
+    org: "Press Forward"
+    url: "https://www.pressforward.news/funding-opportunities/"
+    kind: fondo
+    language: en
+    region: "Estados Unidos"
+    deadline: null
+    deadline_note: "Convocatorias abiertas por ciclos — revisar el sitio"
+    summary: >-
+      Coalición de fundaciones que financia el periodismo local en Estados
+      Unidos. Sus inversiones se organizan en cuatro prioridades e incluyen
+      fondos por estado y apoyo a organizaciones intermediarias.
+    verified: "2026-08-15"
+
+  - id: lenfest_apply_grant
+    name: "Apply for a Grant"
+    org: "The Lenfest Institute for Journalism"
+    url: "https://www.lenfestinstitute.org/get-involved/apply-grant/"
+    kind: fondo
+    language: en
+    region: "Estados Unidos"
+    deadline: null
+    deadline_note: "Solo cuando hay convocatorias abiertas — revisar el sitio"
+    summary: >-
+      El instituto abre convocatorias puntuales para proyectos de
+      sostenibilidad e innovación en medios. Las solicitudes las evalúa un
+      comité interno de staff. No hay ventanilla permanente.
+    verified: "2026-08-15"
+
+resources:
+  - id: gijn_resource_center
+    name: "Resource Center"
+    org: "Global Investigative Journalism Network"
+    url: "https://gijn.org/resource"
+    kind: centro
+    language: en
+    region: "Global"
+    summary: >-
+      Centro de recursos de GIJN: guías de investigación, manuales por tema
+      (crimen organizado, medio ambiente, finanzas), herramientas de
+      verificación y material de capacitación. Buena parte está traducida al
+      español. El sitio bloquea el acceso automático; hay que entrar a mano.
+    verified: "2026-08-15"
+
+  - id: ijnet_toolkits
+    name: "Toolkits"
+    org: "International Journalists' Network (ICFJ)"
+    url: "https://ijnet.org/en/toolkits"
+    url_es: "https://ijnet.org/es/toolkits"
+    kind: toolkit
+    language: en
+    region: "Global"
+    summary: >-
+      Kits temáticos del ICFJ con guías prácticas: cobertura de elecciones,
+      salud, desinformación, seguridad digital y sostenibilidad de medios.
+      Disponibles en español.
+    verified: "2026-08-15"
+
+  - id: cpj_safety_disasters_es
+    name: "Seguridad física: desastres naturales y fenómenos climatológicos extremos"
+    org: "Committee to Protect Journalists"
+    url: "https://cpj.org/es/2019/01/seguridad-fisica-desastres-naturales-y-fenomenos-c/"
+    kind: guia
+    language: es
+    region: "Global"
+    summary: >-
+      Guía de seguridad de CPJ para cubrir huracanes, terremotos, inundaciones
+      y otros eventos climáticos extremos: evaluación de amenazas antes del
+      despliegue, equipo necesario, riesgos sanitarios y protocolos de
+      comunicación en zonas sin servicio.
+    verified: "2026-08-15"
+
+  - id: cpj_safety_disasters_en
+    name: "Physical safety: Natural disasters and extreme weather"
+    org: "Committee to Protect Journalists"
+    url: "https://cpj.org/2018/09/physical-safety-natural-disasters-and-extreme-weather/"
+    kind: guia
+    language: en
+    region: "Global"
+    summary: >-
+      Versión en inglés de la guía de seguridad de CPJ para cobertura de
+      desastres naturales y clima extremo.
+    verified: "2026-08-15"
+
+  - id: lenfest_solutions_resources
+    name: "Solutions & Resources"
+    org: "The Lenfest Institute for Journalism"
+    url: "https://www.lenfestinstitute.org/solutions-resources/"
+    kind: toolkit
+    language: en
+    region: "Estados Unidos"
+    summary: >-
+      Materiales del instituto sobre modelo de negocio y sostenibilidad de
+      medios: estudios de caso, informes de producto y aprendizajes de las
+      redacciones que financian.
+    verified: "2026-08-15"

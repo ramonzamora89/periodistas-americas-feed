@@ -466,6 +466,11 @@ sources:
     priority: 3
     category: periodismo
     active: true
+  # Desactivada el 2026-08-15: su rss.xml no publica artículos sino fragmentos
+  # sueltos del Digital News Report — "Metodología", "Datos por país",
+  # "Podcast and launch videos", "Guardian May 2026". De los 9 items que traía,
+  # ninguno era una nota utilizable. El sitio sigue valiendo para consulta
+  # directa; lo que no sirve es su feed.
   - id: reuters_institute
     name: "Reuters Institute for the Study of Journalism (Oxford)"
     url: "https://reutersinstitute.politics.ox.ac.uk/rss.xml"
@@ -473,4 +478,85 @@ sources:
     country: null
     priority: 3
     category: periodismo
+    active: false
+
+  # --- Oportunidades (priority 3) ---
+  # Los items de category "oportunidades" NO entran a feed.json: el script los
+  # desvía a docs/data/opportunities.json, donde se mezclan con el catálogo
+  # curado de config/opportunities.yaml. Ver load_opportunities() en
+  # fetch_feeds.py.
+  #
+  # GFMD es la única de las 17 URLs revisadas el 2026-08-15 que publica un feed
+  # real de convocatorias. GIJN (jobs, resource) y Pulitzer Center devuelven el
+  # challenge de Cloudflare en todo el dominio, incluido /feed/, así que
+  # tampoco funcionarían desde GitHub Actions. IJNet tiene rss.xml pero sirve
+  # un feed de "destacados" de Drupal, no cronológico, con notas de 2014-2018.
+  # Esas tres quedan como entradas curadas en config/opportunities.yaml.
+  - id: gfmd_fundings
+    name: "GFMD – Convocatorias de financiamiento"
+    url: "https://gfmd.info/fundings/feed/"
+    language: en
+    country: null
+    priority: 3
+    category: oportunidades
     active: true
+
+  # --- Periodismo: fuentes adicionales verificadas el 2026-08-15 ---
+  # Salieron de la misma lista de URLs de oportunidades, pero su RSS publica
+  # contenido editorial, no convocatorias, así que van a la pestaña Periodismo.
+  - id: spj
+    name: "Society of Professional Journalists"
+    url: "https://www.spj.org/feed/"
+    language: en
+    country: "United States"
+    priority: 3
+    category: periodismo
+    active: true
+
+  - id: fij
+    name: "Fund for Investigative Journalism"
+    url: "https://fij.org/feed/"
+    language: en
+    country: "United States"
+    priority: 3
+    category: periodismo
+    active: true
+
+  - id: blueprints_newsletter
+    name: "Blueprints (newsletter)"
+    url: "https://us17.campaign-archive.com/feed?u=33f3ebd8b6828ec000fb67b28&id=eb8ab39da7"
+    language: en
+    country: null
+    priority: 3
+    category: periodismo
+    active: true
+
+  - id: pressforward
+    name: "Press Forward"
+    url: "https://www.pressforward.news/feed/"
+    language: en
+    country: "United States"
+    priority: 3
+    category: periodismo
+    active: true
+
+  # Inactivas: el feed existe y responde 200, pero no aporta.
+  # Ida B. Wells: último post de noviembre 2025 y son perfiles de miembros.
+  # Lenfest: el feed trae una sola entrada.
+  - id: idabwells
+    name: "Ida B. Wells Society"
+    url: "https://idabwellssociety.org/feed/"
+    language: en
+    country: "United States"
+    priority: 3
+    category: periodismo
+    active: false
+
+  - id: lenfest
+    name: "The Lenfest Institute for Journalism"
+    url: "https://www.lenfestinstitute.org/feed/"
+    language: en
+    country: "United States"
+    priority: 3
+    category: periodismo
+    active: false

@@ -20,6 +20,9 @@
     <button type="button" class="topic-btn" data-topic="libertad_prensa" role="tab" aria-selected="false">Libertad de Prensa</button>
     <button type="button" class="topic-btn" data-topic="periodismo" role="tab" aria-selected="false">Periodismo</button>
     <button type="button" class="topic-btn" data-topic="migracion" role="tab" aria-selected="false">Migración</button>
+    <span class="topic-sep" aria-hidden="true"></span>
+    <button type="button" class="topic-btn" data-topic="oportunidades" role="tab" aria-selected="false">Oportunidades</button>
+    <button type="button" class="topic-btn" data-topic="recursos" role="tab" aria-selected="false">Recursos</button>
   </div>
 
   <div class="controls">
@@ -31,6 +34,15 @@
     </div>
   </div>
 
+  <div class="kind-filter" id="kind-filter" role="group" aria-label="Tipo de oportunidad" hidden>
+    <button type="button" class="kind-btn active" data-kind="all">Todas</button>
+    <button type="button" class="kind-btn" data-kind="empleo">Empleos</button>
+    <button type="button" class="kind-btn" data-kind="beca">Becas</button>
+    <button type="button" class="kind-btn" data-kind="fondo">Fondos</button>
+    <button type="button" class="kind-btn" data-kind="directorio">Directorios</button>
+  </div>
+
+  <p id="section-note" class="section-note" hidden></p>
   <p id="result-count" class="result-count"></p>
   <div id="feed-list"></div>
   <p id="empty-state" class="empty-state" hidden>Sin resultados.</p>
@@ -40,7 +52,13 @@
   <p>
     Fuentes: CPJ, RSF, Artículo 19, Red Centroamericana de Periodistas, Red Rompe el Miedo Guatemala, C-Libre Honduras,
     U.S. Press Freedom Tracker, Freedom of the Press Foundation, Free Press Action, IPYS, SNTP Venezuela,
-    LatAm Journalism Review, Reuters Institute, y Google Alerts.
+    LatAm Journalism Review, Reuters Institute, SPJ, Fund for Investigative Journalism, Press Forward,
+    Blueprints, GFMD, y Google Alerts.
+  </p>
+  <p>
+    Las pestañas <strong>Oportunidades</strong> y <strong>Recursos</strong> combinan las convocatorias que GFMD
+    publica por RSS con un catálogo revisado a mano (GIJN, IJNet, Pulitzer Center y otros sitios que no publican
+    feed). Verificá siempre la fecha límite en la convocatoria original antes de postular.
   </p>
   <p>
     Fuentes sin RSS — revisar manualmente:
