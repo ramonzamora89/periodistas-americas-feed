@@ -504,6 +504,11 @@ sources:
   # --- Periodismo: fuentes adicionales verificadas el 2026-08-15 ---
   # Salieron de la misma lista de URLs de oportunidades, pero su RSS publica
   # contenido editorial, no convocatorias, así que van a la pestaña Periodismo.
+  # Desactivada el 2026-08-15: el feed responde 200 desde una conexión normal
+  # (probado con el mismo User-Agent del bot) pero devuelve 403 desde GitHub
+  # Actions, de forma consistente. Es bloqueo por IP contra rangos de
+  # datacenter, así que no se arregla cambiando cabeceras: activa solo dejaba
+  # un error permanente en status.json sin aportar un solo item en producción.
   - id: spj
     name: "Society of Professional Journalists"
     url: "https://www.spj.org/feed/"
@@ -511,7 +516,7 @@ sources:
     country: "United States"
     priority: 3
     category: periodismo
-    active: true
+    active: false
 
   - id: fij
     name: "Fund for Investigative Journalism"

@@ -64,6 +64,8 @@ Agregar una entrada en `config/sources.yaml` con `active: true`. Campos: `id`, `
 
 Antes de agregarla, verificar a mano que la URL sirva un feed real: código 200, `content-type` de XML/RSS/Atom y contenido reciente. Varios sitios que parecen tener feed devuelven 404, redirigen al home o sirven contenido viejo desordenado.
 
+**Que funcione en tu máquina no basta.** Algunos sitios responden 200 desde una conexión doméstica y 403 desde los rangos de IP de datacenter que usa GitHub Actions — es bloqueo por IP y no se arregla cambiando el User-Agent. Le pasó a SPJ (`www.spj.org/feed/`), que quedó `active: false` por eso. Después de agregar una fuente conviene mirar la primera corrida del workflow (`gh run view --log | grep Wrote`) y confirmar que el conteo de fuentes OK sea el esperado, no solo probar en local.
+
 Si un sitio no publica RSS/Atom (ej. requiere JS, o lo desactivó deliberadamente), no se puede meter al pipeline automático — se agrega como enlace de revisión manual en el footer de `docs/index.html`, igual que NoNosCallarán, SIP/IAPA, IPI, NPPA y la CIDH.
 
 ## Google Alerts
