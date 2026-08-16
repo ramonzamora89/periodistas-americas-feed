@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T13:59:34.295112+00:00",
+ "generated_at": "2026-08-16T14:04:24.159406+00:00",
  "opportunities": [
   {
    "id": "gijn_jobs",
@@ -194,6 +194,22 @@
    "verified": "2026-08-15"
   },
   {
+   "id": "rji_fellowships",
+   "name": "Professional Innovation Fellowships",
+   "org": "Reynolds Journalism Institute (Universidad de Missouri)",
+   "url": "https://rjionline.org/about-rji-fellowships/",
+   "url_es": null,
+   "kind": "beca",
+   "language": "en",
+   "region": "Global",
+   "deadline": "2026-12-18",
+   "deadline_note": "Las postulaciones abren el 2 de noviembre de 2026",
+   "summary": "Ocho meses, remotos, para construir una herramienta, guía o plataforma libre y de código abierto que resuelva un problema del periodismo. Hay tres modalidades: individual e institucional, con 75 000 dólares, y una de tecnología emergente, con 100 000. El programa arranca el 28 de junio de 2027 y cubre un par de viajes a Missouri. RJI aclara en sus preguntas frecuentes que no hace falta vivir en Estados Unidos ni ser periodista para postular.",
+   "origin": "curado",
+   "published": null,
+   "verified": "2026-08-16"
+  },
+  {
    "id": "244ae5142fe75786",
    "name": "Health Care Journalism Grants 2026–2027",
    "org": null,
@@ -306,6 +322,22 @@
    "origin": "curado",
    "published": null,
    "verified": "2026-08-15"
+  },
+  {
+   "id": "rji_applied_research",
+   "name": "Applied Research",
+   "org": "Reynolds Journalism Institute (Universidad de Missouri)",
+   "url": "https://rjionline.org/applied-research/",
+   "url_es": null,
+   "kind": "centro",
+   "language": "en",
+   "region": "Global",
+   "deadline": null,
+   "deadline_note": null,
+   "summary": "Herramientas y guías gratuitas que RJI construye y publica para redacciones: Source Tracking Tool y su playbook para auditar a quién se cita, un kit de colaboración entre medios, otro para evaluar el ecosistema de noticias locales, y la serie en video Innovation in Focus sobre tecnología aplicada al periodismo. También reúne investigación académica traducida a recomendaciones prácticas.",
+   "origin": "curado",
+   "published": null,
+   "verified": "2026-08-16"
   }
  ]
 }

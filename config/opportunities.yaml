@@ -224,6 +224,27 @@ opportunities:
       comité interno de staff. No hay ventanilla permanente.
     verified: "2026-08-15"
 
+  # No se incluyen las Student Innovation Fellowships de RJI: son solo para
+  # estudiantes de la Missouri School of Journalism.
+  - id: rji_fellowships
+    name: "Professional Innovation Fellowships"
+    org: "Reynolds Journalism Institute (Universidad de Missouri)"
+    url: "https://rjionline.org/about-rji-fellowships/"
+    kind: beca
+    language: en
+    region: "Global"
+    deadline: "2026-12-18"
+    deadline_note: "Las postulaciones abren el 2 de noviembre de 2026"
+    summary: >-
+      Ocho meses, remotos, para construir una herramienta, guía o plataforma
+      libre y de código abierto que resuelva un problema del periodismo. Hay
+      tres modalidades: individual e institucional, con 75 000 dólares, y una
+      de tecnología emergente, con 100 000. El programa arranca el 28 de junio
+      de 2027 y cubre un par de viajes a Missouri. RJI aclara en sus preguntas
+      frecuentes que no hace falta vivir en Estados Unidos ni ser periodista
+      para postular.
+    verified: "2026-08-16"
+
 resources:
   - id: gijn_resource_center
     name: "Resource Center"
@@ -291,3 +312,22 @@ resources:
       medios: estudios de caso, informes de producto y aprendizajes de las
       redacciones que financian.
     verified: "2026-08-15"
+
+  # La sección /resources/ de RJI describe sus instalaciones en Missouri (el
+  # edificio, la biblioteca, la ciudad), no herramientas para periodistas. El
+  # catálogo real de recursos libres está en /applied-research/.
+  - id: rji_applied_research
+    name: "Applied Research"
+    org: "Reynolds Journalism Institute (Universidad de Missouri)"
+    url: "https://rjionline.org/applied-research/"
+    kind: centro
+    language: en
+    region: "Global"
+    summary: >-
+      Herramientas y guías gratuitas que RJI construye y publica para
+      redacciones: Source Tracking Tool y su playbook para auditar a quién se
+      cita, un kit de colaboración entre medios, otro para evaluar el
+      ecosistema de noticias locales, y la serie en video Innovation in Focus
+      sobre tecnología aplicada al periodismo. También reúne investigación
+      académica traducida a recomendaciones prácticas.
+    verified: "2026-08-16"
