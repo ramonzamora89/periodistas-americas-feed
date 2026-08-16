@@ -1,6 +1,6 @@
 # El Feed: Libertad de Prensa en las Américas
 
-Feed agregado, en español e inglés, sobre libertad de prensa, periodismo y migración en toda la región de las Américas. Combina fuentes RSS de organizaciones de libertad de prensa, gremios/academia de periodismo y 20 Google Alerts, y publica una sola página estática vía GitHub Pages que se actualiza sola con GitHub Actions.
+Feed agregado, en español e inglés, sobre libertad de prensa y periodismo en toda la región de las Américas. Combina fuentes RSS de organizaciones de libertad de prensa, gremios/academia de periodismo y 20 Google Alerts, y publica una sola página estática vía GitHub Pages que se actualiza sola con GitHub Actions.
 
 Sitio: `https://<usuario>.github.io/<repo>/` (se llena tras el primer deploy).
 
@@ -14,11 +14,12 @@ Sitio: `https://<usuario>.github.io/<repo>/` (se llena tras el primer deploy).
 
 ## Pestañas de tema
 
-Tres pestañas se sirven del feed de noticias (además de "Todos"):
+Cuatro pestañas se sirven del feed de noticias (además de "Todos"). Las dos primeras agrupan por tema y las dos últimas por medio:
 
 - **Libertad de Prensa** — ataques, censura, detenciones, informes de organismos especializados. Viene de la `category: libertad_prensa` de la fuente (CPJ, RSF, Artículo 19, Google Alerts, U.S. Press Freedom Tracker, Freedom of the Press Foundation, Free Press Action, IPYS, SNTP Venezuela, etc.).
 - **Periodismo** — industria/oficio periodístico: tendencias, investigación académica, gremios (`category: periodismo`, ej. LatAm Journalism Review, Reuters Institute, SPJ, FIJ, Blueprints, Press Forward).
-- **Migración** — no es una `category` de fuente, sino una clasificación por palabras clave (`MIGRATION_KEYWORDS` en `scripts/fetch_feeds.py`) aplicada al título+resumen de **cualquier** item, sin importar su categoría primaria. Así un caso de censura a un periodista que cubre migración aparece tanto en Libertad de Prensa como en Migración.
+- **CPJ Américas** — solo lo que publica el CPJ para la región, en inglés y español. No viene de la `category` sino del campo `tab` de la fuente, que **suma** una pestaña en vez de reemplazar la de su categoría: los mismos items siguen apareciendo en Libertad de Prensa.
+- **JSK Stanford** — noticias del John S. Knight Journalism Fellowships. También por `tab`, sobre `category: periodismo`. Es la única fuente con `no_expira: true`: publica por calendario académico y con el corte parejo de `MAX_AGE_DAYS` la pestaña quedaría vacía entre ciclos.
 
 ## Enfoque geográfico: las Américas
 

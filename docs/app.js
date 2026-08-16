@@ -11,7 +11,8 @@ const state = {
 const TOPIC_LABELS = {
   libertad_prensa: "Libertad de Prensa",
   periodismo: "Periodismo",
-  migracion: "Migración",
+  cpj_americas: "CPJ Américas",
+  jsk_stanford: "JSK Stanford",
 };
 
 // Pestañas que se sirven del catálogo (opportunities.json) en vez del feed de
@@ -235,13 +236,6 @@ function renderItem(item) {
   badge.className = `badge badge-${item.language}`;
   badge.textContent = item.language.toUpperCase();
   meta.appendChild(badge);
-
-  if (item.topics && item.topics.includes("migracion")) {
-    const topicBadge = document.createElement("span");
-    topicBadge.className = "badge badge-migracion";
-    topicBadge.textContent = TOPIC_LABELS.migracion;
-    meta.appendChild(topicBadge);
-  }
 
   meta.appendChild(document.createTextNode(` ${item.source} · ${formatDate(item.published)}`));
   card.appendChild(meta);

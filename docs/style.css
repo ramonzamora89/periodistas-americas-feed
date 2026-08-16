@@ -17,7 +17,6 @@
   --accent: #7a1f2b;
   --badge-es: #2f5d50;
   --badge-en: #1f4e79;
-  --badge-migracion: #8a5a1f;
   --status-urgente: #a33221;
   --status-abierta: #2f6d45;
   --status-permanente: #4a5568;
@@ -83,9 +82,14 @@ main {
 
 /* Menú plano sobre un riel: los temas son navegación, no controles. Se marcan
    con un subrayado apoyado en el riel, no rellenando una píldora. */
+/* Siete pestañas entran justas en el ancho del contenido: con el gap anterior
+   de 1.15rem "Recursos" se caía sola a una segunda línea. Si en el futuro se
+   agrega otra pestaña, en vez de seguir apretando el gap conviene acortar
+   etiquetas o aceptar las dos filas — para eso está el row-gap. */
 .topic-filter {
   display: flex;
-  gap: 1.15rem;
+  column-gap: 0.85rem;
+  row-gap: 0.15rem;
   flex-wrap: wrap;
   align-items: center;
   margin-bottom: 1rem;
@@ -238,10 +242,6 @@ main {
 
 .badge-en {
   background: var(--badge-en);
-}
-
-.badge-migracion {
-  background: var(--badge-migracion);
 }
 
 .badge-kind {

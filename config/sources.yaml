@@ -7,9 +7,13 @@
 # category: pestaña primaria del sitio. "libertad_prensa" = ataques, censura,
 #   detenciones, informes de organismos de libertad de prensa. "periodismo" =
 #   industria/oficio periodístico (tendencias, investigación académica, gremios).
-#   La pestaña "migración" no depende de category: se arma por palabras clave
-#   sobre el texto de cada item (ver MIGRATION_KEYWORDS en fetch_feeds.py),
-#   así que un item de cualquier fuente puede aparecer ahí también.
+#
+# tab: pestaña adicional, para las que agrupan por medio y no por tema
+#   (CPJ Américas, JSK Stanford). Se suma a la pestaña de su category en vez de
+#   reemplazarla: un item del CPJ sigue apareciendo en Libertad de Prensa.
+#
+# no_expira: exime a la fuente del corte de MAX_AGE_DAYS. Para las que publican
+#   por temporada, como JSK, cuyo archivo vale aunque tenga meses.
 #
 # active: false deja la fuente definida pero fuera del fetch. Útil para expandir
 #   cobertura sin borrar/reescribir entradas.
@@ -23,6 +27,7 @@ sources:
     country: null
     priority: 1
     category: libertad_prensa
+    tab: cpj_americas
     active: true
 
   - id: cpj_americas_es
@@ -32,6 +37,7 @@ sources:
     country: null
     priority: 1
     category: libertad_prensa
+    tab: cpj_americas
     active: true
 
   - id: cpj_global_en
@@ -543,6 +549,23 @@ sources:
     country: "United States"
     priority: 3
     category: periodismo
+    active: true
+
+  # El feed no aparece en autodiscovery: el sitio es Drupal y la ruta está en su
+  # configuración interna. Si algún día devuelve 404, buscar "view_base_path" en
+  # el HTML de https://jsk.stanford.edu/news.
+  # Publica por calendario académico —10 notas entre abril y mayo de 2026— así
+  # que va con no_expira: con el corte parejo la pestaña quedaría vacía casi
+  # todo el año.
+  - id: jsk_stanford
+    name: "JSK Journalism Fellowships – Stanford"
+    url: "https://jsk.stanford.edu/news/rss"
+    language: en
+    country: "United States"
+    priority: 3
+    category: periodismo
+    tab: jsk_stanford
+    no_expira: true
     active: true
 
   # Inactivas: el feed existe y responde 200, pero no aporta.

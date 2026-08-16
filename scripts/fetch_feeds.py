@@ -55,21 +55,6 @@ STOPWORDS = {
     "con", "with", "que", "es", "un", "una", "to", "of", "su", "sus",
 }
 
-# Un item entra a la pestaña "migración" si su título/resumen matchea alguna
-# de estas palabras clave, sin importar la category de su fuente — así un
-# caso de censura a un periodista que cubre migración (category
-# libertad_prensa) también aparece ahí.
-MIGRATION_KEYWORDS = re.compile(
-    r"\b("
-    r"migrant[s]?|migration|immigra(nt|tion)[s]?|asylum|refugee[s]?|"
-    r"deport(ed|ation|ing)?|border crossing|migrant caravan|"
-    r"migrante[s]?|migraci[oó]n|inmigra(nte|ci[oó]n)[s]?|asilo|"
-    r"refugiado[s]?|deportaci[oó]n|deportad[oa][s]?|frontera|"
-    r"caravana migrante"
-    r")\b",
-    re.IGNORECASE,
-)
-
 # Las fuentes con esta category no van al feed de noticias: sus items se
 # desvían a opportunities.json y se mezclan con el catálogo curado.
 OPPORTUNITY_CATEGORY = "oportunidades"
@@ -219,6 +204,12 @@ class Source:
     priority: int
     category: str
     active: bool
+    # Pestaña propia de la fuente, además de la que le da su category. Sirve
+    # para las pestañas que agrupan por medio y no por tema (CPJ Américas, JSK).
+    tab: str | None = None
+    # Exime a la fuente del corte por antigüedad de MAX_AGE_DAYS. Para fuentes
+    # que publican por temporada y cuyo archivo vale aunque esté viejo.
+    no_expira: bool = False
 
 
 @dataclass
@@ -238,6 +229,8 @@ class Item:
     topics: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
     also_reported_by: list[dict] = field(default_factory=list)
+    # Heredado de la fuente: si es True, el item no caduca a los MAX_AGE_DAYS.
+    no_expira: bool = False
     # Solo se llenan para items de fuentes con category "oportunidades".
     deadline: str | None = None
     region: str | None = None
@@ -260,6 +253,8 @@ def load_sources() -> list[Source]:
                 priority=int(entry["priority"]),
                 category=entry["category"],
                 active=True,
+                tab=entry.get("tab"),
+                no_expira=bool(entry.get("no_expira", False)),
             )
         )
     return sources
@@ -402,8 +397,8 @@ def normalize_entries(source: Source, feed) -> list[Item]:
         title = strip_html(entry.get("title", ""))
 
         topics = [source.category]
-        if MIGRATION_KEYWORDS.search(f"{title} {summary}"):
-            topics.append("migracion")
+        if source.tab:
+            topics.append(source.tab)
 
         deadline = region = None
         if source.category == OPPORTUNITY_CATEGORY:
@@ -427,6 +422,7 @@ def normalize_entries(source: Source, feed) -> list[Item]:
                 category=source.category,
                 topics=topics,
                 tags=tags,
+                no_expira=source.no_expira,
                 deadline=deadline,
                 region=region,
             )
@@ -671,8 +667,13 @@ def main() -> int:
     all_items = dedupe_exact(all_items)
     all_items = dedupe_fuzzy(all_items)
 
+    # JSK y cualquier otra fuente marcada no_expira publican por temporada: con
+    # el corte parejo su pestaña se vaciaría sola entre ciclos. Su archivo se
+    # conserva; el resto sí caduca a los MAX_AGE_DAYS.
     cutoff = (datetime.now(tz=timezone.utc) - timedelta(days=MAX_AGE_DAYS)).timestamp()
-    all_items = [item for item in all_items if item.published_ts >= cutoff]
+    all_items = [
+        item for item in all_items if item.no_expira or item.published_ts >= cutoff
+    ]
     all_items.sort(key=lambda i: i.published_ts, reverse=True)
     all_items = all_items[:MAX_ITEMS]
 
