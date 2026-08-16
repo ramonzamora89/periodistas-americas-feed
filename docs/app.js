@@ -13,6 +13,7 @@ const TOPIC_LABELS = {
   periodismo: "Periodismo",
   cpj_americas: "CPJ Américas",
   jsk_stanford: "JSK Stanford",
+  medios_exilio: "Medios en el Exilio",
 };
 
 // Pestañas que se sirven del catálogo (opportunities.json) en vez del feed de
@@ -204,11 +205,18 @@ function renderCatalogEntry(entry) {
   return card;
 }
 
+// Los medios en el exilio no entran a "Todos": son cobertura de un medio, no un
+// reporte de una organización de libertad de prensa, y su filtro por palabras
+// clave deja pasar algún falso positivo. Viven solo en su propia pestaña.
+const OWN_TAB_ONLY = new Set(["medios_exilio"]);
+
 function matchesFilters(item) {
   if (state.language !== "all" && item.language !== state.language) {
     return false;
   }
-  if (state.topic !== "all" && !(item.topics || []).includes(state.topic)) {
+  if (state.topic === "all") {
+    if ((item.topics || []).some((t) => OWN_TAB_ONLY.has(t))) return false;
+  } else if (!(item.topics || []).includes(state.topic)) {
     return false;
   }
   if (!state.query) {

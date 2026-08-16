@@ -588,3 +588,33 @@ sources:
     priority: 3
     category: periodismo
     active: false
+
+  # --- Medios en el exilio (priority 5) ---
+  #
+  # Son las únicas fuentes que publican todo su periodismo y no solo prensa, así
+  # que su category las somete al filtro PRESS_FREEDOM_KEYWORDS en
+  # fetch_feeds.py: solo entra lo que toca libertad de expresión, y de la nota
+  # se conserva únicamente el titular y el enlace al medio.
+  #
+  # priority 5 las deja por debajo de las Google Alerts (4) en el dedupe: si una
+  # nota coincide con un reporte del CPJ, el registro principal es el del CPJ.
+  - id: confidencial_ni
+    name: "Confidencial (Nicaragua, en el exilio)"
+    url: "https://confidencial.digital/feed/"
+    language: es
+    country: "Nicaragua"
+    priority: 5
+    category: medios_exilio
+    active: true
+
+  # El feed vive en beta.elfaro.net: elfaro.net devuelve 404 desde que migraron.
+  # Sus <link> apuntan al host interno de Superdesk y se reescriben en
+  # LINK_HOST_REWRITES; si el feed empieza a fallar, revisar las dos cosas.
+  - id: elfaro_sv
+    name: "El Faro (El Salvador, en el exilio)"
+    url: "https://beta.elfaro.net/rss.xml"
+    language: es
+    country: "El Salvador"
+    priority: 5
+    category: medios_exilio
+    active: true

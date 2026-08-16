@@ -14,12 +14,24 @@ Sitio: `https://<usuario>.github.io/<repo>/` (se llena tras el primer deploy).
 
 ## Pestañas de tema
 
-Cuatro pestañas se sirven del feed de noticias (además de "Todos"). Las dos primeras agrupan por tema y las dos últimas por medio:
+Cinco pestañas se sirven del feed de noticias (además de "Todos"). Las dos primeras agrupan por tema y las tres últimas por medio. El menú va en dos filas deliberadas —los temas arriba, el catálogo y JSK abajo— y el corte lo fuerza `.topic-break`, no el ancho de la ventana:
 
 - **Libertad de Prensa** — ataques, censura, detenciones, informes de organismos especializados. Viene de la `category: libertad_prensa` de la fuente (CPJ, RSF, Artículo 19, Google Alerts, U.S. Press Freedom Tracker, Freedom of the Press Foundation, Free Press Action, IPYS, SNTP Venezuela, etc.).
 - **Periodismo** — industria/oficio periodístico: tendencias, investigación académica, gremios (`category: periodismo`, ej. LatAm Journalism Review, Reuters Institute, SPJ, FIJ, Blueprints, Press Forward).
 - **CPJ Américas** — solo lo que publica el CPJ para la región, en inglés y español. No viene de la `category` sino del campo `tab` de la fuente, que **suma** una pestaña en vez de reemplazar la de su categoría: los mismos items siguen apareciendo en Libertad de Prensa.
 - **JSK Stanford** — noticias del John S. Knight Journalism Fellowships. También por `tab`, sobre `category: periodismo`. Es la única fuente con `no_expira: true`: publica por calendario académico y con el corte parejo de `MAX_AGE_DAYS` la pestaña quedaría vacía entre ciclos.
+- **Medios en el Exilio** — notas de medios perseguidos que operan fuera de su país (`category: medios_exilio`). Son las únicas fuentes filtradas por tema: publican todo su periodismo y solo entra lo que toca libertad de expresión (ver abajo). De cada nota se conserva únicamente el titular y el enlace al medio, y **no entran a "Todos"**: viven solo en su pestaña (`OWN_TAB_ONLY` en `docs/app.js`).
+
+### El filtro de los medios en el exilio
+
+`es_libertad_de_prensa()` en `scripts/fetch_feeds.py` pide **dos señales**, no una. Con una sola lista de palabras se midió y no alcanza: "periodista" aparece en las firmas de casi cualquier nota, y "exilio" o "amenaza" son vocabulario político corriente en Nicaragua y El Salvador. Una nota entra si:
+
+1. tiene un término **fuerte** e inequívoco en titular o resumen (`PRESS_FREEDOM_STRONG`: "libertad de prensa", "periodista amenazado", "acoso judicial", CPJ, RSF, Artículo 19…); **o**
+2. nombra a la prensa **en el titular** (`PRESS_ACTOR`, o el nombre del propio medio) **y** hay un término de daño o exilio en titular o resumen (`PRESS_HARM`).
+
+Que la señal de prensa tenga que estar en el titular es lo que da la precisión: las firmas y los créditos viven en el resumen. Medido el 2026-08-16: 100% de precisión sobre Confidencial y El Faro, y 100% de recall sobre las notas del CPJ del feed, que son prensa por definición.
+
+Dos cosas descartadas por medición: **"censura" a secas** no sirve como término fuerte (traía una nota sobre una herida "censurada de los informes oficiales" de una muerte en prisión), y **el nombre del medio en el resumen** tampoco, porque aparece en el pie de todas sus notas.
 
 ## Enfoque geográfico: las Américas
 
@@ -135,6 +147,11 @@ Listadas en el footer de `docs/index.html`:
 - **CIDH – Relatoría Especial para la Libertad de Expresión** ([oas.org/es/cidh/expresion](https://www.oas.org/es/cidh/expresion/index.asp)) — sitio institucional sin RSS.
 
 Ninguna se integra al pipeline automático — revisar manualmente.
+
+**Dos feeds que no están donde se los espera**, anotados para no volver a buscarlos:
+
+- **JSK Stanford** — el sitio es Drupal y no publica autodiscovery. La ruta real es `/news/rss`, que aparece en el `drupal-settings-json` del HTML de `/news` como `view_base_path`.
+- **El Faro** — `elfaro.net` devuelve 404 desde que migraron el sitio; el feed vivo es `https://beta.elfaro.net/rss.xml`. Sus `<link>` apuntan al host interno de Superdesk donde se arma el sitio, y se reescriben en `LINK_HOST_REWRITES` (`scripts/fetch_feeds.py`). El día que El Faro complete la migración a su dominio, la URL del feed y la reescritura se rompen juntas.
 
 ## Identidad visual
 

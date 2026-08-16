@@ -55,6 +55,93 @@ STOPWORDS = {
     "con", "with", "que", "es", "un", "una", "to", "of", "su", "sus",
 }
 
+# Medios que operan en el exilio. A diferencia del resto de las fuentes, estos
+# publican TODO su periodismo —política y economía nacional en su mayoría— así
+# que solo entra lo que toca libertad de expresión. Sin este filtro Confidencial
+# solo ya aporta 60 notas por corrida.
+EXILE_MEDIA_CATEGORY = "medios_exilio"
+
+# El filtro pide DOS señales, no una. Una sola lista de palabras se midió y no
+# alcanza: "periodista" aparece en las firmas y en las citas de casi cualquier
+# nota, y "exilio" o "amenaza" son vocabulario corriente de la política
+# nicaragüense y salvadoreña. Filtrando por una sola señal, de 80 notas pasaban
+# 5 y solo 2 eran del tema.
+#
+# Pasa una nota si:
+#   1. contiene un término FUERTE —inequívoco, casi siempre multipalabra— en el
+#      titular o el resumen; o
+#   2. nombra a la prensa EN EL TITULAR y además hay un término de daño o exilio
+#      en el titular o el resumen.
+#
+# Que la señal de prensa tenga que estar en el titular es lo que da la
+# precisión: las firmas y los créditos viven en el resumen, nunca en el titular.
+#
+# Medido el 2026-08-16: 100% de precisión sobre Confidencial y El Faro, y 100%
+# de recall sobre las notas del CPJ del feed, que son prensa por definición.
+PRESS_FREEDOM_STRONG = re.compile(
+    r"(libertad de (prensa|expresi[oó]n|informaci[oó]n)"
+    r"|press freedom|freedom of (the )?(press|expression)"
+    r"|censura (previa|medi[aá]tica|a (la prensa|periodis|los? medios?))"
+    r"|censura(r|do|da)? (a|de) (la prensa|periodis|los? medios?)"
+    r"|press censorship|censorship of (the )?(press|media|journalis)"
+    r"|periodistas? (exiliad|amenazad|detenid|asesinad|agredid|encarcelad|preso)"
+    r"|exilio period[ií]stico|medios? (en el )?exilio|exiled (journalist|media|news)"
+    r"|acoso judicial|criminalizaci[oó]n de (la prensa|periodis)"
+    r"|persecuci[oó]n (a|de) (la prensa|periodis)"
+    r"|secreto profesional|confidencialidad de (la )?fuente|source confidentiality"
+    r"|\bCPJ\b|Comit[eé] para la Protecci[oó]n de los Periodistas"
+    r"|\bRSF\b|Reporteros Sin Fronteras|Fundamedios|Art[ií]culo 19|ARTICLE 19)",
+    re.IGNORECASE,
+)
+
+# Señal 1: alguien de la prensa. Se exige en el titular.
+PRESS_ACTOR = re.compile(
+    r"\b(periodist[ao]s?|period[ií]stic[oa]s?|reporter[oa]s?|prensa|periodismo|cronista"
+    r"|corresponsal(es)?|comunicador(es|as)?|locutor(a|es|as)?"
+    r"|medios? (de comunicaci[oó]n|independientes?|digitales?)"
+    r"|journalis(t|ts|m)|newsroom[s]?|reporter[s]?|press|news outlet"
+    r"|media (director|worker))\b",
+    re.IGNORECASE,
+)
+
+# Señal 2: qué le pasó. Vale en el titular o el resumen.
+PRESS_HARM = re.compile(
+    r"\b(exili(o|ad[oa]s?)|destierro|desterrad[oa]s?|exile[d]?"
+    r"|asesinat|asesinad[oa]s?|homicidio|murder(ed)?|killed|killing"
+    r"|agresi[oó]n|agredid|atacad[oa]s?|attack(s|ed)?|violencia contra"
+    r"|detenci[oó]n|detenid[oa]s?|arrest(ed|o)?|encarcelad|jailed|imprison"
+    r"|secuestr(o|ad[oa]s?)|abducted|kidnapp|desaparici[oó]n|desaparecid[oa]s?|disappear"
+    r"|demandad[oa]s?|difamaci[oó]n|defamation|querella|sued|lawsuit"
+    r"|allanamiento|confiscaci[oó]n|incautaci[oó]n|clausura|expulsi[oó]n|expulsad"
+    r"|criminaliza|persecuci[oó]n|persegui|impunidad|impunity"
+    r"|amenaz(a|as|ad[oa]s?)|threat(s|ened)?|acoso|harass|hostigamiento|intimidaci[oó]n"
+    r"|censur|censorship|bloqueo|shut down)",
+    re.IGNORECASE,
+)
+
+
+# El Faro publica en un solo feed sus versiones en español y en inglés, y las
+# distingue con un /en/ al principio de la ruta. Sin esto ambas quedan
+# etiquetadas con el idioma declarado de la fuente y el filtro ES/EN del sitio
+# las manda a la misma pestaña. Las dos versiones se conservan a propósito: son
+# la misma nota, pero el sitio ofrece las dos.
+def detectar_idioma(link: str, por_defecto: str) -> str:
+    return "en" if urlsplit(link).path.startswith("/en/") else por_defecto
+
+
+def es_libertad_de_prensa(titulo: str, resumen: str, medio: str | None = None) -> bool:
+    """¿La nota de un medio en el exilio trata sobre libertad de expresión?"""
+    texto = f"{titulo} {resumen}"
+    if PRESS_FREEDOM_STRONG.search(texto):
+        return True
+    # El nombre del medio en su propio titular cuenta como señal de prensa: es
+    # una nota del medio sobre sí mismo. Solo sirve en el titular — en el
+    # resumen aparece en el pie de TODAS sus notas y no distingue nada.
+    nombra_prensa = bool(PRESS_ACTOR.search(titulo)) or bool(
+        medio and re.search(rf"\b{re.escape(medio)}\b", titulo, re.IGNORECASE)
+    )
+    return nombra_prensa and bool(PRESS_HARM.search(texto))
+
 # Las fuentes con esta category no van al feed de noticias: sus items se
 # desvían a opportunities.json y se mezclan con el catálogo curado.
 OPPORTUNITY_CATEGORY = "oportunidades"
@@ -352,6 +439,24 @@ def unwrap_redirect(link: str) -> str:
     return target if target and target.startswith(("http://", "https://")) else link
 
 
+# El Faro migró su sitio a beta.elfaro.net, pero su RSS todavía enlaza al host
+# interno de Superdesk donde se arma. Mandar al lector ahí sería mandarlo al
+# staging del medio; con el host corregido la nota resuelve 200, y con
+# elfaro.net a secas da 404. Si algún día El Faro completa la migración, esta
+# reescritura y la URL del feed en sources.yaml se rompen juntas.
+LINK_HOST_REWRITES = {
+    "elfaro-pwa.superdesk.pro": "beta.elfaro.net",
+}
+
+
+def rewrite_host(link: str) -> str:
+    parts = urlsplit(link)
+    replacement = LINK_HOST_REWRITES.get(parts.netloc.lower())
+    if not replacement:
+        return link
+    return urlunsplit(parts._replace(netloc=replacement))
+
+
 def canonicalize_link(link: str) -> str:
     parts = urlsplit(unwrap_redirect(link))
     scheme = "https"
@@ -384,7 +489,7 @@ def parse_published(entry) -> tuple[str, float]:
 def normalize_entries(source: Source, feed) -> list[Item]:
     items = []
     for entry in feed.entries:
-        link = unwrap_redirect(entry.get("link", ""))
+        link = rewrite_host(unwrap_redirect(entry.get("link", "")))
         if not link:
             continue
         canonical = canonicalize_link(link)
@@ -395,6 +500,18 @@ def normalize_entries(source: Source, feed) -> list[Item]:
             summary = summary[:297].rstrip() + "..."
         tags = [t.get("term") for t in entry.get("tags", []) if t.get("term")]
         title = strip_html(entry.get("title", ""))
+        language = source.language
+
+        if source.category == EXILE_MEDIA_CATEGORY:
+            language = detectar_idioma(link, source.language)
+            # "El Faro (El Salvador, en el exilio)" -> "El Faro"
+            medio = source.name.split(" (")[0]
+            if not es_libertad_de_prensa(title, summary, medio):
+                continue
+            # El resumen se usó para filtrar y acá se descarta: la tarjeta de un
+            # medio en el exilio es solo titular, fuente, fecha y el enlace a la
+            # nota original. renderItem() omite el párrafo si viene vacío.
+            summary = ""
 
         topics = [source.category]
         if source.tab:
@@ -416,7 +533,7 @@ def normalize_entries(source: Source, feed) -> list[Item]:
                 summary=summary,
                 source=source.name,
                 source_id=source.id,
-                language=source.language,
+                language=language,
                 country=source.country,
                 priority=source.priority,
                 category=source.category,

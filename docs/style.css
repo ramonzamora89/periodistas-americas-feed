@@ -82,14 +82,13 @@ main {
 
 /* Menú plano sobre un riel: los temas son navegación, no controles. Se marcan
    con un subrayado apoyado en el riel, no rellenando una píldora. */
-/* Siete pestañas entran justas en el ancho del contenido: con el gap anterior
-   de 1.15rem "Recursos" se caía sola a una segunda línea. Si en el futuro se
-   agrega otra pestaña, en vez de seguir apretando el gap conviene acortar
-   etiquetas o aceptar las dos filas — para eso está el row-gap. */
+/* Dos filas deliberadas, no un desborde: arriba los temas del feed, abajo lo
+   que no es coyuntura —el catálogo y el archivo de JSK—. El corte lo fuerza
+   .topic-break, así que la agrupación no depende del ancho de la ventana. */
 .topic-filter {
   display: flex;
-  column-gap: 0.85rem;
-  row-gap: 0.15rem;
+  column-gap: 1.15rem;
+  row-gap: 0.1rem;
   flex-wrap: wrap;
   align-items: center;
   margin-bottom: 1rem;
@@ -119,11 +118,12 @@ main {
 }
 
 /* Separa las pestañas de noticias de las dos que se sirven del catálogo. */
-.topic-sep {
-  width: 1px;
-  height: 0.95rem;
-  background: var(--border);
-  margin: 0 0.1rem;
+/* Salto de fila en un contenedor flex: ocupa todo el ancho disponible y empuja
+   lo que sigue a la línea de abajo. Reemplazó al separador vertical, que solo
+   funcionaba mientras las pestañas cupieran en una sola fila. */
+.topic-break {
+  flex-basis: 100%;
+  height: 0;
 }
 
 .controls {
