@@ -1,15 +1,923 @@
 {
- "generated_at": "2026-08-23T21:25:07.239696+00:00",
- "count": 280,
+ "generated_at": "2026-08-24T09:31:50.653652+00:00",
+ "count": 260,
  "items": [
   {
-   "id": "0ec9db204e6cae10",
-   "title": "Detenido tras protagonizar un incidente llevando un arma blanca con actitud amenazante ...",
-   "link": "https://www.1minutohuelva.com/2026/08/detenido-tras-protagonizar-un-incidente-llevando-un-arma-blanca-con-actitud-amenazante-en-un-establecimiento-de-matalascanas/",
-   "published": "2026-08-23T21:12:19+00:00",
-   "summary": "... PERIODISTA · 1 DIA CON. El Hospital de Día Médico del Infanta Elena, desde dentro · 1 DIA CON · Servicio de emergencias del 061: “Ya estamos en camino ...",
+   "id": "793a0a4e692e0a64",
+   "title": "VIDEO. Sujeto cierra la calle para celebrar una fiesta y agrede a conductor en Neza",
+   "link": "https://afondoedomex.com/video-sujeto-cierra-la-calle-para-celebrar-una-fiesta-y-agrede-a-conductor-en-neza/",
+   "published": "2026-08-24T06:55:50+00:00",
+   "summary": "Un chofer de transporte público de edad avanzada, fue agredido por un joven, tras una discusión por el paso vehicular, en la colonia Benito Juárez ...",
+   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
+   "source_id": "alert_es_reportero",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7c52c750b0c5000f",
+   "title": "Así vivió Emma Coronel la captura de “El Chapo” Guzmán que Netflix convirtió en película - Infobae",
+   "link": "https://www.infobae.com/mexico/2026/08/24/asi-vivio-emma-coronel-la-captura-de-el-chapo-guzman-que-netflix-convirtio-en-pelicula/",
+   "published": "2026-08-24T06:20:02+00:00",
+   "summary": "Netflix reconstruye en La Captura el día que El Chapo Guzmán fue detenido ... La base de la película son las crónicas del periodista Héctor de Mauleón ...",
    "source": "Google Alert: periodista detenido/a (ES)",
    "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "00c5c3fd6b276023",
+   "title": "Belinda será Florence Cassez: ¿De qué tratará la serie sobre el polémico caso que enfrentó ...",
+   "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/08/23/belinda-sera-florence-cassez-que-sabemos-de-la-serie-de-prime-video-sobre-el-polemico-caso/",
+   "published": "2026-08-24T04:48:19+00:00",
+   "summary": "Por ahora, la producción todavía no tiene título ni fecha de estreno oficial, pero ya se confirmó que estará dirigida por Humberto Hinojosa. Belinda ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/08/23/belinda-sera-florence-cassez-que-sabemos-de-la-serie-de-prime-video-sobre-el-polemico-caso/"
+    }
+   ]
+  },
+  {
+   "id": "9d83b55e38151578",
+   "title": "OPINIÓN | El fenómeno Milei y el desgaste de la agresión como método - Patagonia 24",
+   "link": "https://patagonia24.com.ar/contenido/21164/opinion-el-fenomeno-milei-y-el-desgaste-de-la-agresion-como-metodo",
+   "published": "2026-08-24T04:42:39+00:00",
+   "summary": "Pasamos del ya conocido repertorio de \"mandriles\" para referirse a la oposición a descalificaciones explícitas dirigidas a periodistas de ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "f1ada69cbd3740a5",
+   "title": "La historia oscura y polémica de Cerimedo: de estafador en Mar del Plata a ser premiado ...",
+   "link": "https://www.clarin.com/politica/historia-oscura-polemica-cerimedo-estafador-mar-plata-premiado-mar-a-lago-salir-the-economist_0_QagZEXyEGV.html",
+   "published": "2026-08-24T04:37:28+00:00",
+   "summary": "... periodistas lo abordaron ya detenido. \"Quiero ver a mis hijos\", sollozó. Y nada más. ¿Quién es realmente Fernando Cerimedo? Estafador, empresario ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "53f3a37694ca1f3f",
+   "title": "Indignación en Florida: el ICE detiene en un hospital a madre e hija latinas tras sufrir un accidente",
+   "link": "https://www.laprensagrafica.com/internacional/indignacion-en-florida-el-ice-detiene-en-un-hospital-a-madre-e-hija-latinas-tras-sufrir-un-accidente-20260823-0042.html",
+   "published": "2026-08-24T04:36:44+00:00",
+   "summary": "Wilmer Solano, periodista venezolano de 58 años, indicó que fue detenido el 26 de. Trabajaba como taxista, fue detenido por la Patrulla Fronteriza ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "8ad9acafa9f8a3c4",
+   "title": "Tres personas mueren tras agresión armada en Chilapa - El Independiente",
+   "link": "https://elindependiente.mx/estados/2026/08/23/tres-personas-mueren-tras-agresion-armada-en-chilapa/",
+   "published": "2026-08-24T04:05:42+00:00",
+   "summary": "Una agresión con proyectiles de arma de fuego ocurrida en la ... El INDEPENDIENTE abre sus puertas a periodistas y analistas de todas ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "ad5500e2430f39f9",
+   "title": "La resistencia republicana de los canarios Nicolás Mingorance y Domingo Calero y su ... - Rebelión",
+   "link": "https://rebelion.org/la-resistencia-republicana-de-los-canarios-nicolas-mingorance-y-domingo-calero-y-su-exilio-en-el-barco-de-neruda/",
+   "published": "2026-08-24T04:03:32+00:00",
+   "summary": "De periodista a la fuga de republicanos en Villa Cisneros · De La Semana Roja de La Palma a Francia y Chile · El exilio y la memoria democrática.",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4771ce01fb3f6ef6",
+   "title": "Declaran culpables a excarabineros por golpear y rociar con gas pimienta a detenido",
+   "link": "https://www.cooperativa.cl/noticias/pais/region-de-tarapaca/declaran-culpables-a-excarabineros-por-golpear-y-rociar-con-gas-pimienta/2026-08-23/222144.html",
+   "published": "2026-08-24T03:49:46+00:00",
+   "summary": "Periodista Digital: Cooperativa.cl/ATON. Los hechos ocurrieron en julio de 2023 al interior de una comisaría en perjuicio de un detenido de 40 años.",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a6bc72afd774f9ea",
+   "title": "Imputado por secuestro y ataque armado en servicentro Valparaíso queda en prisión preventiva",
+   "link": "https://www.radioagricultura.cl/noticias/nacional/imputado-por-secuestro-y-ataque-armado-en-servicentro-valparaiso-queda-en-prision-preventiva_20260823/",
+   "published": "2026-08-24T03:47:42+00:00",
+   "summary": "El Juzgado de Garantía de Valparaíso decretó la prisión preventiva para el sujeto imputado por su participación en un secuestro registrado el ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "dfa2d73d7806271a",
+   "title": "Crónicas de Héctor de Mauleón inspiran “La captura” de Netflix - ZETA Tijuana",
+   "link": "https://zetatijuana.com/2026/08/cronicas-de-hector-de-mauleon-inspiran-la-captura-de-netflix/",
+   "published": "2026-08-24T03:41:36+00:00",
+   "summary": "... captura”, dirigida por Chava Cartas y escrita por Bernardo Esquinca, traslada a la ficción las crónicas del periodista Héctor de Mauleón sobre los ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0238fd620e945677",
+   "title": "Familia es atacada a disparos en la colonia El Mirador; madre y padre pierden la vida",
+   "link": "https://afntijuana.info/seguridad/180745_familia_es_atacada_a_disparos_en_la_colonia_el_mirador_madre_y_padre_pierden_la_vida",
+   "published": "2026-08-24T03:33:56+00:00",
+   "summary": "TIJUANA BC - domingo 23 de agosto de 2026 - AFN. 3. A+ A-.",
+   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
+   "source_id": "alert_es_reportero",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c6e5b77bd0ab7b0d",
+   "title": "La segunda colonia Periodista hereda el toque cultural del oficio - La Jornada",
+   "link": "https://www.jornada.com.mx/noticia/2026/08/23/capital/la-segunda-colonia-periodista-hereda-el-toque-cultural-del-oficio",
+   "published": "2026-08-24T03:33:04+00:00",
+   "summary": "Su nombre original era Segunda Colonia del Periodista, pero luego se simplificó a Periodista ... Detienen a cuatro hombres por secuestro exprés y robo a ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://www.jornada.com.mx/noticia/2026/08/23/capital/la-segunda-colonia-periodista-hereda-el-toque-cultural-del-oficio"
+    }
+   ]
+  },
+  {
+   "id": "d5d30c18207bf3da",
+   "title": "La captura: La historia real de la película de Netflix con Alfonso Herrera - Vogue México",
+   "link": "https://www.vogue.mx/articulo/la-captura-pelicula-netflix-historia-real",
+   "published": "2026-08-24T03:29:03+00:00",
+   "summary": "... periodista Héctor de Mauleón sobre la captura de Guzmán Loera como inspiración para contar la historia. Diez años después de la aprehensión de uno ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "59026025a00c176e",
+   "title": "La justicia de Nueva York tumba el recurso de Gotham que buscaba una protección legal ...",
+   "link": "https://cincodias.elpais.com/companias/2026-08-24/la-justicia-de-nueva-york-tumba-el-recurso-de-gotham-que-buscaba-una-proteccion-legal-como-periodista-en-el-caso-grifols.html",
+   "published": "2026-08-24T03:22:21+00:00",
+   "summary": "... difamación, Grifols solicitó una amplia batería de información relacionada con comunicaciones con periodistas y organismos gubernamentales ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "38ea878a0b6da63b",
+   "title": "Salida de Rocha Moya, lo mejor para Sinaloa: Sheinbaum - La Querella Digital",
+   "link": "https://www.laquerelladigital.com/salida-de-rocha-moya-lo-mejor-para-sinaloa-sheinbaum/",
+   "published": "2026-08-24T03:19:20+00:00",
+   "summary": "Al arribar en su vehículo y descender de la unidad, periodistas que la esperaban le preguntaron sobre la decisión de Rocha Moya de regresar a la ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9ef285ac44b04b5a",
+   "title": "Benjamín Mora es atacado por la afición de Atlético de San Luis - Bolavip",
+   "link": "https://bolavip.com/mx/amp/ligamx/gol-de-carlos-moreno-provoca-enfrentamiento-entre-aficionados-y-benjamin-mora",
+   "published": "2026-08-24T03:17:01+00:00",
+   "summary": "El gol de Carlos Moreno en los últimos minutos generó molestia en las gradas y se fueron contra Benjamín Mora.",
+   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
+   "source_id": "alert_es_reportero",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "90109052ddfdfb30",
+   "title": "En fotos, así fue el casamiento de Rolando Graña y Giselle Krüger por iglesia luego de 16 ...",
+   "link": "https://exitoina.perfil.com/noticias/corazon/fotos-asi-fue-casamiento-rolando-grana-giselle-kruger-iglesia-luego-16-anos-juntos.phtml",
+   "published": "2026-08-24T03:14:20+00:00",
+   "summary": "El periodista y la productora celebraron su amor con una ceremonia religiosa íntima ... Así es la cárcel de “El buen pastor”, donde ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "21f24c4e7ee04ce6",
+   "title": "Balean en el Edomex al líder de banda “Beto y sus Canarios”; su hijo fue reportado como ...",
+   "link": "https://latinus.us/mexico/2026/8/23/balean-en-el-edomex-al-lider-de-banda-beto-sus-canarios-su-hijo-fue-reportado-como-desaparecido-en-marzo-182355.html",
+   "published": "2026-08-24T03:01:23+00:00",
+   "summary": "Edilberto Portillo fue atacado alrededor de las 10:00 de la noche de este sábado cuando bajaba del vehículo en el que había llegado al Rodeo ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "825908514a631f76",
+   "title": "En operativo contra célula criminal en la Costa, FGEO repele agresión armada en San Juan ...",
+   "link": "https://www.primeralinea.mx/2026/08/23/en-operativo-contra-celula-criminal-en-la-costa-fgeo-repele-agresion-armada-en-san-juan-cacahuatepec-cuatro-agresores-fueron-neutralizados/",
+   "published": "2026-08-24T02:46:53+00:00",
+   "summary": "La Fiscalía General del Estado de Oaxaca (FGEO) detuvo una agresión armada en San Juan Cacahuatepec, neutralizando a cuatro agresores.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "fa5bbfb3bc2a87b5",
+   "title": "Identifican a los tres heridos durante atentado en Lomas de Tamazula, Culiacán - Debate",
+   "link": "https://www.debate.com.mx/sinaloa/policiaca/identifican-a-las-victimas-del-atentado-en-lomas-de-tamazula-entre-ellas-un-pequeno-de-apenas-3-anos-20260823-0064.html",
+   "published": "2026-08-24T02:46:47+00:00",
+   "summary": "Las autoridades mantienen las investigaciones para establecer cómo se desarrolló la agresión registrada en la colonia Lomas de Tamazula y determinar ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5fc022071ca37f4b",
+   "title": "Conductora de bus Red fue atacada con un hacha: Gremios alertan por aumento de la violencia",
+   "link": "https://www.chilevision.cl/noticias/nacional/conductora-de-bus-red-fue-atacada-con-un-hacha-gremios-alertan-por-aumento-de-la-violencia/",
+   "published": "2026-08-24T02:42:31+00:00",
+   "summary": "Una conductora de un bus de Red Movilidad fue atacada con un hacha mientras realizaba su recorrido en San Bernardo. Los gremios del transporte ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "40eb0cc2fc96966e",
+   "title": "Los insultos y la agresión como estilo de gobierno - Política del Sur",
+   "link": "https://politicadelsur.com/nota/96899/los-insultos-y-la-agresion-como-estilo-de-gobierno/",
+   "published": "2026-08-24T02:35:04+00:00",
+   "summary": "... periodistas y economistas, a quienes acusó de mentir y de estar “ensobrados”. El sábado escaló todavía más: calificó al periodista Marcelo Bonelli ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a9e15a4cd86c61b0",
+   "title": "Hemos Detenido Políticos de 'Todos los Partidos': Harfuch - N+",
+   "link": "https://www.nmas.com.mx/seguridad/hemos-detenido-politicos-de-todos-los-partidos-harfuch/",
+   "published": "2026-08-24T02:33:07+00:00",
+   "summary": "Hemos Detenido Políticos de 'Todos los Partidos': Harfuch. Omar ... Periodistas · Opinión · Enrique Acevedo Habla de la Lista de Periodistas y ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "04ff56e33dd25995",
+   "title": "Despliegan más de mil elementos policiales para encontrar a empresario secuestrado en ... - Infobae",
+   "link": "https://www.infobae.com/mexico/2026/08/24/despliegan-mas-de-mil-elementos-policiales-para-encontrar-a-empresario-secuestrado-en-parque-turistico-de-baja-california/",
+   "published": "2026-08-24T01:58:56+00:00",
+   "summary": "Baja CaliforniaEnsenadaTijuanaSecuestroNarcotraficoNarco en Méxicoseguridadmexico-seguridadmexico-noticias ... Periodista, narradora y conductora de ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1c591101a21b976b",
+   "title": "Secuestro, Tráfico de Personas y Delincuencia Organizada: “Motivo suficiente para que la ...",
+   "link": "https://www.reporteindigo.com/nacional/secuestro-trafico-de-personas-y-delincuencia-organizada-motivo-suficiente-para-que-la-fgr-lleve-a-proceso-a-tres-personas-20260823-0043.html",
+   "published": "2026-08-24T01:47:59+00:00",
+   "summary": "Periodista con 27 años de experiencia, especializado en Fuerzas Armadas desde el año 2009, Actualmente a cargo de la fuente de Seguridad Federal.",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a5a872b83cf617b0",
+   "title": "Tres detenidos por vender marihuana y concentrado de cannabis para vaporizar en Santiago y Talca",
+   "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/08/23/tres-detenidos-por-vender-marihuana-y-concentrado-de-cannabis-para-vaporizar-via-whatsapp-en-santiago.shtml",
+   "published": "2026-08-24T01:38:14+00:00",
+   "summary": "Tres personas quedaron en prisión preventiva tras ser detenidas por su presunta participación en la venta de drogas a través ... Periodista de Prensa en ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "dd5736e553d17441",
+   "title": "Caen cuatro empleados de antro en la Roma por presunto secuestro y robo",
+   "link": "https://www.publimetro.com.mx/noticias/2026/08/24/caen-cuatro-empleados-de-antro-en-la-roma-por-presunto-secuestro-y-robo/",
+   "published": "2026-08-24T01:33:57+00:00",
+   "summary": "Detenidos serían trabajadores del Bombay Club Roma. El periodista Carlos Jiménez identificó a los detenidos como Ailthon “N”, Francisco “N”, Juan “N” ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "225b60425464a3b7",
+   "title": "Reportan presunto secuestro de empresario dueño de un parque de atracciones en BC",
+   "link": "https://www.nacion321.com/encuestas/2026/08/23/reportan-presunto-secuestro-de-empresario-dueno-de-un-parque-de-atracciones-en-bc/",
+   "published": "2026-08-24T01:27:38+00:00",
+   "summary": "... secuestrado por sujetos que ingresaron al negocio en una camioneta azul claro. ... Detienen a 'El Búho', noveno implicado en el asesinato de la ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5b183a49af3f5602",
+   "title": "La Casa de los Famosos México: qué pasará con los “muebles” en la nueva dinámica",
+   "link": "https://www.infobae.com/mexico/2026/08/24/la-casa-de-los-famosos-mexico-que-pasara-con-los-muebles-en-la-nueva-dinamica/",
+   "published": "2026-08-24T01:21:16+00:00",
+   "summary": "No se ha confirmado si será eliminación directa, exilio o alguna otra medida. Entre los señalados como “muebles” en redes sociales están Luis Chaparro ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "41939f127c691b13",
+   "title": "Fátima Bosch contraataca ante su posible arresto por difamación - TVyNovelas",
+   "link": "https://www.tvynovelas.com/famosos/fatima-bosch-contraataca-ante-su-posible-arresto-por-difamacion",
+   "published": "2026-08-24T01:14:57+00:00",
+   "summary": "La modela mexicana levantó la voz ante las \"amenazas\" de Nawat Itsaragrisil.",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "173d8963c4e1d9dc",
+   "title": "Detienen cuatro despojadores en Tláhuac tras denuncia de adulta mayor - MILENIO",
+   "link": "https://amp.milenio.com/policia/detienen-cuatro-despojadores-en-tlahuac-tras-denuncia-de-adulta-mayor",
+   "published": "2026-08-24T01:10:00+00:00",
+   "summary": "Cabe mencionar, que un cruce de información, se supo que el detenido de 41 años de edad ... periodista bueno o malo. Fan de los deportes. Ad. Ad. Ad.",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1185a8c33137f738",
+   "title": "Mélenchon, principal candidato de izquierdas, anuncia una censura al Presupuesto de 2027",
+   "link": "https://www.infobae.com/america/agencias/2026/08/23/melenchon-principal-candidato-de-izquierdas-anuncia-una-censura-al-presupuesto-de-2027/",
+   "published": "2026-08-24T01:06:05+00:00",
+   "summary": "La esperada censura de LFI, que sucede sin ni siquiera conocerse ... Cristina Pacheco, periodista mexicana: \"Ni en los momentos más trágicos ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "53b1200eba7ca220",
+   "title": "Asesinaron a un ex policía en un ataque en Lincoln - Diario UNO Arrecifes",
+   "link": "https://unoarrecifes.com/asesinaron-a-un-ex-policia-en-un-ataque-en-lincoln/",
+   "published": "2026-08-24T00:58:49+00:00",
+   "summary": "Según los primeros datos, la víctima fue agredida por dos sujetos que se dieron a la fuga rápidamente. El atacado fue trasladado de urgencia, ya ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "b57117ab68877330",
+   "title": "Un concejal de La Libertad Avanza fue detenido y acusado por venta de drogas | Perfil",
+   "link": "https://www.perfil.com/noticias/politica/un-concejal-de-la-libertad-avanza-fue-detenido-y-acusado-por-venta-de-drogas.phtml",
+   "published": "2026-08-24T00:55:37+00:00",
+   "summary": "Este lunes, Díaz prestará declaración en la primera audiencia indagatoria. Esto no les gusta a los autoritarios. El ejercicio del periodismo ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d54ace2441ce68a1",
+   "title": "El Ejército de Ecuador captura a un presunto operador financiero de la mafia albanesa",
+   "link": "https://www.swissinfo.ch/spa/el-ej%C3%A9rcito-de-ecuador-captura-a-un-presunto-operador-financiero-de-la-mafia-albanesa/91942535",
+   "published": "2026-08-24T00:46:42+00:00",
+   "summary": "En el exilio suizo: periodistas de Afganistán, Yemen y Turquía nos cuentan su historia ... Además de la boleta de captura, el detenido también es ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d84b88ad061fd56d",
+   "title": "Fiscalía formalizó a un individuo imputado por una multiplicidad de delitos graves en contra ...",
+   "link": "https://elpinguino.com/noticia/2026/08/23/fiscalia-formalizo-a-un-individuo-imputado-por-una-multiplicidad-de-delitos-graves-en-contra-de-una-menor",
+   "published": "2026-08-24T00:43:45+00:00",
+   "summary": "Periodista Web 3. 717 . En una audiencia de carácter reservado por ... secuestro simple. De acuerdo con los antecedentes presentados por la ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "09e634da3976b284",
+   "title": "Embajador de China en República Dominicana acusa gobierno estadounidense de difamación",
+   "link": "https://7dias.com.do/2026/08/23/embajador-de-china-en-republica-dominicana-acusa-gobierno-estadounidense-de-difamacion/",
+   "published": "2026-08-24T00:42:12+00:00",
+   "summary": "Chen Luning cuestionó los argumentos de las autoridades estadounidenses y sostuvo que las acusaciones carecen de fundamento. Asimismo, denunció que ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5776ee0e3a784d37",
+   "title": "Hallan cuerpo de Keylin Quintero tras ser arrastrada por las aguas en Caracas",
+   "link": "https://albertonews.com/nacionales/reportan-el-hallazgo-del-cuerpo-de-la-mujer-que-cayo-por-una-alcantarilla-en-las-inmediaciones-del-monumental/",
+   "published": "2026-08-24T00:38:21+00:00",
+   "summary": "AlbertoNews - Periodismo sin censura. No Result. View All Result ... periodista Jonathan Cárdenas. CONTINÚAN LABORES DE BÚSQUEDA DEL MENOR.",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4a63312f34699d50",
+   "title": "Milei Again Attacked Journalists Who Questioned His Policies: “Ignorantes and Imbeciles”",
+   "link": "https://ground.news/article/milei-again-attacked-journalists-who-questioned-his-policies-ignorantes-and-imbeciles",
+   "published": "2026-08-24T00:10:14+00:00",
+   "summary": "The President again targeted the press workers through their social networks; on Friday he had insulted Marcelo Bonelli.",
+   "source": "Google Alert: journalist attacked/assaulted (EN)",
+   "source_id": "alert_en_attacked",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d1dbdce85a96e17d",
+   "title": "SAENZ PEÑA: Secuestran Una Motocicleta, Elementos De Dudosa Procedencia, Dinero Y ...",
+   "link": "http://www.noticiasdelparana.com.ar/NuevaEdicion/2026/08/23/saenz-pena-secuestran-una-motocicleta-elementos-de-dudosa-procedencia-dinero-y-cocaina-en-el-barrio-ensanche-norte/",
+   "published": "2026-08-23T23:39:02+00:00",
+   "summary": "... secuestro de diversos elementos cuya procedencia se procura establecer ... Todo lo secuestrado fue puesto a disposición de la Justicia ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "2e9a35aee9acccf5",
+   "title": "Luis Padilla, periodista: “No hay ninguna ley que prohíba subir a Primera a un recién ascendido”",
+   "link": "https://diariodeavisos.elespanol.com/2026/08/luis-padilla-periodista-entrevista/",
+   "published": "2026-08-23T23:15:30+00:00",
+   "summary": "... Luis Padilla ... detenido por alteración del orden público. Le obligaron a pagar una ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "654e896788568bbf",
+   "title": "Caso Makarena Tolosa: el audio clave y la trama oculta que dejó a dos de sus tíos tras las rejas",
+   "link": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/caso-makarena-tolosa-el-audio-clave-y-la-trama-oculta-que-dejo-a-dos-de/2026-08-23/183029.html",
+   "published": "2026-08-23T22:53:08+00:00",
+   "summary": "Periodista Digital: Cooperativa.cl/ATON. Los sujetos están imputados por los delitos de secuestro, homicidio y ocultamiento de cuerpo. El ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c58dbfcc12046780",
+   "title": "Los Mossos investigan a tres personas por una agresión sexual a una joven en Alpicat",
+   "link": "https://www.20minutos.es/cataluna/lleida/los-mossos-investigan-tres-personas-por-una-agresion-sexual-una-joven-alpicat_7028475_0.html",
+   "published": "2026-08-23T22:51:21+00:00",
+   "summary": "Los tres habrían asaltado a la víctima, amenazado con una navaja, robado y, posteriormente, realizado tocamientos.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "8aebd0243c0e810d",
+   "title": "No, este video de una granja de bots no corresponde al allanamiento a una de las ... - Chequeado",
+   "link": "https://chequeado.com/ultimas-noticias/no-este-video-de-una-granja-de-bots-no-corresponde-al-allanamiento-a-una-de-las-propiedades-de-fernando-cerimedo/",
+   "published": "2026-08-23T22:17:20+00:00",
+   "summary": "... arrestado el martes en Santa Cruz de la Sierra (Bolivia) ... periodista que prensa el informe. Sin embargo, esto es falso. El video difundido ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "094518d7f274efbb",
+   "title": "Badenoch: Arday's death is being used to attack press freedom - The Telegraph",
+   "link": "https://www.telegraph.co.uk/politics/2026/08/23/kemi-badenoch-jason-arday-death-press-freedom/",
+   "published": "2026-08-23T22:16:29+00:00",
+   "summary": "South America · Donald Trump · Health news · Defence · Science · Education ... attack on press freedom. “I think that's appalling. I don't think that ...",
+   "source": "Google Alert: press freedom attack (EN)",
+   "source_id": "alert_en_press_freedom",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: press freedom attack (EN)",
+     "link": "https://www.aol.com/articles/badenoch-arday-death-being-used-204500000.html"
+    }
+   ]
+  },
+  {
+   "id": "6450cba0774ef911",
+   "title": "Ayoub Aissiou, el periodista que el Gobierno español quiere dejar a merced de Argelia",
+   "link": "https://www.elindependiente.com/internacional/2026/08/24/ayoub-aissiou-periodista-gobierno-espanol-merced-argelia/",
+   "published": "2026-08-23T22:11:02+00:00",
+   "summary": "El 26 de julio, Ayoub fue detenido en el Aeropuerto del Prat, en cumplimiento de una orden de arresto emitida por Argelia. Un mes antes, el ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0cb9bf22f91cab42",
+   "title": "Maltrato animal: Presentaron una denuncia por la agresión a un perro en el Colegio Eloy Ortega",
+   "link": "https://www.impactocorrientes.com/notix/noticia/245408/maltrato_animal_presentaron_una_denuncia_por_la_agresi%C3%B3n_a_un_perro_en_el_colegio_eloy_ortega.htm",
+   "published": "2026-08-23T21:51:34+00:00",
+   "summary": "En las instalaciones del establecimiento, un estudiante habría agredido físicamente a un perro propinándole una violenta patada, lo que generó un ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "197721d6eddba19f",
+   "title": "Decretan prisión preventiva para tíos de Makarena Tolosa: Fueron imputados por secuestro ...",
+   "link": "https://www.chilevision.cl/noticias/nacional/decretan-prision-preventiva-para-tios-de-makarena-tolosa-fueron-imputados-por-secuestro-con-homicidio/",
+   "published": "2026-08-23T21:43:03+00:00",
+   "summary": "... Periodista Digital. En prisión preventiva quedaron los tíos de Makarena Tolosa, imputados por el delito de secuestro con homicidio por la ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/08/23/prision-preventiva-para-tios-de-makarena-tolosa-por-secuestro-con-homicidio-joven-sigue-desaparecida.shtml"
+    },
+    {
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://puranoticia.pnt.cl/nacional/decretan-prision-preventiva-para-tios-de-makarena-tolosa-acusados-de"
+    }
+   ]
+  },
+  {
+   "id": "0e94dec440c91b49",
+   "title": "Milei no soportó el comentario de una periodista de TN y lanzó un larguísimo ... - Corrientes Hoy",
+   "link": "https://www.corrienteshoy.com/nacionales/milei-no-soporto-el-comentario-de-una-periodista-de-tn-y-lanzo-un-larguisimo-mensaje-repleto-de-insultos-y-agravios.htm",
+   "published": "2026-08-23T21:40:43+00:00",
+   "summary": "Los fuertes y constantes ataques de Javier Milei a la prensa no cesan. Ahora volvió a mostrarse intolerante frente a una opinión periodística que ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a4afa160b043a94f",
+   "title": "Dos trozos de cocaína y más droga dosificada fue secuestrada en zona norte de Concordia",
+   "link": "https://diarioriouruguay.com/policiales/dos-trozos-de-cocaina-y-mas-droga-dosificada-fue-secuestrada-en-zona-norte-de-concordia.htm",
+   "published": "2026-08-23T21:30:44+00:00",
+   "summary": "Además de los estupefacientes, los efectivos procedieron al secuestro de seis teléfonos celulares y $202.200 en efectivo. Todos los elementos ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4c16b0b36f571af7",
+   "title": "24 personas son detenidos por secuestros y extorsiones en cinco provincias - FM Mundo",
+   "link": "https://fmmundo.com/notimundo/actualidad/24-personas-son-detenidos-secuestros-extorsiones-cinco-provincias-n88069",
+   "published": "2026-08-23T21:30:43+00:00",
+   "summary": "La Policía Nacional, a través de la UNASE, ejecutó operativos contra presuntas estructuras dedicadas al secuestro y la extorsión en Los Ríos ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "41c474e859853dd8",
+   "title": "Cubano que repartía paquetes de Amazon con una sola pierna vuelve a caminar gracias a ...",
+   "link": "https://www.cubaenmiami.com/cubano-que-repartia-paquetes-de-amazon-con-una-sola-pierna-vuelve-a-caminar-gracias-a-la-solidaridad-del-exilio/",
+   "published": "2026-08-23T21:26:51+00:00",
+   "summary": "Cubano que repartía paquetes de Amazon con una sola pierna vuelve a caminar gracias a la solidaridad del exilio. ... periodista Javier Díaz, de ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -34,7 +942,12 @@
     "libertad_prensa"
    ],
    "tags": [],
-   "also_reported_by": []
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://amp.lasexta.com/noticias/internacional/aqui-donde-todo-termina-infierno-emiliane-joven-24-anos-secuestrada-dias-exmarido-brasil_202608236a8b607671b42a0b5d01758e.html"
+    }
+   ]
   },
   {
    "id": "a0d70b7f16e5994a",
@@ -71,23 +984,6 @@
    "also_reported_by": []
   },
   {
-   "id": "f1d379c073c37671",
-   "title": "Harfuch descarta cualquier participación de agentes extranjeros con el gabinete de ... - El Universal",
-   "link": "https://www.eluniversal.com.mx/nacion/harfuch-descarta-cualquier-participacion-de-agentes-extranjeros-con-el-gabinete-de-seguridad-federal-las-leyes-lo-prohiben/",
-   "published": "2026-08-23T20:43:42+00:00",
-   "summary": "La periodista Ilia Calderón destacó como uno de los temas “ ... Captura de pantalla. [Publicidad]. Nación | 23-08-26 | 14:21 |. Logo de ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "64e79237ced1e6f7",
    "title": "Vinculan a tres por el presunto secuestro de una mujer extranjera - El Diario de Juárez",
    "link": "https://diario.mx/juarez/2026/aug/23/vinculan-a-tres-por-el-presunto-secuestro-de-una-mujer-extranjera-1134703.html",
@@ -110,57 +1006,6 @@
    ]
   },
   {
-   "id": "8766259ad487ab15",
-   "title": "Ejercer el periodismo en México es «de alto riesgo»: Adriana Urrea Torres | Dialogos Oaxaca",
-   "link": "https://dialogosoaxaca.com/ejercer-el-periodismo-en-mexico-es-de-alto-riesgo-adriana-urrea-torres/",
-   "published": "2026-08-23T20:35:42+00:00",
-   "summary": "... secuestro y asesinato. “Habría que revisar que muchos de los compañeros periodistas son defensores de derechos humanos o al revés, defensores de ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "5a56477875456ee1",
-   "title": "“Yo sabía muchas cosas”: abogada víctima de sicariato apuntó directamente al exasesor de Milei",
-   "link": "https://www.eldinamo.cl/mundo/2026/08/23/yo-sabia-muchas-cosas-abogada-victima-de-sicariato-apunto-directamente-al-exasesor-de-milei/",
-   "published": "2026-08-23T20:17:12+00:00",
-   "summary": "De acuerdo con lo resuelto por el tribunal que acogió el caso, el periodista argentino, que fue detenido ... Al momento de su detención, Fernando ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "27b52cb904d1e090",
-   "title": "Otro cubano deportado a África cuenta su pesadilla: «Es como un secuestro» - CiberCuba",
-   "link": "https://www.cibercuba.com/noticias/2026-08-23-u1-e208933-s27061-nid338533-otro-cubano-deportado-africa-cuenta-pesadilla",
-   "published": "2026-08-23T20:09:08+00:00",
-   "summary": "Equipo de periodistas comprometidos con informar sobre la actualidad cubana y temas de interés global. En CiberCuba trabajamos para ofrecer ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "625f543ea4d961de",
    "title": "Reports of an ICE raid in Little Havana, Miami, this weekend - CiberCuba",
    "link": "https://en.cibercuba.com/noticias/2026-08-23-u1-e208574-s27061-nid338550-reportan-redada-ice-pequena-habana-miami-este-fin",
@@ -178,6 +1023,23 @@
    "also_reported_by": []
   },
   {
+   "id": "06f5c762a5af55e7",
+   "title": "Intentó matar a martillazos a su ex, amenazó a una periodista y huyó - Fm Cordillerana Junin",
+   "link": "https://fmcordilleranajunin.com.ar/a-nota/220138/intento-matar-a-martillazos-a-su-ex-amenazo-a-una-periodista-y-huyo-lo-detuvieron-encapuchado-a-metros-de-la-casa-de-la-victima",
+   "published": "2026-08-23T19:51:00+00:00",
+   "summary": "(45) relató que momentos antes su ex pareja la agredió con un martillo y que tras el ataque se dio a la fuga. Como consecuencia de la agresión, la ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "6c06f5623077139a",
    "title": "Caso Agostina Vega: peritajes a celulares y nuevos indicios complican a la pareja de Barrelier",
    "link": "https://viapais.com.ar/cordoba/caso-agostina-vega-peritajes-celulares-nuevos-indicios-complican-pareja-barrelier_0_465dcPxDxT.html,/cordoba/caso-agostina-vega-peritajes-celulares-nuevos-indicios-complican-pareja-barrelier_0_465dcPxDxT.html",
@@ -185,40 +1047,6 @@
    "summary": "Quiénes son los periodistas ... Uno de los principales avances para la querella surgió del análisis de distintos dispositivos secuestrados en el marco ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ee326df0e30ce399",
-   "title": "Reportan redada de ICE en la Pequeña Habana, Miami, este fin de semana - CiberCuba",
-   "link": "https://www.cibercuba.com/noticias/2026-08-23-u1-e208574-s27061-nid338550-reportan-redada-ice-pequena-habana-miami-este-fin",
-   "published": "2026-08-23T19:46:56+00:00",
-   "summary": "Una publicación del periodista Javier Díaz en Facebook confirmó una ... Nuevos detalles del caso de la cubana detenida en Miami tras ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e76b72e028dc8f46",
-   "title": "Pastrana, el periodista - El Espectador",
-   "link": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/pastrana-el-periodista/",
-   "published": "2026-08-23T19:30:00+00:00",
-   "summary": "Responda, Andrés Pastrana\": Esta columna de periodismo colaborativo se publica en El Espectador y Los Danieles.",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -263,13 +1091,30 @@
    "also_reported_by": []
   },
   {
-   "id": "696095fb88c98866",
-   "title": "FGR vincula a proceso a tres personas por secuestro agravado y tráfico ... - Gobernantes.com",
-   "link": "https://www.gobernantes.com/vernota.php?id=525891",
-   "published": "2026-08-23T18:29:35+00:00",
-   "summary": "Ciudad de México.- Luego de que un juez de control del Centro de Justicia Penal Federal en Chihuahua, con sede en Ciudad Juárez, libró órdenes de ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
+   "id": "e34763e04ab32909",
+   "title": "PURO CUENTO - Pulso SLP",
+   "link": "https://pulsoslp.com.mx/cultura/puro-cuento/2078768",
+   "published": "2026-08-23T19:07:46+00:00",
+   "summary": "¿Qué ganaría escribiendo sobre los periodistas que matan en todos los estados? Ya sabemos que es un problema que no solo existe en el norte, recorre ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "be47c757ab13a89e",
+   "title": "PAOLA UGAZ Y EL PRECIO DE INVESTIGAR AL SODALICIO: SIP ALERTA POR HOSTIGAMIENTO",
+   "link": "https://www.apnoticias.pe/video/paola-ugaz-y-el-precio-de-investigar-al-sodalicio-sip-alerta-por-hostigamiento-la-verdad-a-fondo-609799",
+   "published": "2026-08-23T18:25:18+00:00",
+   "summary": "#LoMejorDeLaVerdadAFondo | Pedro Salinas analiza el hostigamiento judicial contra la periodista Paola Ugaz tras una nueva querella en su contra.",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -297,23 +1142,6 @@
    "also_reported_by": []
   },
   {
-   "id": "f2bf6267a22dfbf7",
-   "title": "Vecinos capturan a un ladrón en el patio de una casa en Camagüey: La Policía no llegó - CiberCuba",
-   "link": "https://www.cibercuba.com/noticias/2026-08-23-u1-e43231-s27061-nid338513-vecinos-capturan-ladron-patio-casa-camaguey-policia",
-   "published": "2026-08-23T18:10:34+00:00",
-   "summary": "... periodista independiente José Luis Tan Estrada. El segundo sujeto escapó corriendo antes de que pudiera ser detenido. El incidente ocurrió en la ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "1f1cb82bd75dd2ed",
    "title": "VIOLENCIA. Joven en motocicleta es asesinado a balazos tras discutir con otros sujetos",
    "link": "https://afondoedomex.com/violencia-joven-en-motocicleta-es-asesinado-a-balazos-tras-discutir-con-otros-sujetos/",
@@ -321,23 +1149,6 @@
    "summary": "Un hombre que conducía una motocicleta murió tras ser atacado a balazos, por sujetos armados, en el perímetro de la colonia Anáhuac Primera ...",
    "source": "Google Alert: reportero/a agredido/a (ES, variante)",
    "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "de5d0002ec89c752",
-   "title": "Cubalex documenta patrón represivo contra opositores y periodistas independientes",
-   "link": "https://www.martinoticias.com/a/cubalex-documenta-patr%C3%B3n-represivo-contra-opositores-y-periodistas-independientes/476088.html",
-   "published": "2026-08-23T17:55:25+00:00",
-   "summary": "... detenidos e interrogados. Uno de los casos más recientes es el del periodista independiente y escritor Francisco Correa Romero, detenido el 19 de ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -404,23 +1215,6 @@
    "also_reported_by": []
   },
   {
-   "id": "a7c6968a4f262177",
-   "title": "Tiene huesos de cristal, superó casi 300 operaciones y sueña con ser periodista - Cadena 3",
-   "link": "https://www.cadena3.com/noticia/amamos-los-domingos/tiene-huesos-de-cristal-supero-casi-300-operaciones-y-suena-con-ser-periodista-la-leccion-de-tomas_586354",
-   "published": "2026-08-23T17:48:18+00:00",
-   "summary": "Violenta pelea a cuchilladas en Alderetes: una mujer hospitalizada y otra detenida. Panorama Federal. Episodios. Audio. Corte de gas en ingenio La ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "1028bedb3469f3f4",
    "title": "(VIDEO) Exclusivo: Juzgado de Garantía declara admisible querella por estafa contra ...",
    "link": "https://www.septimapaginanoticias.cl/video-exclusivo-juzgado-de-garantia-declara-admisible-querella-por-estafa-contra-productor-de-eventos-eduardo-vasquez-fuentes",
@@ -428,40 +1222,6 @@
    "summary": "La Fiesta Costumbrista de Linares, promocionada para los días 24, 25 y 26 de abril pasado en los terrenos de la ex Iansa, terminó en escándalo por ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "9e4cc325ca40d317",
-   "title": "Díaz-Canel asegura que no tiene miedo a EE.UU.: «Si me llega me llegó, pero peleando»",
-   "link": "https://www.cibercuba.com/noticias/2026-08-23-u1-e208512-s27061-nid338534-diaz-canel-asegura-tiene-miedo-eeuu-me-llega-me",
-   "published": "2026-08-23T17:38:27+00:00",
-   "summary": "... atacado por Estados Unidos, en una amplia entrevista con la periodista Mónica Bergamo en el diario brasileño Folha de São Paulo. La pregunta ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "3b2fa250153f9759",
-   "title": "En RTVE sentencian el futuro de Ayuso por una información comprometedora y se avisa si ...",
-   "link": "https://eltelevisero.huffingtonpost.es/2026/08/en-rtve-sentencian-el-futuro-de-ayuso-por-una-informacion-comprometedora-y-se-avisa-si-sera-la-candidata-en-2027/",
-   "published": "2026-08-23T17:31:32+00:00",
-   "summary": "David Fernández, periodista de investigación, lanzó un vaticinio sobre Isabel Díaz Ayuso en el programa nocturno presentado por Jesús Cintora.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -511,23 +1271,6 @@
    ]
   },
   {
-   "id": "68b6ade236b4f44d",
-   "title": "Periodistas de El Nuevo Día son galardonados en la premiación a la excelencia del ...",
-   "link": "https://www.elnuevodia.com/noticias/locales/notas/periodistas-de-el-nuevo-dia-son-galardonados-en-la-premiacion-a-la-excelencia-del-overseas-press-club/",
-   "published": "2026-08-23T17:17:53+00:00",
-   "summary": "... atacado por fuerzas que intentan desacreditar el flujo de información. ... periodista Damaris Suárez Lugo, del Centro de Periodismo Investigativo (CPI).",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "71a0ac0736e3ab5a",
    "title": "Imputan en Veracruz a Sujeto por Presunta Desaparición de Dos Amigas del Periodista ...",
    "link": "https://diariocambio22.mx/imputan-en-veracruz-a-sujeto-por-presunta-desaparicion-de-dos-amigas-del-periodista-carlos-ramirez/",
@@ -545,57 +1288,6 @@
    "also_reported_by": []
   },
   {
-   "id": "7bcb03dca3e59c57",
-   "title": "La historia del primer asalto callejero de Esquel: ¿quién fue la víctima y qué le robaron?",
-   "link": "https://www.eqsnotas.com/tendencias/la-historia-del-primer-asalto-callejero-de-esquel---quien-fue-la-victima-y-que-le-robaron-_a6a88cd2778b4d0725e6df11d",
-   "published": "2026-08-23T17:05:44+00:00",
-   "summary": "Uno de los detenidos, luego publicó una carta para defender su inocencia. domingo 23 de agosto de 2026 09:45.",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "bca955d592da6ae7",
-   "title": "Un joven con muletas fue detenido tras ser sorprendido con cocaína frente a su casa",
-   "link": "https://diarioriouruguay.com/policiales/un-joven-con-muletas-fue-detenido-tras-ser-sorprendido-con-cocaina-frente-a-su-casa.htm",
-   "published": "2026-08-23T16:44:42+00:00",
-   "summary": "Personal policial realizaba tareas de patrullaje en la zona de calle Las Heras y bulevar Yuquerí cuando observó al joven junto a una mujer. Según ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f3842da0da8526a8",
-   "title": "Un famoso rapero fue arrestado durante la madrugada y transmitió en vivo su indignación ...",
-   "link": "https://www.clarin.com/internacional/famoso-rapero-arrestado-madrugada-transmitio-vivo-indignacion-policia-encontraron-casa_0_HIYtptuuuY.html",
-   "published": "2026-08-23T16:44:36+00:00",
-   "summary": "Antonio Hueber, más conocido por su nombre artístico Tony Boy, fue arrestado en su casa de Milán. ... periodistas de Clarín. QUIERO RECIBIRLO.",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "30bc445ef4c428ca",
    "title": "Fátima Bosch acusa de intimidación a Nawat Itsaragrisil ante posible orden de arresto - Infobae",
    "link": "https://www.infobae.com/mexico/2026/08/23/fatima-bosch-acusa-de-intimidacion-a-nawat-itsaragrisil-ante-posible-orden-de-arresto/",
@@ -603,23 +1295,6 @@
    "summary": "... difamación, acusaciones falsas y difusión de información falsa. La demanda fue interpuesta por el miembro de Miss Universe Organization (MUO ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "35ea2eccd7c9e069",
-   "title": "Detienen a extranjero con droga avaluada en $60 millones en Terminal Collao de Concepción",
-   "link": "https://www.canal9.cl/episodios/noticias/2026/08/23/detienen-a-extranjero-con-droga-avaluada-en-60-millones-en-terminal-collao-de-concepcion",
-   "published": "2026-08-23T16:30:38+00:00",
-   "summary": "Un ciudadano extranjero fue detenido en el Terminal de Buses Collao ... Valeska BelmarPeriodista Radio Bío Bío. Visitas: 7. Tap to unmute. Your ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -664,69 +1339,13 @@
    "also_reported_by": []
   },
   {
-   "id": "2eb40a29af9b4778",
-   "title": "Sentencian a cuatro por secuestro exprés con fines de robo - El Independiente",
-   "link": "https://elindependiente.mx/valle/2026/08/23/sentencian-a-cuatro-por-secuestro-expres-con-fines-de-robo/",
-   "published": "2026-08-23T16:05:35+00:00",
-   "summary": "La Fiscalía General de Justicia del Estado de México (FGJEM) sentenció a 50 años de prisión a cuatro sujetos por su responsabilidad en el delito ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "d86a27557fce9a17",
-   "title": "Cámaras Flock en Puerto Rico: ¿qué dice Alexis Torres sobre el acceso de ICE a sus datos?",
-   "link": "https://www.elnuevodia.com/noticias/seguridad/notas/alexis-torres-responde-si-han-dado-acceso-a-ice-a-las-camaras-de-flock-no-ha-habido-ninguna-solicitud-de-informacion/",
-   "published": "2026-08-23T16:04:59+00:00",
-   "summary": "Desde las afueras de “La Neverita”: la angustiante espera para ver o no ver a un familiar detenido por ICE ... Adriana Díaz Tirado es periodista ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "b5dd69480975fb32",
    "title": "La Justicia tiene un papel determinante ante los ataques a la prensa, afirman",
    "link": "https://www.judiciales.net/la-justicia-tiene-un-papel-determinante-ante-los-ataques-a-la-prensa-afirman/",
    "published": "2026-08-23T15:51:54+00:00",
-   "summary": "En un escenario donde ejercer el periodismo implica enfrentar nuevas formas de hostigamiento, amenazas y campañas de desprestigio, la respuesta de ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.judiciales.net/la-justicia-tiene-un-papel-determinante-ante-los-ataques-a-la-prensa-afirman/"
-    }
-   ]
-  },
-  {
-   "id": "b588ca8f1f3df005",
-   "title": "Atacan a tiros a cantante de Beto y sus Canarios previo a concierto en Chicoloapan",
-   "link": "https://www.infobae.com/mexico/2026/08/23/atacan-a-tiros-a-cantante-de-beto-y-sus-canarios-previo-a-concierto-en-chicoloapan/",
-   "published": "2026-08-23T15:51:05+00:00",
-   "summary": "Edilberto Portillo, fundador y cantante de Beto y sus Canarios, fue atacado a balazos la noche del sábado 22 de agosto en Chicoloapan, Estado de ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
+   "summary": "... periodista también alcanza a todas aquellas personas que dejan de ... Es también una forma de prevenir nuevas agresiones, combatir la censura indirecta ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -744,220 +1363,6 @@
    "summary": "... periodista: la lección de Tomás. Amamos los Domingos. Episodios. Audio. Detienen a un sujeto en Costanera Norte tras actos de coacción para ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "9c9a263fca68facb",
-   "title": "Detienen a Pareja por Agresión a Policías y los Investigan por Robo en Monterrey - N+",
-   "link": "https://www.nmas.com.mx/nuevo-leon/seguridad/detienen-a-pareja-por-agresion-a-policias-y-los-investigan-por-robo-en-monterrey/",
-   "published": "2026-08-23T15:12:06+00:00",
-   "summary": "Una pareja fue detenida por agredir a policías y son investigados por robos en la zona del Mesón Estrella en la ciudad de Monterrey.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f06af8baf2c85dd2",
-   "title": "Prisión preventiva para acusado de secuestro en Valparaíso: habría baleado a la víctima en ...",
-   "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/23/prision-preventiva-para-acusado-de-secuestro-en-valparaiso-habria-baleado-a-la-victima-en-sus-piernas.shtml",
-   "published": "2026-08-23T14:56:03+00:00",
-   "summary": "En prisión preventiva quedó un sujeto formalizado por los delitos de secuestro calificado y lesiones graves, por su presunta participación...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "014b32c2b8a7e05f",
-   "title": "Defensoría emite alerta temprana para población de Popayán por violencia de grupos armados",
-   "link": "https://caracol.com.co/2026/08/23/defensoria-emite-alerta-temprana-para-poblacion-de-popayan-por-violencia-de-grupos-armados/",
-   "published": "2026-08-23T14:54:25+00:00",
-   "summary": "También existe riesgo de un recrudecimiento de delitos como el hurto, microtráfico, extorsión, y secuestro por parte de las bandas locales. La ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "c6e5b77bd0ab7b0d",
-   "title": "La segunda colonia Periodista hereda el toque cultural del oficio - La Jornada",
-   "link": "https://www.jornada.com.mx/noticia/2026/08/23/capital/la-segunda-colonia-periodista-hereda-el-toque-cultural-del-oficio",
-   "published": "2026-08-23T14:42:46+00:00",
-   "summary": "En la colonia hay un mural dedicado a los trabajadores de los medios, un teatro, el Museo Benita Galeana, las viejas casonas y un parque que vivió ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7cbb9a664d28e913",
-   "title": "A la espera de un milagro por Noemí, la mujer que fue brutalmente atacada con un hacha ...",
-   "link": "https://www.lmneuquen.com/neuquen/a-la-espera-un-milagro-noemi-la-mujer-que-fue-brutalmente-atacada-un-hacha-su-expareja-cual-es-su-estado-salud-n1250753",
-   "published": "2026-08-23T14:39:04+00:00",
-   "summary": "Todo el pueblo de Aluminé reza por la recuperación milagrosa de Noemí Matamala, internada en el Castro Rendón. El parte médico.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "aad82c466149144f",
-   "title": "Jesús Cintora denuncia la agresión a una reportera de 'Malas Lenguas Noche' en RTVE",
-   "link": "https://eltelevisero.huffingtonpost.es/2026/08/jesus-cintora-denuncia-la-agresion-a-una-reportera-de-malas-lenguas-noche-en-rtve-el-microfono-golpeado-es-el-de-este-programa-no-es-casualidad/",
-   "published": "2026-08-23T14:13:18+00:00",
-   "summary": "¿Qué propuesta tiene para resolver la situación?\". Mucho más duro con lo ocurrido en Barcelona era Ernesto Ekaizer. El periodista quiso dejar claro ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4cdf2ce3abc06974",
-   "title": "Una mujer fallece al ser arrollada por un bus RED en La Granja; el chofer escapó del sitio",
-   "link": "https://www.canal9.cl/episodios/2026/08/23/mujer-muere-tras-ser-atropellada-por-bus-red-en-la-granja-conductor-huyo-del-lugar",
-   "published": "2026-08-23T14:10:37+00:00",
-   "summary": "Jorge VillegasPeriodista en Radio Bío Bío de Santiago ... Conforme a versiones preliminares de terceros y testigos, el conductor habría detenido ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7d2dabfa38a4859a",
-   "title": "Exnovia de exasesor de Milei rompe el silencio tras agresión y destapa coimas, bots y ...",
-   "link": "https://www.canal9.cl/episodios/2026/08/23/expareja-de-exasesor-de-milei-habla-tras-ataque-y-revela-coimas-bots-y-secretos-del-poder-argentino",
-   "published": "2026-08-23T14:05:46+00:00",
-   "summary": "La abogada y activista boliviana Nadia Beller, sobreviviente de un ataque a balazos en Santa Cruz de la Sierra, señaló directamente a su expareja, ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://www.canal9.cl/episodios/2026/08/23/expareja-de-exasesor-de-milei-habla-tras-ataque-y-revela-coimas-bots-y-secretos-del-poder-argentino"
-    }
-   ]
-  },
-  {
-   "id": "d12cc0df63c3f70b",
-   "title": "El secuestro y asesinato bajo tortura del militante peronista Felipe Vallese, el primer ... - Infobae",
-   "link": "https://www.infobae.com/sociedad/2026/08/23/el-secuestro-y-asesinato-bajo-tortura-del-militante-peronista-felipe-vallese-el-primer-desaparecido-por-razones-politicas-de-la-argentina/",
-   "published": "2026-08-23T13:56:41+00:00",
-   "summary": "La investigación realizada por el periodista Pedro Leopoldo Barraza pudo reconstruir su calvario, desde la captura hasta la muerte en la tortura ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "5a7cb4f3c6a2122d",
-   "title": "Detenido el rapero italiano Tony Boy por posesión de drogas y tenencia ilegal de armas",
-   "link": "https://amp.elmundo.es/cultura/2026/08/23/6a8af65c21efa055228b4578.html",
-   "published": "2026-08-23T13:40:24+00:00",
-   "summary": "Detenido el rapero italiano Tony Boy por posesión de drogas y tenencia ilegal de armas ... periodista · Detienen en Chile al último exmilitar condenado ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://www.heraldo.es/noticias/sociedad/2026/08/23/detenido-rapero-italiano-tony-boy-por-posesion-drogas-tenencia-ilegal-armas-2046709.html"
-    }
-   ]
-  },
-  {
-   "id": "2ad88ad85320cc48",
-   "title": "Irán considerará como enemigo a países que se unan a la guerra económica de EE.UU.",
-   "link": "https://www.cooperativa.cl/noticias/mundo/iran/iran-considerara-como-enemigo-a-paises-que-se-unan-a-la-guerra-economica/2026-08-23/085313.html",
-   "published": "2026-08-23T13:29:25+00:00",
-   "summary": "Periodista Digital: EFE. \"En primer lugar, negociaremos con ellos y les ... \"No hemos atacado ningún interés económico estadounidense. Hasta ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "cb9beb77d30f55f8",
-   "title": "ADEPA repudió los ataques de Javier Milei contra el periodista Marcelo Bonelli",
-   "link": "https://laopinionaustral.com.ar/argentina/adepa-repudio-los-ataques-de-javier-milei-contra-el-periodista-marcelo-bonelli-698367.html",
-   "published": "2026-08-23T13:08:30+00:00",
-   "summary": "Desmentir, aclarar, criticar, cuestionar y discrepar son herramientas legítimas en el debate público. La agresión y el insulto lo degradan y enrarecen ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -992,40 +1397,6 @@
    "summary": "La joven de 24 años resultó con diversas lesiones y fue trasladada por el SAMU hasta un centro asistencial. ?Un accidente de tránsito se registró ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f44687135c7c9b60",
-   "title": "La Unión de Medios Libres conmemora a Najm al-Din Sinan en el tercer aniversario de su martirio",
-   "link": "https://hawarnews.com/es/la-union-de-medios-libres-conmemora-a-najm-al-din-sinan-en-el-tercer-aniversario-de-su-martirio",
-   "published": "2026-08-23T12:21:59+00:00",
-   "summary": "Fue martirizado el 23 de agosto de 2023, cuando el vehículo en el que viajaba, junto a la periodista Dalila Agid, fue atacado por las fuerzas turcas ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "0e5e67a18c8ed835",
-   "title": "Domingo marcado por el Superclásico, la nueva conducción del Frente Amplio y la agenda ...",
-   "link": "https://www.elperiodista.cl/2026/08/domingo-marcado-por-el-superclasico-la-nueva-conduccion-del-frente-amplio-y-la-agenda-de-seguridad/",
-   "published": "2026-08-23T11:54:09+00:00",
-   "summary": "Medio digital independiente que nace de la revista chilena de actualidad \"El Periodista\", fundada en 2001. Dirigida por Francisco Martorell. • Fono: ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -1087,23 +1458,6 @@
    "also_reported_by": []
   },
   {
-   "id": "f5bff9ed3af0b51e",
-   "title": "Detienen a cinco marinos y un policía estatal por secuestro exprés en Veracruz | El Debate",
-   "link": "https://www.debate.com.mx/policiacas/detienen-a-cinco-marinos-y-un-policia-estatal-por-secuestro-expres-en-veracruz-20260822-0082.html",
-   "published": "2026-08-23T11:13:24+00:00",
-   "summary": "Andrea Ávila es periodista, creadora de contenido digital y corresponsal en Guadalajara para El Debate, con 4 años de experiencia en la cobertura ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "e60bfa77a6baa62d",
    "title": "México promete cero impunidad en caso de periodista asesinado en sur del país",
    "link": "https://laradiodelmercosur.com.ar/mundiales/14881/M-xico-promete-cero-impunidad-en-caso-de-periodista-asesinado-en-sur-del-pa-s",
@@ -1138,23 +1492,6 @@
    "also_reported_by": []
   },
   {
-   "id": "3a507dcebd66a11a",
-   "title": "Se cumplen 20 años de la huida de Natascha Kampusch: la niña que sobrevivió a más de ...",
-   "link": "https://www.20minutos.es/internacional/se-cumplen-20-anos-huida-natascha-kampusch-nina-que-sobrevivio-mas-ocho-anos-secuestro_7028412_0.html",
-   "published": "2026-08-23T10:33:12+00:00",
-   "summary": "Apenas unos minutos después, Natascha fue secuestrada. Ocho años, cinco meses y 21 días de cautiverio. La noche anterior había discutido con su madre, ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "c7023ad2650e8d36",
    "title": "Sicarios abren fuego y matan a un sujeto en Tzompantepec; escapan en auto azul - e-tlaxcala",
    "link": "https://e-tlaxcala.mx/nota/municipios/sicarios-abren-fuego-y-matan-a-un-sujeto-en-tzompantepec-escapan-en-auto-azul",
@@ -1162,23 +1499,6 @@
    "summary": "Un hombre de aproximadamente 50 años fue atacado a balazos en la colonia Loma Dorada; sus agresores huyeron tras perpetrar el crimen.",
    "source": "Google Alert: reportero/a agredido/a (ES, variante)",
    "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "cbaeaf108c53d8b0",
-   "title": "Condenado disidente por secuestro de mineros antioqueños en La Plata - La Nación",
-   "link": "https://www.lanacion.com.co/condenado-disidente-por-secuestro-de-mineros-antioquenos-en-la-plata/",
-   "published": "2026-08-23T09:54:08+00:00",
-   "summary": "Periodista. El disidente de las Farc, Fabriciano Forastero Tunay, fue condenado por el secuestro de nueve mineros antioqueños en el municipio de La ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -1206,113 +1526,6 @@
    "also_reported_by": []
   },
   {
-   "id": "cde8f085d945561f",
-   "title": "Fiscalía de la CDMX ofrece disculpa pública al periodista Humberto Padgett y a su familia",
-   "link": "https://www.proceso.com.mx/nacional/cdmx/2026/8/22/fiscalia-de-la-cdmx-ofrece-disculpa-publica-al-periodista-humberto-padgett-y-a-su-familia-378517.html",
-   "published": "2026-08-23T08:59:57+00:00",
-   "summary": "Hace casi diez años, la entonces Procuraduría capitalina omitió investigar con la debida diligencia la agresión que sufrió mientras documentaba el ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f80861994307e0f4",
-   "title": "Herido grave un joven de 24 años tras sufrir una agresión con arma blanca en la calle ... - 20Minutos",
-   "link": "https://www.20minutos.es/madrid/herido-grave-un-joven-24-anos-tras-sufrir-una-agresion-con-arma-blanca-calle-orense-madrid_7028349_0.html",
-   "published": "2026-08-23T08:56:03+00:00",
-   "summary": "El hombre tiene tres heridas graves en las zonas del tórax, abdomen y axila.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "c3708f1b634eacd3",
-   "title": "Cuatro imputados quedan en prisión preventiva por un secuestro con lesiones en Alerce ...",
-   "link": "https://miradasurtv.cl/cuatro-imputados-quedan-en-prision-preventiva-por-un-secuestro-con-lesiones-en-alerce-puerto-montt/",
-   "published": "2026-08-23T08:27:38+00:00",
-   "summary": "El hecho, ocurrido a comienzos de julio, dejó a un hombre retenido y agredido en un domicilio del sector. La investigación estuvo a cargo del ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "257f9ba7d2f947da",
-   "title": "Fallece empresario de transporte atacado a balazos por un sicario en Pedro Juan Caballero",
-   "link": "https://www.ultimahora.com/fallece-empresario-de-transporte-atacado-a-balazos-por-un-sicario-en-pedro-juan-caballero",
-   "published": "2026-08-23T08:27:07+00:00",
-   "summary": "... periodista de Última Hora Marciano Candia. El doctor Lucas Riveros, médico forense del Ministerio Público de Pedro Juan Caballero, explicó que la ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "b60a15c7e746d022",
-   "title": "Autoridades detienen a 5 marinos y un policía por presunto secuestro en Veracruz",
-   "link": "https://www.sinembargo.mx/4858529/autoridades-detienen-a-5-marinos-y-un-policia-por-presunto-secuestro-en-veracruz/",
-   "published": "2026-08-23T08:19:48+00:00",
-   "summary": "La pareja habría sido secuestrada por los marinos durante un patrullaje. Los hechos se remontan al 3 de noviembre del año pasado, sobre la ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://elindependiente.mx/estados/2026/08/22/detienen-a-cinco-marinos-y-un-policia-estatal-por-presunto-secuestro-expres-en-veracruz/"
-    }
-   ]
-  },
-  {
-   "id": "9b23b041506607e6",
-   "title": "El secuestro de un príncipe emiratí que llenó las arcas de la rama más temida de Al Qaeda",
-   "link": "https://elpais.com/internacional/2026-08-23/el-secuestro-de-un-principe-emirati-que-lleno-las-arcas-de-la-rama-mas-temida-de-al-qaeda.html",
-   "published": "2026-08-23T08:03:41+00:00",
-   "summary": "“Un ciudadano alemán fue secuestrado entre Tahoua y Agadez, en Níger, a finales de julio, mientras que en Malí se han producido varios incidentes ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "1b9c184422820c5f",
    "title": "Sheinbaum's 'enemies list'? | Los Angeles Times - PressReader",
    "link": "https://www.pressreader.com/usa/los-angeles-times/20260822/281500758096225",
@@ -1330,176 +1543,6 @@
    "also_reported_by": []
   },
   {
-   "id": "4d82be641d60ec36",
-   "title": "Violento secuestro en Valparaíso: Hombre fue arrastrado y obligado a subir a una camioneta",
-   "link": "https://www.chilevision.cl/noticias/casos-policiales/violento-secuestro-en-valparaiso-hombre-fue-arrastrado-y-obligado-a-subir-a-una-camioneta/",
-   "published": "2026-08-23T07:27:23+00:00",
-   "summary": "Luego de las diligencias realizadas en el lugar, Carabineros logró detener al conductor del vehículo, quien quedó en prisión preventiva, y continúa ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "42ce25ff71b43bfb",
-   "title": "Juicio por secuestro de odontólogo Julio Martínez comenzará en 2028",
-   "link": "https://periodistajuanvictor.com/juicio-por-secuestro-de-odontologo-julio-martinez-comenzara-en-2028/",
-   "published": "2026-08-23T07:21:41+00:00",
-   "summary": "... secuestro en grado de autor. Mientras que Paola Isabel Díaz Ramírez ... © 2026 Periodista Juan Victor Castillo. Todos los derechos reservados ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "947ae4c51b78aceb",
-   "title": "A un mes del asesinato del periodista Alejandro Leyva, su familia denuncia que no hay avances",
-   "link": "https://www.proceso.com.mx/nacional/estados/2026/8/23/a-un-mes-del-asesinato-del-periodista-alejandro-leyva-su-familia-denuncia-que-no-hay-avances-378544.html",
-   "published": "2026-08-23T06:32:24+00:00",
-   "summary": "Rosa Icela Rodríguez ordena medidas de protección para familia de periodista asesinado ... Documentos exhiben omisiones de la Defensoría de Oaxaca tras ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "29ceea0212d07405",
-   "title": "Venezuela mantiene el cerco contra la prensa pese a la ligera apertura política",
-   "link": "https://www.elnacional.com/2026/08/libertad-de-prensa-venezuela-censura-cnp-sntp-informe-2026/",
-   "published": "2026-08-23T06:18:14+00:00",
-   "summary": "... censura, el bloqueo de medios digitales, la criminalización de la labor ... “Siempre el periodista está pensando en la posibilidad de ser ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "c058a2db43f29315",
-   "title": "Difamar ya no es gratis - Periódico Hoy",
-   "link": "https://hoy.com.do/opinion/difamar-gratis_1099622_amp.html",
-   "published": "2026-08-23T05:37:05+00:00",
-   "summary": "... difamación, incluyendo lo que se publica en redes sociales ... querella, esta vez de la periodista Iluminada Muñoz. Semanas antes, en ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e5bf4e3b83d6e9f9",
-   "title": "Ingenieros mexicanos alcanzan acuerdo millonario tras demanda contra ... - Gobernantes.com",
-   "link": "https://www.gobernantes.com/vernota.php?id=525818",
-   "published": "2026-08-23T04:39:06+00:00",
-   "summary": "Ingenieros mexicanos alcanzan acuerdo millonario tras demanda contra gigantes automotrices de Estados Unidos . ... periodista Carlos Ram rez, asesinado ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "084d86c83179d960",
-   "title": "“Partí a Chile en el Winnipeg”: La resistencia republicana de los canarios Nicolás ... - El Diario",
-   "link": "https://www.eldiario.es/canariasahora/sociedad/parti-chile-winnipeg-resistencia-republicana-canarios-nicolas-mingorance-domingo-calero-exilio-barco-neruda_1_13460902.html",
-   "published": "2026-08-23T04:38:21+00:00",
-   "summary": "... exilio en el barco de Neruda. Mingorance fue poeta, periodista y concejal en Santa Cruz de Tenerife, prisionero en Villa Cisneros y protagonizó la ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "322ce35e7ea8efce",
-   "title": "WATCH: TWTW — Neo-Israelites vs. Neo-Ottomans - Consortium News",
-   "link": "https://consortiumnews.com/2026/08/22/watch-twtw-neo-israelites-vs-neo-ottomans/",
-   "published": "2026-08-23T04:01:22+00:00",
-   "summary": "Latin America (153); Lebanon (183); Liberia (3); Libya (96); Mali (33); Mexico ... Press Freedom (214); Prisons (60); Propaganda (575); Protest (158) ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "afc264ca86d9a64b",
-   "title": "Communist Movement Desperate to Preserve Base in Brazil - The New American",
-   "link": "https://thenewamerican.com/world-news/south-america/communist-movement-desperate-to-preserve-base-in-brazil/",
-   "published": "2026-08-23T03:56:17+00:00",
-   "summary": "... Latin America's Marxist parties and guerrilla movements to the fall ... journalists, and the use of “disinformation” laws as tools of censorship.",
-   "source": "Google Alert: journalist censored / media censorship (EN)",
-   "source_id": "alert_en_censorship",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "894ff011af582953",
-   "title": "Daniel Ortega pretende perpetuarse en el poder y maniobra para limitar la competencia electoral",
-   "link": "https://www.periodistadigital.com/pd-america/20260823/daniel-ortega-pretende-perpetuarse-maniobra-limitar-competencia-electoral-noticia-689405240304/",
-   "published": "2026-08-23T03:36:39+00:00",
-   "summary": "... exilio de cientos de miles de ciudadanos. Más en PD América. CONTRIBUYE CON PERIODISTA DIGITAL. QUEREMOS SEGUIR SIENDO UN MEDIO DE COMUNICACIÓN ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "6f531e6ac1c6c094",
    "title": "Foro 'Crisis de Derechos Humanos en la 4T': exigen justicia para periodista asesinado",
    "link": "https://niv-oaxaca.com/2026/08/22/foro-crisis-de-derechos-humanos-en-la-4t-exigen-justicia-para-periodista-asesinado/",
@@ -1507,40 +1550,6 @@
    "summary": "Gema Leyva Aguilar, hermana del periodista asesinado el pasado 22 de julio, se manifestó frente al Palacio de Gobierno con otros familiares para ...",
    "source": "Google Alert: periodista asesinado/a (ES)",
    "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e65ee3debbce27ac",
-   "title": "US military newspaper editor voices censorship fears after being fired - BBC",
-   "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-   "published": "2026-08-23T02:23:14+00:00",
-   "summary": "The editor-in-chief of US military newspaper Stars and Stripes has told the BBC of his concern over censorship a day after being dismissed by the ...",
-   "source": "Google Alert: journalist censored / media censorship (EN)",
-   "source_id": "alert_en_censorship",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "923e9997ac8bc896",
-   "title": "El polvo que volvió medio siglo después: la historia de Julieta Bernal y la batalla judicial ...",
-   "link": "https://www.elperiodista.cl/2026/08/el-polvo-que-volvio-medio-siglo-despues-la-historia-de-julieta-bernal-y-la-batalla-judicial-contra-pizarreno/",
-   "published": "2026-08-23T02:22:22+00:00",
-   "summary": "Y dos años después todo cambió. La SIP rechaza sentencia por difamación contra periodista Felipe Soto El calendario derrota a la enfermedad. El 20 ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -1568,108 +1577,6 @@
    "also_reported_by": []
   },
   {
-   "id": "4111410d5eca526e",
-   "title": "Elba Marcovecchio demandará a Fernanda Iglesias por una fuerte acusación - San Nicolás",
-   "link": "https://diarioelnorte.com.ar/elba-marcovecchio-demandara-a-fernanda-iglesias-por-una-fuerte-acusacion/",
-   "published": "2026-08-23T01:44:32+00:00",
-   "summary": "... periodista. El conflicto comenzó luego de que Iglesias señalara ... “Estoy analizando una querella por hostigamiento y otra de calumnias e injurias”, ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "a583b97168e4d2e8",
-   "title": "Hemingway, «censor» de la República | El Periódico Aragón - PressReader",
-   "link": "https://www.pressreader.com/spain/el-periodico-aragon/20260823/281573772540934",
-   "published": "2026-08-23T01:37:52+00:00",
-   "summary": "Enterado Hemingway de la existencia de ese sobre, le dijo a la periodista: «Es mejor que usted me lo entregue para llevarlo a la censura. –¡Pero ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ead284d5fdbaefdd",
-   "title": "Excarcelaron a sargento segundo Carlos Smith Zambrano en Guárico - AlbertoNews",
-   "link": "https://albertonews.com/nacionales/excarcelaron-a-sargento-segundo-carlos-smith-zambrano-en-guarico/",
-   "published": "2026-08-23T01:33:36+00:00",
-   "summary": "AlbertoNews - Periodismo sin censura. No Result. View All Result ... El periodista Seir Contreras informó a través de las redes sociales que ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "3654973cca637a47",
-   "title": "“Estoy analizando una querella”: Elba Marcovecchio furiosa con Iglesias , ¿termina mal?",
-   "link": "https://elintransigente.com/2026/08/elba-marcovecchio-fernanda-iglesias/",
-   "published": "2026-08-23T01:32:38+00:00",
-   "summary": "Fernanda Iglesias señaló públicamente a la abogada como la presunta responsable de haber difundido el delicado material. La periodista también la ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4afff8db39a1d57f",
-   "title": "Rechazan Periodistas Unidos de Parral lineamientos federales sobre derechos de las audiencias",
-   "link": "https://oem.com.mx/elsoldeparral/local/rechazan-periodistas-unidos-de-parral-lineamientos-federales-sobre-derechos-de-las-audiencias-31694853",
-   "published": "2026-08-23T01:21:53+00:00",
-   "summary": "La periodista Patricia Mayorga comparte por primera vez en Chihuahua su testimonio tras amenazas y exilio ... censura contra periodistas y medios ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "1e8c3e7d3ceece53",
-   "title": "Gala Caldirola anuncia demanda contra Coté López: Estas son las dos versiones de lo sucedido",
-   "link": "https://www.chilevision.cl/noticias/show/gala-caldirola-anuncia-demanda-contra-cote-lopez-estas-son-las-dos-versiones-de-lo-sucedido/",
-   "published": "2026-08-23T01:16:52+00:00",
-   "summary": "Durante el último capítulo de Primer Plano Gala Caldirola reveló que interpuso una demanda contra María José López tras una situación “grave” que ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "4ff8ca687dd18df2",
    "title": "Una reportera de 'Malas Lenguas', agredida por el portavoz de una manifestación ... - Threads",
    "link": "https://www.threads.com/@elperiodico_cas/post/DcXKOZZDGjn/una-reportera-de-malas-lenguas-agredida-por-el-portavoz-de-una-manifestacion/",
@@ -1686,283 +1593,24 @@
    "tags": [],
    "also_reported_by": [
     {
-     "source": "Google Alert: periodista agredido/atacado (ES)",
-     "link": "https://www.elperiodico.com/es/tele/yotele/20260823/malas-lenguas-noche-manifestante-ultra-golpea-microfono-jesus-cintora-133577762"
-    },
-    {
      "source": "Google Alert: reportero/a agredido/a (ES, variante)",
      "link": "https://www.elperiodico.com/es/tele/yotele/20260823/malas-lenguas-noche-manifestante-ultra-golpea-microfono-jesus-cintora-133577762"
     },
     {
-     "source": "Google Alert: periodista agredido/atacado (ES)",
+     "source": "Google Alert: reportero/a agredido/a (ES, variante)",
      "link": "https://www.laopiniondemalaga.es/ocio/tv/2026/08/23/malas-lenguas-noche-manifestante-ultra-golpea-microfono-jesus-cintora-133582330.html"
     }
    ]
   },
   {
-   "id": "4da505e285473d8c",
-   "title": "Trump's attack on a journalist overshadowed a more effective threat to freedom of the press",
-   "link": "https://www.yahoo.com/news/politics/articles/trump-attack-journalist-overshadowed-more-100000650.html",
-   "published": "2026-08-23T00:07:06+00:00",
-   "summary": "We also have to refuse to treat this as an inside fight between the president and the press, or decide whether press freedom ... ABC has now shown us ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6bf54bc68bfd2ac7",
-   "title": "El príncipe Enrique y Elton John deberán pagar 9.5 millones de libras tras perder demanda ...",
-   "link": "https://www.jornada.com.mx/noticia/2026/08/21/espectaculos/principe-enrique-y-elton-john-deberan-pagar-95-millones-de-libras-tras-perder-demanda-contra-daily-mail",
-   "published": "2026-08-23T00:02:33+00:00",
-   "summary": "El príncipe Enrique y Elton John deberán pagar 9.5 millones de libras tras perder demanda contra 'Daily Mail' ... periodistas del Daily Mail y una ...",
+   "id": "b1622b5505f1d6be",
+   "title": "TikTok pagará 400 millones de doláres por romper la privacidad de niños - El Ancasti",
+   "link": "https://www.elancasti.com.ar/mundo/tiktok-pagara-400-millones-dolares-romper-la-privacidad-los-ninos-n619904/amp",
+   "published": "2026-08-22T14:22:33+00:00",
+   "summary": "La querella legal presentada en California se derivó de una ... Finalmente, la resolución sienta un precedente judicial ante las acciones legales ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
    "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e86a3420524ff6ed",
-   "title": "What triggers Donald Trump to shut down reporters? - BBC News",
-   "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro",
-   "published": "2026-08-22T23:39:53+00:00",
-   "summary": "As the US president insults a journalist again, the BBC looks at ... Latin America. Published. 2 days ago. 0:27. Two men inside a cooling box in ...",
-   "source": "Google Alert: journalist threatened/harassed (EN)",
-   "source_id": "alert_en_threatened",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4eb06d7a21b8f791",
-   "title": "Un periodista conservador compartió las notas del FBI sin censura del acusador de Trump ... - Reddit",
-   "link": "https://www.reddit.com/r/Epstein/comments/1vvob6s/conservative_journalist_shared_unredacted_trump/?tl=es-419",
-   "published": "2026-08-22T23:18:48+00:00",
-   "summary": "231 votes, 10 comments. Aquí tienes un artículo sobre cómo me topé con las notas de la entrevista de Jane Doe 4 sin censura.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6f09ce75ec36b3db",
-   "title": "Ejecutivo flexibiliza nuevo estado de excepción tras críticas oficialistas / La querella que ... - El Líbero",
-   "link": "https://ellibero.cl/newsletter/pwc-chile-presenta-ejecutivo-flexibiliza-nuevo-estado-de-excepcion-tras-criticas-oficialistas-la-querella-que-permitio-captura-de-estudiante-del-in/",
-   "published": "2026-08-22T22:56:26+00:00",
-   "summary": "Buenos días. Por segundo día consecutivo, el Presidente Kast salió públicamente a defender la megarreforma de seguridad poniendo énfasis en que es ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "0b57f378b3d23377",
-   "title": "Luisa Carnés y María Teresa León: literatura, compromiso y memoria - Zenda",
-   "link": "https://www.zendalibros.com/luisa-carnes-y-maria-teresa-leon-literatura-compromiso-y-memoria/",
-   "published": "2026-08-22T22:53:49+00:00",
-   "summary": "... exilio y tragedia. Todo eso es cierto, pero no basta. Alrededor de ese ... Fue también periodista, y esa práctica le enseñó a observar sin embellecer.",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "62cf8af09ef9d529",
-   "title": "Elecciones inmediatos o moción de censura, y el Rey en Ceuta - Hechos de Hoy",
-   "link": "https://hechosdehoy.com/elecciones-inmediatos-o-mocion-de-censura-y-el-rey-en-ceuta/",
-   "published": "2026-08-22T22:38:21+00:00",
-   "summary": "... censura, y el Rey en Ceuta. ... El diario Hechos de Hoy está dirigido por el periodista Juan-Fernando Dorrego Tíktin.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "fa0a633b2376de8b",
-   "title": "Javier López confirma que demandará a jugador: \"Lo denunciaré por difamación\" - Diez",
-   "link": "https://www.diez.hn/liganacionaldehonduras/javier-lopez-confirma-demandara-carlos-mejia-upn-jugador-lo-denunciare-por-difamacion-OM31791593",
-   "published": "2026-08-22T22:28:59+00:00",
-   "summary": "Javier López, entrenador del Motagua, explotó en conferencia de prensa luego de la paliza 4-1 ante los Lobos de la UPN.",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "5c81365ca7c60886",
-   "title": "Tensiones con jefe del Pentágono, Hegseth - ANSA Latina",
-   "link": "https://www.ansalatina.com/amp/americalatina/noticia/mundo/2026/08/22/tensiones-con-jefe-del-pentagono-hegseth_e092435b-9936-47ab-974b-58d153eae1d6.html",
-   "published": "2026-08-22T21:20:18+00:00",
-   "summary": "Entre los desplazados se encuentran el editor Max Lederer, el jefe de redacción Erik Slavin y la periodista Lara Korte. ... censura de las ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f61c700f4c33895b",
-   "title": "denuncian al intendente de Viedma por apretar a un periodista en una pizzería",
-   "link": "https://www.elpolitologoyelpolitico.com.ar/wordpress/2026/08/22/censura-o-prepotencia-escandalo-en-patagones-denuncian-al-intendente-de-viedma-por-apretar-a-un-periodista-en-una-pizzeria/",
-   "published": "2026-08-22T20:36:58+00:00",
-   "summary": "Quienes somos? En esta sección: ¿Censura o prepotencia? Escándalo en Patagones: denuncian al intendente de ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e876c9ffcb9a919c",
-   "title": "US slaps 50% tariffs on some Canadian goods as talks fail - DW.com",
-   "link": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352",
-   "published": "2026-08-22T19:34:59+00:00",
-   "summary": "President Donald Trump (R) and Canadian Prime Minister Mark Carney speak to reporters in Trade between the two neighbors has been a thorny issue [ ...",
-   "source": "Google Alert: journalist threatened/harassed (EN)",
-   "source_id": "alert_en_threatened",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "14e8d3aeb9e53910",
-   "title": "¡DETIENEN A ELÍAS POR LA DESAPARICIÓN DE WENDY Y KARIME! - NOTIVER",
-   "link": "https://www.notiver.com/sucesos/detienen-a-elias-por-la-desaparicion-de-las-jovenes-wendy-y-karime/",
-   "published": "2026-08-22T18:52:25+00:00",
-   "summary": "Carlos Castro fue el primer periodista asesinado en Veracruz este año, no se conoce que haya personas detenidas hasta el momento. Compartir ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "993b13d0b32aee9b",
-   "title": "El periodista malagueño Pepelu Ramos se despide de Canal Sur Radio tras 38 años",
-   "link": "http://guiadelaradio.com/el-periodista-malagueno-pepelu-ramos-se-despide-de-canal-sur-radio-tras-38-anos-la-radio-es-mi-patria",
-   "published": "2026-08-22T17:08:50+00:00",
-   "summary": "Pepelu Ramos reconoce que los últimos años no siempre han sido fáciles y que, a medida que se acercaba el final, sentía algo parecido a un «exilio ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e73ae5c17bd92ea1",
-   "title": "Fraying bond between Israel and young American Jews sparks deep concern - AOL.com",
-   "link": "https://www.aol.com/articles/fraying-bond-between-israel-young-153203000.html",
-   "published": "2026-08-22T16:33:34+00:00",
-   "summary": "Palestinians mourn journalist killed in Israeli strikes on Nasser Hospital ... Latin America is right place to work on those areas. This is a use ...",
-   "source": "Google Alert: journalist killed (EN)",
-   "source_id": "alert_en_killed",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "5567abf279af3587",
-   "title": "Mexican government list of journalists and political opponents sparks outcry | Lodi News-Sentinel",
-   "link": "https://www.pressreader.com/usa/lodi-news-sentinel/20260822/281938844760346",
-   "published": "2026-08-22T07:51:13+00:00",
-   "summary": "2026-08-22 - Patrick J. McDonnell and Cecilia Sánchez Vidal Latin America News · Politics · Journalism · Mexico City · Claudia Sheinbaum ...",
-   "source": "Google Alert: journalist censored / media censorship (EN)",
-   "source_id": "alert_en_censorship",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "49a6be9f5a0576ca",
-   "title": "Greenberg's AIG Lawsuit Against U.S. Moves Ahead | Law.com",
-   "link": "https://www.law.com/article/almID/1202608874835/",
-   "published": "2026-08-22T05:23:11+00:00",
-   "summary": "For the text of this article, see \"Greenberg's AIG Lawsuit Against U.S. Moves Ahead,\" from The Litigation Daily.",
-   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
-   "source_id": "alert_en_legal",
-   "language": "en",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -3928,6 +3576,26 @@
    "also_reported_by": []
   },
   {
+   "id": "18d9dbb49153c790",
+   "title": "Editor questioned by officials at Virginia airport; phone seized and searched",
+   "link": "https://pressfreedomtracker.us/all-incidents/editor-questioned-by-officials-at-virginia-airport-phone-seized-and-searched/",
+   "published": "2026-07-21T21:02:01+00:00",
+   "summary": "Journalist Max Blumenthal was stopped, questioned and had his cellphones seized and searched by U.S. Customs and Border Protection agents at Washington Dulles International Airport in Virginia after returning from a reporting trip to Iran on July 10, 2026.Blumenthal had traveled to Iran on a pres...",
+   "source": "U.S. Press Freedom Tracker",
+   "source_id": "pressfreedomtracker_us",
+   "language": "en",
+   "country": "United States",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "Border Stop",
+    "Equipment Search or Seizure"
+   ],
+   "also_reported_by": []
+  },
+  {
    "id": "54b89b763d4e6fce",
    "title": "NY Times reporters’ phone, text records targeted in secret DOJ subpoenas",
    "link": "https://pressfreedomtracker.us/all-incidents/ny-times-reporters-phone-text-records-targeted-in-secret-doj-subpoenas/",
@@ -4225,10 +3893,6 @@
     {
      "source": "U.S. Press Freedom Tracker",
      "link": "https://pressfreedomtracker.us/all-incidents/ny-times-national-security-reporter-subpoenaed-by-doj/"
-    },
-    {
-     "source": "U.S. Press Freedom Tracker",
-     "link": "https://pressfreedomtracker.us/all-incidents/ny-times-investigative-reporter-subpoenaed-by-doj-for-testimony/"
     }
    ]
   },
