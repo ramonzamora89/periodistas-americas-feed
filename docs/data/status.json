@@ -1,5 +1,5 @@
 {
- "last_run": "2026-08-24T21:26:33.014538+00:00",
+ "last_run": "2026-08-25T09:27:21.188098+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -117,7 +117,7 @@
    "id": "alert_en_killed",
    "name": "Google Alert: journalist killed (EN)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 2,
    "error": null
   },
   {
@@ -131,21 +131,21 @@
    "id": "alert_en_attacked",
    "name": "Google Alert: journalist attacked/assaulted (EN)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 2,
    "error": null
   },
   {
    "id": "alert_en_threatened",
    "name": "Google Alert: journalist threatened/harassed (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 3,
    "error": null
   },
   {
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 7,
+   "items_fetched": 11,
    "error": null
   },
   {
@@ -159,21 +159,21 @@
    "id": "alert_en_press_freedom",
    "name": "Google Alert: press freedom attack (EN)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 8,
    "error": null
   },
   {
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 4,
    "error": null
   },
   {
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 4,
    "error": null
   },
   {
@@ -187,7 +187,7 @@
    "id": "alert_es_asesinado",
    "name": "Google Alert: periodista asesinado/a (ES)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 10,
    "error": null
   },
   {
@@ -229,7 +229,7 @@
    "id": "alert_es_censura",
    "name": "Google Alert: censura a periodistas (ES)",
    "ok": true,
-   "items_fetched": 14,
+   "items_fetched": 20,
    "error": null
   },
   {
@@ -243,7 +243,7 @@
    "id": "alert_es_exilio",
    "name": "Google Alert: periodista exiliado (ES)",
    "ok": true,
-   "items_fetched": 11,
+   "items_fetched": 14,
    "error": null
   },
   {
@@ -284,9 +284,9 @@
   {
    "id": "sntp_venezuela",
    "name": "SNTP – Sindicato Nacional de Trabajadores de la Prensa (Venezuela)",
-   "ok": false,
-   "items_fetched": 0,
-   "error": "HTTPSConnectionPool(host='sntpvenezuela.org', port=443): Read timed out. (read timeout=15)"
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
   },
   {
    "id": "latam_journalism_review",
@@ -341,7 +341,7 @@
    "id": "elfaro_sv",
    "name": "El Faro (El Salvador, en el exilio)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 0,
    "error": null
   }
  ]
