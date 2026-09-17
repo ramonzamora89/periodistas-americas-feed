@@ -1,5 +1,5 @@
 {
- "last_run": "2026-09-17T09:29:51.873566+00:00",
+ "last_run": "2026-09-17T21:24:36.570710+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -68,7 +68,7 @@
    "id": "rsf_nicaragua",
    "name": "RSF – Nicaragua",
    "ok": true,
-   "items_fetched": 38,
+   "items_fetched": 39,
    "error": null
   },
   {
@@ -117,35 +117,35 @@
    "id": "alert_en_killed",
    "name": "Google Alert: journalist killed (EN)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 2,
    "error": null
   },
   {
    "id": "alert_en_murdered",
    "name": "Google Alert: journalist murdered / reporter killed (EN)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 6,
    "error": null
   },
   {
    "id": "alert_en_attacked",
    "name": "Google Alert: journalist attacked/assaulted (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 5,
    "error": null
   },
   {
    "id": "alert_en_threatened",
    "name": "Google Alert: journalist threatened/harassed (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 1,
    "error": null
   },
   {
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 6,
+   "items_fetched": 10,
    "error": null
   },
   {
@@ -166,28 +166,28 @@
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 4,
    "error": null
   },
   {
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 4,
+   "items_fetched": 6,
    "error": null
   },
   {
    "id": "alert_en_exile",
    "name": "Google Alert: journalist exiled (EN)",
    "ok": true,
-   "items_fetched": 11,
+   "items_fetched": 4,
    "error": null
   },
   {
    "id": "alert_es_asesinado",
    "name": "Google Alert: periodista asesinado/a (ES)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 8,
    "error": null
   },
   {
@@ -222,7 +222,7 @@
    "id": "alert_es_desaparecido",
    "name": "Google Alert: periodista desaparecido (ES)",
    "ok": true,
-   "items_fetched": 10,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -243,14 +243,14 @@
    "id": "alert_es_exilio",
    "name": "Google Alert: periodista exiliado (ES)",
    "ok": true,
-   "items_fetched": 20,
+   "items_fetched": 18,
    "error": null
   },
   {
    "id": "alert_es_reportero",
    "name": "Google Alert: reportero/a agredido/a (ES, variante)",
    "ok": true,
-   "items_fetched": 8,
+   "items_fetched": 9,
    "error": null
   },
   {
@@ -271,7 +271,7 @@
    "id": "free_press_action",
    "name": "Free Press Action",
    "ok": true,
-   "items_fetched": 116,
+   "items_fetched": 119,
    "error": null
   },
   {
