@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T09:30:13.884766+00:00",
+ "generated_at": "2026-09-25T21:24:59.568193+00:00",
  "opportunities": [
   {
    "id": "gijn_jobs",
@@ -210,6 +210,38 @@
    "verified": "2026-08-16"
   },
   {
+   "id": "2249c89a16f2cdcf",
+   "name": "CTRL+J Microgrants",
+   "org": null,
+   "url": "https://gfmd.info/fundings/ctrlj-microgrants/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": "Global (Global South encouraged)",
+   "deadline": null,
+   "deadline_note": "Fecha límite en la convocatoria",
+   "summary": "The CTRL+J Microgrants Program provides grant funding of US$1,000–US$5,000 to support small convenings aligned with CTRL+J’s thematic focus on the intersection of journalism and technology. The program is supported by Luminate, and is expected to run continuously, subject to available budget. Fur...",
+   "origin": "rss",
+   "published": "2026-09-25T14:39:43+00:00",
+   "verified": null
+  },
+  {
+   "id": "057a8614d51cb661",
+   "name": "Equality Fund Global Journalism Fellowship 2026–2027",
+   "org": null,
+   "url": "https://gfmd.info/fundings/equality-fund-global-journalism-fellowship-2026-2027/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": null,
+   "deadline": null,
+   "deadline_note": "Fecha límite en la convocatoria",
+   "summary": "The Equality Fund has launched its inaugural Global Journalism Fellowship, developed in partnership with Canadian Journalists for Free Expression (CJFE) and African Women in Media (AWiM). The fellowship seeks to surface stories of local solutions to global crises, with a particular focus on gende...",
+   "origin": "rss",
+   "published": "2026-09-25T12:56:13+00:00",
+   "verified": null
+  },
+  {
    "id": "2a29b5741780424a",
    "name": "Free Press Awards Newcomer of the Year and Most Resilient Journalist",
    "org": null,
@@ -303,22 +335,6 @@
    "summary": "The Belgian Bridge programme supports collaborative investigative projects led by Dutch-speaking and French-speaking journalists residing in Belgium who work together on local issues of national importance. The goal is to produce multilingual journalism that exposes how issues arise on both sides...",
    "origin": "rss",
    "published": "2026-08-21T14:31:27+00:00",
-   "verified": null
-  },
-  {
-   "id": "244ae5142fe75786",
-   "name": "Health Care Journalism Grants 2026–2027",
-   "org": null,
-   "url": "https://gfmd.info/fundings/health-care-journalism-grants-2026-2027/",
-   "url_es": null,
-   "kind": "fondo",
-   "language": "en",
-   "region": "North America",
-   "deadline": "2026-10-02",
-   "deadline_note": null,
-   "summary": "The NIHCM Foundation supports independent, timely, and impactful health care journalism with the potential to inform efforts to improve the affordability, accessibility, and quality of health care in the United States. For this cycle, the Foundation is particularly interested in reporting on heal...",
-   "origin": "rss",
-   "published": "2026-08-14T13:35:25+00:00",
    "verified": null
   }
  ],
