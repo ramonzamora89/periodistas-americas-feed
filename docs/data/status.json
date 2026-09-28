@@ -1,5 +1,5 @@
 {
- "last_run": "2026-09-28T09:40:45.820657+00:00",
+ "last_run": "2026-09-28T21:25:39.529746+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -124,7 +124,7 @@
    "id": "alert_en_murdered",
    "name": "Google Alert: journalist murdered / reporter killed (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 3,
    "error": null
   },
   {
@@ -138,14 +138,14 @@
    "id": "alert_en_threatened",
    "name": "Google Alert: journalist threatened/harassed (EN)",
    "ok": true,
-   "items_fetched": 6,
+   "items_fetched": 2,
    "error": null
   },
   {
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 10,
+   "items_fetched": 12,
    "error": null
   },
   {
@@ -159,21 +159,21 @@
    "id": "alert_en_press_freedom",
    "name": "Google Alert: press freedom attack (EN)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 7,
    "error": null
   },
   {
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 5,
    "error": null
   },
   {
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 2,
    "error": null
   },
   {
@@ -187,7 +187,7 @@
    "id": "alert_es_asesinado",
    "name": "Google Alert: periodista asesinado/a (ES)",
    "ok": true,
-   "items_fetched": 4,
+   "items_fetched": 2,
    "error": null
   },
   {
@@ -236,21 +236,21 @@
    "id": "alert_es_demanda",
    "name": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 20,
    "error": null
   },
   {
    "id": "alert_es_exilio",
    "name": "Google Alert: periodista exiliado (ES)",
    "ok": true,
-   "items_fetched": 19,
+   "items_fetched": 20,
    "error": null
   },
   {
    "id": "alert_es_reportero",
    "name": "Google Alert: reportero/a agredido/a (ES, variante)",
    "ok": true,
-   "items_fetched": 6,
+   "items_fetched": 8,
    "error": null
   },
   {
