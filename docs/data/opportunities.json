@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T13:57:13.376802+00:00",
+ "generated_at": "2026-10-16T23:35:04.131990+00:00",
  "opportunities": [
   {
    "id": "gijn_jobs",
@@ -208,6 +208,38 @@
    "origin": "curado",
    "published": null,
    "verified": "2026-08-16"
+  },
+  {
+   "id": "53c10ba89e64dfeb",
+   "name": "International Nieman Fellowship",
+   "org": null,
+   "url": "https://gfmd.info/fundings/international-nieman-fellowship/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": "International (non-U.S. citizens, including those working in",
+   "deadline": "2026-12-01",
+   "deadline_note": null,
+   "summary": "The Nieman Fellowship gives working journalists a year at Harvard to pursue a self-designed programme of study. The International Nieman Fellowship is for non-U.S. citizens, including those working in the U.S. Eligibility All Nieman Fellowship applicants must be working journalists with at least...",
+   "origin": "rss",
+   "published": "2026-10-16T15:32:22+00:00",
+   "verified": null
+  },
+  {
+   "id": "b58572ec17711ca2",
+   "name": "Knight-Wallace Fellowship (International Applicants)",
+   "org": null,
+   "url": "https://gfmd.info/fundings/knight-wallace-fellowship-international-applicants/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": "International (non-U.S. citizens)",
+   "deadline": "2026-12-01",
+   "deadline_note": null,
+   "summary": "The Knight-Wallace Journalism Fellowships offer an academic year of study, collaborative learning and access to the resources of the University of Michigan for selected journalists to pursue ambitious journalism projects. Eligibility Qualified applicants must have a minimum of five years of exper...",
+   "origin": "rss",
+   "published": "2026-10-16T15:21:37+00:00",
+   "verified": null
   },
   {
    "id": "057a8614d51cb661",
