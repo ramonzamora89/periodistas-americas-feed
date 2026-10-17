@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-16T23:35:04.131990+00:00",
+ "last_run": "2026-10-17T12:58:27.186417+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -145,7 +145,7 @@
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 16,
+   "items_fetched": 14,
    "error": null
   },
   {
@@ -159,7 +159,7 @@
    "id": "alert_en_press_freedom",
    "name": "Google Alert: press freedom attack (EN)",
    "ok": true,
-   "items_fetched": 14,
+   "items_fetched": 18,
    "error": null
   },
   {
@@ -173,21 +173,21 @@
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 18,
+   "items_fetched": 15,
    "error": null
   },
   {
    "id": "alert_en_exile",
    "name": "Google Alert: journalist exiled (EN)",
    "ok": true,
-   "items_fetched": 5,
+   "items_fetched": 4,
    "error": null
   },
   {
    "id": "alert_es_asesinado",
    "name": "Google Alert: periodista asesinado/a (ES)",
    "ok": true,
-   "items_fetched": 7,
+   "items_fetched": 9,
    "error": null
   },
   {
@@ -222,7 +222,7 @@
    "id": "alert_es_desaparecido",
    "name": "Google Alert: periodista desaparecido (ES)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -243,14 +243,14 @@
    "id": "alert_es_exilio",
    "name": "Google Alert: periodista exiliado (ES)",
    "ok": true,
-   "items_fetched": 17,
+   "items_fetched": 18,
    "error": null
   },
   {
    "id": "alert_es_reportero",
    "name": "Google Alert: reportero/a agredido/a (ES, variante)",
    "ok": true,
-   "items_fetched": 20,
+   "items_fetched": 18,
    "error": null
   },
   {
