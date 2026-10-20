@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-20T00:19:45.164539+00:00",
+ "last_run": "2026-10-20T14:18:05.881231+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -88,9 +88,9 @@
   {
    "id": "articulo19",
    "name": "Artículo 19 (México y Centroamérica)",
-   "ok": false,
-   "items_fetched": 0,
-   "error": "HTTPSConnectionPool(host='articulo19.org', port=443): Read timed out. (read timeout=15)"
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
   },
   {
    "id": "red_centroamericana",
@@ -138,14 +138,14 @@
    "id": "alert_en_threatened",
    "name": "Google Alert: journalist threatened/harassed (EN)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 5,
    "error": null
   },
   {
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 20,
+   "items_fetched": 15,
    "error": null
   },
   {
@@ -173,7 +173,7 @@
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 4,
+   "items_fetched": 5,
    "error": null
   },
   {
@@ -187,7 +187,7 @@
    "id": "alert_es_asesinado",
    "name": "Google Alert: periodista asesinado/a (ES)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -243,14 +243,14 @@
    "id": "alert_es_exilio",
    "name": "Google Alert: periodista exiliado (ES)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 19,
    "error": null
   },
   {
    "id": "alert_es_reportero",
    "name": "Google Alert: reportero/a agredido/a (ES, variante)",
    "ok": true,
-   "items_fetched": 11,
+   "items_fetched": 13,
    "error": null
   },
   {
