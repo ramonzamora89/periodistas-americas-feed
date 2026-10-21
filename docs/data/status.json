@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-20T23:52:25.656350+00:00",
+ "last_run": "2026-10-21T14:28:57.764883+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -131,21 +131,21 @@
    "id": "alert_en_attacked",
    "name": "Google Alert: journalist attacked/assaulted (EN)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 12,
    "error": null
   },
   {
    "id": "alert_en_threatened",
    "name": "Google Alert: journalist threatened/harassed (EN)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 4,
    "error": null
   },
   {
    "id": "alert_en_detained",
    "name": "Google Alert: journalist detained/arrested (EN)",
    "ok": true,
-   "items_fetched": 5,
+   "items_fetched": 9,
    "error": null
   },
   {
@@ -159,21 +159,21 @@
    "id": "alert_en_press_freedom",
    "name": "Google Alert: press freedom attack (EN)",
    "ok": true,
-   "items_fetched": 7,
+   "items_fetched": 5,
    "error": null
   },
   {
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 8,
+   "items_fetched": 7,
    "error": null
   },
   {
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 11,
+   "items_fetched": 12,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
    "id": "alert_es_reportero",
    "name": "Google Alert: reportero/a agredido/a (ES, variante)",
    "ok": true,
-   "items_fetched": 11,
+   "items_fetched": 9,
    "error": null
   },
   {
@@ -298,9 +298,9 @@
   {
    "id": "gfmd_fundings",
    "name": "GFMD – Convocatorias de financiamiento",
-   "ok": true,
-   "items_fetched": 12,
-   "error": null
+   "ok": false,
+   "items_fetched": 0,
+   "error": "unparseable feed: <unknown>:82:2: mismatched tag"
   },
   {
    "id": "fij",
