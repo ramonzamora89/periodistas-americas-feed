@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T23:51:35.221041+00:00",
+ "last_run": "2026-10-24T13:19:32.117693+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -124,7 +124,7 @@
    "id": "alert_en_murdered",
    "name": "Google Alert: journalist murdered / reporter killed (EN)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 6,
    "error": null
   },
   {
@@ -138,7 +138,7 @@
    "id": "alert_en_threatened",
    "name": "Google Alert: journalist threatened/harassed (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -166,21 +166,21 @@
    "id": "alert_en_censorship",
    "name": "Google Alert: journalist censored / media censorship (EN)",
    "ok": true,
-   "items_fetched": 5,
+   "items_fetched": 2,
    "error": null
   },
   {
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 4,
+   "items_fetched": 3,
    "error": null
   },
   {
    "id": "alert_en_exile",
    "name": "Google Alert: journalist exiled (EN)",
    "ok": true,
-   "items_fetched": 2,
+   "items_fetched": 1,
    "error": null
   },
   {
@@ -194,7 +194,7 @@
    "id": "alert_es_amenazado",
    "name": "Google Alert: periodista amenazado/a (ES)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
@@ -319,9 +319,9 @@
   {
    "id": "pressforward",
    "name": "Press Forward",
-   "ok": true,
-   "items_fetched": 10,
-   "error": null
+   "ok": false,
+   "items_fetched": 0,
+   "error": "unparseable feed: <unknown>:2:119: not well-formed (invalid token)"
   },
   {
    "id": "jsk_stanford",
