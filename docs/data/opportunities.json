@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:20:05.132485+00:00",
+ "generated_at": "2026-11-04T17:14:33.886198+00:00",
  "opportunities": [
   {
    "id": "gijn_jobs",
@@ -208,6 +208,22 @@
    "origin": "curado",
    "published": null,
    "verified": "2026-08-16"
+  },
+  {
+   "id": "d6bc77ebb6f76161",
+   "name": "Human-Scale AI: Call for Proposals",
+   "org": null,
+   "url": "https://gfmd.info/fundings/human-scale-ai-call-for-proposals/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": "Global",
+   "deadline": "2026-11-20",
+   "deadline_note": null,
+   "summary": "Mozilla Foundation is seeking seven projects that put Human-Scale AI into practice: bespoke, fit-for-purpose technology designed at the scale of the problem it’s meant to solve. These projects will directly address the anxieties that regular people have about the largest AI systems: their resourc...",
+   "origin": "rss",
+   "published": "2026-11-04T12:07:11+00:00",
+   "verified": null
   },
   {
    "id": "97df43cbad5edb83",
