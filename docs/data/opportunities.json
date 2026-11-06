@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T01:31:31.394315+00:00",
+ "generated_at": "2026-11-06T16:45:29.509381+00:00",
  "opportunities": [
   {
    "id": "gijn_jobs",
@@ -210,6 +210,22 @@
    "verified": "2026-08-16"
   },
   {
+   "id": "968bbc89645051f5",
+   "name": "EJN Renewable Energy Story Grants – India",
+   "org": null,
+   "url": "https://gfmd.info/fundings/ejn-renewable-energy-story-grants-india/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": null,
+   "deadline": "2026-11-15",
+   "deadline_note": null,
+   "summary": "The Earth Journalism Network funds journalists, communicators, and social media content creators based anywhere in India to produce in-depth reports on the renewable energy transition. Selected applicants receive financial support and one-to-one editorial mentorship throughout the reporting proce...",
+   "origin": "rss",
+   "published": "2026-11-06T15:57:21+00:00",
+   "verified": null
+  },
+  {
    "id": "d6bc77ebb6f76161",
    "name": "Human-Scale AI: Call for Proposals",
    "org": null,
@@ -287,22 +303,6 @@
    "summary": "The Equality Fund has launched its inaugural Global Journalism Fellowship, developed in partnership with Canadian Journalists for Free Expression (CJFE) and African Women in Media (AWiM). The fellowship seeks to surface stories of local solutions to global crises, with a particular focus on gende...",
    "origin": "rss",
    "published": "2026-09-25T12:56:13+00:00",
-   "verified": null
-  },
-  {
-   "id": "3a20bfe941d44ef7",
-   "name": "Fault Lines Reporting Fund",
-   "org": null,
-   "url": "https://gfmd.info/fundings/fault-lines-reporting-fund/",
-   "url_es": null,
-   "kind": "fondo",
-   "language": "en",
-   "region": "USA",
-   "deadline": null,
-   "deadline_note": "Fecha límite en la convocatoria",
-   "summary": "The IWMF’s Fault Lines Reporting Fund supports journalists reporting on the forces driving racism, antisemitism, Islamophobia, misogyny, and other forms of intolerance promoting hate in the United States. Successful applications examine how false, divisive, and harmful narratives — such as storie...",
-   "origin": "rss",
-   "published": "2026-08-28T12:23:34+00:00",
    "verified": null
   }
  ],

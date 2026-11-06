@@ -1,7 +1,1308 @@
 {
- "generated_at": "2026-11-06T01:31:31.394315+00:00",
- "count": 300,
+ "generated_at": "2026-11-06T16:45:29.509381+00:00",
+ "count": 304,
  "items": [
+  {
+   "id": "1973c0839c66463c",
+   "title": "Quieren que me calle, denuncia periodista Yoani Sánchez - Reforma",
+   "link": "https://www.reforma.com/quieren-que-me-calle-denuncia-periodista-yoani-sanchez/ar3309554",
+   "published": "2026-11-06T15:52:38+00:00",
+   "summary": "Su diario critica regularmente la gestión gubernamental y denuncia la censura y el acoso de las autoridades a los opositores y los periodistas ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "b6c7eb78402c0dcd",
+   "title": "IFJ calls out political arrest of journalist in Bangladesh | Morning Star",
+   "link": "https://www.morningstaronline.co.uk/article/ifj-calls-out-political-arrest-journalist-bangladesh",
+   "published": "2026-11-06T15:46:20+00:00",
+   "summary": "... jailed as the death of Arif is investigated. Bangladeshi journalists ... Latin America · Big Tech · Far Right. Services. Advertise · Contact us · Shop ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "f7b65b10d79ea962",
+   "title": "Régimen cubano imputa a Yoani Sánchez con tres delitos penados con cárcel | El Estímulo",
+   "link": "https://elestimulo.com/internacionales/2026-11-06/yoani-sanchez-imputada/",
+   "published": "2026-11-06T15:20:12+00:00",
+   "summary": "La periodista Yoani Sánchez, directora del diario '14ymedio', fue liberada tras pasar nueve horas secuestrada por la Seguridad del Estado.",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1b5340748b179030",
+   "title": "El escritor Sergio Ramírez, nicaragüense exiliado, ingresará en la RAE el 15 de noviembre",
+   "link": "https://www.cronica.com.mx/cultura/2026/11/06/el-escritor-sergio-ramirez-nicaraguense-exiliado-ingresara-en-la-rae-el-15-de-noviembre/",
+   "published": "2026-11-06T15:20:05+00:00",
+   "summary": "Díez destacó también que Ramírez “vive un exilio forzoso por el ... periodista. En 2026 recibió el Premio Ortega y Gasset de Periodismo ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "67750573cf1932e3",
+   "title": "Amenazas de muerte y disparos: arrestan a dos jóvenes que habrían atacado a un hombre en Lajas",
+   "link": "https://www.elnuevodia.com/noticias/seguridad/notas/amenazas-de-muerte-y-disparos-arrestan-a-dos-jovenes-que-habrian-atacado-a-un-hombre-en-lajas/",
+   "published": "2026-11-06T14:48:21+00:00",
+   "summary": "Caridad Z. Acosta, de 28 años, y Erik M. Marrero, de 25, enfrentan cargos por tentativa de asesinato y violación a la Ley de Armas.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "e6ee329ceaf88208",
+   "title": "León XIV ya vuela hacia América Latina en el sexto viaje apostólico de su papado",
+   "link": "https://dib.com.ar/sociedad/leon-xiv-ya-vuela-america-latina-el-sexto-viaje-apostolico-su-papado-n57114",
+   "published": "2026-11-06T14:37:47+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh. Presupuesto 2027: deuda por US$1000 millones, fondos para ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9998ac1ccee18dcf",
+   "title": "Tragedia de Bahiense del Norte: ¿reunión secreta entre peritos oficiales y representantes del club?",
+   "link": "https://dib.com.ar/policiales/tragedia-bahiense-del-norte-reunion-secreta-peritos-oficiales-y-representantes-del-club-n57101",
+   "published": "2026-11-06T14:37:45+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh · Presupuesto 2027: deuda por US$1000 millones, fondos para ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0915b138ac503d8c",
+   "title": "Un Día para que los periodistas evitemos odiar a los odiadores - El Miércoles Digital",
+   "link": "https://www.elmiercolesdigital.com.ar/un-dia-para-que-los-periodistas-evitemos-odiar-a-los-odiadores/",
+   "published": "2026-11-06T14:33:55+00:00",
+   "summary": "La censura, los diversos atropellos, los asesinatos, son moneda ... periodista mismo, aunque la víctima sea la comunidad toda y principalmente la verdad ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0615c5188d008303",
+   "title": "Familia anuncia querella criminal tras muerte de joven madre por presunta negligencia ...",
+   "link": "https://www.elpinguino.com/tribunales/familia-anuncia-querella-criminal-tras-muerte-de-joven-madre-por-presunta-negligencia-medica-en-punta-arenas/",
+   "published": "2026-11-06T14:14:57+00:00",
+   "summary": "Periodista Web. Una profunda conmoción y un enérgico reclamo de justicia enfrenta la familia de Vanesa Soto Unquén, joven madre de ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "3ea80e23f75abea6",
+   "title": "“No dejen que sus hijos estén cerca”: la advertencia de exnuera de Huaiquipán que disparó ...",
+   "link": "https://www.chilevision.cl/noticias/nacional/no-dejen-que-sus-hijos-esten-cerca-la-advertencia-clave-de-exnuera-de-huaiquipan-que-disparo-investigacion/",
+   "published": "2026-11-06T13:57:13+00:00",
+   "summary": "Se trata de las declaraciones realizadas por Alanys Belén, exnuera de Francisco Huaiquipán, quien a fines de 2025 utilizó sus redes sociales para ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c94df6346a2e70f9",
+   "title": "Yoani Sánchez tras su detención de nueve horas en Cuba: “Quieren que me calle ... - Infobae",
+   "link": "https://www.infobae.com/cuba/2026/11/06/yoani-sanchez-tras-su-detencion-de-nueve-horas-en-cuba-quieren-que-me-calle-quieren-que-apague-los-microfonos-pero-no-los-voy-a-apagar/",
+   "published": "2026-11-06T13:49:42+00:00",
+   "summary": "... periodista cubana secuestrada durante nueve horas por agentes de la Seguridad del Estado. ... La periodista pidió levantar una denuncia por secuestro ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0e851895a0861d6f",
+   "title": "Cuba: tres periodistas detenidos en cuatro días, RSF alerta sobre los obstáculos al derecho ...",
+   "link": "https://rsf.org/es/cuba-tres-periodistas-detenidos-en-cuatro-d%C3%ADas-rsf-alerta-sobre-los-obst%C3%A1culos-al-derecho-informar",
+   "published": "2026-11-06T12:54:16+00:00",
+   "summary": "... detenida durante nueve horas en La Habana, la capital. Según su ... periodista que continúa detenido, Henry Constantín. Informar no es un ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a159df9983236b76",
+   "title": "Berlín analiza la investigación de la Fiscalía - atresplayer",
+   "link": "https://www.atresplayer.com/lasexta/programas/al-rojo-vivo/clips/berlin-analiza-la-investigacion-de-la-fiscalia_6aedc4ae8f62b0e44acc3e63/",
+   "published": "2026-11-06T12:48:40+00:00",
+   "summary": "Berlín analiza la investigación de la Fiscalía El periodista Fernando Berlín, director de Radiocable.com, matiza algo que considera importante ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "657da4e9f4d7ab1a",
+   "title": "Vecina de la mujer detenida por vender a sus hijos: \"Yo conocía a dos de los niños\"",
+   "link": "https://www.antena3.com/programas/y-ahora-sonsoles/vecina-mujer-detenida-vender-sus-hijos-conocia-dos-ninos_202611056aecc14e03bbf30bb040feb2.html",
+   "published": "2026-11-06T12:37:17+00:00",
+   "summary": "La Policía ha detenido a seis personas por vender a menores a ... La periodista y colaboradora de 'Espejo Público', Elisa Beni, utiliza ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "8ac615be352dda64",
+   "title": "The stories that explain a historic election in America - Poynter",
+   "link": "https://www.poynter.org/reporting-editing/2026/best-journalism-midterm-elections-explainer/",
+   "published": "2026-11-06T12:33:48+00:00",
+   "summary": "... press freedom and hold officials accountable for attacks on journalists. Lawmakers must defend the First Amendment as a pillar of American ...",
+   "source": "Google Alert: press freedom attack (EN)",
+   "source_id": "alert_en_press_freedom",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7e464e7816f6787e",
+   "title": "Balance of Power: Pope Leo Steps Into Trump-Tinged Latin America - Bloomberg.com",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-06/balance-of-power-pope-leo-steps-into-trump-tinged-latin-america",
+   "published": "2026-11-06T12:31:02+00:00",
+   "summary": "Turkey arrested a former deputy chairwoman from President Recep Tayyip Erdoğan's ruling AK Party in an investigation into alleged fund ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4b20c77bb66a5c48",
+   "title": "Cuba : trois journalistes arrêtés en quatre jours, RSF alerte sur les entraves au droit d’informer",
+   "link": "https://rsf.org/en/cuba-trois-journalistes-arr%C3%AAt%C3%A9s-en-quatre-jours-rsf-alerte-sur-les-entraves-au-droit-d-informer",
+   "published": "2026-11-06T12:24:05+00:00",
+   "summary": "Yoani Sánchez, directrice du média indépendant 14ymedio, a été remise en liberté le 5 novembre 2026, après avoir été détenue pendant neuf heures à La Havane, la capitale. Selon son témoignage, des agents de la Sécurité de l’État l’ont menacée, au cours d’un interrogatoire, de pours",
+   "source": "RSF – Cuba",
+   "source_id": "rsf_cuba",
+   "language": "en",
+   "country": "Cuba",
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [
+    "News"
+   ],
+   "also_reported_by": []
+  },
+  {
+   "id": "f2ca05928d6644e8",
+   "title": "El lehendakari Imanol Pradales condena la agresión con patinete a policías en Tolosa y pide a Vox",
+   "link": "https://www.diariovasco.com/politica/lehendakari-condena-agresion-patinete-policias-tolosa-pide-vox-no-dar-alas-vito-quiles-20261106121334-nt.html",
+   "published": "2026-11-06T12:19:04+00:00",
+   "summary": "Pradales advierte que en la situación actual incidentes como los de Bilbao «pueden volver a pasar» y reclama a los partidos condenar todas las ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a9a646667f958aca",
+   "title": "\"Acabo de llegar a casa\", anuncia la periodista Yoani Sánchez tras su breve detención en Cuba",
+   "link": "https://www.tvn-2.com/mundo/caribe/acabo-llegar-casa-anuncia-periodista_1_2269690.html",
+   "published": "2026-11-06T12:15:31+00:00",
+   "summary": "En su diario critica regularmente la gestión gubernamental y denuncia la censura y el acoso de las autoridades a los opositores. La periodista cubana ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5e9c4375822cc00d",
+   "title": "PI Briefing | No. 35 | Halted March - Progressive International",
+   "link": "https://progressive.international/wire/2026-11-06-pi-briefing-no-35-halted-march/en/",
+   "published": "2026-11-06T11:59:31+00:00",
+   "summary": "... Latin America. Wherever you strike it, you damage it, and you serve the ... Mada Masr is challenging the ruling as press freedom groups rally ...",
+   "source": "Google Alert: press freedom attack (EN)",
+   "source_id": "alert_en_press_freedom",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "228a08f2aa494ed5",
+   "title": "Receptor de Chiefs Rashee Rice se declara en bancarrota por deudas de choque y ...",
+   "link": "https://www.latimes.com/espanol/deportes/articulo/2026-11-05/receptor-de-chiefs-rashee-rice-se-declara-en-bancarrota-por-deudas-de-choque-y-agresion-acusada",
+   "published": "2026-11-06T11:54:55+00:00",
+   "summary": "... litigios civiles relacionados con su choque a alta velocidad en Texas y con acusaciones de agresión por parte de una exnovia.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "b2670fbd5eec93de",
+   "title": "Fue liberada Yoani Sánchez, una de las figuras más conocidas del periodismo ... - Teledoce.com",
+   "link": "https://www.teledoce.com/telemundo/internacionales/fue-liberada-yoani-sanchez-una-de-las-figuras-mas-conocidas-del-periodismo-independiente-en-cuba-tras-varias-horas-detenida-en-la-habana/",
+   "published": "2026-11-06T11:54:55+00:00",
+   "summary": "Detienen en Cuba a la periodista Yoani Sánchez; su medio denuncia que fue \"secuestrada por la policía política\". \"Acabo de llegar a casa, gracias a ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: censura a periodistas (ES)",
+     "link": "https://www.teledoce.com/telemundo/internacionales/fue-liberada-yoani-sanchez-una-de-las-figuras-mas-conocidas-del-periodismo-independiente-en-cuba-tras-varias-horas-detenida-en-la-habana/"
+    }
+   ]
+  },
+  {
+   "id": "5fdb6e4ccd3337a3",
+   "title": "Intensifican la búsqueda de sospechoso de asesinato y agresión sexual tras ataque en ... - Univision",
+   "link": "https://www.univision.com/local/philadelphia-wuvp/intensifican-la-busqueda-de-sospechoso-de-asesinato-y-agresion-sexual-tras-ataque-en-peluqueria-de-filadelfia-video",
+   "published": "2026-11-06T11:54:38+00:00",
+   "summary": "Las autoridades explican que el sujeto golpeó brutalmente a tres mujeres con un arma de fuego, agredió sexualmente a dos de ellas y le disparó de ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a0be0e13ec3e33cb",
+   "title": "Dani Mateo alucina al ver al rey Felipe hablando portugués: \"Igual está preparando el exilio ...",
+   "link": "https://amp.lasexta.com/programas/el-intermedio/dani-mateo-alucina-ver-rey-felipe-hablando-portugues-igual-esta-preparando-exilio-estoril-como-abuelo_202611066aedbd58ea8d8979977b9c2a.html",
+   "published": "2026-11-06T11:53:27+00:00",
+   "summary": "El periodista enseña en el vídeo principal de esta noticia las palabras de Felipe VI y se pregunta: \"¿Qué está pasando?\". Ad. \"Igual está ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "089399a63596049d",
+   "title": "Ferreras analiza la dimisión de Óscar Puente - atresplayer",
+   "link": "https://www.atresplayer.com/lasexta/programas/al-rojo-vivo/clips/ferreras-analiza-la-dimision-de-oscar-puente_6aec7c6de10ab0e49d04d457/",
+   "published": "2026-11-06T11:41:40+00:00",
+   "summary": "Ferreras analiza la dimisión de Óscar Puente. \"Yo estoy convencido de que Oscar Puente quería dimitir el primer día.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7cae796f7deb54c4",
+   "title": "Ryan Wedding saga: Mexican judge arrested for $2M bribe - CTV News",
+   "link": "https://www.ctvnews.ca/canada/article/mexican-judge-arrested-for-allegedly-taking-2m-bribe-to-free-canadian-deputy-of-ryan-wedding/",
+   "published": "2026-11-06T11:41:36+00:00",
+   "summary": "Benítez Alcántara was arrested in Columbia on Nov. 1 and U.S. ... Latin America trip with a first stop in secular Uruguay. Politics ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "8221f0c6e9eb4c5b",
+   "title": "Video de cámara corporal muestra arresto de rapero de Island Boys por caso de robo en ...",
+   "link": "https://www.local10.com/espanol/2026/11/05/video-de-camara-corporal-muestra-arresto-de-rapero-de-island-boys-por-caso-de-robo-en-walgreens-del-condado-broward-policia/",
+   "published": "2026-11-06T11:38:13+00:00",
+   "summary": "... Pope Leo XIV's visit brings ... Reporter Rosh Lowe has been covering news for nearly two decades in South Florida.",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5063313a10464f7d",
+   "title": "\"Acabo de llegar a casa\": la periodista cubana Yoani Sánchez recupera su libertad",
+   "link": "https://es-us.noticias.yahoo.com/acabo-llegar-casa-periodista-cubana-032821584.html",
+   "published": "2026-11-06T11:30:40+00:00",
+   "summary": "La opositora cubana logró alertar a sus compañeros de redacción, lo que permitió a AI denunciar el arresto violento y acusó a Miguel Díaz-Canel de ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "171617a0c9ea71d9",
+   "title": "Despiden al cronista de las letras - El Norte",
+   "link": "https://www.elnorte.com/despiden-al-cronista-de-las-letras/ar3309431?v=2",
+   "published": "2026-11-06T11:24:55+00:00",
+   "summary": "El periodista, escritor e investigador Humberto Musacchio fallece a los ... Los nuevos rostros de la censura, sobre la libertad de expresión.",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5b1f7e2c33a89a4f",
+   "title": "Ángeles Caballero: \"Que no se esté hablando ni un minuto en campaña electoral ... - Cadena SER",
+   "link": "https://cadenaser.com/nacional/2026/11/06/angeles-caballero-que-no-se-este-hablando-ni-un-minuto-en-campana-electoral-de-violencia-de-genero-con-44-mujeres-asesinadas-este-ano-cadena-ser/",
+   "published": "2026-11-06T11:21:54+00:00",
+   "summary": "Ángeles Caballero denuncia el silencio de los partidos sobre la violencia machista durante la precampaña electoral.",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "1a20405169dfbaf5",
+   "title": "Yoani Sánchez recuperó la libertad tras nueve horas detenida en La Habana y anunció ...",
+   "link": "https://lafamiliacubana.com/politica/yoani-sanchez-recupero-la-libertad-tras-nueve-horas-detenida-en-la-habana-y-anuncio-testimonios-sobre-su-arresto-mientras-persisten-preguntas-acerca-de-su-situacion/",
+   "published": "2026-11-06T10:34:08+00:00",
+   "summary": "La periodista independiente cubana Yoani Sánchez fue detenida en La Habana por fuerzas de seguridad cubanas ... detenido el 16 de septiembre en ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "2d082010dc7cb5e1",
+   "title": "Albares cree que puede haber \"un intento de agresión híbrida\" detrás de la ola de ... - LaSexta",
+   "link": "https://amp.lasexta.com/noticias/nacional/albares-cree-que-puede-haber-intento-agresion-hibrida-detras-ola-amenazas-bomba-falsas-vuelos_202611066aeda944ea8d8979977b7c23.html",
+   "published": "2026-11-06T10:22:55+00:00",
+   "summary": "Así lo ha indicado en una entrevista en TVE al ser preguntado por las amenazas de bomba falsas que han afectado a decenas de vuelos europeos. Albares ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "f8ecbcc7f2b70f23",
+   "title": "Se desconoce aún el paradero de la periodista cubana Yoani Sánchez, detenida en La Habana",
+   "link": "https://efectococuyo.com/internacionales/se-desconoce-aun-el-paradero-de-la-periodista-cubana-yoani-sanchez-detenida-en-la-habana/",
+   "published": "2026-11-06T10:20:37+00:00",
+   "summary": "... secuestró la policía”. Desde entonces, no se tienen noticias de ella y se desconoce su paradero.⁠. Su esposo, el también periodista Reinaldo ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7a087dc1f92de606",
+   "title": "Organizaciones piden liberación de la periodista cubana Yoani Sánchez, detenida este ...",
+   "link": "https://www.lahora.com.ec/politica/organizaciones-piden-liberacion-de-la-periodista-cubana-yoani-sanchez-detenida-este-jueves-en-la-habana-20261105-0025.html",
+   "published": "2026-11-06T10:09:42+00:00",
+   "summary": "La comunicadora es fundadora del diario 14ymedio.com. En su sitio web, ese medio sostuvo que Sánchez, su directora, fue “secuestrada” por la policía ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c7eca6de0d05e422",
+   "title": "Puesta en libertad la periodista y opositora cubana Yoani Sánchez tras su detención en La Habana",
+   "link": "https://elperfil.pe/mundo/puesta-en-libertad-la-periodista-y-opositora-cubana-yoani-sanchez-tras-su-detencion-en-la-habana/",
+   "published": "2026-11-06T10:08:44+00:00",
+   "summary": "Exilio político. Flávio Bolsonaro asegura desde Miami que huyó solo de Brasil y que se llevará el “secreto a la tumba”. Europa Press. Flávio ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "010db33444055c4c",
+   "title": "Jailed Millennial Banker's Unicorn Dream Topples Paraguay Leader - Bloomberg.com",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/jailed-millennial-banker-s-unicorn-dream-topples-paraguay-leader",
+   "published": "2026-11-06T09:52:32+00:00",
+   "summary": "Vázquez's stake alone was worth as much as $375 million, which likely made him one of the richest people in one of Latin America's poorest nations ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "55632c1a01a8229c",
+   "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon - Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon",
+   "published": "2026-11-06T09:41:21+00:00",
+   "summary": "Latin America · US & Canada · News|Corruption. Court grants ex-Malaysian PM ... Malaysia's jailed former Prime Minister Najib Razak has been ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a4525ddfef73382c",
+   "title": "\"¿Qué queda de la Paz en Colombia?\": Bilbao acoge el 13 de noviembre el III Seminario ...",
+   "link": "https://www.cubainformacion.tv/index.php/america-latina/20261106/125945/125945-que-queda-de-la-paz-en-colombia-bilbao-acoge-el-13-de-noviembre-el-iii-seminario-internacional-operaciones-extrajudiciales-universidad-y-conflicto-inscripcion",
+   "published": "2026-11-06T09:15:43+00:00",
+   "summary": "Víctimas, exilio y lucha por la justicia ... periodista y escritora independiente colombiana, actualmente en el exilio, autora de La Costa Nostra.",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista exiliado (ES)",
+     "link": "https://www.cubainformacion.tv/america-latina/20261106/125945/125945-que-queda-de-la-paz-en-colombia-bilbao-acoge-el-13-de-noviembre-el-iii-seminario-internacional-operaciones-extrajudiciales-universidad-y-conflicto-inscripcion"
+    }
+   ]
+  },
+  {
+   "id": "f010f9176fab2974",
+   "title": "Archivada la querella por prevaricación contra Pumpido y los jueces del TC que corrigieron ...",
+   "link": "https://www.larazon.es/espana/archivada-querella-prevaricacion-pumpido-jueces-que-corrigieron-supremo-amnistia_202611056aec9388d3bddc0868a6386f.html",
+   "published": "2026-11-06T09:05:45+00:00",
+   "summary": "El Tribunal Supremo (TS) ha archivado la querella de Hazte Oír por prevaricación contra el presidente del Tribunal Constitucional (TC), ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0e1c99736e232a71",
+   "title": "Salon, one of the earliest online news outlets, shuts down - The Washington Post",
+   "link": "https://www.washingtonpost.com/business/2026/11/05/salon-one-earliest-online-news-outlets-shuts-down/",
+   "published": "2026-11-06T09:02:32+00:00",
+   "summary": "Reporter covering Latin America from Mexico City. Paraguay's president ... Several Ueno executives have been detained. Lawmakers, including in ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "65c41b69924f6283",
+   "title": "Russell Brand, ex de Katy Perry, condenado por agresión sexual | Actualidad - LOS40",
+   "link": "https://los40.com/2026/11/06/russell-brand-ex-de-katy-perry-condenado-por-agresion-sexual/?outputType=amp",
+   "published": "2026-11-06T08:36:33+00:00",
+   "summary": "Periodista por la UCM. Cine, deportes y música. Amante del buen rock ... agresión sexual por un tribunal de Londres, un fallo que supone uno ...",
+   "source": "Google Alert: periodista agredido/atacado (ES)",
+   "source_id": "alert_es_agredido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "f369f5924c0a17cf",
+   "title": "Inmobiliaria Fundamenta: \"El que la hace la paga\" - Diario y Radio Universidad Chile",
+   "link": "https://radio.uchile.cl/2026/11/05/inmobiliaria-fundamenta-el-que-la-hace-la-paga/",
+   "published": "2026-11-06T08:17:56+00:00",
+   "summary": "... periodista Alejandro Jiménez y con el ingeniero civil Rodolfo Acha, ex ... querella en el 7° Juzgado de Garantía de Santiago en contra de los ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9dec28f2d006d5a3",
+   "title": "Liberaron a la periodista Yoani Sánchez tras varias horas detenida por el régimen cubano",
+   "link": "https://www.contextoclaro.com/noticia/liberaron-a-la-periodista-yoani-sanchez-tras-varias-horas-detenida-por-el-regime-180105",
+   "published": "2026-11-06T08:01:23+00:00",
+   "summary": "El episodio ocurrió durante una semana de nuevas denuncias de hostigamiento contra la prensa independiente en Cuba. El lunes fue detenido Adelth Bonne ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "160f2aff682cbff1",
+   "title": "Tokyo demands Moscow release seized Japan Tobacco assets | The Australian",
+   "link": "https://www.theaustralian.com.au/news/latest-news/tokyo-demands-moscow-release-seized-japan-tobacco-assets/news-story/cfef27d429f689c09a28db405ef44545",
+   "published": "2026-11-06T07:50:39+00:00",
+   "summary": "Russia's FSB security service arrested Japanese journalist Yuki Imai ... America tour weeks after surgery. Breaking News · Pope Leo leaves on ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "47c570deedfdf6b9",
+   "title": "Teenager steals bike, stabs its owner in East Vancouver: police",
+   "link": "https://www.ctvnews.ca/vancouver/article/teenager-arrested-after-stabbing-robbery-on-commercial-drive-vancouver-police/",
+   "published": "2026-11-06T07:50:07+00:00",
+   "summary": "... Journalist. Opens in new window · Top Stories · Up to 120mm ... Activists call on Pope to expel abusers ahead of Latin America tour ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "8c63c878e4fcf9f8",
+   "title": "París recuerda entre exilio y su obra al Gran Lengua - Diario de Centro América",
+   "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/paris-recuerda-entre-exilio-y-su-obra-al-gran-lengua/",
+   "published": "2026-11-06T07:22:59+00:00",
+   "summary": "En la charla con el periodista Jordi Batallé para el programa El invitado de RFI, Miguel Ángel Asturias Amado, hijo del literato, evocó los ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "b5371fcb498ffde4",
+   "title": "Denuncian la detención de la periodista independiente Yoani Sánchez en La Habana",
+   "link": "https://www.eluniverso.com/internacional/latinoamerica/denuncian-la-detencion-de-la-periodista-independiente-yoani-sanchez-en-la-habana-nota/",
+   "published": "2026-11-06T07:20:43+00:00",
+   "summary": "Sánchez fue detenida por la policía política cuando salía esta mañana de su vivienda para hacer compras en el mercado del barrio.",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista agredido/atacado (ES)",
+     "link": "https://www.telemundo51.com/video/noticiero-t51/denuncian-que-fue-detenida-la-periodista-independiente-cubana-yoani-sanchez/2845479/"
+    }
+   ]
+  },
+  {
+   "id": "f0a4ced1e31d6805",
+   "title": "Mexican judge arrested and accused in US with taking bribes in international drug trafficking case",
+   "link": "https://tribtown.com/2026/11/05/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/",
+   "published": "2026-11-06T06:38:06+00:00",
+   "summary": "... Latin America into the United States and orchestrating several killings. ... journalism. No posts to display. Search. Submit. What do you think ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: journalist detained/arrested (EN)",
+     "link": "http://www.wdtimes.com/news/national/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/article_7939ee1e-f714-5a21-9ba0-2e053fa0af41.html"
+    }
+   ]
+  },
+  {
+   "id": "46032081aa185ffa",
+   "title": "Journalist Yoani Sanchez, activists released from detention in Cuba | Hindustan Times",
+   "link": "https://www.hindustantimes.com/world-news/us-news/journalist-yoani-sanchez-activists-released-from-detention-in-cuba-101793940882932.html",
+   "published": "2026-11-06T06:28:56+00:00",
+   "summary": "Two other prominent Cuban activists were also arrested for several hours Thursday: Ladies in White movement leader Berta Soler and member Maria ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "781d76f9c682783a",
+   "title": "Why Are Six Egyptian Journalists Facing Terrorism Charges? UN Experts Raise Alarm",
+   "link": "https://www.devdiscourse.com/article/other/4002431-why-are-six-egyptian-journalists-facing-terrorism-charges-un-experts-raise-alarm",
+   "published": "2026-11-06T05:59:51+00:00",
+   "summary": "The case has become more troubling following allegations that the detained journalists ... More People Are Using Banks in Latin America: Does That Mean ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "13b1502949d62c8d",
+   "title": "Liberan a periodista Yoani Sánchez y a opositora Soler tras varias horas detenidas en Cuba",
+   "link": "https://www.france24.com/es/minuto-a-minuto/20261105-detienen-en-cuba-a-la-periodista-yoani-s%C3%A1nchez-y-a-la-l%C3%ADder-de-damas-de-blanco",
+   "published": "2026-11-06T05:28:31+00:00",
+   "summary": "Sánchez había sido detenida por la policía política en la mañana, cuando ... detenido en Camagüey (centro-este) desde mediados de septiembre.",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a8059c9660b94a0c",
+   "title": "Ex-lawmaker jailed in Macau's first national security trial - DW News",
+   "link": "https://www.dw.com/en/ex-lawmaker-jailed-in-macaus-first-national-security-trial/a-79871673",
+   "published": "2026-11-06T04:58:44+00:00",
+   "summary": "Pro-democracy former lawmaker Au Kam San was found guilty of \"subversion against the political power of the State.\" He was handed a prison ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "5b76cf305ddc705b",
+   "title": "Periodista Yoani Sánchez es arrestada en Cuba sin orden judicial, denuncian activistas",
+   "link": "https://www.xevt.com/internacional/periodista-yoani-sanchez-es-arrestada-en-cuba-sin-orden-judicial-denuncian-activistas/450397",
+   "published": "2026-11-06T04:24:30+00:00",
+   "summary": "... secuestrada\" por las autoridades. El hecho fue denunciado como \"secuestro\", pues afirman que no hay una orden de arresto contra Sánchez. Más tarde ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "4ba0453d75121971",
+   "title": "Detuvieron a la periodista disidente Yoani Sánchez en Cuba: “Fue secuestrada por la ...",
+   "link": "https://diariod3.com/detuvieron-a-la-periodista-disidente-yoani-sanchez-en-cuba-fue-secuestrada-por-la-policia-politica/",
+   "published": "2026-11-06T04:20:36+00:00",
+   "summary": "Yoani Sánchez, una de las figuras más conocidas del periodismo no oficial en Cuba, fue detenida este jueves en La Habana, denunció el diario ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "ffb7ea65fed04c2f",
+   "title": "El régimen cubano libera a la periodista Yoani Sánchez - Voz.us",
+   "link": "https://voz.us/es/mundo/261106/1000376/regimen-cubano-libera-yoani-sanchez.html",
+   "published": "2026-11-06T04:15:12+00:00",
+   "summary": "La periodista cubana Yoani Sánchez recuperó la libertad este ... secuestro ilegal perpetrado por las fuerzas represoras del régimen cubano.",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "26599e6515f2d919",
+   "title": "El ELN confirma secuestro de militar colombiana en el departamento de Arauca",
+   "link": "https://www.diariolasamericas.com/america-latina/el-eln-confirma-secuestro-militar-colombiana-el-departamento-arauca-n5404859",
+   "published": "2026-11-06T04:03:26+00:00",
+   "summary": "BOGOTÁ — El grupo terrorista colombiano Ejército de Liberación Nacional (ELN) confirmó este jueves que mantiene secuestrada ... periodista Yoani Sánchez.",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "03712ff435771d9f",
+   "title": "“La gente pide que Santiago Peña sea detenido y vaya a la cárcel”, dice periodista en Paraguay",
+   "link": "https://cnnespanol.cnn.com/2026/11/05/latinoamerica/video/paraguay-crisis-santiago-pena-ueno-bank-dusa-tv",
+   "published": "2026-11-06T03:59:11+00:00",
+   "summary": "La crisis en Paraguay desatada por el cierre de Ueno Bank, que dejó a miles de clientes sin acceso a sus ahorros debido a problemas de solvencia, ...",
+   "source": "Google Alert: periodista detenido/a (ES)",
+   "source_id": "alert_es_detenido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "a9c6cebf86239cad",
+   "title": "Cuban state security detains award-winning journalist Yoani Sánchez in Havana",
+   "link": "https://www.pressreader.com/usa/miami-herald/20261106/281487873373030",
+   "published": "2026-11-06T03:47:18+00:00",
+   "summary": "... Latin America News · Journalism · Havana · Madrid · Facebook ... “Yoani Sánchez has been detained by State Security today in Havana,” journalist ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "86b539bc43d802a5",
+   "title": "Tribunal laboral acoge demanda contra alcalde de Melipeuco por vulneraciones a exsecretaria",
+   "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/11/05/tribunal-laboral-acoge-demanda-contra-alcalde-de-melipeuco-por-vulneraciones-a-exsecretaria.shtml",
+   "published": "2026-11-06T03:44:53+00:00",
+   "summary": "... demanda contra alcalde de Melipeuco por vulneraciones a exsecretaria ... Periodista Radio Bío Bío Temuco. Publicado por Jean Valencia. Jueves ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9c91fd0624af3179",
+   "title": "Diego Guauque, periodista que enfrentó grave cáncer, dejó escrito su testamento - El Tiempo",
+   "link": "https://www.eltiempo.com/cultura/gente/diego-guauque-periodista-que-enfrento-grave-cancer-dejo-escrito-su-testamento-si-me-voy-a-morir-por-lo-menos-me-da-tiempo-de-despedirme-3598681",
+   "published": "2026-11-06T03:20:55+00:00",
+   "summary": "Su decisión buscaba evitar que su esposa y su hija tuvieran que buscar información importante o resolver pendientes en un momento difícil.",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0d85a1c7a793a6ca",
+   "title": "Detenidas en Cuba la periodista Yoani Sánchez y la líder de Damas de Blanco",
+   "link": "https://www.elfinancierocr.com/internacionales/detenidas-en-cuba-la-periodista-yoani-sanchez-y-la/ERPFL4EPVFF6XG4XSP3AAKLHJE/story/",
+   "published": "2026-11-06T03:13:24+00:00",
+   "summary": "Yoani Sánchez, una de las figuras más conocidas del periodismo independiente en Cuba, y la líder del movimiento opositor Damas de Blanco, ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c8bf448ddb93f49a",
+   "title": "La atrevida frase con la que 'La Chicuela' dejó sin palabras a Luis Miguel - Informador.mx",
+   "link": "https://www.informador.mx/entretenimiento/la-atrevida-frase-con-la-que-la-chicuela-dejo-sin-palabras-a-luis-miguel-20261104-0194.html",
+   "published": "2026-11-06T03:12:47+00:00",
+   "summary": "La periodista regiomontana revivió la inédita anécdota de 1989 en la ... Las restricciones y la censura del equipo de \"El Sol\". Esos ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "ebe99e91c37f06da",
+   "title": "Journalist Yoani Sánchez released after 'arbitrary arrest' by Cuban state security - Miami Herald",
+   "link": "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article317942457.html",
+   "published": "2026-11-06T03:03:11+00:00",
+   "summary": "... threatened him with prison. Henry ... Nora Gámez Torres is the Cuba/U.S.-Latin American policy reporter for el Nuevo Herald and the Miami Herald.",
+   "source": "Google Alert: journalist threatened/harassed (EN)",
+   "source_id": "alert_en_threatened",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "09efc697356a2fb8",
+   "title": "Google, Meta y TikTok interponen una demanda contra el estado de California para ... - NTN24",
+   "link": "https://www.ntn24.com/noticias-ciencia-y-tecnologia/google-meta-y-tiktok-interponen-una-demanda-contra-el-estado-de-california-para-bloquear-la-ley-que-limita-el-uso-de-redes-sociales-en-menores-664117",
+   "published": "2026-11-06T02:50:46+00:00",
+   "summary": "Google, Meta y TikTok interponen una demanda contra el estado de California para bloquear la ley que limita el uso de redes sociales en menores.",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "9823e81059f7acc6",
+   "title": "La Seguridad del Estado detiene a la periodista cubana Yoani Sánchez - DIARIO DE CUBA",
+   "link": "https://diariodecuba.com/derechos-humanos/1793910347_69720.html",
+   "published": "2026-11-06T02:26:43+00:00",
+   "summary": "... secuestro, la Seguridad del Estado liberó a Yoani Sánchez. En breve ella ofrecerá los detalles\", señaló. Tras el arresto arbitrario de la periodista ...",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "cabb0cc6f97e3de1",
+   "title": "Curaçao court dismisses lawsuit against gambling critic - Focus Gaming News",
+   "link": "https://focusgn.com/curacao-gambling-criticism-court-ruling",
+   "published": "2026-11-06T02:24:14+00:00",
+   "summary": "... SLAPP protections. The plaintiffs were ordered to pay Faneyte's legal ... There are also Focus Asia Pacific, Focus Africa, Focus Latin America ...",
+   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
+   "source_id": "alert_en_legal",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "6171031c2a65ea11",
+   "title": "La mujer ganó dos demandas contra el señor Trump. - Vietnam.vn",
+   "link": "https://www.vietnam.vn/es/nguoi-phu-nu-hai-lan-thang-kien-ong-trump",
+   "published": "2026-11-06T02:18:18+00:00",
+   "summary": "E. Jean Carroll era una figura influyente en Estados Unidos antes de presentar la demanda contra el Sr. Trump. El punto de inflexión llegó en 2019 ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "53f04eed15c6452a",
+   "title": "Periodistas feministas alertan sobre precariedad, censura y violencia contra medios",
+   "link": "https://lasillarota.com/nacion/2026/11/5/periodistas-feministas-alertan-sobre-precariedad-censura-y-violencia-contra-medios-536225.html",
+   "published": "2026-11-06T02:09:33+00:00",
+   "summary": "Por su parte, Julieta Penagos, periodista de Colombia, llamó a colocar el lenguaje en el centro del periodismo feminista, pues la manera de nombrar ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "61aa0370fe9c4d20",
+   "title": "Detienen a la periodista Yoani Sánchez en La Habana, pero horas más tarde es liberada",
+   "link": "https://www.sopitas.com/noticias/detienen-yoani-sanchez-cuba-periodista-fue-liberada/",
+   "published": "2026-11-06T02:01:23+00:00",
+   "summary": "14ymedio, el medio que denuncia la censura y el acoso de las autoridades a los opositores, además de criticar regularmente la gestión ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://www.sopitas.com/noticias/detienen-yoani-sanchez-cuba-periodista-fue-liberada/"
+    }
+   ]
+  },
+  {
+   "id": "d1ecf7bb703b7f57",
+   "title": "La periodista cubana Yoani Sánchez fue liberada tras varias horas detenida en La Habana",
+   "link": "https://albertonews.com/internacionales/la-periodista-cubana-yoani-sanchez-fue-liberada-tras-varias-horas-detenida-en-la-habana/",
+   "published": "2026-11-06T01:54:58+00:00",
+   "summary": "AlbertoNews - Periodismo sin censura. No Result. View All Result ... La periodista cubana Yoani Sánchez fue liberada tras varias horas detenida en La ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://www.elgobiernord.com/la-periodista-cubana-yoani-sanchez-fue-liberada-tras-varias-horas-detenida-en-la-habana/"
+    },
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://www.infobae.com/cuba/2026/11/06/periodista-yoani-sanchez-fue-liberada-en-la-habana-tras-mas-de-nueve-horas-detenida-contare-lo-que-vi-en-esos-calabozos/"
+    },
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://efe.com/mundo/2026-11-06/yoani-sanchez-liberacion-la-habana-cuba/"
+    },
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://theobjective.com/internacional/2026-11-06/liberada-periodista-cubana-yoani-sanchez-policia-habana/"
+    },
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://rpp.pe/mundo/latinoamerica/la-periodista-cubana-yoani-sanchez-fue-liberada-tras-varias-horas-detenida-en-la-habana-noticia-1716234"
+    },
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://www.elconfidencial.com/mundo/2026-11-05/yoani-sanchez-detenida-habana-1tps_4459967/"
+    },
+    {
+     "source": "Confidencial (Nicaragua, en el exilio)",
+     "link": "https://confidencial.digital/mundo/denuncian-la-detencion-de-la-periodista-yoani-sanchez-en-la-habana/"
+    },
+    {
+     "source": "Google Alert: periodista exiliado (ES)",
+     "link": "https://confidencial.digital/mundo/denuncian-la-detencion-de-la-periodista-yoani-sanchez-en-la-habana/"
+    }
+   ]
+  },
+  {
+   "id": "234509dd5f691d94",
+   "title": "Primera demanda contra la Comisión Europa por no poner plazo a la reforma del CGPJ",
+   "link": "https://www.abc.es/espana/primera-demanda-comision-europa-poner-plazo-reforma-20261105020745-nt.html",
+   "published": "2026-11-06T01:34:30+00:00",
+   "summary": "Primera demanda contra la Comisión Europa por no poner plazo a la reforma del CGPJ. Una plataforma presenta ante el Tribunal General de Justicia de ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0afe93d943cf3a45",
+   "title": "Sandra Golpe, periodista: \"Espero que el próximo Gobierno, sea del signo que sea, desinfle ...",
+   "link": "https://www.larazon.es/gente/famosos/sandra-golpe-periodista-espero-que-proximo-gobierno-sea-signo-que-sea-desinfle-globo-polarizacion_202611066aed2cae4196933d7ed281ef.html",
+   "published": "2026-11-06T01:33:07+00:00",
+   "summary": "La periodista se sincera en LA RAZÓN sobre su carrera, su concepción del éxito, los retos que aún afronta para conciliar su vida personal con la ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "0560c63fc2682a67",
+   "title": "Periodista cubana Yoani Sánchez fue liberada | Internacional - Caracol Radio",
+   "link": "https://caracol.com.co/2026/11/06/periodista-cubana-yoani-sanchez-fue-liberada/",
+   "published": "2026-11-06T01:32:12+00:00",
+   "summary": "Periodista cubana Yoani Sánchez fue liberada ... En su diario critica regularmente la gestión gubernamental y denuncia la censura y el acoso de ...",
+   "source": "Google Alert: censura a periodistas (ES)",
+   "source_id": "alert_es_censura",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
   {
    "id": "df04d976da343192",
    "title": "Policía política en Cuba detiene a la periodista Yoani Sánchez - GDA",
@@ -10,6 +1311,87 @@
    "summary": "... secuestrada por la policía política? en la mañana, cuando salía de su vivienda en el barrio de Nuevo Vedado ?para hacer compras?, señaló el diario ...",
    "source": "Google Alert: periodista secuestrado/a (ES)",
    "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "6961ef2e9d52b2c7",
+   "title": "Russell Brand, declarado culpable de los delitos de violación y agresión sexual",
+   "link": "https://www.eluniversal.com.mx/espectaculos/russell-brand-declarado-culpable-de-los-delitos-de-violacion-y-agresion-sexual/",
+   "published": "2026-11-06T01:16:11+00:00",
+   "summary": "Periodistas EL UNIVERSAL El Universal · Carlos Loret de Mola · Paliza a ... demanda contra Buenrostro y Sheinbaum por difamación y daño moral ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista agredido/atacado (ES)",
+     "link": "https://www.telemundo47.com/video/videos/culpable-violacion-comediante-russell-brand/2664239/"
+    },
+    {
+     "source": "Google Alert: periodista agredido/atacado (ES)",
+     "link": "https://www.elnacional.com/2026/11/russell-brand-fue-declarado-culpable-de-violacion-y-agresion-sexual-en-londres/"
+    },
+    {
+     "source": "Google Alert: periodista agredido/atacado (ES)",
+     "link": "https://www.pagina12.com.ar/2026/11/05/el-actor-y-humorista-russell-brand-fue-declarado-culpable-de-violacion-y-agresion-sexual/"
+    }
+   ]
+  },
+  {
+   "id": "b146fcffbf5f3ef1",
+   "title": "Vicky Dávila arremetió contra 'Matador' por llamarla “moza” tras el escándalo del video ... - Infobae",
+   "link": "https://www.infobae.com/colombia/2026/11/05/vicky-davila-arremetio-contra-matador-por-llamarla-moza-tras-el-escandalo-del-video-de-gustavo-petro-con-deicy-jimenez-su-madre/",
+   "published": "2026-11-06T01:01:05+00:00",
+   "summary": "La periodista y ex candidata presidencial rechazó las alusiones ... demanda contra la ley de sometimiento o más bien, de alcahutamiento de ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "c127b7c1d3aa663a",
+   "title": "Lawsuit claims Google AI chatbot on school Chromebook helped teen prepare suicide plan",
+   "link": "https://www.yahoo.com/news/us/articles/lawsuit-claims-google-ai-chatbot-224247395.html",
+   "published": "2026-11-06T01:00:45+00:00",
+   "summary": "Lawsuit claims Google AI chatbot on school Chromebook helped teen prepare suicide plan ... Pope begins lengthy trip to Latin America weeks after ...",
+   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
+   "source_id": "alert_en_legal",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "d03b7939cd1c454a",
+   "title": "Somos alista demanda contra Buenrostro y Sheinbaum por difamación y daño moral",
+   "link": "https://www.eluniversal.com.mx/nacion/somos-alista-demanda-contra-buenrostro-y-sheinbaum-por-difamacion-y-dano-moral-buscan-chivos-expiatorios-ante-crisis-del-ine/",
+   "published": "2026-11-06T01:00:18+00:00",
+   "summary": "Somos alista demanda contra Buenrostro y Sheinbaum por difamación y daño moral; \"buscan chivos expiatorios ante crisis del INE\". Mediante un ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -34,7 +1416,59 @@
     "libertad_prensa"
    ],
    "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+     "link": "https://www.univision.com/noticias/america-latina/el-regimen-cubano-detiene-en-la-habana-a-la-periodista-yoani-sanchez"
+    },
+    {
+     "source": "Google Alert: periodista agredido/atacado (ES)",
+     "link": "https://www.univision.com/noticias/america-latina/el-regimen-cubano-detiene-en-la-habana-a-la-periodista-yoani-sanchez"
+    }
+   ]
+  },
+  {
+   "id": "e56478caeaca26ce",
+   "title": "West Virginia sues Snap over children's safety, AI chatbot | MLex",
+   "link": "https://www.mlex.com/mlex/articles/2547144/west-virginia-sues-snap-over-children-s-safety-ai-chatbot",
+   "published": "2026-11-06T00:53:17+00:00",
+   "summary": "... lawsuit also alleges ... Predictive analysis from expert journalists across North America, the UK and Europe, Latin America and Asia-Pacific ...",
+   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
+   "source_id": "alert_en_legal",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
    "also_reported_by": []
+  },
+  {
+   "id": "a612937b3f422942",
+   "title": "Liberan a la periodista Yoani Sánchez tras más de nueve horas detenida en Cuba - LatinUS",
+   "link": "https://latinus.us/latam/2026/11/5/liberan-a-la-periodista-yoani-sanchez-tras-mas-de-nueve-horas-detenida-en-cuba-181607.html",
+   "published": "2026-11-06T00:46:35+00:00",
+   "summary": "La periodista cubana Yoani Sánchez fue liberada este jueves ... “Tras nueve horas de secuestro, la Seguridad del Estado liberó a Yoani Sánchez.",
+   "source": "Google Alert: periodista secuestrado/a (ES)",
+   "source_id": "alert_es_secuestrado",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://www.cibercuba.com/noticias/2026-11-06-u1-e135253-s27061-nid344984-liberan-yoani-sanchez-tras-nueve-horas-detenida-cuba"
+    },
+    {
+     "source": "Google Alert: periodista detenido/a (ES)",
+     "link": "https://emisorafusaonline.com/liberan-a-la-periodista-yoani-sanchez-tras-nueve-horas-detenida-en-cuba/"
+    }
+   ]
   },
   {
    "id": "5985cd34c382ae31",
@@ -58,6 +1492,96 @@
     "Periodismo",
     "Venezuela"
    ],
+   "also_reported_by": [
+    {
+     "source": "Google Alert: censura a periodistas (ES)",
+     "link": "https://albertonews.com/nacionales/al-menos-42-periodistas-han-muerto-de-forma-violenta-en-venezuela-en-los-ultimos-35-anos/"
+    }
+   ]
+  },
+  {
+   "id": "5ad3e950642fc421",
+   "title": "Lawsuit challenges newly passed initiative to limit corporations' political spending - Yahoo",
+   "link": "https://www.yahoo.com/news/politics/articles/lawsuit-challenges-newly-passed-initiative-001208257.html",
+   "published": "2026-11-06T00:39:24+00:00",
+   "summary": "... lawsuit was filed in federal court alleging it violates the First Amendment of the U.S. Constitution. The Frontier Institute and the Montana ...",
+   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
+   "source_id": "alert_en_legal",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "6c853fc90183568e",
+   "title": "Mexican judge arrested over alleged $2M bribe to free drug kingpin Ryan Wedding's top deputy",
+   "link": "https://www.yahoo.com/news/us/articles/mexican-judge-arrested-over-alleged-200652205.html",
+   "published": "2026-11-06T00:37:50+00:00",
+   "summary": "Clark was arrested in Mexico in October 2024 on U.S. drug ... Pope begins lengthy trip to Latin America weeks after lung cancer surgery.",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "7b1b386b237664dc",
+   "title": "Así fue el asesinato de Milton Morales, coordinador de Operaciones Especiales de la SSC",
+   "link": "https://www.eluniversal.com.mx/metropoli/recuento-asi-fue-el-asesinato-de-milton-morales-coordinador-de-operaciones-especiales-de-la-ssc-presunto-autor-intelectual-fue-abatido-este-jueves/?outputType=amp",
+   "published": "2026-11-06T00:34:19+00:00",
+   "summary": "En julio de 2024, Morales Figueroa fue atacado a tiros en Coacalco mientras compraba en una pollería. ... Reportero de MetrópoliVer perfil. Te ...",
+   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
+   "source_id": "alert_es_reportero",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "011af56b41ffa908",
+   "title": "Murió Elsa Pavón, la primera Abuela de Plaza de Mayo que recuperó a su nieta robada por ...",
+   "link": "https://elcanciller.com/sociedad/murio-elsa-pavon--la-primera-abuela-de-plaza-de-mayo-que-recupero-a-su-nieta-robada-por-la-dictadura_a6aeca65454a63972a853cf68",
+   "published": "2026-11-06T00:21:14+00:00",
+   "summary": "... periodista desaparecido. El posteo de Abuelas de Plaza de Mayo para ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "024abd7c7e77f4a3",
+   "title": "Mexican judge arrested over bribe from partner of 'Canadian Chapo'",
+   "link": "https://www.bignewsnetwork.com/news/279414977/mexican-judge-arrested-over-bribe-from-partner-of-canadian-chapo",
+   "published": "2026-11-06T00:16:33+00:00",
+   "summary": "MEXICO CITY (CN) - The U.S. Department of Justice announced Thursday the arrest of a Mexico City district judge over taking a $2 million bribe ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
    "also_reported_by": []
   },
   {
@@ -78,14 +1602,14 @@
    "also_reported_by": []
   },
   {
-   "id": "d67b6e3f3a1a4ed4",
-   "title": "Liberan a la periodista independiente cubana Yoani Sánchez luego de horas detenida por ...",
-   "link": "https://www.martinoticias.com/amp/liberan-a-la-periodista-independiente-cubana-yoani-s%C3%A1nchez-luego-de-horas-detenida-por-la-polic%C3%ADa-en-la-habana/483633.html",
-   "published": "2026-11-06T00:08:26+00:00",
-   "summary": "La periodista independiente cubana Yoani Sánchez, directora del diario 14ymedio, fue liberada este jueves tras ser detenida por la mañana en La Habana ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
+   "id": "ad51e72401c1e443",
+   "title": "Inmates file class-action lawsuit over alleged filthy conditions at DC jail - Yahoo",
+   "link": "https://www.yahoo.com/news/us/articles/inmates-file-class-action-lawsuit-031151811.html",
+   "published": "2026-11-06T00:11:12+00:00",
+   "summary": "The lawsuit also said in July 2026 plaintiff Christopher Brockington ... Pope begins lengthy trip to Latin America weeks after lung cancer surgery.",
+   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
+   "source_id": "alert_en_legal",
+   "language": "en",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -95,47 +1619,13 @@
    "also_reported_by": []
   },
   {
-   "id": "6d89aa6004f4b498",
-   "title": "Liberan a Yoani Sánchez tras varias horas detenida - Reforma",
-   "link": "https://www.reforma.com/liberan-a-yoani-sanchez-tras-varias-horas-detenida/ar3309209",
-   "published": "2026-11-06T00:05:00+00:00",
-   "summary": "La periodista cubana Yoani Sánchez fue liberada este jueves tras permanecer más de nueve horas detenida por las autoridades de Cuba.",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "eec096047aaef508",
-   "title": "Murió la exdiputada e histórica referente de izquierda Patricia Walsh - Pausa",
-   "link": "https://www.pausa.com.ar/2026/11/murio-la-exdiputada-e-historica-referente-de-izquierda-patricia-walsh/",
-   "published": "2026-11-05T23:57:32+00:00",
-   "summary": "Fue periodista y psicóloga social. Nació en 1952 y su vida estuvo ... Acusó a los represores responsables del secuestro y crimen de Rodolfo ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "9a76791247260bc8",
-   "title": "Liberan a la periodista Yoani Sánchez después de nueve horas detenida en Cuba",
-   "link": "https://www.local3news.com/regional-national/en-espanol/liberan-a-la-periodista-yoani-s-nchez-despu-s-de-nueve-horas-detenida-en-cuba/article_f71e10d8-f735-5701-9ad8-ddd359351c01.html",
-   "published": "2026-11-05T23:37:16+00:00",
-   "summary": "La periodista cubana Yoani Sánchez fue liberada la tarde de este jueves luego de estar unas nueve horas detenida por fuerzas de seguridad de Cuba, ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
+   "id": "7b08830bc941d3f1",
+   "title": "Detienen en La Habana a la destacada opositora y periodista cubana Yoani Sánchez",
+   "link": "https://laconexion.cl/detienen-en-la-habana-a-la-destacada-opositora-y-periodista-cubana-yoani-sanchez/",
+   "published": "2026-11-06T00:10:54+00:00",
+   "summary": "Diversas voces del exilio cubano y de la prensa independiente en América Latina han alertado sobre el agravamiento de la represión contra ...",
+   "source": "Google Alert: periodista exiliado (ES)",
+   "source_id": "alert_es_exilio",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -145,14 +1635,65 @@
    "tags": [],
    "also_reported_by": [
     {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://latinus.us/latam/2026/11/5/liberan-a-la-periodista-yoani-sanchez-tras-mas-de-nueve-horas-detenida-en-cuba-181607.html"
+     "source": "Google Alert: censura a periodistas (ES)",
+     "link": "https://laconexion.cl/detienen-en-la-habana-a-la-destacada-opositora-y-periodista-cubana-yoani-sanchez/"
     },
     {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://latinus.us/latam/2026/11/5/liberan-a-la-periodista-yoani-sanchez-tras-mas-de-nueve-horas-detenida-en-cuba-181607.html"
+     "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+     "link": "https://www.atacamanoticias.cl/2026/11/05/liberan-a-la-periodista-opositora-cubana-yoani-sanchez-tras-su-detencion-en-la-habana/"
     }
    ]
+  },
+  {
+   "id": "a851278ec3a75d3e",
+   "title": "Plaintiffs suing Meta in tracking lawsuit pressed by US judge over consent | MLex",
+   "link": "https://www.mlex.com/mlex/data-privacy-security/articles/2547108/plaintiffs-suing-meta-in-tracking-lawsuit-pressed-by-us-judge-over-consent",
+   "published": "2026-11-05T23:54:53+00:00",
+   "summary": "Plaintiffs suing Meta in tracking lawsuit pressed by US judge over consent ... Predictive analysis from expert journalists across North America, the UK ...",
+   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
+   "source_id": "alert_en_legal",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "198cc8a56ad612d3",
+   "title": "Dos asesinados y un joven herido en tres ataques armados en Cajeme",
+   "link": "https://primeraplana.digital/dos-asesinados-y-un-joven-herido-en-tres-ataques-armados-en-cajeme/",
+   "published": "2026-11-05T23:51:48+00:00",
+   "summary": "El primer homicidio ocurrió alrededor de la 1:00 de la madrugada en la colonia Urbi Villa del Rey, donde Pilar Leonardo, de 41 años, fue atacado a ...",
+   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
+   "source_id": "alert_es_reportero",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
+   "id": "577123d2b87f72b8",
+   "title": "Karina Milei aceptó la renuncia de Diego Andrés Hoffmann, jefe de la Unidad Médica Presidencial",
+   "link": "https://dib.com.ar/politica/karina-milei-acepto-la-renuncia-diego-andres-hoffmann-jefe-la-unidad-medica-presidencial-n57109",
+   "published": "2026-11-05T23:41:57+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh · Tras abandonar a LLA, un ex futbolista de River se sumó a ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
   },
   {
    "id": "bb27f6ed59609b97",
@@ -172,48 +1713,14 @@
    "also_reported_by": []
   },
   {
-   "id": "e38f8e94d5669a0e",
-   "title": "Caso Vadhir Derbez: Fiscalía da seguimiento a denuncia por presunta agresión sexual",
-   "link": "https://es-us.vida-estilo.yahoo.com/caso-vadhir-derbez-fiscal%C3%ADa-seguimiento-212730933.html",
-   "published": "2026-11-05T23:35:16+00:00",
-   "summary": "La Fiscalía dio seguimiento a la denuncia de una modelo de 19 años que acusa a Vadhir Derbez de presunta agresión sexual durante la grabación de ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "978d830ca32db91f",
-   "title": "Las autoridades cubanas liberan a la periodista Yoani Sánchez, pero la acusan de “atentar ...",
-   "link": "https://elpais.com/america/2026-11-05/las-autoridades-cubanas-liberan-a-la-periodista-yoani-sanchez-pero-la-acusan-de-atentar-contra-el-orden-constitucional.html",
-   "published": "2026-11-05T23:24:06+00:00",
-   "summary": "La periodista cubana Yoani Sánchez ha sido liberada tras pasar más de nueve hora detenida ... detenido violentamente por agentes policiales que ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "affe3b5d03f9ce59",
-   "title": "Régimen cubano libera a Yoani Sánchez tras detención de nueve horas en La Habana",
-   "link": "https://www.univision.com/local/miami-wltv/liberacion-yoani-sanchez-la-habana",
-   "published": "2026-11-05T23:23:46+00:00",
-   "summary": "... detenida por la Seguridad del Estado. La periodista había alertado de su retención al salir de su vivienda. | Univision Miami WLTV | Univision.",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
+   "id": "b3fc0a9ea8ac1e33",
+   "title": "Florida GOP staved off major blue wave, but Dems celebrate breaking its House supermajority",
+   "link": "https://www.local10.com/news/politics/2026/11/05/florida-gop-staved-off-major-blue-wave-but-dems-celebrate-breaking-its-house-supermajority/",
+   "published": "2026-11-05T23:26:09+00:00",
+   "summary": "... Pope Leo XIV's visit brings ... She is an Edward R. Murrow Award-winning journalist and previously ...",
+   "source": "Google Alert: journalist detained/arrested (EN)",
+   "source_id": "alert_en_detained",
+   "language": "en",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -245,47 +1752,8 @@
    "link": "https://www.canal9.cl/episodios/2026/11/05/periodista-colombiano-walter-lopez-sufre-atentado-en-su-casa-tras-ser-retirada-su-proteccion",
    "published": "2026-11-05T23:09:22+00:00",
    "summary": "El reportero colombiano Walter López sufrió un atentado el miércoles 4 de noviembre, después de que varios hombres armados irrumpieran en su casa, ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "9a2d70f1936968d3",
-   "title": "Colombia: un periodista sufre un atentado tras denunciar amenazas; la protección le había ...",
-   "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-colombia-un-periodista-sufre-un-atentado-tras-denunciar-amenazas-la-protecci%C3%B3n-le-hab%C3%ADa-sido-retirada",
-   "published": "2026-11-05T23:09:18+00:00",
-   "summary": "El periodista colombiano Walter López fue víctima de un atentado el ... censura?: qué pasa con las Emisoras de Paz en Colombia con la llegada ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://es-us.noticias.yahoo.com/colombia-periodista-sufre-atentado-denunciar-224545293.html"
-    }
-   ]
-  },
-  {
-   "id": "574f650a34864f72",
-   "title": "«El régimen cubano muestra su cobardía»: EE.UU. condena la ola de arrestos contra ...",
-   "link": "https://www.cibercuba.com/noticias/2026-11-05-u1-e208933-s27061-nid344974-regimen-cubano-muestra-cobardia-eeuu-condena-ola",
-   "published": "2026-11-05T23:08:50+00:00",
-   "summary": "Una semana de detenciones contra periodistas independientes. El lunes, Adelth Bonne Gamboa, colaborador de CubaNet, fue detenido en el barrio habanero ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -303,23 +1771,6 @@
    "summary": "Sin embargo, fue atacado con armas de fuego. De acuerdo con información ... Cuando intentó intervenir, fue agredido a tiros. Tras el reporte ...",
    "source": "Google Alert: reportero/a agredido/a (ES, variante)",
    "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "2e064e366f6d6ed5",
-   "title": "Fallece Humberto Musacchio una semana antes de ser reconocido por el Premio Nacional ...",
-   "link": "https://latinus.us/estilo-de-vida/2026/11/5/fallece-humberto-musacchio-una-semana-antes-de-ser-reconocido-por-el-premio-nacional-de-periodismo-181587.html",
-   "published": "2026-11-05T23:02:25+00:00",
-   "summary": "Diversas instituciones e integrantes del mundo de la cultura en México han expresado su pesar por el fallecimiento del periodista ... censura de la 4T\".",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -364,115 +1815,13 @@
    "also_reported_by": []
   },
   {
-   "id": "5b48bc5518287790",
-   "title": "Eln confirma el secuestro de la subteniente del Ejército María Camila Pantoja - El Tiempo",
-   "link": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-confirma-el-secuestro-de-la-subteniente-del-ejercito-maria-camila-pantoja-continua-el-operativo-en-la-zona-rural-para-encontrarla-3598853",
-   "published": "2026-11-05T22:39:32+00:00",
-   "summary": "... secuestrada en Arauca Foto: X: @COL_EJERCITO/ Cortesía. Link. Alt thumbnail. Raúl Andrés García Suárez. PERIODISTA ... Secuestro ELN · Secuestros del ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7a0729a530b3c1f1",
-   "title": "No News of Yoani Sanchez Eight Hours After her Kidnapping in Havana",
-   "link": "https://havanatimes.org/news/no-news-of-yoani-sanchez-eight-hours-after-her-kidnapping-in-havana/",
-   "published": "2026-11-05T22:38:18+00:00",
-   "summary": "SOS for Journalists · Latin America · Culture · Features · Fun · Opinion · Interviews · Diaries · Photos · Photo of the Day · Videos · CUBA ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "fca079db5d2a524f",
-   "title": "Murió Patricia Walsh, la exdiputada que impulsó la nulidad de las leyes de la impunidad",
-   "link": "https://www.pagina12.com.ar/2026/11/05/murio-patricia-walsh-la-exdiputada-que-impulso-la-nulidad-de-las-leyes-de-la-impunidad/",
-   "published": "2026-11-05T22:36:42+00:00",
-   "summary": "Fue impulsora clave de la anulación de las leyes de impunidad para represores y candidata presidencial en dos oportunidades.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "27d9bfd8580381bd",
-   "title": "Detienen a la periodista Yoani Sánchez en Cuba; denuncian censura por el gobierno",
-   "link": "https://24-horas.mx/mundo/detienen-a-la-periodista-yoani-sanchez-en-cuba-denuncian-censura-por-el-gobierno/",
-   "published": "2026-11-05T22:24:46+00:00",
-   "summary": "La periodista independiente cubana Yoani Sánchez fue detenida este jueves 5 de noviembre por agentes de la Seguridad del Estado en La Habana.",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "f8ecbcc7f2b70f23",
-   "title": "Se desconoce aún el paradero de la periodista cubana Yoani Sánchez, detenida en La Habana",
-   "link": "https://efectococuyo.com/internacionales/se-desconoce-aun-el-paradero-de-la-periodista-cubana-yoani-sanchez-detenida-en-la-habana/",
-   "published": "2026-11-05T22:20:32+00:00",
-   "summary": "Fue interceptada por fuerzas castristas cuando salía de su casa, pero pudo alertar a sus allegados.",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7a087dc1f92de606",
-   "title": "Organizaciones piden liberación de la periodista cubana Yoani Sánchez, detenida este ...",
-   "link": "https://www.lahora.com.ec/politica/organizaciones-piden-liberacion-de-la-periodista-cubana-yoani-sanchez-detenida-este-jueves-en-la-habana-20261105-0025.html",
-   "published": "2026-11-05T22:19:33+00:00",
-   "summary": "La comunicadora es fundadora del diario 14ymedio.com. En su sitio web, ese medio sostuvo que Sánchez, su directora, fue “secuestrada” por la policía ...",
-   "source": "Google Alert: periodista detenido/a (ES)",
-   "source_id": "alert_es_detenido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "8bf58deebc24e0e8",
-   "title": "Desarrollan en Guantánamo Ejercicio Estratégico «Moncada 2026",
-   "link": "https://www.radioguantanamo.icrt.cu/desarrollan-en-guantanamo-ejercicio-estrategico-moncada-2026/",
-   "published": "2026-11-05T22:08:59+00:00",
-   "summary": "... agresión al territorio nacional. El periodista Ventura Figueras Lores amplia la información en el siguiente reporte.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
+   "id": "9e7170cbc7ad4579",
+   "title": "Sobre la difamación - El Diario",
+   "link": "https://www.eldiario.es/comunitat-valenciana/siete-dias/difamacion_132_13641316.html",
+   "published": "2026-11-05T22:05:35+00:00",
+   "summary": "El juicio del caso del 'bulo del Bar España' permite desentrañar los mecanismos de la difamación ... periodista de elDiario.es, “la titánica y compleja ...",
+   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
+   "source_id": "alert_es_demanda",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -500,61 +1849,6 @@
    "also_reported_by": []
   },
   {
-   "id": "53832bdf913cdad8",
-   "title": "¿Dónde está Yoani Sánchez? Denuncian desaparición de periodista cubana tras ser ...",
-   "link": "https://www.record.com.mx/historia/donde-esta-yoani-sanchez-denuncian-desaparicion-de-periodista-cubana-tras-ser-detenida-en-la-habana-2026110521444627971",
-   "published": "2026-11-05T21:48:42+00:00",
-   "summary": "La información disponible procede principalmente de la denuncia de 14ymedio, que calificó lo sucedido como un secuestro. Otros reportes difundidos ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "045daad1af1195b3",
-   "title": "Detenidas en Cuba la periodista Yoani Sánchez y la líder de Damas de Blanco - Swissinfo",
-   "link": "https://www.swissinfo.ch/spa/detenidas-en-cuba-la-periodista-yoani-s%C3%A1nchez-y-la-l%C3%ADder-de-damas-de-blanco/92335850",
-   "published": "2026-11-05T21:48:38+00:00",
-   "summary": "Sánchez, de 51 años, fue «secuestrada por la policía política» en la mañana, cuando salía de su vivienda en el barrio de Nuevo Vedado «para hacer ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.swissinfo.ch/spa/detenidas-en-cuba-la-periodista-yoani-s%C3%A1nchez-y-la-l%C3%ADder-de-damas-de-blanco/92335850"
-    },
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://www.elfinancierocr.com/internacionales/detenidas-en-cuba-la-periodista-yoani-sanchez-y-la/ERPFL4EPVFF6XG4XSP3AAKLHJE/story/"
-    },
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.swissinfo.ch/spa/detienen-en-cuba-a-la-periodista-yoani-s%C3%A1nchez-y-a-la-l%C3%ADder-de-damas-de-blanco/92336507"
-    },
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://es-us.noticias.yahoo.com/detienen-cuba-periodista-yoani-s%C3%A1nchez-232136748.html"
-    },
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://www.rfi.fr/es/m%C3%A1s-noticias/20261105-detienen-en-cuba-a-la-periodista-yoani-s%C3%A1nchez-y-a-la-l%C3%ADder-de-damas-de-blanco"
-    }
-   ]
-  },
-  {
    "id": "5c7979962cc0d1ff",
    "title": "Javier Ruiz inaugura La Séptima con una promesa de \"honestidad y periodismo\" y un ... - La Razón",
    "link": "https://www.larazon.es/television/javier-ruiz-inaugura-septima-promesa-honestidad-periodismo-mensaje-audiencia_202611056aec69f14196933d7ed1879a.html",
@@ -562,23 +1856,6 @@
    "summary": "El presentador ha abierto las emisiones de la nueva cadena con un monólogo en el que ha defendido el directo, la pluralidad y una información ...",
    "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
    "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "aded06deca682b82",
-   "title": "Comunidad cultura, periodistas y amigos lamentan la muerte de Humberto Musacchio",
-   "link": "https://www.eluniversal.com.mx/cultura/comunidad-cultura-periodistas-y-amigos-lamentan-la-muerte-de-humberto-musacchio-sera-velado-en-la-funeraria-de-felix-cuevas/",
-   "published": "2026-11-05T21:39:34+00:00",
-   "summary": "La UNAM, la Secretaría de Cultura y el Fondo de Cultura Económica reconocieron la extensa trayectoria del periodista. Humberto Musacchio en la ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -612,52 +1889,12 @@
     "Threatened",
     "Trump administration"
    ],
-   "also_reported_by": []
-  },
-  {
-   "id": "4d0b178a4e38fd74",
-   "title": "Detuvieron por nueve horas a la periodista Yoani Sánchez en La Habana",
-   "link": "https://confidencial.digital/mundo/denuncian-la-detencion-de-la-periodista-yoani-sanchez-en-la-habana/",
-   "published": "2026-11-05T21:34:54+00:00",
-   "summary": "",
-   "source": "Confidencial (Nicaragua, en el exilio)",
-   "source_id": "confidencial_ni",
-   "language": "es",
-   "country": "Nicaragua",
-   "category": "medios_exilio",
-   "topics": [
-    "medios_exilio"
-   ],
-   "tags": [
-    "Mundo"
-   ],
    "also_reported_by": [
     {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://confidencial.digital/mundo/denuncian-la-detencion-de-la-periodista-yoani-sanchez-en-la-habana/"
-    },
-    {
-     "source": "Google Alert: periodista exiliado (ES)",
-     "link": "https://confidencial.digital/mundo/denuncian-la-detencion-de-la-periodista-yoani-sanchez-en-la-habana/"
+     "source": "Google Alert: press freedom attack (EN)",
+     "link": "https://cpj.org/2026/11/120th-congress-must-protect-the-first-amendment-right-to-a-free-press/"
     }
    ]
-  },
-  {
-   "id": "8e888f6ccca52595",
-   "title": "Músico mexicano recibirá 200.000 dólares tras ser atacado por un perro policial en EE.UU.",
-   "link": "https://www.clarin.com/estados-unidos/musico-mexicano-recibira-200-000-dolares-tras-ser-atacado-por-un-perro-policial-en-ee-uu_0_8uXXYbevkx.html",
-   "published": "2026-11-05T21:27:24+00:00",
-   "summary": "Los abogados del músico, Joshua Landy y Luke McConnell, destacaron que el fallo reconoce tanto la agresión como el procedimiento judicial ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
   },
   {
    "id": "8bbd9326bb9dcad9",
@@ -694,141 +1931,13 @@
    "also_reported_by": []
   },
   {
-   "id": "4cd7cb9770a9c565",
-   "title": "EE.UU. condena detención de Yoani Sánchez en Cuba: «El régimen recurre a ... - Alberto News",
-   "link": "https://albertonews.com/internacionales/ee-uu-condena-detencion-de-yoani-sanchez-en-cuba-el-regimen-recurre-a-detenciones-arbitrarias-porque-teme-la-verdad/",
-   "published": "2026-11-05T21:16:03+00:00",
-   "summary": "AlbertoNews - Periodismo sin censura. No Result. View All Result ... periodista cubana Yoani Sánchez y denunció una campaña de las ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "5ddb29b716857f4e",
+   "id": "6677c8b03c3eb795",
    "title": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh",
-   "link": "https://www.diarionoticiaspehuajo.com/2026-11-05/murio-patricia-walsh-la-ex-diputada-e-hija-del-periodista-desaparecido-rodolfo-walsh-43590/amp",
-   "published": "2026-11-05T21:13:22+00:00",
-   "summary": "... periodista y escritor Rodolfo Walsh, secuestrado por la dictadura el 25 de marzo de 1977 y hasta hoy, desaparecido. PUBLICIDAD. Patricia creció en ...",
-   "source": "Google Alert: periodista secuestrado/a (ES)",
-   "source_id": "alert_es_secuestrado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4df7bf8702c0d2de",
-   "title": "US charges son of Ecuador's former president, 4 others with cocaine trafficking",
-   "link": "https://www.wsls.com/news/world/2026/11/05/us-charges-son-of-ecuadors-former-president-4-others-with-cocaine-trafficking/",
-   "published": "2026-11-05T21:07:28+00:00",
-   "summary": "... arrested this month, the former in Ecuador and the ... The Trump administration has reached agreements with Ecuador and other Latin American ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.stamfordadvocate.com/news/article/us-charges-son-of-ecuador-s-former-president-4-22514895.php"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.lmtonline.com/news/article/us-charges-son-of-ecuador-s-former-president-4-22514895.php"
-    }
-   ]
-  },
-  {
-   "id": "bdefbce1c7df31e6",
-   "title": "Comisión de Ética del Senado paraliza evaluación de querella contra Héctor Joaquín Sánchez",
-   "link": "https://www.elnuevodia.com/noticias/legislatura/notas/comision-de-etica-del-senado-paraliza-evaluacion-de-querella-contra-hector-joaquin-sanchez/",
-   "published": "2026-11-05T21:05:01+00:00",
-   "summary": "El senador Juan Oscar Morales dice que el reglamento le obliga a esperar por el resultado de las pesquisas que se llevan a cabo en otros foros.",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "1dda533e807ab752",
-   "title": "Texas Democrat Gina Hinojosa won governor race in Collin County by 4%",
-   "link": "https://www.dallasnews.com/news/elections/article/texas-democrat-gina-hinojosa-won-governor-race-22512371.php",
-   "published": "2026-11-05T20:57:47+00:00",
-   "summary": "Democratic gubernatorial candidate Gina Hinojosa speaks during the League of United Latin American Citizens National Convention at the Fort Worth ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "a6e88b214f4548fe",
-   "title": "Abogado de Di Mondo acusa a Mega de presionar a canales para que no lo entrevisten",
-   "link": "https://www.lacuarta.com/espectaculos/noticia/abogado-de-di-mondo-acusa-a-mega-de-presionar-a-canales-para-que-no-lo-entrevisten-me-parece-gravisimo/",
-   "published": "2026-11-05T20:49:57+00:00",
-   "summary": "Felipe Budinic aseguró que sólo un periodista ha sido capaz ... Recordemos que el fashionista se encuentra en medio de una álgida demanda contra ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "16b606c1cd458b24",
-   "title": "Triple crimen en Varela: la querella solicitó una cautelar y la fiscalía intervino tras la difusión ...",
-   "link": "https://www.eldestapeweb.com/sociedad/triple-crimen-varela-querella-solicito-cautelar-fiscalia-intervino-difusion-video-tortura-2026115131324",
-   "published": "2026-11-05T20:46:13+00:00",
-   "summary": "Triple crimen Florencio Varela. Video. Cautelar de la familia de Brenda del Castillo. Denuncia de la familia de Lara Gutiérrez. Fiscalía.",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "27c4df85e3096ebd",
-   "title": "Russell Brand es declarado culpable de violación - Cacho Periodista",
-   "link": "https://cachoperiodista.com/declaran-culpable-russell-brand-violacion-otros-tres-cargos-agresion-sexual/",
-   "published": "2026-11-05T20:45:52+00:00",
-   "summary": "Sin embargo, el jurado también absolvió al actor de otros dos cargos de violación y uno de “intento de agresión sexual indecente”. Las acusaciones ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
+   "link": "https://www.diarionoticiaspehuajo.com/2026-11-05/murio-patricia-walsh-la-ex-diputada-e-hija-del-periodista-desaparecido-rodolfo-walsh-43590/",
+   "published": "2026-11-05T20:51:40+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh. Después de haber sido operada de una afección pulmonar y ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -838,48 +1947,10 @@
    "tags": [],
    "also_reported_by": [
     {
-     "source": "Google Alert: periodista agredido/atacado (ES)",
-     "link": "https://www.laprensani.com/2026/11/05/vida/3808340-russell-brand-culpable-violacion-agresion"
-    },
-    {
-     "source": "Google Alert: periodista agredido/atacado (ES)",
-     "link": "https://www.telemundo.com/shows/al-rojo-vivo/famosos/video/russell-brand-es-declarado-culpable-de-violacion-y-agresion-sexual-en-londres-tmvo13241872"
+     "source": "Google Alert: periodista desaparecido (ES)",
+     "link": "https://www.sudoesteba.com/2026-11-05/fallecio-patricia-walsh-la-ex-diputada-e-hija-del-periodista-desaparecido-rodolfo-walsh-14675/"
     }
    ]
-  },
-  {
-   "id": "571bb3f7a25f7d69",
-   "title": "Falleció el periodista y escritor mexicano Humberto Musacchio",
-   "link": "https://letralia.com/noticias/2026/11/05/murio-humberto-musacchio/",
-   "published": "2026-11-05T20:42:27+00:00",
-   "summary": "El periodista, cronista, ensayista e investigador mexicano Humberto ... En 2025 compiló Cállense: los nuevos rostros de la censura, una ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ca9e1bd99fde9279",
-   "title": "Femicidio de Gisela Mendoza: la Fiscalía y la querella piden prisión ... - Prensa Libre Formosa",
-   "link": "https://www.prensalibreformosa.com/41360-femicidio-de-gisela-mendoza-la-fiscalia-y-la-querella-piden-prision-perpetua-para-leguizamon-y-rechazan-la-emocion-violenta",
-   "published": "2026-11-05T20:40:51+00:00",
-   "summary": "El juicio por el femicidio de Gisela Agustina Mendoza avanza hacia una definición clave. La acusación busca que Francisco Javier Leguizamón reciba ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
   },
   {
    "id": "44ed4131cd502675",
@@ -889,83 +1960,6 @@
    "summary": "Press Freedom · Democracy · Religion · ARTS & CULTURE · SYNDICATION · NGOs & CSOs ... Latin America & the Caribbean, OPINION, Research organisations ...",
    "source": "Google Alert: press freedom attack (EN)",
    "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "360659781082f498",
-   "title": "¿Quién es Yoani Sánchez? La periodista cubana detenida por fuerzas de Seguridad del Estado",
-   "link": "https://www.imagenradio.com.mx/noticias/quien-es-yoani-sanchez-periodista-cubana-detenida-por-fuerzas-seguridad-estado",
-   "published": "2026-11-05T20:27:44+00:00",
-   "summary": "Sus textos abordaban la escasez de alimentos, las restricciones para viajar, la censura y las inquietudes de los jóvenes frente a la realidad del país ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "03de345708881f59",
-   "title": "Detenida en Cuba la periodista independiente Yoani Sánchez - Confirmado",
-   "link": "https://confirmado.com.ve/detenida-en-cuba-la-periodista-independiente-yoani-sanchez/",
-   "published": "2026-11-05T20:26:22+00:00",
-   "summary": "La periodista cubana Yoani Sánchez, en un debate en Sao Paulo el 21 de ... 14ymedio, un medio que denuncia la censura y el acoso de las ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://listindiario.com/las-mundiales/el-caribe/20261105/detenida-cuba-periodista-independiente-yoani-sanchez_928996.html"
-    },
-    {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://efe.com/mundo/2026-11-05/cuba-yoani-sanchez-detenida-periodista-14ymedio/"
-    }
-   ]
-  },
-  {
-   "id": "6b9d31a8e5e95f26",
-   "title": "Asociaciones periodísticas reclaman que la administración de Jenniffer González cese de ...",
-   "link": "https://www.elnuevodia.com/noticias/locales/notas/asociaciones-periodisticas-reclaman-que-la-administracion-de-jenniffer-gonzalez-cese-de-obstaculizar-la-labor-de-periodistas/",
-   "published": "2026-11-05T20:22:48+00:00",
-   "summary": "La Asociación de Periodistas de Puerto Rico (Asppro), el Overseas Press Club (OPC) y la Asociación Nacional de Periodistas Hispanos (NAHJ, por sus ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6d40ee0f00a66dfa",
-   "title": "US sanctions Chinese firms over alleged military supplies to Cuba | South China Morning Post",
-   "link": "https://www.scmp.com/news/china/diplomacy/article/3373462/us-sanctions-chinese-firms-over-alleged-military-supplies-cuba",
-   "published": "2026-11-05T20:19:27+00:00",
-   "summary": "Washington also expands sanctions authority over four sectors of Cuba's economy as independent journalist Yoani Sanchez detained in Havana.",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
    "language": "en",
    "country": null,
    "category": "libertad_prensa",
@@ -993,142 +1987,6 @@
    "also_reported_by": []
   },
   {
-   "id": "6a3b813f6c5a6b82",
-   "title": "Isabel Allende: “La página en blanco es la única que no se puede corregir” - La Razón",
-   "link": "https://www.larazon.es/cataluna/isabel-allende-pagina-blanco-unica-que-puede-corregir_202611056aece08cd3bddc0868a69e85.html?outputType=amp",
-   "published": "2026-11-05T20:09:59+00:00",
-   "summary": "Elecciones 29N directoArchivada querella ... Al ritmo de “Gracias a la vida”, la autora hizo su entrada acompañada de la periodista Julia Otero con la ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "c40620d50f70c821",
-   "title": "Elías Alvarado tomó una seria decisión con el hombre que le dijo una grave amenaza",
-   "link": "https://www.lateja.cr/farandula/elias-alvarado-tomo-una-seria-decision-con-el/RIIHPRPDR5D4BEYY2VXE3YXZ3E/story/",
-   "published": "2026-11-05T19:52:01+00:00",
-   "summary": "Periodista afirmó que recibió amenazas e intimidación por informar los resultados de las elecciones de medio término de Estados Unidos.",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "e2107952f41fbc8d",
-   "title": "“Fui inmensamente feliz”: Juan Camilo Merlano anunció su salida de Noticias Caracol",
-   "link": "https://www.vanguardia.com/entretenimiento/tendencias/2026/11/05/fui-inmensamente-feliz-juan-camilo-merlano-anuncio-su-salida-de-noticias-caracol/",
-   "published": "2026-11-05T19:50:40+00:00",
-   "summary": "El periodista confirmó el cierre de su etapa en Caracol Televisión y Blu Radio con un mensaje de agradecimiento a sus compañeros y directivos.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ead62a0bfc804155",
-   "title": "IPYS Venezuela alerta que el 61% de la población venezolana vive en zonas con pocos ...",
-   "link": "https://albertonews.com/nacionales/ipys-venezuela-alerta-que-el-61-de-la-poblacion-venezolana-vive-en-zonas-con-pocos-medios-de-comunicacion-locales/",
-   "published": "2026-11-05T19:50:19+00:00",
-   "summary": "... censura, cierre de medios y condiciones muy precarias para el ejercicio de la profesión. ADVERTISEMENT. Balbi consideró verdaderamente alarmante la ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "b9a01a6cc241df20",
-   "title": "Murió Humberto Musacchio: la historia detrás del periodista que sobrevivió a Tlatelolco",
-   "link": "https://ovaciones.com/reflector/cultura/humberto-musacchio-fallece-el-periodista-que-vivio-la-matanza-de-tlatelolco/1014449",
-   "published": "2026-11-05T19:48:44+00:00",
-   "summary": "El periodista fue uno de los fundadores de La Jornada, sobrevivió a la ... Los nuevos rostros de la censura, una antología de textos sobre la ...",
-   "source": "Google Alert: censura a periodistas (ES)",
-   "source_id": "alert_es_censura",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "1448b79f7768de91",
-   "title": "La periodista y opositora cubana Yoani Sánchez es detenida en La Habana",
-   "link": "https://www.canal9.cl/episodios/2026/11/05/detienen-en-la-habana-a-la-opositora-y-periodista-cubana-yoani-sanchez",
-   "published": "2026-11-05T19:46:30+00:00",
-   "summary": "La periodista Yoani Sánchez fue arrestada este jueves por las fuerzas de seguridad cubanas cuando salía de su casa en la provincia de La Habana y ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://www.nuevopoder.cl/detenida-periodista-cubana-yoani-sanchez-en-la-habana-y-desconocen-su-paradero/"
-    },
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://www.nacion.com/el-mundo/la-reconocida-periodista-cubana-yoani-sanchez-fue/QUC6VHFVH5BTPDPMVD4GHNMLBI/story/"
-    },
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://laconexion.cl/detienen-en-la-habana-a-la-destacada-opositora-y-periodista-cubana-yoani-sanchez/"
-    },
-    {
-     "source": "Google Alert: periodista exiliado (ES)",
-     "link": "https://laconexion.cl/detienen-en-la-habana-a-la-destacada-opositora-y-periodista-cubana-yoani-sanchez/"
-    }
-   ]
-  },
-  {
-   "id": "7195b855cdf6e00a",
-   "title": "Lo mejor de Aristegui en Vivo: De Llano ofrece disculpa pública; Sasha responde que no es ...",
-   "link": "https://aristeguinoticias.com/0511/mexico/aristegui-en-vivo-uif-bloquea-cuentas-a-taddei-de-llano-ofrece-disculpa-publica-a-sasha-adios-a-humberto-musacchio-05-11-2026/",
-   "published": "2026-11-05T19:40:12+00:00",
-   "summary": "... , quien respondió que no fue la que ordenó el tribunal en su sentencia sobre daño moral; falleció el periodista y ensayista Humberto Musacchio.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "33b3a74f7d165eff",
    "title": "Murió Patricia, la hija de Rodolfo Walsh, histórica militante de la izquierda y de derechos humanos",
    "link": "https://www.0221.com.ar/nacional/murio-patricia-la-hija-rodolfo-walsh-historica-militante-la-izquierda-y-derechos-humanos-n137005",
@@ -1143,12 +2001,24 @@
     "libertad_prensa"
    ],
    "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://www.0221.com.ar/nacional/murio-patricia-la-hija-rodolfo-walsh-historica-militante-la-izquierda-y-derechos-humanos-n137005"
-    }
-   ]
+   "also_reported_by": []
+  },
+  {
+   "id": "75f286ce572ee0ce",
+   "title": "Cuba detains award-winning journalist Yoani Sanchez | South China Morning Post",
+   "link": "https://www.scmp.com/news/world/americas/article/3373461/cuba-detains-award-winning-journalist-yoani-sanchez",
+   "published": "2026-11-05T19:37:10+00:00",
+   "summary": "Henry Constantin, director of La Hora de Cuba and a regional vice-president of the Inter-American Press Association's press freedom committee, has ...",
+   "source": "Google Alert: press freedom attack (EN)",
+   "source_id": "alert_en_press_freedom",
+   "language": "en",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
   },
   {
    "id": "fdff3a7d776de871",
@@ -1185,20 +2055,8 @@
    "tags": [],
    "also_reported_by": [
     {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://cpj.org/es/2026/11/detienen-a-la-periodista-cubana-yoani-sanchez-directora-de-14ymedio-en-medio-de-una-creciente-represion-contra-el-periodismo-independiente/amp/"
-    },
-    {
      "source": "Google Alert: periodista exiliado (ES)",
      "link": "https://cpj.org/es/2026/11/detienen-a-la-periodista-cubana-yoani-sanchez-directora-de-14ymedio-en-medio-de-una-creciente-represion-contra-el-periodismo-independiente/amp/"
-    },
-    {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://latamjournalismreview.org/es/news/detienen-a-periodista-cubana-yoani-sanchez-en-medio-de-creciente-represion/"
-    },
-    {
-     "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://latamjournalismreview.org/es/news/detienen-a-periodista-cubana-yoani-sanchez-en-medio-de-creciente-represion/"
     }
    ]
   },
@@ -1226,6 +2084,23 @@
    "also_reported_by": []
   },
   {
+   "id": "6dc18112c6261a86",
+   "title": "Oftalmólogos atenderán de manera gratuita en todo el país para prevenir la ceguera por diabetes",
+   "link": "https://dib.com.ar/vida-y-salud-hoy/oftalmologos-atenderan-manera-gratuita-todo-el-pais-prevenir-la-ceguera-diabetes-n57088",
+   "published": "2026-11-05T19:29:05+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh. Así quedó la camioneta que impactó contra un camión de ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
+   "language": "es",
+   "country": null,
+   "category": "libertad_prensa",
+   "topics": [
+    "libertad_prensa"
+   ],
+   "tags": [],
+   "also_reported_by": []
+  },
+  {
    "id": "838f5c5493faed40",
    "title": "Cuban journalist Yoani Sánchez, director of 14ymedio, arrested amid wider crackdown on independent reporting",
    "link": "https://cpj.org/2026/11/cuban-journalist-yoani-sanchez-director-of-14ymedio-arrested-amid-wider-crackdown-on-independent-reporting/",
@@ -1245,24 +2120,12 @@
     "Arrested",
     "Yoani Sánchez"
    ],
-   "also_reported_by": []
-  },
-  {
-   "id": "989df653adff80c3",
-   "title": "Arrestan en Miami a hombre sospechoso de agresión sexual - Telemundo 51",
-   "link": "https://www.telemundo51.com/video/noticiero-t51/arrestan-en-miami-a-hombre-sospechoso-de-agresion-sexual/2845505/",
-   "published": "2026-11-05T19:21:34+00:00",
-   "summary": "El sujeto es el dueño de un \"food truck\", supuestamente frecuentado por la presunta víctima. Aquí lo que señala el informe de arresto.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
+   "also_reported_by": [
+    {
+     "source": "Google Alert: journalist censored / media censorship (EN)",
+     "link": "https://ground.news/article/yoani-sanchez-kidnapped-by-the-political-police-in-havana"
+    }
+   ]
   },
   {
    "id": "e169d839730fbf8f",
@@ -1272,23 +2135,6 @@
    "summary": "Two in three displaced Latin American journalists surveyed had no exit plan agreed with their employers, preliminary research from SembraMedia ...",
    "source": "Google Alert: journalist exiled (EN)",
    "source_id": "alert_en_exile",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "54177b2b6f44f2c1",
-   "title": "322 Political Prisoners Still Jailed in Venezuela as Families Escalate Embassy Protests",
-   "link": "https://www.latintimes.com/322-political-prisoners-still-jailed-venezuela-families-escalate-embassy-protests-600940",
-   "published": "2026-11-05T19:09:14+00:00",
-   "summary": "Their message to American officials has not shifted: direct U.S. engagement is non-negotiable. ... © {{Year}} Latin Times. All rights reserved. Do not ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
    "language": "en",
    "country": null,
    "category": "libertad_prensa",
@@ -1318,23 +2164,6 @@
    "also_reported_by": []
   },
   {
-   "id": "d405408e15db4806",
-   "title": "Russell Brand fue declarado culpable de violación y otros delitos sexuales - Cooperativa.cl",
-   "link": "https://www.cooperativa.cl/noticias/magazine/personajes/russell-brand-fue-declarado-culpable-de-violacion-y-otros-delitos-sexuales/2026-11-05/120610.html",
-   "published": "2026-11-05T19:06:08+00:00",
-   "summary": "... agresión sexual a lo largo de su carrera. Un jurado popular declaró culpable a Brand de violar a una fan de 21 años tras uno de sus espectáculos ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "9a2b1505a440d6ce",
    "title": "We Can Save Ourselves - Consortium News",
    "link": "https://consortiumnews.com/2026/11/05/we-can-save-ourselves/",
@@ -1352,129 +2181,11 @@
    "also_reported_by": []
   },
   {
-   "id": "058aa2193dbc02af",
-   "title": "A 4 meses de la polémica: ex 'Rojo', Miguel Garcés, niega estar formalizado por agresión sexual",
-   "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/05/a-4-meses-de-la-polemica-ex-rojo-miguel-garces-niega-estar-formalizado-por-agresion-sexual.shtml",
-   "published": "2026-11-05T18:53:14+00:00",
-   "summary": "La polémica comenzó a comienzos de julio, cuando la periodista Cecilia Gutiérrez, panelista del programa 'Alfombra Roja', publicó en sus redes ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "05572829121ae59e",
-   "title": "Mexican judge arrested and accused in US with taking bribes in international drug trafficking case",
-   "link": "http://www.rockymounttelegram.com/news/national/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/article_2a1b4aba-19ec-577b-a6fa-e14e6d0660a2.html",
-   "published": "2026-11-05T18:37:01+00:00",
-   "summary": "... Latin America into the United States and orchestrating several killings. ... Support Local Journalism in Classrooms. Trending Now. Gailliard flips ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.darientimes.com/news/article/mexican-judge-arrested-and-accused-in-us-with-22514597.php"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://wgnradio.com/news/international/ap-mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.dailygazette.com/the_recorder/ap/national/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/article_37096786-d240-5433-afbc-b1a1d958d38d.html"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "http://www.cecildaily.com/ap/nation/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/article_da4647bf-463b-5b45-827b-06b68c81fa74.html"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.dailyadvance.com/news/national/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/article_36340e53-4bf3-526e-9771-03e800daa94e.html"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://m.washingtontimes.com/news/2026/nov/5/mexican-judge-arrested-accused-us-taking-bribes-international-drug/"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.wsls.com/news/world/2026/11/05/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "http://www.goskagit.com/spotlight/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/article_532fc576-f596-5132-92eb-2a67995f10cd.html"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.wpri.com/news/us-and-world/ap-mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/"
-    },
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.bangordailynews.com/2026/11/05/nation/mexican-judge-arrested-and-accused-in-us-with-taking-bribes-in-international-drug-trafficking-case/"
-    }
-   ]
-  },
-  {
-   "id": "fa9630d57eec3103",
-   "title": "Macron revela en un mensaje privado qué ocurrió durante la supuesta bofetada de Brigitte",
-   "link": "https://www.larazon.es/gente/poder/macron-revela-mensaje-privado-que-ocurrio-supuesta-bofetada-brigitte_202611056aec99a99a31a65adcd0e3bb.html",
-   "published": "2026-11-05T18:31:39+00:00",
-   "summary": "Archivada querella Conde Pumpido ... Un nuevo libro publica las palabras que el presidente francés intercambió con una periodista y ofrece otra ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6fc4f065314d1c04",
-   "title": "Detenida en Cuba la periodista Yoani Sánchez - Noticias de Gipuzkoa",
-   "link": "https://www.noticiasdegipuzkoa.eus/mundo/2026/11/05/detenida-cuba-periodista-yoani-sanchez-la-habana-11726722.html",
-   "published": "2026-11-05T18:29:57+00:00",
-   "summary": "La directora de 14ymedio ha sido arrestada por agentes de la Seguridad del Estado cuando salía de su vivienda en La Habana.",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: periodista agredido/atacado (ES)",
-     "link": "https://es-us.noticias.yahoo.com/detenida-cuba-periodista-independiente-yoani-174600263.html"
-    },
-    {
-     "source": "Google Alert: periodista secuestrado/a (ES)",
-     "link": "https://es-us.noticias.yahoo.com/denuncian-detenci%C3%B3n-periodista-yoani-s%C3%A1nchez-204551276.html"
-    }
-   ]
-  },
-  {
-   "id": "5c5a1d15b12aed22",
-   "title": "A los 74 años, falleció la exdiputada Patricia Walsh, hija del periodista desaparecido",
-   "link": "https://elcanciller.com/politica/a-los-74-anos--fallecio-la-exdiputada-patricia-walsh--hija-del-periodista-desaparecido_a6aecc2e98e10f3cae2f3da78",
-   "published": "2026-11-05T18:21:10+00:00",
-   "summary": "Había sido operada por una afección que devino en neumonía y la llevó a estar internada durante varios días. La hija del periodista desaparecido ...",
+   "id": "d5927ace77fc339e",
+   "title": "Cierra Papelera del Sur en Tornquist y unos 160 trabajadores quedan sin empleo",
+   "link": "https://dib.com.ar/economia/cierra-papelera-del-sur-tornquist-y-unos-160-trabajadores-quedan-empleo-n57098",
+   "published": "2026-11-05T18:50:52+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh · Diarios Bonaerenses · Últimas Noticias · Política · Economía ...",
    "source": "Google Alert: periodista desaparecido (ES)",
    "source_id": "alert_es_desaparecido",
    "language": "es",
@@ -1487,13 +2198,13 @@
    "also_reported_by": []
   },
   {
-   "id": "a8ea7aa0e5f7f132",
-   "title": "Florcita Polo termina en emergencia tras presunta agresión de su pareja Luiggi Yarasca",
-   "link": "https://larepublica.pe/espectaculos/2026/11/05/florcita-polo-termina-en-emergencia-tras-presunta-agresion-de-su-pareja-luiggi-yarasca-sufrio-fuerte-accidente-en-escaleras-433995",
-   "published": "2026-11-05T18:15:06+00:00",
-   "summary": "El periodista indicó que este segundo enfrentamiento habría terminado en un accidente con escaleras, aunque no recibió información precisa sobre ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
+   "id": "90d3b2846c5c3621",
+   "title": "Tras abandonar a LLA, un ex futbolista de River se sumó a Hechos - Agencia DIB",
+   "link": "https://dib.com.ar/politica/tras-abandonar-lla-un-ex-futbolista-river-se-sumo-hechos-n57090",
+   "published": "2026-11-05T18:26:09+00:00",
+   "summary": "Murió Patricia Walsh, la ex diputada e hija del periodista desaparecido Rodolfo Walsh. “Yo vengo del deporte, como decía. Para mí, no sé jugar de ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -1504,30 +2215,13 @@
    "also_reported_by": []
   },
   {
-   "id": "27c58def1c1255ed",
-   "title": "Majo Ulate y Mauricio Hoffmann piden que Diego Bravo pague estos millones por los daños ...",
-   "link": "https://www.lateja.cr/farandula/majo-ulate-y-mauricio-hoffmann-piden-que-diego/JXOEQZ4TZZHRNNJXH2YFSLR7AA/story/",
-   "published": "2026-11-05T18:09:15+00:00",
-   "summary": "A Diego Bravo se le acusa de 15 delitos de difamación e injurias contra Mauricio Hoffmann y Majo Ulate ... Juicio contra Diego Bravo tras demandado por ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "03348101d890aad0",
-   "title": "Susy Díaz recibe noticia sobre Florcita Polo tras presunta agresión | VIDEO - Perú 21",
-   "link": "https://peru21.pe/espectaculos/susy-diaz-recibe-noticia-sobre-florcita-polo-tras-presunta-agresion-video/",
-   "published": "2026-11-05T18:06:57+00:00",
-   "summary": "“Mientras nosotros estamos bailando, hay un drama en la familia de Susy Díaz, así que paremos la fiesta”, expresó la periodista antes de describir las ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
+   "id": "5c5a1d15b12aed22",
+   "title": "A los 74 años, falleció la exdiputada Patricia Walsh, hija del periodista desaparecido",
+   "link": "https://elcanciller.com/politica/a-los-74-anos--fallecio-la-exdiputada-patricia-walsh--hija-del-periodista-desaparecido_a6aecc2e98e10f3cae2f3da78",
+   "published": "2026-11-05T18:21:10+00:00",
+   "summary": "Había sido operada por una afección que devino en neumonía y la llevó a estar internada durante varios días. La hija del periodista desaparecido ...",
+   "source": "Google Alert: periodista desaparecido (ES)",
+   "source_id": "alert_es_desaparecido",
    "language": "es",
    "country": null,
    "category": "libertad_prensa",
@@ -1553,118 +2247,6 @@
    ],
    "tags": [],
    "also_reported_by": []
-  },
-  {
-   "id": "b672aa9b38370e98",
-   "title": "Sara Carbonero confiesa su mayor miedo y explica por qué le preocupa más la muerte ... - La Razón",
-   "link": "https://www.larazon.es/television/programas/sara-carbonero-confiesa-mayor-miedo-explica-que-preocupa-mas-muerte-que-envejecer_202611056aec42199a31a65adcd06307.html",
-   "published": "2026-11-05T17:58:25+00:00",
-   "summary": "Archivada querella Conde Pumpido · UCO Ábalos · Juez Adamuz · Andrea de la ... La periodista, quien recientemente ha sufrido la pérdida de su madre ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "32dad3fd5e02c291",
-   "title": "Juicio Diego Bravo: Esto pidió el abogado de Majo Ulate y Mauricio Hoffmann al acusarlo ... - La Teja",
-   "link": "https://www.lateja.cr/farandula/juicio-diego-bravo-esto-pidio-el-abogado-de-majo/VIIYJAB2MVDJ3I3JY732H2NLAI/story/",
-   "published": "2026-11-05T17:35:01+00:00",
-   "summary": "Juicio contra Diego Bravo tras demandado por Mauricio Hoffmann y Major Ulate por 15 delitos de difamación e injurias. ... querella. Según detalló ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "40139151caac92f4",
-   "title": "Dura sanción a una jugadora de la Liga F - Mundo Deportivo",
-   "link": "https://www.mundodeportivo.com/futbol/femenino/20261105/1004247657/dura-sancion-jugadora-liga-f.html",
-   "published": "2026-11-05T17:32:19+00:00",
-   "summary": "Gema Climent (Valencia) ha sido castigada con 6 partidos de sanción por su agresión el pasado fin de semana a Carla Andrés durante el encuentro ...",
-   "source": "Google Alert: periodista agredido/atacado (ES)",
-   "source_id": "alert_es_agredido",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "9ba2a4ea9f696383",
-   "title": "La curiosa predicción que El Gran Wyoming hizo sobre el futuro de Gonzo, su recién ... - La Razón",
-   "link": "https://www.larazon.es/television/curiosa-prediccion-que-gran-wyoming-hizo-futuro-gonzo-recien-nombrado-sucesor-cuando-conocieron-intermedio-vas-durar-ano-que-duran-todos-b50m_202611056aecbc109a31a65adcd1113a.html?outputType=amp",
-   "published": "2026-11-05T17:31:28+00:00",
-   "summary": "El periodista regresará al programa en enero para ocupar el puesto de ... Elecciones 29N directoArchivada querella Conde PumpidoUCO Ábalos ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-     "link": "https://www.larazon.es/television/curiosa-prediccion-que-gran-wyoming-hizo-futuro-gonzo-recien-nombrado-sucesor-cuando-conocieron-intermedio-vas-durar-ano-que-duran-todos-b50m_202611056aecbc109a31a65adcd1113a.html"
-    }
-   ]
-  },
-  {
-   "id": "51082d002d386833",
-   "title": "Roban 26 cajas de fibra óptica en un día y provocan cortes de internet.",
-   "link": "https://www.canal9.cl/episodios/2026/11/05/se-disparan-cortes-de-internet-por-ladrones-de-cajas-de-fibra-optica-se-llevaron-26-en-un-solo-dia",
-   "published": "2026-11-05T17:28:59+00:00",
-   "summary": "... querella criminal presentada ante el Juzgado de Garantía de Santiago por la [ ... Primero, el periodista realizó una investigación preliminar ...",
-   "source": "Google Alert: demanda/persecución legal contra periodista (ES)",
-   "source_id": "alert_es_demanda",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ebe99e91c37f06da",
-   "title": "Cuban state security detains award-winning journalist Yoani Sánchez in Havana",
-   "link": "https://www.miamiherald.com/news/nation-world/world/americas/cuba/article317942457.html",
-   "published": "2026-11-05T17:26:24+00:00",
-   "summary": "Cuban State Security agents detained Yoani Sánchez, the award-winning founder and director of the independent news outlet 14ymedio, in Havana on ...",
-   "source": "Google Alert: journalist detained/arrested (EN)",
-   "source_id": "alert_en_detained",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist detained/arrested (EN)",
-     "link": "https://www.latintimes.com/cuba-detains-journalist-yoani-sanchez-havana-600946"
-    }
-   ]
   },
   {
    "id": "c58735c0abb101b9",
@@ -1734,16 +2316,20 @@
    "tags": [],
    "also_reported_by": [
     {
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://eldia.com.bo/2026-11-05/internacional/detienen-en-cuba-a-la-periodista-independiente-yoani-sanchez.html"
+    },
+    {
      "source": "Google Alert: censura a periodistas (ES)",
-     "link": "https://www.elimpulso.com/2026/11/05/detienen-en-cuba-a-la-periodista-independiente-yoani-sanchez-cuando-salia-de-su-vivienda-en-la-habana-5nov/"
+     "link": "https://eldia.com.bo/2026-11-05/internacional/detienen-en-cuba-a-la-periodista-independiente-yoani-sanchez.html"
     },
     {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://radioyskl.com/detenida-en-cuba-la-periodista-independiente-yoani-sanchez/"
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://ovaciones.com/noticias/internacional/detencion-de-yoani-sanchez-periodista-independiente-en-la-habana/1014462"
     },
     {
-     "source": "Google Alert: periodista detenido/a (ES)",
-     "link": "https://fmcentenario989.com.ar/2026/11/05/la-periodista-cubana-independiente-yoani-sanchez-fue-detenida-al-salir-de-su-casa-en-la-habana/"
+     "source": "Google Alert: periodista secuestrado/a (ES)",
+     "link": "https://www.elnacional.com/2026/11/detienen-en-cuba-a-la-periodista-independiente-yoani-sanchez/"
     }
    ]
   },
@@ -1799,23 +2385,6 @@
    "also_reported_by": []
   },
   {
-   "id": "730109d1e81c5059",
-   "title": "CRIMINALES: Pactaron la compra de una moto y cuando el dueño llegó lo acribillaron",
-   "link": "https://afondoedomex.com/criminales-pactaron-la-compra-de-una-moto-y-cuando-el-dueno-llego-lo-acribillaron/",
-   "published": "2026-11-05T16:08:41+00:00",
-   "summary": "Autor Raúl Hernández Reportero Afondo. Más notas de Raúl Hernández. Un hombre murió tras ser atacado a balazos por sujetos armados, presuntamente ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "aab6a15dbbf830b1",
    "title": "¡Se caliente y lo pica! Hombre muere apuñalado en la Lagunilla, luego de una riña con otro sujeto",
    "link": "https://www.elgrafico.mx/la-roja/2026/11/05/se-caliente-y-lo-pica-hombre-muere-apunalado-en-la-lagunilla-luego-de-una-rina-con-otro-sujeto/?outputType=amp",
@@ -1850,40 +2419,6 @@
    "also_reported_by": []
   },
   {
-   "id": "805bb58c5c9390d0",
-   "title": "Khadija Amin encabeza ciclo 'Voces desde la frontera' en Fuerteventura - Vivir Ediciones",
-   "link": "https://vivirediciones.es/khadija-amin-voces-desde-la-frontera-fuerteventura/",
-   "published": "2026-11-05T14:10:40+00:00",
-   "summary": "Khadija Amin, periodista afgana, habla de exilio y derechos de las mujeres el 9 de noviembre en Fuerteventura. Ciclo 'Voces desde la frontera' del ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "0e3a95ebedfef2c5",
-   "title": "La exposición sobre libros del exilio español en México abre sus puertas en el Instituto ...",
-   "link": "https://www.cronicasdelaemigracion.com/cronicas/exposicion-libros-exilio-espanol-mexico-abre-puertas-instituto-cervantes-mas-150-publicaciones/20261105150445133611.html",
-   "published": "2026-11-05T14:05:17+00:00",
-   "summary": "Libros del exilio español y diálogos de ultramar', que reúne más de 150 obras de autores refugiados en tierras mexicanas tras la Guerra Civil, entre ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "43034acc0ff50d36",
    "title": "New Study Identifies Key Conservation Areas That Could Prevent the Extinction of Latin ...",
    "link": "https://abcbirds.org/news/gap-analysis-study/",
@@ -1891,23 +2426,6 @@
    "summary": "A new study from researchers at American Bird Conservancy (ABC) assessing habitat protections for Latin America's most threatened bird species ...",
    "source": "Google Alert: journalist threatened/harassed (EN)",
    "source_id": "alert_en_threatened",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "964a3105c3f6ff64",
-   "title": "Four people, including a child, killed in Israeli attacks on Gaza | News - Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza",
-   "published": "2026-11-05T13:19:05+00:00",
-   "summary": "Latin America · US & Canada · News. Four people, including a child, killed ... Network calls move 'assault' on press freedom, warns of 'dangerous ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
    "language": "en",
    "country": null,
    "category": "libertad_prensa",
@@ -1935,269 +2453,14 @@
    "also_reported_by": []
   },
   {
-   "id": "1546feda29ce6b35",
-   "title": "266 attacks against Filipino journalists documented under Marcos Jr. | Davao Today",
-   "link": "https://davaotoday.com/human-rights/266-attacks-against-filipino-journalists-documented-under-marcos-jr/",
-   "published": "2026-11-05T12:58:53+00:00",
-   "summary": "The UJP-UP called for collective action to defend press freedom, saying ... Us |Contact Us.",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
+   "id": "d2c2c6e7211efd09",
+   "title": "FAJ, UNECA eager to deepen media engagement on Africa's development priorities - IFJ",
+   "link": "https://www.ifj.org/supporting-public-interest-journalism-in-palestine-grants-for-media?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=24354&tx_news_pi1%5BoverwriteDemand%5D%5Bcategories%5D=43&cHash=9300ea418e9ddb411a0081c5a8b0f9c3",
+   "published": "2026-11-05T09:49:45+00:00",
+   "summary": "... censorship have pushed African journalism into crisis. 29 Oct 2026 ... Latin America · Middle East · Media centre · News · Related websites · EFJ · FIP ...",
+   "source": "Google Alert: journalist censored / media censorship (EN)",
+   "source_id": "alert_en_censorship",
    "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "000cedfeec0e850e",
-   "title": "El exilio de la toga | Visión 360",
-   "link": "https://www.vision360.bo/noticias/2026/11/05/75792-el-exilio-de-la-toga",
-   "published": "2026-11-05T12:55:23+00:00",
-   "summary": "La salida anunciada de Romer Saucedo, entonces presidente del Tribunal Supremo de Justicia, constituye un episodio relevante para comprender la ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "41a5f5e47df965dd",
-   "title": "Las maletas del exilio: periodistas centroamericanos que resisten contando sus países",
-   "link": "https://revistaespejo.com/2026/11/05/las-maletas-del-exilio-periodistas-centroamericanos-que-resisten-contando-sus-paises/",
-   "published": "2026-11-05T12:45:15+00:00",
-   "summary": "“Carolina Amaya es una periodista salvadoreña. Es fundadora y directora de Mala Yerba, medio especializado en la crisis climática y el medio ambiente, ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "cae7e7d18bde5e6d",
-   "title": "Khadija Amin, la periodista que escapó de los talibanes, habla en Las Palmas",
-   "link": "https://www.canariasenpleno.com/khadija-amin-voces-frontera/",
-   "published": "2026-11-05T12:38:05+00:00",
-   "summary": "... periodista y activista a miles de kilómetros de su país. Exilio y palabra. En 2026, junto a la periodista colombiana Andrea Aldana, perseguida por ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "ae2315c36a71e48b",
-   "title": "BTS cleared of plagiarism accusations in the US - Lao Dong Newspaper",
-   "link": "https://news.laodong.vn/giai-tri/bts-duoc-minh-oan-khoi-cao-buoc-dao-nhac-tai-my-1795141.ldo",
-   "published": "2026-11-05T12:35:13+00:00",
-   "summary": "The lawsuit accusing BTS of copying an unreleased demo to produce the song \"Swim\" in the US officially closed after all three plaintiffs...",
-   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
-   "source_id": "alert_en_legal",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "46a9373f67601533",
-   "title": "La periodista afgana Khadija Amin visita el lunes 9 de noviembre 'Voces desde la frontera'",
-   "link": "https://www.cabildofuer.es/cabildo/periodista-afgana-khadija-amin-voces-frontera/",
-   "published": "2026-11-05T12:31:25+00:00",
-   "summary": "En 2026 junto a la periodista colombiana Andrea Aldana, perseguida por enfrentarse a los poderes fácticos de su país, ha protagonizado Exilio y ...",
-   "source": "Google Alert: periodista exiliado (ES)",
-   "source_id": "alert_es_exilio",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "aa72c719a9cccc3b",
-   "title": "Atacan a balazos a otro policía activo de Mazatlán; es el segundo elemento agredido en noviembre",
-   "link": "https://www.debate.com.mx/sinaloa/policiaca/atacan-a-balazos-a-otro-policia-activo-de-mazatlan-es-el-segundo-elemento-agredido-en-noviembre-20261104-0149.html",
-   "published": "2026-11-05T10:33:21+00:00",
-   "summary": "Un elemento activo de la Secretaría de Seguridad Pública Municipal de Mazatlán fue atacado ... reportero digital en Reacción Informativa. Su vocación de ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7ae01b67935a256a",
-   "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead",
-   "link": "https://www.the-journal.com/articles/associated-press/canadian-authorities-say-multiple-grizzlies-may-have-attacked-mother-and-daughter-found-dead/",
-   "published": "2026-11-05T09:56:45+00:00",
-   "summary": "More than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead in Bella Coola along the ...",
-   "source": "Google Alert: journalist attacked/assaulted (EN)",
-   "source_id": "alert_en_attacked",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "aa9b50252b29aa45",
-   "title": "Melani Martínez cuestiona a Karla Tarazona por su disfraz y habla de “un poquito de dignidad”",
-   "link": "https://www.infobae.com/video/entretenimiento/melani-martinez-cuestiona-a-karla-tarazona-por-su-disfraz-y-habla-de-un-poquito-de-dignidad-por-que-se-expone-tanto/i5tUOubG/",
-   "published": "2026-11-05T09:53:16+00:00",
-   "summary": "La expareja de Christian Domínguez reaccionó al atuendo de la conductora y consideró innecesario volver a poner en el centro de la conversación ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "2413e6acfe2fc8ed",
-   "title": "Bosch wins litigation costs as Shanghai court upholds malicious-lawsuit finding | MLex",
-   "link": "https://www.mlex.com/mlex/articles/2546582/bosch-wins-litigation-costs-as-shanghai-court-upholds-malicious-lawsuit-finding",
-   "published": "2026-11-05T09:50:47+00:00",
-   "summary": "Bosch wins litigation costs as Shanghai court upholds malicious-lawsuit finding ... Predictive analysis from expert journalists across North America, ...",
-   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
-   "source_id": "alert_en_legal",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "640f2b2067b80aa2",
-   "title": "Activist Sonam Wangchuk questions notice to school run by his organisationin Leh",
-   "link": "https://www.bignewsnetwork.com/news/279411898/activist-sonam-wangchuk-questions-notice-to-school-run-by-his-organisationin-leh",
-   "published": "2026-11-05T09:00:17+00:00",
-   "summary": "... Press Freedom Index. Let's hope that the media houses that carried the ... Latin America News · Middle East News · Mediterranean News · North ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "7604f25761756a26",
-   "title": "Florcita habría sido agredida por Luigi Yarasca y llevada a una clínica, informa Magaly Medina",
-   "link": "https://www.infobae.com/video/entretenimiento/florcita-habria-sido-agredida-por-luigi-yarasca-y-llevada-a-una-clinica-informa-magaly-medina/JwjL0Ree/",
-   "published": "2026-11-05T08:33:13+00:00",
-   "summary": "La periodista reveló que la familia de la hija de Susy Díaz le comunicó sobre una presunta agresión. Horas antes, la modelo habría protagonizado ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "122b958744a086ce",
-   "title": "The Czech government's new culture war shows the Maga spirit is still alive in Europe",
-   "link": "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe",
-   "published": "2026-11-05T08:29:34+00:00",
-   "summary": "... attack against a Roma family. Police shelved the case in July ... Press freedom · Arts funding · Arts policy · comment. Share. Reuse this content ...",
-   "source": "Google Alert: press freedom attack (EN)",
-   "source_id": "alert_en_press_freedom",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "abaac00f4577fd24",
-   "title": "Reportero gráfico denuncia que un patrullero lo chuzó en Usme",
-   "link": "https://www.alerta.com.co/judicial/el-reportero-nicolas-sanchez-denuncia-que-fue-agredido-por-policia-es-usme-72413",
-   "published": "2026-11-05T08:13:05+00:00",
-   "summary": "El joven se encontraba cubriendo las manifestaciones cuando fue agredido por el uniformado.",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "4d43f7b07d8a9a07",
-   "title": "Florcita Polo terminó en emergencia tras segundo enfrentamiento con Luiggi Yarasca - Infobae",
-   "link": "https://www.infobae.com/peru/2026/11/05/florcita-polo-termino-en-emergencia-tras-segundo-enfrentamiento-con-luiggi-yarasca-reportero-revelo-que-habria-sufrido-accidente-con-escaleras/",
-   "published": "2026-11-05T07:45:09+00:00",
-   "summary": "La información fue revelada por el reportero de Magaly Medina, quien llegó hasta el centro médico para conocer el estado de Florcita y recoger ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "c519ce59335b4e6b",
-   "title": "Florcita Polo fue atendida en una clínica tras nuevo incidente con Luigi Yarasca - Infobae",
-   "link": "https://www.infobae.com/video/entretenimiento/florcita-polo-fue-atendida-en-una-clinica-tras-nuevo-incidente-con-luigi-yarasca-reportero-conto-que-habria-pasado-en-su-casa/CCKPoCHW/",
-   "published": "2026-11-05T07:29:35+00:00",
-   "summary": "Reportero de Magaly Medina encontró a Florcita Polo en una clínica de Surquillo tras incidente que involucraría escaleras.",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
    "country": null,
    "category": "libertad_prensa",
    "topics": [
@@ -2214,152 +2477,6 @@
    "summary": "... defamation trial at the East Jakarta District Court in Jakarta ... A still-recovering pope will head home to Latin America and his beloved Peru for.",
    "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "source_id": "alert_en_legal",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "305ed66ac103ab3c",
-   "title": "'El asesinato de Cristian es una derrota para el periodismo' - Alerta",
-   "link": "https://amp.alerta.com.co/judicial/asesinato-periodista-cucuta-cristian-herrera-244005",
-   "published": "2026-11-05T06:22:37+00:00",
-   "summary": "El comunicador social asesinado el pasado sábado en Cúcuta trabajó por varios años en el diario regional. Cristian Herrera, periodista asesinado ...",
-   "source": "Google Alert: periodista asesinado/a (ES)",
-   "source_id": "alert_es_asesinado",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "92971eed09ea48b1",
-   "title": "Bakersfield police searching for man who threatened GET bus passenger with machete",
-   "link": "https://www.kget.com/news/crime-watch/bakersfield-police-searching-for-man-who-threatened-get-bus-passenger-with-machete/",
-   "published": "2026-11-05T06:22:28+00:00",
-   "summary": "A still-recovering pope will head home to Latin America … World News ... reporters at the Legislative Council building · Iranians celebrate ...",
-   "source": "Google Alert: journalist threatened/harassed (EN)",
-   "source_id": "alert_en_threatened",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "6daffa5df32a3e41",
-   "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
-   "link": "https://www.krqe.com/news/world/ap-a-still-recovering-pope-will-head-home-to-latin-america-and-his-beloved-peru-for-a-12-day-trip/",
-   "published": "2026-11-05T05:18:48+00:00",
-   "summary": "... lawsuit over crash … New Mexico's Governor-elect makes first public ... Journalistic Integrity · Sitemap; Your Privacy Choices CCPA Privacy Icon ...",
-   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
-   "source_id": "alert_en_legal",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist attacked/assaulted (EN)",
-     "link": "http://www.livingstonenterprise.net/stories/a-still-recovering-pope-will-head-home-to-latin-america-and-his-beloved-peru-for-a-12-day-trip,355538"
-    }
-   ]
-  },
-  {
-   "id": "1423d66a008aae43",
-   "title": "Indian court sends ULTRACON trademark suit to arbitration in Singapore | MLex",
-   "link": "https://www.mlex.com/mlex/articles/2546220/indian-court-sends-ultracon-trademark-suit-to-arbitration-in-singapore",
-   "published": "2026-11-05T04:58:28+00:00",
-   "summary": "The Delhi High Court has referred Singapore-based Utracon Corporation's trademark lawsuit ... Predictive analysis from expert journalists across North ...",
-   "source": "Google Alert: journalist legal harassment / SLAPP (EN)",
-   "source_id": "alert_en_legal",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "a1630049a7b43d7b",
-   "title": "Flor Polo habría sido agredida tras altercado con su pareja Luiggi Yarasca - Karibeña",
-   "link": "https://karibena.pe/espectaculos/flor-polo-habria-sido-agredida-tras-altercado-su-pareja-luiggi-yarasca-fue-trasladada-una-clinica-n39451",
-   "published": "2026-11-05T04:58:25+00:00",
-   "summary": "Asimismo, llamó la atención la versión que Luiggi habría dado a los empleados, pues afirmó que Florcita lo habría agredido. Renato Rossini Jr ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "3e32c77bdabaeabe",
-   "title": "YSRCP alleges polling-day violence and obstruction during ZPTC, MPTC elections in ...",
-   "link": "https://www.devdiscourse.com/article/headlines/4001743-ysrcp-alleges-polling-day-violence-and-obstruction-during-zptc-mptc-elections-in-andhra-pradesh",
-   "published": "2026-11-05T04:38:14+00:00",
-   "summary": "YSRCP alleged incidents of violence, threats, obstruction of voters and polling agents, and an attack on a journalist during the ZPTC and MPTC ...",
-   "source": "Google Alert: journalist attacked/assaulted (EN)",
-   "source_id": "alert_en_attacked",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist attacked/assaulted (EN)",
-     "link": "https://www.bignewsnetwork.com/news/279412001/ysrcp-alleges-polling-day-violence-and-obstruction-during-zptc-mptc-elections-in-andhra-pradesh"
-    }
-   ]
-  },
-  {
-   "id": "20d7f9bc86b040bc",
-   "title": "Miranda: Angie Melissa Briches Ramírez murió tras ser atacada salvajemente con arma blanca",
-   "link": "https://www.elpais.com.co/judicial/brutal-crimen-de-una-joven-de-28-anos-conmociona-al-norte-del-cauca-le-provocaron-37-heridas-con-arma-blanca-0449.html",
-   "published": "2026-11-05T01:47:06+00:00",
-   "summary": "... atacada brutalmente con un arma blanca en zona rural ... Además, soy reportero judicial en una de las regiones más hermosas del mundo, el Cauca.",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "c97e8ceb01acd0bd",
-   "title": "Union Pacific must release CEO's speech on merger opponents, US rail board says | MLex",
-   "link": "https://www.mlex.com/mlex/articles/2546534/union-pacific-must-release-ceo-s-speech-on-merger-opponents-us-rail-board-says",
-   "published": "2026-11-05T01:04:05+00:00",
-   "summary": "... threatened to hike rates for shippers opposed to his acquisition of Norfolk Southern ... Predictive analysis from expert journalists across North ...",
-   "source": "Google Alert: journalist threatened/harassed (EN)",
-   "source_id": "alert_en_threatened",
    "language": "en",
    "country": null,
    "category": "libertad_prensa",
@@ -2387,57 +2504,6 @@
    "also_reported_by": []
   },
   {
-   "id": "66fa8ea9673f661b",
-   "title": "Apuñalan a hombre afuera del mercado de La Lagunilla; intenta pedir ayuda, pero muere ...",
-   "link": "https://www.eluniversal.com.mx/metropoli/apunalan-a-hombre-afuera-del-mercado-de-la-lagunilla-intenta-pedir-ayuda-pero-muere-entre-los-puestos-instalados/?outputType=amp",
-   "published": "2026-11-05T00:48:23+00:00",
-   "summary": "Reportero de la sección MetrópoliVer perfil. Un hombre de entre 30 y 35 años murió tras ser atacado con un arma punzocortante en varias ocasiones ...",
-   "source": "Google Alert: reportero/a agredido/a (ES, variante)",
-   "source_id": "alert_es_reportero",
-   "language": "es",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "0d27ed8f7c61b999",
-   "title": "Palestine: At least 200 journalists and media workers killed in Gaza - IFJ",
-   "link": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/palestine-at-least-200-journalists-and-media-workers-killed-in-gaza",
-   "published": "2026-11-05T00:28:10+00:00",
-   "summary": "Latin America · Middle East · North America · Rules and Policy · IFJ ... He was the fifth journalist killed as a result of the mentioned strike.",
-   "source": "Google Alert: journalist killed (EN)",
-   "source_id": "alert_en_killed",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "8a99970f69b0852d",
-   "title": "Chloe Mitchell: Brandon Rainey in court accused of 2023 murder - BBC",
-   "link": "https://www.bbc.com/news/articles/cwy7lz500glko",
-   "published": "2026-11-04T23:42:09+00:00",
-   "summary": "This article contains details that some may find distressing. The man accused of killing Chloe Mitchell murdered her at his house before ...",
-   "source": "Google Alert: journalist murdered / reporter killed (EN)",
-   "source_id": "alert_en_murdered",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
    "id": "710cabca7c475cef",
    "title": "Brazil’s most infamous banker had a direct line to top news editors",
    "link": "https://latamjournalismreview.org/articles/brazils-most-infamous-banker-had-a-direct-line-to-top-news-editors/",
@@ -2457,16 +2523,7 @@
     "Violence against journalists",
     "Brazil"
    ],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist threatened/harassed (EN)",
-     "link": "https://latamjournalismreview.org/articles/brazils-most-infamous-banker-had-a-direct-line-to-top-news-editors/"
-    },
-    {
-     "source": "Google Alert: journalist exiled (EN)",
-     "link": "https://latamjournalismreview.org/articles/brazils-most-infamous-banker-had-a-direct-line-to-top-news-editors/"
-    }
-   ]
+   "also_reported_by": []
   },
   {
    "id": "96e774b93c82eb6b",
@@ -2485,23 +2542,6 @@
    "tags": [
     "Comunicados"
    ],
-   "also_reported_by": []
-  },
-  {
-   "id": "43cbd1cedfe71a10",
-   "title": "How haunted is City College? An investigation",
-   "link": "https://www.thecityreporter.nyc/newsletter/how-haunted-is-city-college-an-investigation/",
-   "published": "2026-11-04T23:26:20+00:00",
-   "summary": "... Reporter Credit: Ben Fractenberg/The City Reporter. Dear New ... threatened” scholars from Latin America and the Caribbean. The funding ...",
-   "source": "Google Alert: journalist threatened/harassed (EN)",
-   "source_id": "alert_en_threatened",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
    "also_reported_by": []
   },
   {
@@ -2623,28 +2663,6 @@
     "Colombia",
     "Investigative journalism"
    ],
-   "also_reported_by": [
-    {
-     "source": "Google Alert: journalist exiled (EN)",
-     "link": "https://latamjournalismreview.org/articles/daniel-coronell-investigative-reporter-wins-cabot-prize-for-holding-power-to-account-in-colombia-and-contributing-to-spanish-language-journalism-in-the-u-s/"
-    }
-   ]
-  },
-  {
-   "id": "03e17f5987e2eda1",
-   "title": "Truth under the rubble: media in the time of genocide - Big News Network.com",
-   "link": "https://www.bignewsnetwork.com/news/279410248/truth-under-the-rubble-media-in-the-time-of-genocide",
-   "published": "2026-11-04T17:36:38+00:00",
-   "summary": "... journalist killed while filing for the ABC from Gaza, held a Hamas ID ... Latin America News · Middle East News · Mediterranean News · North Africa ...",
-   "source": "Google Alert: journalist killed (EN)",
-   "source_id": "alert_en_killed",
-   "language": "en",
-   "country": null,
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
    "also_reported_by": []
   },
   {
@@ -2676,23 +2694,6 @@
    "source_id": "free_press_action",
    "language": "en",
    "country": "United States",
-   "category": "libertad_prensa",
-   "topics": [
-    "libertad_prensa"
-   ],
-   "tags": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "78705a8852e877f6",
-   "title": "MEDIOS – Régimen | Buscan a Martín Licata, periodista desaparecido desde el sábado 17.",
-   "link": "https://noticias.tvmundus.com.ar/argentina/medios-regimen-buscan-a-martin-licata-periodista-desaparecido-desde-el-sabado-17/",
-   "published": "2026-11-03T23:30:30+00:00",
-   "summary": "MEDIOS – Régimen | Buscan a Martín Licata, periodista desaparecido desde el sábado 17. Redaccion Nov 21, 2018 0 · martin_licata.jpg_247837426 BUENOS ...",
-   "source": "Google Alert: periodista desaparecido (ES)",
-   "source_id": "alert_es_desaparecido",
-   "language": "es",
-   "country": null,
    "category": "libertad_prensa",
    "topics": [
     "libertad_prensa"
