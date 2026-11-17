@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-16T19:35:56.558462+00:00",
+ "last_run": "2026-11-17T03:52:12.400209+00:00",
  "sources": [
   {
    "id": "cpj_americas_en",
@@ -131,7 +131,7 @@
    "id": "alert_en_attacked",
    "name": "Google Alert: journalist attacked/assaulted (EN)",
    "ok": true,
-   "items_fetched": 3,
+   "items_fetched": 2,
    "error": null
   },
   {
@@ -159,7 +159,7 @@
    "id": "alert_en_press_freedom",
    "name": "Google Alert: press freedom attack (EN)",
    "ok": true,
-   "items_fetched": 9,
+   "items_fetched": 10,
    "error": null
   },
   {
@@ -173,7 +173,7 @@
    "id": "alert_en_legal",
    "name": "Google Alert: journalist legal harassment / SLAPP (EN)",
    "ok": true,
-   "items_fetched": 4,
+   "items_fetched": 8,
    "error": null
   },
   {
@@ -222,7 +222,7 @@
    "id": "alert_es_desaparecido",
    "name": "Google Alert: periodista desaparecido (ES)",
    "ok": true,
-   "items_fetched": 1,
+   "items_fetched": 0,
    "error": null
   },
   {
@@ -250,7 +250,7 @@
    "id": "alert_es_reportero",
    "name": "Google Alert: reportero/a agredido/a (ES, variante)",
    "ok": true,
-   "items_fetched": 14,
+   "items_fetched": 15,
    "error": null
   },
   {
@@ -277,9 +277,9 @@
   {
    "id": "ipys",
    "name": "IPYS – Instituto Prensa y Sociedad",
-   "ok": false,
-   "items_fetched": 0,
-   "error": "HTTPSConnectionPool(host='ipys.org', port=443): Read timed out. (read timeout=15)"
+   "ok": true,
+   "items_fetched": 10,
+   "error": null
   },
   {
    "id": "sntp_venezuela",
@@ -334,15 +334,15 @@
    "id": "confidencial_ni",
    "name": "Confidencial (Nicaragua, en el exilio)",
    "ok": true,
-   "items_fetched": 0,
+   "items_fetched": 1,
    "error": null
   },
   {
    "id": "elfaro_sv",
    "name": "El Faro (El Salvador, en el exilio)",
-   "ok": false,
-   "items_fetched": 0,
-   "error": "HTTPSConnectionPool(host='beta.elfaro.net', port=443): Read timed out. (read timeout=15)"
+   "ok": true,
+   "items_fetched": 2,
+   "error": null
   }
  ]
 }
