@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:18:13.598743+00:00",
+ "generated_at": "2026-11-20T17:47:29.481906+00:00",
  "opportunities": [
   {
    "id": "gijn_jobs",
@@ -210,19 +210,35 @@
    "verified": "2026-08-16"
   },
   {
-   "id": "d6bc77ebb6f76161",
-   "name": "Human-Scale AI: Call for Proposals",
+   "id": "75c706fe9472f4ee",
+   "name": "Together in Purpose Open Call",
    "org": null,
-   "url": "https://gfmd.info/fundings/human-scale-ai-call-for-proposals/",
+   "url": "https://gfmd.info/fundings/together-in-purpose-open-call/",
+   "url_es": null,
+   "kind": "fondo",
+   "language": "en",
+   "region": "USA",
+   "deadline": "2027-01-14",
+   "deadline_note": null,
+   "summary": "Together in Purpose is a USD $26 million open call celebrates locally rooted, community-led collaborations that bring people together around a shared purpose and help communities remain connected, participatory, resilient, and vibrant. Together in Purpose will award up to 40 flexible grants rangi...",
+   "origin": "rss",
+   "published": "2026-11-20T12:49:43+00:00",
+   "verified": null
+  },
+  {
+   "id": "5353547334f5c5d5",
+   "name": "RSF Berlin Fellowship Program",
+   "org": null,
+   "url": "https://gfmd.info/fundings/rsf-berlin-fellowship-program/",
    "url_es": null,
    "kind": "fondo",
    "language": "en",
    "region": "Global",
-   "deadline": "2026-11-20",
-   "deadline_note": null,
-   "summary": "Mozilla Foundation is seeking seven projects that put Human-Scale AI into practice: bespoke, fit-for-purpose technology designed at the scale of the problem it’s meant to solve. These projects will directly address the anxieties that regular people have about the largest AI systems: their resourc...",
+   "deadline": null,
+   "deadline_note": "Fecha límite en la convocatoria",
+   "summary": "Reporters Without Borders (RSF) Germany will once again invite journalists from countries with restricted freedom of press and information to Berlin for their annual fellowship program. The RSF Fellowship Program is designed to provide a safe space for journalists: Fellows will be able to take ti...",
    "origin": "rss",
-   "published": "2026-11-04T12:07:11+00:00",
+   "published": "2026-11-20T12:29:52+00:00",
    "verified": null
   },
   {
